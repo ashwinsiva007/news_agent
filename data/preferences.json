@@ -2,7 +2,7 @@
   "topic_weights": {
     "AI Models & Releases": 1.1,
     "India AI & DPI": 1.25,
-    "Semiconductors & Hardware": 1.47,
+    "Semiconductors & Hardware": 1.55,
     "Robotics & Automation": 1.0,
     "AI Safety & Governance": 1.0,
     "Research Breakthroughs": 1.15,
@@ -32,6 +32,13 @@
     },
     {
       "timestamp": "2026-09-13T20:15:18.716118",
+      "headline": "New Fab in Dholera",
+      "category": "Semiconductors & Hardware",
+      "feedback": "useful",
+      "url": ""
+    },
+    {
+      "timestamp": "2026-09-13T20:32:29.210665",
       "headline": "New Fab in Dholera",
       "category": "Semiconductors & Hardware",
       "feedback": "useful",

@@ -1,6 +1,7 @@
 """
 AI Morning Brief - Streamlit Web Dashboard
 A daily India-focused AI and technology intelligence briefing dashboard.
+Optimized for Desktop and Mobile screens.
 """
 import os
 import json
@@ -23,164 +24,157 @@ st.set_page_config(
     page_title="AI Morning Brief | India Tech Intelligence",
     page_icon="🌅",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
 
-# Custom Styling (Vanilla CSS with rich aesthetics)
-st.markdown("""
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
-    
-    html, body, [class*="css"] {
-        font-family: 'Plus Jakarta Sans', sans-serif;
-    }
-    
-    .main-header {
-        background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        border-radius: 16px;
-        padding: 24px 30px;
-        margin-bottom: 24px;
-        box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.2);
-    }
-    
-    .brand-title {
-        font-size: 2.2rem;
-        font-weight: 800;
-        background: linear-gradient(90deg, #38bdf8, #818cf8, #c084fc);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        margin: 0;
-        line-height: 1.2;
-    }
-    
-    .brand-subtitle {
-        color: #94a3b8;
-        font-size: 1.05rem;
-        font-weight: 500;
-        margin-top: 6px;
-        margin-bottom: 0;
-    }
-    
-    .metric-chip-container {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 12px;
-        margin-top: 18px;
-    }
-    
-    .metric-chip {
-        background: rgba(255, 255, 255, 0.06);
-        border: 1px solid rgba(255, 255, 255, 0.12);
-        padding: 6px 14px;
-        border-radius: 30px;
-        font-size: 0.85rem;
-        font-weight: 600;
-        color: #e2e8f0;
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-    }
-    
-    .metric-chip.success {
-        border-color: rgba(52, 211, 153, 0.4);
-        background: rgba(16, 185, 129, 0.1);
-        color: #34d399;
-    }
+# Custom Styling (Vanilla CSS with rich aesthetics & mobile responsiveness)
+st.markdown("""<style>
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
 
-    .story-card {
-        background: rgba(30, 41, 59, 0.7);
-        border: 1px solid rgba(255, 255, 255, 0.08);
-        border-radius: 14px;
-        padding: 20px 24px;
-        margin-bottom: 18px;
-        transition: transform 0.2s ease, border-color 0.2s ease;
+html, body, [class*="css"] {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Header Container */
+.main-header {
+    background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 16px;
+    padding: 20px 24px;
+    margin-bottom: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+}
+
+.brand-title {
+    font-size: 1.9rem;
+    font-weight: 800;
+    background: linear-gradient(90deg, #38bdf8, #818cf8, #c084fc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+    line-height: 1.25;
+}
+
+.brand-subtitle {
+    color: #94a3b8;
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-top: 6px;
+    margin-bottom: 0;
+}
+
+.metric-chip-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 14px;
+}
+
+.metric-chip {
+    background: rgba(255, 255, 255, 0.07);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #e2e8f0;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.metric-chip.success {
+    border-color: rgba(52, 211, 153, 0.4);
+    background: rgba(16, 185, 129, 0.12);
+    color: #34d399;
+}
+
+/* Card Styling */
+.card-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.rank-badge {
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+    color: #ffffff !important;
+    font-size: 0.78rem;
+    font-weight: 800;
+    padding: 3px 10px;
+    border-radius: 8px;
+    letter-spacing: 0.5px;
+    display: inline-block;
+}
+
+.status-badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background: rgba(56, 189, 248, 0.12);
+    color: #38bdf8;
+    border: 1px solid rgba(56, 189, 248, 0.3);
+    display: inline-block;
+}
+
+.story-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #f8fafc;
+    margin: 6px 0 8px 0;
+    line-height: 1.35;
+}
+
+.story-body {
+    font-size: 0.95rem;
+    color: #cbd5e1;
+    line-height: 1.5;
+    margin-bottom: 12px;
+}
+
+.meta-tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+.meta-tag {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-size: 0.78rem;
+    color: #94a3b8;
+}
+
+/* Streamlit button customizations for mobile */
+div.stButton > button {
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+    .brand-title {
+        font-size: 1.5rem;
     }
-    
-    .story-card:hover {
-        border-color: rgba(99, 102, 241, 0.4);
-        transform: translateY(-2px);
+    .main-header {
+        padding: 16px;
     }
-    
-    .story-top-row {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-bottom: 10px;
-    }
-    
-    .rank-badge {
-        background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
-        color: #ffffff;
-        font-size: 0.8rem;
-        font-weight: 700;
-        padding: 4px 10px;
-        border-radius: 8px;
-        text-transform: uppercase;
-        letter-spacing: 0.5px;
-    }
-    
-    .status-badge {
+    .metric-chip {
         font-size: 0.75rem;
-        font-weight: 600;
-        padding: 3px 10px;
-        border-radius: 20px;
-        background: rgba(56, 189, 248, 0.12);
-        color: #38bdf8;
-        border: 1px solid rgba(56, 189, 248, 0.25);
+        padding: 4px 10px;
     }
-    
-    .story-headline {
-        font-size: 1.22rem;
-        font-weight: 700;
-        color: #f8fafc;
-        margin: 6px 0 10px 0;
-        line-height: 1.35;
+    .story-title {
+        font-size: 1.05rem;
     }
-    
-    .story-explanation {
-        font-size: 0.98rem;
-        color: #cbd5e1;
-        line-height: 1.5;
-        margin-bottom: 14px;
-    }
-    
-    .meta-row {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        gap: 12px;
-        font-size: 0.8rem;
-        color: #94a3b8;
-        margin-bottom: 12px;
-    }
-    
-    .meta-pill {
-        background: rgba(255, 255, 255, 0.05);
-        padding: 2px 8px;
-        border-radius: 6px;
-    }
-    
-    .source-btn {
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-        font-size: 0.85rem;
-        font-weight: 600;
-        color: #38bdf8;
-        text-decoration: none;
-        padding: 6px 12px;
-        border-radius: 6px;
-        background: rgba(56, 189, 248, 0.08);
-        border: 1px solid rgba(56, 189, 248, 0.2);
-    }
-    
-    .source-btn:hover {
-        background: rgba(56, 189, 248, 0.18);
-        color: #7dd3fc;
-    }
-</style>
-""", unsafe_allow_html=True)
+}
+</style>""", unsafe_allow_html=True)
 
 
 # --- Sidebar Navigation & Actions ---
@@ -246,19 +240,20 @@ word_count = report.get("briefing_word_count", 0)
 word_status = report.get("word_limit_status", "Passed")
 lookback = report.get("lookback_period_hours", 24)
 
-st.markdown(f"""
-<div class="main-header">
-    <h1 class="brand-title">🌅 AI Morning Brief</h1>
-    <p class="brand-subtitle">Your daily India-focused AI and technology intelligence report.</p>
-    <div class="metric-chip-container">
-        <div class="metric-chip">📅 Date: {report_date} (IST)</div>
-        <div class="metric-chip">⏰ Generated: {generated_at}</div>
-        <div class="metric-chip success">📊 Verified Stories: {story_count}</div>
-        <div class="metric-chip success">📝 Word Count: {word_count} / {MAX_BRIEFING_WORDS} ({word_status})</div>
-        <div class="metric-chip">⏱️ Lookback: {lookback}h</div>
-    </div>
-</div>
-""", unsafe_allow_html=True)
+header_html = (
+    f'<div class="main-header">'
+    f'<h1 class="brand-title">🌅 AI Morning Brief</h1>'
+    f'<p class="brand-subtitle">Your daily India-focused AI and technology intelligence report.</p>'
+    f'<div class="metric-chip-container">'
+    f'<div class="metric-chip">📅 Date: {report_date} (IST)</div>'
+    f'<div class="metric-chip">⏰ Generated: {generated_at}</div>'
+    f'<div class="metric-chip success">📊 Verified Stories: {story_count}</div>'
+    f'<div class="metric-chip success">📝 Word Count: {word_count} / {MAX_BRIEFING_WORDS} ({word_status})</div>'
+    f'<div class="metric-chip">⏱️ Lookback: {lookback}h</div>'
+    f'</div>'
+    f'</div>'
+)
+st.markdown(header_html, unsafe_allow_html=True)
 
 
 # --- Tabs: Main Briefing & Full Inspector ---
@@ -285,68 +280,72 @@ with tab_briefing:
         filtered_stories = stories
 
     if not filtered_stories:
-        st.warning(f"No stories in category '{selected_category}' in this edition.")
+        st.warning(f"No stories found in category '{selected_category}' for this edition.")
     else:
         for idx, story in enumerate(filtered_stories):
             rank = story.get("rank", idx + 1)
             headline = story.get("headline", "")
             explanation = story.get("explanation", "")
-            publisher = story.get("publisher", story.get("source", "Unknown Source"))
+            publisher = story.get("publisher", story.get("source", "Authoritative Source"))
             pub_date = story.get("published_ist", "")
             status = story.get("verification_status", "Verified")
             url = story.get("url", "#")
             matched_kws = story.get("matched_india_keywords", [])
             corrob_count = story.get("corroboration_count", 0)
 
-            # Card Container
-            card_container = st.container()
-            with card_container:
-                col_main, col_feed = st.columns([4, 1.2])
+            # Render story using Streamlit Container with native cards
+            with st.container(border=True):
+                # Header row with badges
+                badge_html = (
+                    f'<div class="card-header-row">'
+                    f'<span class="rank-badge">STORY #{rank}</span>'
+                    f'<span class="status-badge">{status}</span>'
+                    f'</div>'
+                    f'<div class="story-title">{headline}</div>'
+                    f'<div class="story-body">{explanation}</div>'
+                )
+                st.markdown(badge_html, unsafe_allow_html=True)
+
+                # Meta tags
+                meta_parts = [
+                    f'<span class="meta-tag">🏢 {publisher}</span>',
+                    f'<span class="meta-tag">📅 {pub_date}</span>'
+                ]
+                if matched_kws:
+                    meta_parts.append(f'<span class="meta-tag">🇮🇳 {", ".join(matched_kws[:3])}</span>')
+                if corrob_count > 0:
+                    meta_parts.append(f'<span class="meta-tag">🔗 {corrob_count} corroboration(s)</span>')
+
+                tags_html = f'<div class="meta-tags-container">{"".join(meta_parts)}</div>'
+                st.markdown(tags_html, unsafe_allow_html=True)
+
+                st.markdown("<div style='margin-bottom: 8px;'></div>", unsafe_allow_html=True)
+
+                # Action row: Direct Link + Feedback
+                col_btn, col_actions = st.columns([1.5, 3.5])
                 
-                with col_main:
-                    st.markdown(f"""
-                    <div class="story-card">
-                        <div class="story-top-row">
-                            <span class="rank-badge">Story #{rank}</span>
-                            <span class="status-badge">{status}</span>
-                        </div>
-                        <div class="story-headline">{headline}</div>
-                        <div class="story-explanation">{explanation}</div>
-                        <div class="meta-row">
-                            <span class="meta-pill">🏢 {publisher}</span>
-                            <span class="meta-pill">📅 {pub_date}</span>
-                            {"<span class='meta-pill'>🇮🇳 " + ", ".join(matched_kws) + "</span>" if matched_kws else ""}
-                            {"<span class='meta-pill'>🔗 " + str(corrob_count) + " corroborations</span>" if corrob_count > 0 else ""}
-                        </div>
-                        <a href="{url}" target="_blank" class="source-btn">
-                            Direct Source Link ↗
-                        </a>
-                    </div>
-                    """, unsafe_allow_html=True)
+                with col_btn:
+                    st.link_button("🔗 Read Source Article ↗", url, use_container_width=True)
                 
-                with col_feed:
-                    st.caption("Feedback on this Story:")
-                    fb_col1, fb_col2 = st.columns(2)
-                    with fb_col1:
-                        if st.button("👍 Useful", key=f"fb_use_{rank}_{idx}", use_container_width=True):
-                            record_user_feedback(headline, story.get("category", ""), "useful", url)
-                            st.toast("Marked as Useful! Topic weight boosted.", icon="👍")
-                    with fb_col2:
-                        if st.button("👎 Irrelevant", key=f"fb_not_{rank}_{idx}", use_container_width=True):
-                            record_user_feedback(headline, story.get("category", ""), "not_relevant", url)
-                            st.toast("Marked as Irrelevant! Topic weight reduced.", icon="👎")
-                            
-                    fb_col3, fb_col4 = st.columns(2)
-                    with fb_col3:
-                        if st.button("👀 Known", key=f"fb_kno_{rank}_{idx}", use_container_width=True):
-                            record_user_feedback(headline, story.get("category", ""), "already_known", url)
-                            st.toast("Saved preference.", icon="👀")
-                    with fb_col4:
-                        if st.button("🚩 Misleading", key=f"fb_mis_{rank}_{idx}", use_container_width=True):
-                            record_user_feedback(headline, story.get("category", ""), "misleading", url)
-                            st.toast("Flagged misleading claim.", icon="🚩")
-                
-                st.markdown("<div style='margin-bottom: 12px;'></div>", unsafe_allow_html=True)
+                with col_actions:
+                    # Feedback bar responsive across mobile
+                    with st.popover("💬 Give Feedback on Story", use_container_width=True):
+                        st.caption(f"Adjust future ranking for: **{headline[:45]}...**")
+                        f_col1, f_col2 = st.columns(2)
+                        with f_col1:
+                            if st.button("👍 Useful Story", key=f"fb_use_{rank}_{idx}", use_container_width=True):
+                                record_user_feedback(headline, story.get("category", ""), "useful", url)
+                                st.success("Marked as Useful! Boosted topic priority.")
+                            if st.button("👀 Already Known", key=f"fb_kno_{rank}_{idx}", use_container_width=True):
+                                record_user_feedback(headline, story.get("category", ""), "already_known", url)
+                                st.info("Saved preference.")
+                        with f_col2:
+                            if st.button("👎 Not Relevant", key=f"fb_not_{rank}_{idx}", use_container_width=True):
+                                record_user_feedback(headline, story.get("category", ""), "not_relevant", url)
+                                st.warning("Marked as Irrelevant. Reduced topic priority.")
+                            if st.button("🚩 Misleading", key=f"fb_mis_{rank}_{idx}", use_container_width=True):
+                                record_user_feedback(headline, story.get("category", ""), "misleading", url)
+                                st.error("Flagged as Misleading.")
 
     # Download Report JSON button
     st.markdown("---")
@@ -354,7 +353,8 @@ with tab_briefing:
         label="📥 Download Briefing JSON",
         data=json.dumps(report, indent=2, ensure_ascii=False),
         file_name=f"ai_morning_brief_{report_date}.json",
-        mime="application/json"
+        mime="application/json",
+        use_container_width=True
     )
 
 # ==========================================
@@ -439,7 +439,7 @@ with tab_preferences:
             new_val = st.slider(f"{topic}", min_value=0.4, max_value=2.0, value=float(w), step=0.05, key=f"slider_{topic}")
             updated_weights[topic] = round(new_val, 3)
             
-    if st.button("💾 Save Custom Topic Weights"):
+    if st.button("💾 Save Custom Topic Weights", use_container_width=True):
         prefs["topic_weights"] = updated_weights
         save_preferences(prefs)
         st.success("Topic weights saved successfully!")

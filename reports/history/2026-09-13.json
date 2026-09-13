@@ -3,12 +3,136 @@
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
   "report_date": "2026-09-13",
-  "generated_at_ist": "13 Sep 2026, 08:10 PM IST",
+  "generated_at_ist": "13 Sep 2026, 08:32 PM IST",
   "story_count": 5,
-  "briefing_word_count": 53,
+  "briefing_word_count": 55,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
+    {
+      "headline": "IISc Bengaluru professor asks: What",
+      "raw_headline": "IISc Bengaluru professor asks: What if companies stop hiring from campuses? - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbjlBdG5GeHVsbzdVTWtQaVAzWHBua0FRU25aYU8yWU5JNlhTWWNJdHhWWWR2TFZxZm5nMHN6RGZTcXhRWGRqSGZ2RmZXTmhwYm15dXZqQ2J3ckktU2ljWHlpN2p4ZjRNYkgzVU9VR2NTaFVFdmV0dUFBVk9TVWxFV3JZLTZMUWtuU3FwRWozaElfTnZLUlZxZ1ljSWQwa3NwZEw1WVpEajl4b2lyZjUzMkd0Z3UzallpdWRsOURkTlh2SDE4TmlmLVp5cThJYnZuUlV3dnZ3VGI3WFVp0gHiAUFVX3lxTE9tZWk3ZzNlN2ZuUTdDaVdzekRUZ3FJS2s3dEE2MC1uc3pGeHpMTllqdTE1bVZZUFktci1KSklDUlhKVGNkaUoxeDV5aW9SbndUMzZVYU04REN4NzduWUNJU2NxbEYwNWZfRXFBRDN2NVlPNjJlWmZKYXkyWkhPR0xWY2psX0oyYk82aTBqT1NJcENvc01PMHI0bU1MSE5xVWZYSmNxbktpRVUxQnVfVlFqSFVHeVo3UHpTRGN0LUZpOXRTZWZSSjM2US1IY2JvUXhCSWtHa2xnb0VicTc1VmZ4U3c?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "India Today",
+      "published_utc": "2026-09-13T14:49:08+00:00",
+      "published_ist": "13 Sep 2026, 08:19 PM IST",
+      "published_timestamp": 1789310948.0,
+      "description": "IISc Bengaluru professor asks: What if companies stop hiring from campuses? India Today",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.834,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.993,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "bengaluru",
+        "india",
+        "iisc"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.99 (bengaluru, india, iisc) | Cred: 0.85 | Recency: 0.993",
+      "rank": 1,
+      "explanation": "IISc Bengaluru professor asks: What.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI World Order Should Move",
+      "raw_headline": "AI World Order Should Move Past US-China Binary, Says Ex-MEA Tech Chief Golok Kumar Simili - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNlI3SEZqcUVVRTBFdEQ2MTl1eC1ISldHSjVPUnhyYkNRR1NmLXVOTUx5RmQ5VTdNS2JzWTZydzdqZWlyVDMtTXNuRFh3VVVxRGc2c3Flb2lFMEVkMkRXOFhNQXR3a3Y1UXdHS2dOYXRIbmdLQTFwdTBrRnp1OWpCaXZLT3E0S0tmSTBNejZrcDM5dl9KNjFvakZjbmlUUHRaX0hQdlFSSHNPN1ZPVUkwR2JWTTNaV2VJZzdURzl2UnFhVTlUbGVwNks5YlFNNVZXX3oxaGw5a2NEZWhx0gHiAUFVX3lxTE9ZcWN4Q3VvQ0RJSjhwRUZJc2ptajExME1maDNjdmtvUG10Zm5ncjJhMGlZTksxSkFMVm1uY0pQTTA1aUJZNU0xdVRncVM5bVFuZzdoMkdHSnQ1cEtjVG9DMWszTWhKbVVISDkxQzlaYURDcUc4RDd1RUlaTGtpVFFrcnlPd2JRMUJ2RWh5T24xVEVoNUNPLVNlM3BkM2hXVFRibVBLbGRMOUktNWhYT1lFYmdSMkZpT1l0eGJXYmlhX0dvUEo3WTRNbUF5SEtfdlRpYnlGOG5PNl8ydFl2TGo5UEE?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "ETV Bharat",
+      "published_utc": "2026-09-13T12:36:24+00:00",
+      "published_ist": "13 Sep 2026, 06:06 PM IST",
+      "published_timestamp": 1789302984.0,
+      "description": "AI World Order Should Move Past US-China Binary, Says Ex-MEA Tech Chief Golok Kumar Simili ETV Bharat",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7881,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.932,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "bharat"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, bharat) | Cred: 0.85 | Recency: 0.932",
+      "rank": 2,
+      "explanation": "AI World Order Should Move.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indian American couple's $20 million",
+      "raw_headline": "Indian American couple's $20 million gift fuels AI and data science push at University of North Texas - India Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVW1yWHZBd3hsSC1CNTI4ZERZVGNYb01RbTM1VjEzU093Skw1T3FPVFkwamJNeTVyNkJLa1U2RWQ4cV9IdU1xOHBxYjZ5OG14Y1ZwT0psaVFSYTdvWEJfNExXd2ptX3ZKSUZHZVF3VzNUTjVacjFTQUNFTG4tT01MbTFwQ0hEV212UlVET1VDY0xvV3pOV0ZPOWJPMlI5VHJUT25iWTMxSDJaY3VkRllPbElTUVEydHNLODRnZUlCR1hDVmxielJMcA?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "India Weekly",
+      "published_utc": "2026-09-13T14:34:33+00:00",
+      "published_ist": "13 Sep 2026, 08:04 PM IST",
+      "published_timestamp": 1789310073.0,
+      "description": "Indian American couple's $20 million gift fuels AI and data science push at University of North Texas India Weekly",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7879,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.986,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.986",
+      "rank": 3,
+      "explanation": "Indian American couple's $20 million.",
+      "summary_method": "Rule-based Extractive"
+    },
     {
       "headline": "EARLIER: President Ferdinand Marcos Jr.",
       "raw_headline": "EARLIER: President Ferdinand Marcos Jr. had a bilateral meeting with Indian Prime Minister Narendra Modi, where the two talked about agriculture, space technology, and artificial intelligence. | via Jervis Manahan, ABS-CBN News - facebook.com",
@@ -32,34 +156,34 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7867,
+        "composite": 0.7852,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.978,
+        "recency": 0.968,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.55
       },
       "matched_india_keywords": [
-        "indian",
-        "india"
+        "india",
+        "indian"
       ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.978",
-      "rank": 1,
-      "explanation": "EARLIER: President Ferdinand Marcos Jr..",
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.968",
+      "rank": 4,
+      "explanation": "President Ferdinand Marcos Jr. Directly.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "AI World Order Should Move",
-      "raw_headline": "AI World Order Should Move Past US-China Binary, Says Ex-MEA Tech Chief Golok Kumar Simili - etvbharat.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNlI3SEZqcUVVRTBFdEQ2MTl1eC1ISldHSjVPUnhyYkNRR1NmLXVOTUx5RmQ5VTdNS2JzWTZydzdqZWlyVDMtTXNuRFh3VVVxRGc2c3Flb2lFMEVkMkRXOFhNQXR3a3Y1UXdHS2dOYXRIbmdLQTFwdTBrRnp1OWpCaXZLT3E0S0tmSTBNejZrcDM5dl9KNjFvakZjbmlUUHRaX0hQdlFSSHNPN1ZPVUkwR2JWTTNaV2VJZzdURzl2UnFhVTlUbGVwNks5YlFNNVZXX3oxaGw5a2NEZWhx0gHiAUFVX3lxTE9ZcWN4Q3VvQ0RJSjhwRUZJc2ptajExME1maDNjdmtvUG10Zm5ncjJhMGlZTksxSkFMVm1uY0pQTTA1aUJZNU0xdVRncVM5bVFuZzdoMkdHSnQ1cEtjVG9DMWszTWhKbVVISDkxQzlaYURDcUc4RDd1RUlaTGtpVFFrcnlPd2JRMUJ2RWh5T24xVEVoNUNPLVNlM3BkM2hXVFRibVBLbGRMOUktNWhYT1lFYmdSMkZpT1l0eGJXYmlhX0dvUEo3WTRNbUF5SEtfdlRpYnlGOG5PNl8ydFl2TGo5UEE?oc=5",
+      "headline": "PwC restructures Indian operations amid",
+      "raw_headline": "PwC restructures Indian operations amid AI threat to consulting - cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCSTVKX2kwaFlUNnNiMk4xTGxqbS0wZDN0WFRyc2lhNlk3V1M5UUFFbUtmZERxYWlYNFllZTl4ODVhRkI0VkhxMHgzRkQ3dDFKZVVpV2ZiN2c3dktJczZzTVNabDF1Z0FReDI2dXZTcEdvUQ?oc=5",
       "source": "Google News: India Semiconductor Chips",
-      "publisher": "etvbharat.com",
-      "published_utc": "2026-09-13T12:36:24+00:00",
-      "published_ist": "13 Sep 2026, 06:06 PM IST",
-      "published_timestamp": 1789302984.0,
-      "description": "AI World Order Should Move Past US-China Binary, Says Ex-MEA Tech Chief Golok Kumar Simili etvbharat.com",
+      "publisher": "cryptobriefing.com",
+      "published_utc": "2026-09-13T06:05:29+00:00",
+      "published_ist": "13 Sep 2026, 11:35 AM IST",
+      "published_timestamp": 1789279529.0,
+      "description": "PwC restructures Indian operations amid AI threat to consulting cryptobriefing.com",
       "tier": "tier_2_reputable",
       "category": "Semiconductors & Hardware",
       "is_india_focused": true,
@@ -73,161 +197,46 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
       "scores": {
-        "composite": 0.7836,
+        "composite": 0.7641,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.942,
+        "recency": 0.772,
         "trend_momentum": 0.4,
-        "user_preference": 0.545,
+        "user_preference": 0.665,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
         "india",
-        "bharat"
+        "indian"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, bharat) | Cred: 0.85 | Recency: 0.942",
-      "rank": 2,
-      "explanation": "AI World Order Should Move.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "India-Japan hold first Artificial Intelligence",
-      "raw_headline": "India-Japan hold first Artificial Intelligence Strategic Dialogue in Mumbai - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1lkV2JnTEVSdzROWGgxb01qRkMtdGtOaDRrbk1OWXlnZEQxY2o5bWhXNGNjaGwtSFVqTTRybk1DZV8yQkZtMUxtMElKblBRekVfSjRYRFhOVnpNd0JkWHpfeVpYd2Z6a09CdnJ5SW52c1lFSjZLTWJxNXJSNTBpbW55djE3WmI3UWpCNjBxZG1JU1VtUGhhTzV0cFk5ZWItN0JZ?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "News On AIR",
-      "published_utc": "2026-09-13T08:15:41+00:00",
-      "published_ist": "13 Sep 2026, 01:45 PM IST",
-      "published_timestamp": 1789287341.0,
-      "description": "India-Japan hold first Artificial Intelligence Strategic Dialogue in Mumbai News On AIR",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7647,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.831,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "mumbai",
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (mumbai, india) | Cred: 0.85 | Recency: 0.831",
-      "rank": 3,
-      "explanation": "India-Japan hold first Artificial Intelligence Strategic.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Top world leaders to attend",
-      "raw_headline": "Top world leaders to attend India-AI Impact Summit in New Delhi next week - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "News On AIR",
-      "published_utc": "2026-09-13T07:59:36+00:00",
-      "published_ist": "13 Sep 2026, 01:29 PM IST",
-      "published_timestamp": 1789286376.0,
-      "description": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7636,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.824,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "delhi",
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (delhi, india) | Cred: 0.85 | Recency: 0.824",
-      "rank": 4,
-      "explanation": "Top world leaders to attend.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Anthropic’s Dario Amodei calls for",
-      "raw_headline": "Anthropic’s Dario Amodei calls for slower AI race: What will it take, and can it be done? - indianexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWFwMG91dThSMGY0VkpYOTBjNnh6RXVvSWFxOGVTekJiT1NieC1fdURhMXhiaVJYSEdQZ2Rvd1NsekJ6RExOdUt5SDZuLVlSUDdVYldUeDhmM1dDUy1ZWDBFR3kxbHZjYTZXWmVnT3JvTTdIQjRlU2R1YkNTMUE4U3hWbzh1d25RclBTNWVOMWt2VVNXRjg4OHZSRUJQYXllUC0xemNEMURKMURLNE1kSG5SLVV2czJJYk1saHl2eW1Scnh4cm9RUWhVQi3SAdMBQVVfeXFMTUgtVEx3QlpLOHRncU43emhwRXRMZGl1R3RNMFVRS2kzS2NMN205M2lCR0ZiT0hWMF9hOTNYSnBveDJ4Z0dTQWF5eTdMc09fU3Ffem51dVhaNUZkQ2NWR3JHazZNYmtZZm1zRmhpenlOVXd2Y1R6NlV4eDI3bjYwMTVTY0szTVRCNFJRakZQMFZrcFE3cml1WTY4U3R4ZVVldWNDWXBzeV9IY0tNUEZ5TGRfcFlPTGVodnRVa2dZSU1XVml6X002ZkFCNkJITnlBNzFRcw?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "indianexpress.com",
-      "published_utc": "2026-09-13T07:28:52+00:00",
-      "published_ist": "13 Sep 2026, 12:58 PM IST",
-      "published_timestamp": 1789284532.0,
-      "description": "Anthropic’s Dario Amodei calls for slower AI race: What will it take, and can it be done? indianexpress.com",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7618,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.812,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "indian",
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.812",
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.772",
       "rank": 5,
-      "explanation": "Anthropic’s Dario Amodei calls for.",
+      "explanation": "PwC restructures Indian operations amid AI threat to.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 325,
+    "total_raw_fetched": 324,
     "total_after_lookback": 73,
-    "canonical_events_count": 67,
-    "eligible_events_count": 67,
+    "canonical_events_count": 66,
+    "eligible_events_count": 66,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "canonical_headline": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
         "source": "TechCrunch AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "Terrence O’Brien"
+        ]
+      },
+      {
+        "canonical_headline": "Anthropic CEO urges AI companies to slow model development amid fears over misuse",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Anthony Ha"
         ]
       },
       {
@@ -239,7 +248,7 @@
         ]
       },
       {
-        "canonical_headline": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable",
+        "canonical_headline": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
         "source": "The Hindu - Technology",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
@@ -255,11 +264,11 @@
         ]
       },
       {
-        "canonical_headline": "BRICS offers opportunities for AI, trade and financial integration: Experts - India Tribune - Chicago",
-        "source": "Google News: India Artificial Intelligence",
+        "canonical_headline": "Anthropic's Dario Amodei calls for slower pace of AI model development",
+        "source": "Economic Times Tech & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "lokmattimes.com"
+          "Team Inc42"
         ]
       }
     ],

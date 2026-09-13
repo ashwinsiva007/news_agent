@@ -51,29 +51,31 @@ def rule_based_extract_summary(story: Dict[str, Any]) -> str:
     matched_india = story.get("matched_india_keywords", [])
     
     # Extract clean text from description or fallback to headline
-    sentences = [s.strip() for s in re.split(r"(?<=[.!?])\s+", desc) if len(s.strip()) > 15]
-    first_sent = sentences[0] if sentences else headline
+    sentences = [s.strip() for s in re.split(r"(?<=[.!?])\s+", desc) if len(s.strip()) > 10]
     
-    # Strip excessively long introductory clauses
-    first_sent = re.sub(r"^(According to|In a recent|As per|Reports state that|Earlier:?|New report:?)\s*", "", first_sent, flags=re.IGNORECASE)
-    
+    event_text = ""
+    if sentences:
+        candidate = sentences[0]
+        # Clean boilerplate prefixes
+        candidate = re.sub(r"^(According to|In a recent|As per|Reports state that|Earlier:?|New report:?)\s*", "", candidate, flags=re.IGNORECASE).strip()
+        words = candidate.split()
+        if len(words) >= 4:
+            event_text = " ".join(words[:9]).rstrip(".,;:-") + "."
+            
+    if not event_text:
+        words = headline.split()
+        event_text = " ".join(words[:8]).rstrip(".,;:-") + "."
+
     # Formulate India relevance context
     if matched_india:
         primary_kw = matched_india[0].title()
-        india_clause = f"Key impact for India's {primary_kw} sector."
+        india_clause = f"Directly impacts India's {primary_kw} sector."
     elif story.get("is_india_focused", False):
-        india_clause = "Expands domestic tech infrastructure."
+        india_clause = "Expands domestic tech and AI capabilities."
     else:
-        india_clause = "Guides Indian AI research & adoption."
+        india_clause = "Influences Indian engineering and AI adoption."
 
-    # Keep initial explanation compact (~8-10 words)
-    words = first_sent.split()
-    if len(words) > 8:
-        concise_event = " ".join(words[:8]).rstrip(".,;:-") + "."
-    else:
-        concise_event = first_sent.rstrip(".,;:-") + "."
-        
-    explanation = f"{concise_event} {india_clause}"
+    explanation = f"{event_text} {india_clause}"
     return explanation
 
 

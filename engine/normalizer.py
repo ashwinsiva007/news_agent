@@ -94,8 +94,8 @@ def normalize_headline(headline: str) -> str:
     for suffix_pattern in PUBLISHER_SUFFIXES:
         text = re.sub(suffix_pattern, "", text, flags=re.IGNORECASE)
     
-    # Normalize whitespaces
-    text = re.sub(r"\s+", " ", text).strip()
+    # Clean trailing fragment words or punctuation
+    text = re.sub(r"\s*[-|–—:]\s*$", "", text)
     
     # Clean outer wrapping quotes if the whole title is enclosed in quotes
     if (text.startswith('"') and text.endswith('"')) or (text.startswith("'") and text.endswith("'")):
