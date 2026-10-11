@@ -2,27 +2,27 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-10-10",
-  "generated_at_ist": "10 Oct 2026, 12:57 PM IST",
+  "report_date": "2026-10-11",
+  "generated_at_ist": "11 Oct 2026, 01:02 PM IST",
   "story_count": 5,
-  "briefing_word_count": 52,
+  "briefing_word_count": 56,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "The ET Startup Awards 2026",
-      "raw_headline": "The ET Startup Awards 2026 special",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/the-et-startup-awards-2026-special/articleshow/134837443.cms",
-      "source": "Economic Times Tech & AI",
-      "publisher": "Economic Times Tech & AI",
-      "published_utc": "2026-10-09T15:36:30+00:00",
-      "published_ist": "09 Oct 2026, 09:06 PM IST",
-      "published_timestamp": 1791560190.0,
-      "description": "Entrepreneurs, investors and policymakers came together in a star-studded event to honour the best of Indian entrepreneurship at the ET Startup Awards 2026 in Bengaluru.",
+      "headline": "China AI developers publish safety",
+      "raw_headline": "China AI developers publish safety tests for just 3.6% of model releases, report finds - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRHQzUm9JYlRTZEpueG9LZm1TUTZhazJ6NFQtV1pUaENuOFdKZEd6M1BMclFRdkdOTnptcHBIUXBpWkVCX3BWSWNMLXZKaFdhTFJwM0ZaM1FRc2NlaGNPd3c3LUk3S2ZQWVZlZEMycE9hWWE4b3hkOTRCU3lHX0VwandYZ2VncWY2dGRPX3hTLVZLSG5leGVqVmYwRGItNjBpNmM2V2pXMmRfT2dwOU15WnhYcFl1c2hfZ0M4WmNrQzZfVG5oUXZzYlh5V1I0T2hOVFN6QXgwcjdsbEI4ZnZxQUlhMHp0MERfNHh1QVpYMVotQzRGeXlrakJtbGnSAfwBQVVfeXFMT0R0M1JvSWJUU2RKbnhvS2ZtU1E2YWsyejRULVdaVGhDbjhXSmRHejNQTHJRUXZHTk56bXBwSFFwaVpFQl9wVkljTC12SmhXYUxScDNGWjNRUXNjZWhjT3d3Ny1JN0tmUFlWZWRDMnBPYVlhOG94ZDk0QlN5R19FcGp3WGdlZ3FmNnRkT194Uy1WS0huZXhlalZmMERiLTYwaTZjNldqVzJkX09ncDlNeVp4WHBZdXNoX2dDOFpja0M2X1RuaFF2c2JYeVdSNE9oTlRTekF4MHI3bGxCOGZ2cUFJYTB6dDBEXzR4dUFaWDFaLUM0Rnl5a2pCbWxp?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The Indian Express",
+      "published_utc": "2026-10-11T03:20:09+00:00",
+      "published_ist": "11 Oct 2026, 08:50 AM IST",
+      "published_timestamp": 1791688809.0,
+      "description": "China AI developers publish safety tests for just 3.6% of model releases, report finds The Indian Express",
       "tier": "tier_2_reputable",
-      "category": "India Tech & Business",
+      "category": "India AI Developments",
       "is_india_focused": true,
-      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
       "corroborating_sources": [],
       "corroboration_count": 0,
       "cluster_size": 1,
@@ -30,25 +30,24 @@
       "credibility_score": 0.85,
       "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7798,
+        "composite": 0.7729,
         "credibility": 0.85,
         "evidence_strength": 0.8,
-        "india_relevance": 0.99,
-        "recency": 0.632,
+        "india_relevance": 0.81,
+        "recency": 0.886,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
-        "technical_significance": 0.4
+        "technical_significance": 0.55
       },
       "matched_india_keywords": [
         "indian",
-        "bengaluru",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.99 (indian, bengaluru, india) | Cred: 0.85 | Recency: 0.632",
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.886",
       "rank": 1,
-      "explanation": "Entrepreneurs, investors and policymakers came together in a.",
+      "explanation": "China AI developers publish safety.",
       "summary_method": "Rule-based Extractive"
     },
     {
@@ -57,9 +56,9 @@
       "url": "https://www.thehindu.com/news/international/ussuspends-microsoft-adobe-and-major-it-firms-from-perm-green-card-programme/article71560826.ece",
       "source": "The Hindu - Technology",
       "publisher": "The Hindu - Technology",
-      "published_utc": "2026-10-09T08:06:02+00:00",
-      "published_ist": "09 Oct 2026, 01:36 PM IST",
-      "published_timestamp": 1791533162.0,
+      "published_utc": "2026-10-10T10:39:18+00:00",
+      "published_ist": "10 Oct 2026, 04:09 PM IST",
+      "published_timestamp": 1791628758.0,
       "description": "The Department of Labour is also suspending Microsoft and Adobe from the PERM programme",
       "tier": "tier_2_reputable",
       "category": "India Tech & AI",
@@ -74,11 +73,11 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (The Hindu - Technology).",
       "scores": {
-        "composite": 0.7614,
+        "composite": 0.7671,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.99,
-        "recency": 0.509,
+        "recency": 0.547,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
@@ -88,61 +87,21 @@
         "infosys",
         "wipro"
       ],
-      "ranking_rationale": "Composite: 0.76 | India Rel: 0.99 (tata, infosys, wipro) | Cred: 0.85 | Recency: 0.509",
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.99 (tata, infosys, wipro) | Cred: 0.85 | Recency: 0.547",
       "rank": 2,
       "explanation": "The Department of Labour is.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "India – UAE AI Corridor:",
-      "raw_headline": "India – UAE AI Corridor: A New Model for Cooperation - Centre for Public Policy Research (CPPR)",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hbklCUFVXUDZMQnJuUGJqaDk0c2V3VnRmR0xPbktTaXVVV1QxLWs0YkNJcU1tZHhSRC16Zmx0OENtd0VoTkc5ZmVsM2hfLTczVkJUNm1qNkM3Zk50ZEZj?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "Centre for Public Policy Research (CPPR)",
-      "published_utc": "2026-10-10T06:35:55+00:00",
-      "published_ist": "10 Oct 2026, 12:05 PM IST",
-      "published_timestamp": 1791614155.0,
-      "description": "India – UAE AI Corridor: A New Model for Cooperation Centre for Public Policy Research (CPPR)",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7413,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.975,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.975",
-      "rank": 3,
-      "explanation": "India – UAE AI Corridor:.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Apple cuts iPhone 18 Pro",
-      "raw_headline": "Apple cuts iPhone 18 Pro orders due to soft demand: Report - electronics.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzhFMXN4am1yS1dUR3dqSWxYLUg3UW9WMS13V2lWcVl5RHZoTXlEbFJ3cDZCalVzZEx2aDJxeWRWT3NuTkg4clJFTzd3dUQyR1lzdkRYVXlDSk9NY2E5RWQwV3J1dGJIWjZkTmdBTGFFc1ZLcjdCQVIzWnJoT0I0clcxdWRjTl9jd2FIc0NrLVZQbU5rZnBkeTlRTWJLQkVqdE84Z0prY1huZGZycFZQS2xYaU5yeXVsX0dBdjl2VlBLUm53TlA0VGZqU1NhS1FvZVRHcnB5Um7SAd4BQVVfeXFMTWR4TVN4dWNha0VSdjAzd0paMDNfRm1vZE8yUk8tZWVJeEZJNW1VcEUxeU9Ra3ZDNEhYZ3ZXWktMaWtVNXVYUUJjUm1DMjc1UVdwdVRhRnpSQWo1eWs1TVlxRlZoU3AwZ0lHUmgtbjQ5Q2tMem16UFFwdG53allJUWRTZWZ6ZWNCR01LelV6Y0xHV2VpMTV1NExrMXlZaXV5X2VkMWxsX1B4eUdSLWloS0otaWt0b0dpUlR5ZjA2TGh0QUpyQmprOXNFMUJlOVp0Z094LWRfZ2xEVmlpNk1n?oc=5",
+      "headline": "India's $200 billion chip ambition:",
+      "raw_headline": "India’s $200 billion chip ambition: Can it become a tech powerhouse? - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRG1ZcDBQZVFNelpSQWZpV01vaGJNYUF1bVBqVHJpamlNN3BFOFBTbUF0Wk9jRzZkZGxlSkQ3b3RoajM1V2hiNUxNOTNUSUJfMUxKSkFzNEdXcEtwX2J3V2ZzdWptVmFXS1NZV0UzY1lhZlZxazdmcTd1Rzh5dnJzWDdESkJhejRNZ2NqQkxjQ1B3ekpZbmhKWW1QeVNERXVJUVFDNDhzYTlVT01rekRqWE51c2_SAcoBQVVfeXFMTXZEUVdkMXMxcFd1SVZSOFVNc0lyNE0yam9xRFR0S1NnTW1GdjRicVRnX2NBVDdlQ2lzRlBBMlFaLWp6dnZyeGdSamszNkY3d0NNendOYWN1ZEt2dnRSQzdWYXIzN0thUkV5Z1Atd2ZYMHdRYjVMRUtrdzJ6a1NRTHBLazUzbFlFbERiSWNBRmtsT1JLZWtRYW4xU3FnS3cyTmR5SkIwUjFOcVFWOXBxN0FyNlpjcjB0ajVITTRGWUlvVEtSX3cxM0tLUQ?oc=5",
       "source": "Google News: India Semiconductor Chips",
-      "publisher": "electronics.economictimes.indiatimes.com",
-      "published_utc": "2026-10-10T04:35:06+00:00",
-      "published_ist": "10 Oct 2026, 10:05 AM IST",
-      "published_timestamp": 1791606906.0,
-      "description": "Apple cuts iPhone 18 Pro orders due to soft demand: Report electronics.economictimes.indiatimes.com",
+      "publisher": "Gulf News",
+      "published_utc": "2026-10-11T05:03:05+00:00",
+      "published_ist": "11 Oct 2026, 10:33 AM IST",
+      "published_timestamp": 1791694985.0,
+      "description": "India’s $200 billion chip ambition: Can it become a tech powerhouse? Gulf News",
       "tier": "tier_2_reputable",
       "category": "Semiconductors & Hardware",
       "is_india_focused": true,
@@ -156,33 +115,74 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
       "scores": {
-        "composite": 0.7413,
+        "composite": 0.7429,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.63,
-        "recency": 0.92,
+        "recency": 0.931,
         "trend_momentum": 0.4,
         "user_preference": 0.665,
-        "technical_significance": 0.4
+        "technical_significance": 0.55
       },
       "matched_india_keywords": [
         "india"
       ],
-      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.92",
-      "rank": 4,
-      "explanation": "Apple cuts iPhone 18 Pro orders.",
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.931",
+      "rank": 3,
+      "explanation": "India’s $200 billion chip ambition:.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "World Bank Ranks India Among",
-      "raw_headline": "World Bank Ranks India Among Top 10 Emerging Markets in AI Readiness - Adda247",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2YyS1lLRWlCdmxHTVhqbGprWUJTcHhZcDBDOGdfSjdCOVNLdWR5eVlnNGsxZHBvbThyb0tmUUJwR3FyNXdYU1RjdDhLcmlKYUJ1bTd0dTB3a0E0SDJ4SFUtWFhlcHRfb2JEZ000MUI0V1NpMHl5RG81N3ljLVJWcXhIRHFhaUVnZEk3WlhJZldFWkVPdGgxM3JmdkJQaU52dlFMcmxpLV9BZw?oc=5",
+      "headline": "India's Infosys does not expect",
+      "raw_headline": "India's Infosys does not expect material impact from US PERM suspension",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension/articleshow/134858725.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-10-10T17:57:49+00:00",
+      "published_ist": "10 Oct 2026, 11:27 PM IST",
+      "published_timestamp": 1791655069.0,
+      "description": "The US government said on Thursday it was suspending some major global tech and IT firms, including Infosys, from the PERM green card program, which allows skilled foreign workers to gain permanent residency in the US through their employment.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "scores": {
+        "composite": 0.7414,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.676,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "infosys",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.81 (infosys, india) | Cred: 0.85 | Recency: 0.676",
+      "rank": 4,
+      "explanation": "The US government said on Thursday it was.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "SEBI to issue AI, machine",
+      "raw_headline": "SEBI to issue AI, machine learning guidelines shortly; eyes expiry-day settlement rules within a week : Tuhi.. - ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNUV6a2VMc3BDbXBWZ0pPTUFUcjc1ZGV2S0ZiRkVzV0hTWTdhbkZRSE11M1ZLaU1MLWdXNGRaSWdfQ3gwNmVMQ1RaWEFnQmk4NnZ1RFhyejFydnViejNoN0NMVU83UGZoajVsQWotVkFBemthS0pSbnphM1dtQVNVLVpOcnd4WHQ0MmNZWFhpdTBDdHF0aVY4c3g3OFhOS0oyM0xwLThoLTRkRXFIY0pfTnBhR2RYUnNFbXBQd2lOTjVGa0p5WFhiY1dZR1FYb0pUVGs2MVY4WEFKVzh1QUZNNVJGdDhPaThDZjBxMWNkRFVaeGM1dTNtNVNneDVpZFFScWpHVDRSWVlUTm9vR1VwX1IyZlI4Q1ozS1RUQdIBogJBVV95cUxQTmxTRC1Xd2hMbk95YTRnczlYRkFGVG10eFVVLWVFSF83c2IybGE4dUxiaEZoTkFLcXN3MV9xeUhYcDNSaGJ0Wk5PeU02azk0UWdtUml4d2x5ZmphRUNaME94ZEZ5bkgzYUJoVzZ0ZkJFdzdJbW5YaFpXUi1lVXdCTW5LeG5ZZFE4dGJQbHZfMFdSRTFfRGNYeUJsVFpCanB3QU9SZ3lyaXpoRnl3Xzd0SjJTWnFZQ1BaZHB6anJBMkdYOGduLVZrSVJqWnhzaWdEcGI2T2hqUUotcDAwc09ZdGFlekZRRk1NYnlMdDNUMkJ4VF9EX0pMTmFOcTlpdlc2aC1Fb1hWUl8zb2RLdURaYWg4Q21leEl3TTVLY0J0THJLUQ?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "Adda247",
-      "published_utc": "2026-10-10T05:05:38+00:00",
-      "published_ist": "10 Oct 2026, 10:35 AM IST",
-      "published_timestamp": 1791608738.0,
-      "description": "World Bank Ranks India Among Top 10 Emerging Markets in AI Readiness Adda247",
+      "publisher": "ET Enterprise AI",
+      "published_utc": "2026-10-11T04:58:32+00:00",
+      "published_ist": "11 Oct 2026, 10:28 AM IST",
+      "published_timestamp": 1791694712.0,
+      "description": "SEBI to issue AI, machine learning guidelines shortly; eyes expiry-day settlement rules within a week : Tuhi.. ET Enterprise AI",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -196,11 +196,11 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.735,
+        "composite": 0.7344,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.63,
-        "recency": 0.933,
+        "recency": 0.929,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
@@ -208,135 +208,30 @@
       "matched_india_keywords": [
         "india"
       ],
-      "ranking_rationale": "Composite: 0.73 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.933",
+      "ranking_rationale": "Composite: 0.73 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.929",
       "rank": 5,
-      "explanation": "World Bank Ranks India Among.",
+      "explanation": "SEBI to issue AI, machine.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 826,
-    "total_after_lookback": 559,
-    "canonical_events_count": 540,
-    "eligible_events_count": 540,
+    "total_raw_fetched": 328,
+    "total_after_lookback": 66,
+    "canonical_events_count": 63,
+    "eligible_events_count": 63,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "MemTrial: Learning When to Trust Memory in LLM Portfolio Agents",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Ruike Cao, Fanyu Zhao, Fugen Yao, Liang Dong, Jian Xu, Yifei Zhao, Han Zhang, Li Xiao"
-        ]
-      },
-      {
-        "canonical_headline": "MetaOPD: Meta-Learned Token Weighting for On-Policy Distillation",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Anhao Zhao, Haoran Xin, Junlong Tong, Yingqi Fan, Xuan Lu, Ping Nie, Wenjie Li, Xiaoyu Shen"
-        ]
-      },
-      {
-        "canonical_headline": "Recompose and Refine Latent Reasoning Flows for Vision-Language-Action Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Hyeonjun Kim, Jegwang Ryu, Sangbeom Ha, Junhyeok Lee, Jun-Hyuk Kim, Hyemin Ahn, Jaeho Lee"
-        ]
-      },
-      {
-        "canonical_headline": "Code Understanding is a Bottleneck for Coding Agents",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Jinfeng Jiang, Dongsun Kim, Dayi Lin, Zhou Yang"
-        ]
-      },
-      {
-        "canonical_headline": "SAVU-BENCH: A Real-World Benchmark for Spatial Audio-Visual Understanding",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Luyang Si, Leyi Pan, Dongsheng Ma, Lijie Wen"
-        ]
-      },
-      {
-        "canonical_headline": "Optimizing Large Language Models with Chained LMOs",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Tong Xiao, Jingbo Zhu"
-        ]
-      },
-      {
-        "canonical_headline": "SkillContrast: Difference-Guided Text Selection for Agent Skill Reranking",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Yu Ge, Linna Xie, Zhong Li, Yu Pei, Tian Zhang"
-        ]
-      },
-      {
-        "canonical_headline": "Can Jev be Your Q or Policy in Reinforcement Learning?",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Brandon Gary Kaplowitz, Osaze James Obahor, Christian Schroeder de Witt"
-        ]
-      },
-      {
-        "canonical_headline": "AdaCast: Conditional Parameter Generation for Adaptive Time Series Forecasting",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Jinjin Chi, Lei Feng, Yiming Wang, Lulu Zhang, Yongcheng Jing, Chenyi Li, Ximing Li"
-        ]
-      },
-      {
-        "canonical_headline": "Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Junming Liu, Yuqi Li, Yifei Sun, Maonan Wang, Yiming Cheng, Rui Qian, Piotr Koniusz, Yirong Chen, Ding Wang"
-        ]
-      },
-      {
-        "canonical_headline": "FlowState: Execution State as Memory for Long-Horizon LLM Agents",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Hongming Xu, Le Zhou, ZhongHe Jin, Xiang Zhang, Bo Tang, Zhiyu Li, Xuanhe Zhou, Juncheng Zhang",
-          "Toby D. Pilditch, Konstantinos Voudouris, Alexandra Abbas, Cozmin Ududec"
-        ]
-      },
-      {
-        "canonical_headline": "A PDE Perspective on Generative Diffusion Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Tianrui Mao, Abele Malan, Megha Khosla, Lydia Chen, Huijuan Wang"
-        ]
-      },
-      {
-        "canonical_headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "canonical_headline": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
         "source": "TechCrunch AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Livemint AI & Technology"
+          "Business Standard"
         ]
       },
       {
-        "canonical_headline": "Amazon drops data center NDAs, and AI agents want your credit card",
-        "source": "TechCrunch AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Theresa Loconsolo"
-        ]
-      },
-      {
-        "canonical_headline": "'Not getting H1B visas good for India': Fireside Chat with Piyush Goyal | ET Startup Awards 2026",
-        "source": "Economic Times Tech & AI",
+        "canonical_headline": "India Mobile Congress 2026 concludes with focus on agricultural AI, 5G automation and last-mile connectivi",
+        "source": "Google News: India Artificial Intelligence",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "Economic Times Tech & AI"
