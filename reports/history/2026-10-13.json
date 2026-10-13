@@ -1,0 +1,412 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-13",
+  "generated_at_ist": "13 Oct 2026, 01:30 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 59,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Bengaluru's Tessolve Semiconductor Secures $75",
+      "raw_headline": "Bengaluru’s Tessolve Semiconductor Secures $75 Mn From Vector Line Capital - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3BHQ3VHdE0tTEQ3NGxmbnVaQ0k4WngxWHVHMlNzdm1JU2g4WFljeE16NHRvUldBR0ExZlhST3VreG9pTlNucTV2TkdFSVFlNExfd2E1WFZJUWRoWnlhMmFVQXp3UzJEZEVBbU9yVVJnMWVlRURhNkhmRDU1dGM3c1JyaWk1N3laWHZBWDJib0lNNzNFN0V5a1R3aVhQSmZYSnk4TFhGb3dQNE1GNTR3?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "Analytics India Magazine",
+      "published_utc": "2026-10-12T10:24:51+00:00",
+      "published_ist": "12 Oct 2026, 03:54 PM IST",
+      "published_timestamp": 1791800691.0,
+      "description": "Bengaluru’s Tessolve Semiconductor Secures $75 Mn From Vector Line Capital Analytics India Magazine",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXh6bzFWZVhQVmZzaXVPSzRvS2E5Y0NUaVk2M0V3M3BqeUVwMU5pcHZfczJTUHFOMWJNUThCSHJZSUJ5a041MzVrU29ReC0wT2JHY2xaUWZqRkg5eW81Ml9KZUtJM1FPektvX3NFNU9tZGtWVW1uVzYyVnNhcl9mbXc0b2RSM3VEOWlnczJSbWQ0eEJRUkRUVQ?oc=5",
+          "headline": "Tessolve Raises $75 Million to Expand Semiconductor Capabilities - Equitypandit",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Indian Startup Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdWJvR1JMSVdqNk1McXhtUUluMmZnWmpKWGoxSm9VYm5hVUljNHNsbTNoX3Z4TEdlQXJpTGN0NHJvMzduSEhyUU5KWVdTRTU5bmZaZm1NQzktVkRvOWxwNzkwa05ZYkRKcGlJUTBMZkFxTG5vWUcwaWxNNjlmenMyM0ZpUTVhbXJpOXNMZHplODZtOWZLSjdoUjBuNVl1cFU5WmQteHpOTE5SRTdWU2hIOGNhRmlINDg?oc=5",
+          "headline": "Hero Electronix's Tessolve Raises $75 Mn to Expand Semiconductor Capabilities - Indian Startup Times",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Anne Florentyna",
+          "url": "https://inc42.com/buzz/hero-electronix-owned-tessolve-secures-75-mn-to-expand-semiconductor-capabilities",
+          "headline": "Hero Electronix-Owned Tessolve Secures $75 Mn To Expand Semiconductor Capabilities",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 3,
+      "cluster_size": 4,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 4 independent news organizations.",
+      "scores": {
+        "composite": 0.8462,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.81,
+        "recency": 0.536,
+        "trend_momentum": 1.0,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india",
+        "bengaluru"
+      ],
+      "ranking_rationale": "Composite: 0.85 | India Rel: 0.81 (india, bengaluru) | Cred: 1.0 | Recency: 0.536",
+      "rank": 1,
+      "explanation": "Bengaluru’s Tessolve Semiconductor Secures $75 Mn From Vector.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Hero Electronix's chip design firm",
+      "raw_headline": "Hero Electronix's chip design firm Tessolve Semiconductor raises $75 million from Vector Line Capital - Indian Startup News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRWdlekdTRlB0M0wtZDA3VC0tWXk1aHlZRHJibGhqelU2cTlyb0RpcWFsMk9mcmYyd3pqeTN2MFJmRkJjenN5a3JXdGU2SWNseElJMHQ5XzRvYzN1UmJlZmJPclNqYUl0b24zOUoteEdiRjk3c3k5dHBYMmlhMWFuQlhfSTFoSW9WeFM1T2hqU0lJaW1iU2llaXRZUHh2ZU9KNm9xUGdQVDVJZTR0M2RIU3duNm5LVlBqbi1fZEsyR0pPVm9hYzdoM2xVWk9PYXBYWjVUdUlyQm9QM2N3QWhN0gHfAUFVX3lxTE9FZ2V6R1NGUHQzTC1kMDdULS1ZeTVoeVlEcmJsaGp6VTZxOXJvRGlxYWwyT2ZyZjJ3emp5M3YwUmZGQmN6c3lrcld0ZTZJY2x4SUkwdDlfNG9jM3VSYmVmYk9yU2phSXRvbjM5Si14R2JGOTdzeTl0cFgyaWExYW5CWF9JMWhJb1Z4UzVPaGpTSUlpbWJTaWVpdFlQeHZlT0o2b3FQZ1BUNUllNHQzZEhTd242bktWUGpuLV9kSzJHSk9Wb2FjN2gzbFVaT09hcFhaNVR1SXJCb1AzY3dBaE0?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "Indian Startup News",
+      "published_utc": "2026-10-12T08:11:36+00:00",
+      "published_ist": "12 Oct 2026, 01:41 PM IST",
+      "published_timestamp": 1791792696.0,
+      "description": "Hero Electronix's chip design firm Tessolve Semiconductor raises $75 million from Vector Line Capital Indian Startup News",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Manufacturing Today India",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EaUd6X3UtNTR1RmR3UU9zaXAwbUtoTnl4bm8yUF9SZWU0d25ZZjY2Y01lNHY2eWtlTllSd3BjU2h6cjJDQUd5RGFhbWk5RDRacUVZRWdWN1VRVlhTSlVNU1ZnS3NfZmVlaEZtM1UyZGRoYlU2QkJYeFkwLTZFVWM?oc=5",
+          "headline": "Tessolve Semiconductor secures $75 million investment from Vector Line Capital - Manufacturing Today India",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "The Des Moines Register",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbGVZblpKX3BydWlGd21vMzVfMnZrVHRQX2RxbTRQU1d5YXIzd3dIcEtZT2lHUXJGNDRKX2dEX2JRUDN6TEtGeWtNU3JaMUc5Sy1GeW1XemM1U3NxSml4eFowcWJQRDVzOHEzYmJYQmY3dGU1a0FDQWdySTlCMk9ZTE5wa29KcmlvdFVCNzY4al94czg1SEhjaUJEWnBTZm5HbDZkUlIzWTFobTduQzVEV1Q5dzVzSE1GOE9iRDZrQ3FOV2luTjNRRlVsUHFFRElTNWRDb0E4QV9pSUE4ZkpOWGp3ZkhjVVV2SlJPTk1NZExTS1lIMk03Vw?oc=5",
+          "headline": "Tessolve Semiconductor, a Hero Electronix company, secures $75 million investment from Vector Line Capital - The Des Moines Register",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8262,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.81,
+        "recency": 0.503,
+        "trend_momentum": 0.85,
+        "user_preference": 0.665,
+        "technical_significance": 0.7
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.81 (india, indian) | Cred: 1.0 | Recency: 0.503",
+      "rank": 2,
+      "explanation": "Hero Electronix's chip design firm.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Microsoft to scale in-house AI",
+      "raw_headline": "Microsoft to scale in-house AI chips to multi-gigawatt deployments from 2027 - www.indiagazette.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmpjU3RDMEhHVkpWbnNzQ2VjM3FfUWx2bkVQZ0JTLXlkTk1Qc2E4ZUFWRXpVSzNJVlVIYjFxemJsZFVmWnVLTVpYMkJjUGNQTk5pdnpxcUl2dklJblRaaklGd1V6QjBxX0JscUlsT00tX1c3Z1E4dHdVWVpHV2dONkFHSnprYTlBX040SGNSS050aGhGQ3M4NzV5aldmMmlUNHROQi1mQTNvdTI4aVE4RHl6bFVROTVwZVlnWQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "www.indiagazette.com",
+      "published_utc": "2026-10-13T01:30:00+00:00",
+      "published_ist": "13 Oct 2026, 07:00 AM IST",
+      "published_timestamp": 1791855000.0,
+      "description": "Microsoft to scale in-house AI chips to multi-gigawatt deployments from 2027 www.indiagazette.com",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTGMzS0RpY0ZwZEFPbFVkMm9UWm9Jc2hYa2J2SlNSMjRYV3BvWTZrVWZqZlJZSnRhY1ZITHQtVWNFX0FOU0xhdG1JU2RRdF9ONnhhX1ROX0lUVGpxTDZha3VkNUZLMEpYVVdwQ001WktQSUFDV1diNF8yaXk1TlR3b3hyU1ZWcFc1ckNPOVNNSFdrYWt1MGtoTkZBT0FUT0VFd25sbXdmY2dmcWFreWhvNVVhSzhDZDBmN05aLTRTMjg0UUxuRE9UcTRaMmZ5VWNoRWtPei0wa9IB3AFBVV95cUxQM2tPdU0zUnNpNTd5eUNZTHB0Y1drZEswdURCX2FBOU9LLWNnTHZFTWYxeDB4Zm9YQ0wzNGdGQnRkTXdoOU5oSWJ3NEtTSVAwa0QyY0xyemlGWG5NMUZZb3Y5Y1d0ZFlzOUszaHczcVM5X1E4ZVlOekZ5ZEhCU0J3SXNNYWxkTTBnR3BMTkFQUkZhNWkxSmVEVGpPbmVOZnd6QlRGRWM1SWlsQy1zN2Q2eTFya2R1Nl8wTTdDam42M08wWGNZa1I2RXZ5eno5eHlNbWVtU1V0QXlkcVJp?oc=5",
+          "headline": "Microsoft says to scale Azure Maia AI chip deployments by 2027 - electronics.economictimes.indiatimes.com",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "India's News.Net",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUozcFNRdXVKQUc5Tk01eEpmcjI2UXh0ZkVqd1NneEVrdW92aURiT0JSbTdSeEV2WkdEZkhiZVMwMHJ5N05oOUJzUjRCVTNqU0F0Tk1oWVhRMDNkSFd0ck02Q3RLd2EwbWpZTDQxUk1aZVlwaTlFNWZrbkpLZUdkaTQ3SG5BZXhJM0IxVVFlSlpZUlM1RkVrbnA0RkthY3Vlb3AzNi13elFUd2NnLTVXZlBHVE9Xb05ac2c?oc=5",
+          "headline": "Microsoft to scale in-house AI chips to multi-gigawatt deployments from 2027 - India's News.Net",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8218,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.829,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.82 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.829",
+      "rank": 3,
+      "explanation": "Microsoft to scale in-house AI chips.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Chips critical to India's future,",
+      "raw_headline": "Chips critical to India's future, but demand and management key to semiconductor push: N Chandrasekaran",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chips-critical-to-indias-future-but-demand-and-management-key-to-semiconductor-push-n-chandrasekaran/articleshow/134908647.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-10-13T05:19:45+00:00",
+      "published_ist": "13 Oct 2026, 10:49 AM IST",
+      "published_timestamp": 1791868785.0,
+      "description": "India is well placed to strengthen its role in the global semiconductor industry due to its talent base and large domestic market, but businesses must carefully assess demand and manage investments as the sector expands, Tata Sons Chairman Natarajan Chandrasekaran said.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Rediff MoneyWiz",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3huRUxIQmROcUpKWkh1M0QweDdRVFhadm5zNmxIWlR3WmZicWFyZUxac2dZUlU5SURVREh1Tm5kNnN5XzQ3Y3NpcW04OUl5cThOREVGd3FjZHpfR0VhdTNaR2p6Z0hYNi02Q21iaU02S3RPT0p1ZnhPc0tScFkyVzVSWkJwM2R0Zml3YWRlYzdHTS1ReVBvQ2F6UHJSNmhlVDYtNFFGWmZMVkNoMUhfTDMxa1NTZ9IBuwFBVV95cUxOb0RFekVkaXhVZjZUdUZ1R3c0SkFrcTZhcmphVG0zUGZ4OEJwMDEtSi1SVkF5SVd5UXlvaWJleWNYeFpLNUVMUm03TlkyZWVTbGpkSEt4Nm0zSU00Q0k3cnFkbHlUang5V1oyaTJsUUoyTlY3UTkxN1AzeTBTR2lwaDdiRTIwRms2ZjVvRGtnSmppTlJrV1R2cEhHeDg3QTRMa3V1VE84Uk9kbWdzVmRZeWhRS1pCM0NBNG04?oc=5",
+          "headline": "India's Semiconductor Future: Tata's Role in Global Supply Chain - Rediff MoneyWiz",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "scores": {
+        "composite": 0.8038,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.925,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.7
+      },
+      "matched_india_keywords": [
+        "india",
+        "tata"
+      ],
+      "ranking_rationale": "Composite: 0.8 | India Rel: 0.81 (india, tata) | Cred: 0.85 | Recency: 0.925",
+      "rank": 4,
+      "explanation": "India is well placed to.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Captain Shubham Kumar Wins Runner-Up",
+      "raw_headline": "Captain Shubham Kumar Wins Runner-Up Spot at Indian Army Terrier Cyberquest 2026 for RAKSHA.AI - Shop SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHNZVzZ6ZnYyNU1LUlFwdGtrX01YY01SWEVsZ3JnZXdLX1JzNXNSZUcyN0kzc2t5WXdYZi1HWWJ5U1RMNzAzVnBPb1dPN3dmaWxWVGUyU0VHMDU4WU5xRkhoaWUwSjI4VHNUbk1SRXp6Sk1yUE9Dd3BCYTNkTFVnbGRENlpUcEw1dXVia2thLVo5VFJGQkJibFVqa25iOFNSWGs3SnBmazZaejROZTJtV2J3VEd2NVR5aGkxNXV4aHRtSzJfbW5lTmJITQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Shop SSBCrack",
+      "published_utc": "2026-10-13T02:53:02+00:00",
+      "published_ist": "13 Oct 2026, 08:23 AM IST",
+      "published_timestamp": 1791859982.0,
+      "description": "Captain Shubham Kumar Wins Runner-Up Spot at Indian Army Terrier Cyberquest 2026 for RAKSHA.AI Shop SSBCrack",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "SSBCrack",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYm9xSUlSMlFGeDMxdVRkd3ZwNVJVa1JiRjd6eXdFMDFwNkdFUEdGeW92Yk9aVDdXMmluVUd2YzZtd0Utb0JLdTdicFpKYThhUFgwajhsQ0UxOThiUnBwNWhkYy1QUmtGMUFZbEJVQTN1MHRuQ3pCcnBmeFYyaW1meEU5NzI2MGdrOUJlVXI0QmhTSkpGSThXYVY0SHhPLVJIRE0zOEZtOC04MTl6b3FMRVVRdF94aENQckFwYlVsVUdMRjRvNExELXBTM2FHTVQxdGl6Mld3?oc=5",
+          "headline": "Captain Shubham Kumar of EME School Secures Second Place in AI Kavach Competition at Indian Army Cyberquest 2026 - SSBCrack",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7943,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.862,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.862",
+      "rank": 5,
+      "explanation": "Captain Shubham Kumar Wins Runner-Up.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 337,
+    "total_after_lookback": 148,
+    "canonical_events_count": 124,
+    "eligible_events_count": 124,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Microsoft president says milk faces more regulation than AI",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Rebecca Bellan"
+        ]
+      },
+      {
+        "canonical_headline": "Meta says its new AI models on par with OpenAI, Anthropic",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "TechGig"
+        ]
+      },
+      {
+        "canonical_headline": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Chips critical to India's future, but demand and management key to semiconductor push: N Chandrasekaran",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Rediff MoneyWiz"
+        ]
+      },
+      {
+        "canonical_headline": "Anthropic says new safeguards sharply reduce AI distillation attacks",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Business Standard"
+        ]
+      },
+      {
+        "canonical_headline": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "SiliconANGLE"
+        ]
+      },
+      {
+        "canonical_headline": "Qualcomm sells nearly 1% stake in Shadowfax Technologies for Rs 157 crore",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Team Inc42"
+        ]
+      },
+      {
+        "canonical_headline": "Govt selects 19 fund managers under RDI, committing Rs 7,131 crore",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Anne Florentyna"
+        ]
+      },
+      {
+        "canonical_headline": "Bengaluru's Tessolve Semiconductor Secures $75 Mn From Vector Line Capital",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Equitypandit",
+          "Indian Startup Times",
+          "Anne Florentyna"
+        ]
+      },
+      {
+        "canonical_headline": "AI boom bolstered growth in global trade, benefiting China and India, IMF says - The Standard (HK)",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Deccan Herald"
+        ]
+      },
+      {
+        "canonical_headline": "Microsoft to scale in-house AI chips to multi-gigawatt deployments from 2027 - www.indiagazette.com",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com",
+          "India's News.Net"
+        ]
+      },
+      {
+        "canonical_headline": "Captain Shubham Kumar Wins Runner-Up Spot at Indian Army Terrier Cyberquest 2026 for RAKSHA.AI - Shop SSBCrack",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "SSBCrack"
+        ]
+      },
+      {
+        "canonical_headline": "Hero Electronix's chip design firm Tessolve Semiconductor raises $75 million from Vector Line Capital - Indian Startup News",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Manufacturing Today India",
+          "The Des Moines Register"
+        ]
+      },
+      {
+        "canonical_headline": "OpenAI's GPT-6 may lead to earlier robotics breakthrough: Unitree founder - South China Morning Post",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Tech Edition"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
