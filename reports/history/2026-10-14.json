@@ -1,0 +1,921 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-14",
+  "generated_at_ist": "14 Oct 2026, 11:55 AM IST",
+  "story_count": 5,
+  "briefing_word_count": 69,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Indian Embassy in Indonesia introduces",
+      "raw_headline": "Indian Embassy in Indonesia introduces AI avatar \"Dewi - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjBWZXFrNHZzc0ZKLVVDMlN6LW03RHh1dVJFZ3UtT0Vkd01BcTFBUzk2UXVId3dpVTFrdmh6ekFTVHVaZ0ZCeW9DdlNvajdIS1RINlVZWXpKZGdPX2JpNzJBMngtTE9WS1hGVTktXzl3VEVuXzYwa1VQcmxITFQwTkl2bUZYUFFKMWpZY05vckkwWVg2RHVnWTlGMVNxRWRD?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Big News Network.com",
+      "published_utc": "2026-10-14T01:30:00+00:00",
+      "published_ist": "14 Oct 2026, 07:00 AM IST",
+      "published_timestamp": 1791941400.0,
+      "description": "Indian Embassy in Indonesia introduces AI avatar \"Dewi Big News Network.com",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "LatestLY",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVV3SkhBSXJ1cnk1UFNVYjc4WE5ZT0pNdE53NG1IWXZnOHhBMTA2VkpDbGR1UDBfMFk1M24zTlpnRWY3cDVlMURILTBVV3lFT2JEN0NuR24td1VsYmNvaGxaVlJNa2tiMFZsY2RGcHZXQXBoYkl3djRNMTVGQjRvdkU0TV9PODR1aTRhLWhHc0pNSkVMVU4wamFqMFBZSTN1TV9sbEMwdi1IMUFiRk5SNUZhV3l1WGxQeE5r0gHAAUFVX3lxTFBNbS1PUVNOYVAyai1zNm1qdHlSamQ2V2dlaE81NEo2dU9Yd2JpbW5HbzZvM3ZNaEJOWlZCWFNuWUE5Zm9WTGVnOEFGSlAzZTNNWDlMRzluc01NSFVxVTNwd1U2eTdTQktQa2RYUWtzMmxiNFF4Z20xSnphTmtEQlpEZUtsOHROclNOOWhFRGJUQXhxd0s2QTZaY3Z0OENfMWFZZF8wTVlpTkdLSTBHdE1VbDVEYXFmaDVfMU9SMm0yVA?oc=5",
+          "headline": "Who Is 'Dewi'? Meet the AI Avatar Launched by Indian Embassy in Indonesia - LatestLY",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWW9Wc3hhTWh6YkRkTzNEeGRwbGQxMVBlVlktNHN6a2hVbjhncW5ZNmlqZWstamRSRDlPM2NUYjRCR0xXemFUVmFUNkU0SzVZa2xOTC1jWUJsNzlFN2V2SG5tMFZleDk0YU5ucnhRYmRFb0IydkZuLVBHbDhQR3hRLVNKWXlyWWFPaVNWbG1TbW5TcUFtNkRkM0xUTDVXNUlxM3ctVllFbTkzRzN0bl90dG9DbmZ0eTZsaUl2S1RpVmtqQWF4R1RyNnEtalRlYWNqOFHSAdcBQVVfeXFMTnF2M1ZNUVpkc3BVa0hfQ0hkd1g5ZVJJcVJKS2ZvX3VwSHR5T1lFb3NmbktDYWRoeFRBUmZsS3paYVYwMXFvbm5GNGoyS1ZzN2xfbVNrTXZIT1Z6V21TdUhxRmlHNUhlSVM4ZWQ0bENBNG5KV25DazZCcEtrb0gzRjdQWGVtZ21QN3NXR3RabGNmTmFUM3BxdFlxSUo0RnN1WkVHSWwtUE5oQW5XOUxBLVgxemx0WU9Gc0pIbVJsaFFHWTJRdldWSUlxTElvbW5HMnpXaHdnZW8?oc=5",
+          "headline": "Indian Embassy in Indonesia introduces AI avatar 'Dewi'",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8723,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.81,
+        "recency": 0.865,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.87 | India Rel: 0.81 (india, indian) | Cred: 1.0 | Recency: 0.865",
+      "rank": 1,
+      "explanation": "Indian Embassy in Indonesia introduces AI avatar.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "DRDO to Lead Semiconductor and",
+      "raw_headline": "DRDO to Lead Semiconductor and Next-Gen Chips Session at ESTIC 2026 in New Delhi - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1o5ZHJYVVN4TE82OGNXVzRxUWpubjByTmk0TFZnTHVuM29JV2U1T0xsdjE0S09PdmZ4ZkR0d3kwR0VFRWVDRy01c1lfYktWWVphNXphSWFMUXBhRks0MnVlUEFYRm5XWW4xWTFibm5mQk5jQW9YYUtuUnVCQUpoLURKOFpVaHFxZkRsZk4yTnVrR2p6Z3oxQUVaUQ?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "Indianmasterminds",
+      "published_utc": "2026-10-13T14:59:04+00:00",
+      "published_ist": "13 Oct 2026, 08:29 PM IST",
+      "published_timestamp": 1791903544.0,
+      "description": "DRDO to Lead Semiconductor and Next-Gen Chips Session at ESTIC 2026 in New Delhi Indianmasterminds",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "The Statesman",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkJxbHhudDF0eS1zSzhPLVBzR1lpNWNVS19NRVBRRktuUGo1VUlPTm45azhseVVwOXdIRU4yYkx6U05wQnREM0FudUlrcTg0ejQwa0p4WkdGSlJnVjMyVHNpSVdiWmhmaTZTaDRxR0ZER1B4clBhZExWdGtzc2dob2t3MW84UUVGNm9pcWVXNll5b0dDVGZVb3ZSMkg0aGplaGJyU2sxMUdaZDRGTzQ5YVVkYm_SAboBQVVfeXFMTWtlc2lxT0Nuc3lYOFp4S183amg5ZHROYTBKVFJUM2o3VnF1R3JQZmNxYXNydmd1OHJIcllRNk9EN3ZLRVRZVm02WWtPQk9SZER0NGt6amZjZkFuS3lackNRaVp3d1Raa2xVRVJCblg5OF9tdVE1akIxWU9Wb204cEpDYlNFamZXYmRIdDNXdFowS1F5UV9Mc0xIUnJuVTJBV3FseDFIeXVzM1d3SVYxM0Fka2F4bUc4VXdR?oc=5",
+          "headline": "DRDO to lead semiconductor, next-gen chips session at ESTIC-2026 - The Statesman",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.814,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.638,
+        "trend_momentum": 0.65,
+        "user_preference": 0.665,
+        "technical_significance": 0.7
+      },
+      "matched_india_keywords": [
+        "delhi",
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.81 | India Rel: 0.99 (delhi, india, indian) | Cred: 0.85 | Recency: 0.638",
+      "rank": 2,
+      "explanation": "DRDO to Lead Semiconductor and.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "bharatSetu: a 1M x 22",
+      "raw_headline": "bharatSetu: a 1M x 22 bridge for indic translation",
+      "url": "https://arxiv.org/abs/2610.15705",
+      "source": "arXiv Computer Science & AI",
+      "publisher": "Haq Nawaz Malik, Nahfid Nissar, Faizan Iqbal",
+      "published_utc": "2026-10-14T04:00:00+00:00",
+      "published_ist": "14 Oct 2026, 09:30 AM IST",
+      "published_timestamp": 1791950400.0,
+      "description": "arXiv:2610.15705v1 Announce Type: cross Abstract: India's Eighth Schedule recognises 22 languages, yet parallel data is uneven across them, and many language pairs, especially among lower-resource languages such as Bodo, Dogri, Santali and Kashmiri, lack direct bitext. We present BharatSetu 22-Indic 1M, a row-aligned table of 984,764 English sentences, each paired with machine translations into all 22 scheduled languages (21,664,808 Indic cells), generated with the sarvamai/sarvam-translate model family. Because every Indic cell in a row translates the same English sentence, any two columns fo",
+      "tier": "tier_1_primary",
+      "category": "Research Breakthroughs",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.AI",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.7943,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.55,
+        "recency": 0.93,
+        "trend_momentum": 0.4,
+        "user_preference": 0.545,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indic",
+        "bharat",
+        "sarvam",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.55 (indic, bharat, sarvam, india) | Cred: 1.0 | Recency: 0.93",
+      "rank": 3,
+      "explanation": "arXiv:2610.15705v1 Announce Type: cross Abstract: India's Eighth Schedule.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "A Sovereign, Indic-First, Reasoning Model",
+      "raw_headline": "A Sovereign, Indic-First, Reasoning Model",
+      "url": "https://arxiv.org/abs/2610.15371",
+      "source": "arXiv Computer Science & AI",
+      "publisher": "Sutanshu Saksena Raj, Prasanjith Pasunuti, Parijat Chatterjee, Daksh Maan, Purusharth Malik, Nayanjit Sarkar, Avinash Benki",
+      "published_utc": "2026-10-14T04:00:00+00:00",
+      "published_ist": "14 Oct 2026, 09:30 AM IST",
+      "published_timestamp": 1791950400.0,
+      "description": "arXiv:2610.15371v1 Announce Type: cross Abstract: Gnani-Evon-v3.3-30B-A3B is a long-context hybrid Mamba-Transformer mixture-of-experts model for reasoning, instruction following, and tool use in English and eight Indian languages. Starting from NVIDIA's Nemotron-3-Nano-30B-A3B checkpoint, it retains the 52-layer backbone and changes the vocabulary, training data, and post-training objectives. An in-place expansion from 131,072 to 163,072 tokens reduces mean Indian-language fertility by 38.6%. The new embedding rows are initialized from their upstream decompositions and warmed before the backb",
+      "tier": "tier_1_primary",
+      "category": "Research Breakthroughs",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.AI",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.7917,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.54,
+        "recency": 0.93,
+        "trend_momentum": 0.4,
+        "user_preference": 0.545,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "indic",
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (indic, india, indian) | Cred: 1.0 | Recency: 0.93",
+      "rank": 4,
+      "explanation": "arXiv:2610.15371v1 Announce Type: cross Abstract: Gnani-Evon-v3.3-30B-A3B is a.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "In-Place Indic Tokenizer Expansion and",
+      "raw_headline": "In-Place Indic Tokenizer Expansion and Continual Pretraining of Nemotron-3-Nano-30B-A3B",
+      "url": "https://arxiv.org/abs/2610.15373",
+      "source": "arXiv Computer Science & AI",
+      "publisher": "Avinash Benki, Prasanjith Pasunuti, Sutanshu Saksena Raj, Parijat Chatterjee, Nayanjit Sarkar, Daksh Maan",
+      "published_utc": "2026-10-14T04:00:00+00:00",
+      "published_ist": "14 Oct 2026, 09:30 AM IST",
+      "published_timestamp": 1791950400.0,
+      "description": "arXiv:2610.15373v1 Announce Type: cross Abstract: We adapted Nemotron-3-Nano-30B-A3B for eight Indian languages without changing its backbone architecture. We expanded the vocabulary in place from 131,072 to 163,072 entries using continued byte-pair encoding and AdaptMix rebalancing, reducing tokens per word by 38.6%. We initialized new input and output rows by averaging their original constituent rows, then trained them on 90% Indic and 10% English text before updating the backbone. Continual pretraining then progressed through broad training, high-quality annealing, and long-context training",
+      "tier": "tier_1_primary",
+      "category": "Research Breakthroughs",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.AI",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.7917,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.54,
+        "recency": 0.93,
+        "trend_momentum": 0.4,
+        "user_preference": 0.545,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "indic",
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (indic, india, indian) | Cred: 1.0 | Recency: 0.93",
+      "rank": 5,
+      "explanation": "arXiv:2610.15373v1 Announce Type: cross Abstract: We adapted Nemotron-3-Nano-30B-A3B.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 2333,
+    "total_after_lookback": 2154,
+    "canonical_events_count": 1780,
+    "eligible_events_count": 1780,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Correction Training for Diffusion Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Tejas Vaidhya, Gaurav Sahu, Irina Rish",
+          "Ignacy Stepka, Willa Potosnak, Kin G. Olivares, Artur Dubrawski"
+        ]
+      },
+      {
+        "canonical_headline": "SAT-RL: Training Language Models for Logical Reasoning with Symbolic Solvers",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jie Huang, Yuecheng Hong, Yao Chen, Hao Zhong, Linfeng Xiao, Xudong Liu, Hao Xia, Jianxuan Xin"
+        ]
+      },
+      {
+        "canonical_headline": "PEARL: Process-Experience Aware Reinforcement Learning for Multi-Turn Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Yuqian Fu, Kaiwen Jiang, Zijun Song, Jiawei Wang, Yuanheng Zhu, Dongbin Zhao",
+          "Tianyu Huai, Jie Zhou, Bo Mao, Qin Chen, Liang He, Xipeng Qiu"
+        ]
+      },
+      {
+        "canonical_headline": "Equal-information evaluation of credit assignment in modular financial reinforcement learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Guangcheng Zhu, Yingfan Ma, Xing Zheng, Haobo Wang, Shenzhi Yang, Kai Tang, Zhengqing Zang, Bowen Song, Weiqiang Wang, Gang Chen"
+        ]
+      },
+      {
+        "canonical_headline": "Probable but Not Valid: A Psychometric Audit of Decision Models as Synthetic Survey Respondents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Mantas Lukauskas, Viktorija \\v{S}arkauskait\\.e"
+        ]
+      },
+      {
+        "canonical_headline": "Self-Evolving Visual Agent via Margin Reward",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Chuyang Wei, Haoxiang Guan, Minghang Zhu, Kexin Zhou, Jiyan He, Xiren Zhou, Huanhuan Chen, Yifei Shen"
+        ]
+      },
+      {
+        "canonical_headline": "Structural Chain-of-Thought: Reasoning with Executable Computational Graphs",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Xinkai Chen"
+        ]
+      },
+      {
+        "canonical_headline": "Single-step Retrosynthesis via Reinforcement Learning from Forward Feedback",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Manith Adikari, Bei Peng, Samuele Vinanzi, Angelo Cangelosi"
+        ]
+      },
+      {
+        "canonical_headline": "HarnessNet: Feedback-driven Hierarchical Joint Harness Evolution for Multi-agent Systems",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Wei Wang, Shuanghe Liu, Zhu Zhuo, Jiaqi Zhong, Xiaozhao Zhao, Xiaojie Zuo, Jie Su"
+        ]
+      },
+      {
+        "canonical_headline": "SkillFusion: Towards Reliable Multi-Skill Composition for LLM Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Qiming Shi, Yibo Dou, Jiawen Zhu, Yulong Tao, Linbo Jin, Zhaolu Kang, Yunfan Zhou, Di Weng"
+        ]
+      },
+      {
+        "canonical_headline": "MedHarnessBench: A Unified Benchmark for Healthcare Agent Evaluation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Hui Huang, Jie Zhou, Hongli Zhou, Qundong Shi, Shuyuan Zheng, Yini Su, Shaochun Wang, Biyuan Lin, Muyun Yang, Tiejun Zhao"
+        ]
+      },
+      {
+        "canonical_headline": "Small but Mighty: Test Suites as Improvement Signals for Self-Evolving Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zixuan Xie, Chang Xu, Yuhua Jiang, Li Zhao"
+        ]
+      },
+      {
+        "canonical_headline": "Beyond Perfect Teammates: Multi-Agent Collaboration with Unreliable Colleagues",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Keru Chen, Sen Lin, Yingbin Liang, Nathaniel D. Bastian, Shaofeng Zou"
+        ]
+      },
+      {
+        "canonical_headline": "Recursive Environment Scaling for General Long-Horizon Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Hang He, Linting Wang, Guanming Liu, Bo Mao, Jinxiu Liu, Yiran Suo, Maosen Zhou, Zhiheng Xi, Guanting Dong, Zhou Shao, Rui Zheng, Jie Zhou, Chengcheng Wan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang",
+          "Jiazheng Zhang, Long Ma, Yunxian Yang, Zhiheng Xi, Zhikai Lei, Yajie Yang, Chenyang Liao, Enyu Zhou, Yang Nan, Yuchen Tian, Senjie Jin, Yibo Wang, Wei He, Boyang Liu, Jixuan Huang, Xin Guo, Shutong Jiang, Zhezheng Hao, Xinbing Liang, Zhihao Zhang, Changzhi Zhou, Wiggin Zhou, Tao Gui, Qi Zhang, Xuanjing Huang,  Clarenceai, Aiden Adams"
+        ]
+      },
+      {
+        "canonical_headline": "EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zirui Shang, Xin Shu, Yang Liu, Zhi Gao, Xinxiao Wu, Lifeng Fan"
+        ]
+      },
+      {
+        "canonical_headline": "RAP-WAM: Learning World-Action Models through Predictive Rehearsal and Action Perturbations",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yan Yang, Jikun Rong, Minzhao Zhu, Zheyi Zhao, Qirui Hu, Zihan Lan, Weixin Mao, Yinhao Li, Zhen Fu, Hua Chen"
+        ]
+      },
+      {
+        "canonical_headline": "Geospatial Vector Geometry as a Native Spatial Modality for Vision-Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Rong Li, Shijie Li, Jiangyong Huang, Lingdong Kong, Jiaming Zhou, Dongyue Lu, Zeying Gong, Baoxiong Jia, Junwei Liang, Siyuan Huang"
+        ]
+      },
+      {
+        "canonical_headline": "Beyond Successful Play: Diagnosing Opponent Modeling in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Pawel Olszowiec, Paulina Tomaszewska, Maciej \\.Zelaszczyk, Michal Byra, Neo Christopher Chung",
+          "Shanshan You, Zhengqi Wang, Hao Liu, Yuqin Liu, Ya He, Xin Hao, Liyuan Wang"
+        ]
+      },
+      {
+        "canonical_headline": "Learning to Play: Reinforcement Learning and Games",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Wenxuan Zhu, Shuming Liu, Bang An, Aznaur Aliev, Bing Li, Yibo Yang, Bernard Ghanem"
+        ]
+      },
+      {
+        "canonical_headline": "MAS-Gate: Unlocking Multi-Agent System Lifecycle via Node-Centric Quantification",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhenting Qi, Zhuokai Zhao, Rulin Shao, Kerem Oktar, Zhiyuan Yao, Himabindu Lakkaraju, Wen-tau Yih, Ansong Ni, Bhargavi Paranjape, Yilun Du"
+        ]
+      },
+      {
+        "canonical_headline": "Can Agents Truly Forget? Explore Machine Unlearning for LLM Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Bofan Xie, Chaokun Wang, Guanchen Ge, Songyao Wang, Fang Niu, Hang Zhang, Wei Wang"
+        ]
+      },
+      {
+        "canonical_headline": "Adaptive-Group Process Rewards for GUI Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Huining Yuan, Zelai Xu, Huaijie Wang, Xiangmin Yi, Jiaxuan Gao, Xiao-Ping Zhang, Yu Wang, Chao Yu, Yi Wu"
+        ]
+      },
+      {
+        "canonical_headline": "Learning Adaptive Deliberation Control for Reliable Recognition with Multi-Agent Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Awu Chen, Silang Wang, Yunge Wen, Jianing Yu, Zinab Eisa, Ana Julia Santos Lopes, Jas Brooks, Hiroshi Ishii, Paul Pu Liang",
+          "Pablo Loyola, Edison Marrese-Taylor, Andr\\'es Hoyos-Idrobo"
+        ]
+      },
+      {
+        "canonical_headline": "PaceReasoner: Label-Free Learning to Answer Briefly from Long Reasoning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhengyang Zhang, Zijian Zhang, Jiaxuan Gao, Shusheng Xu, Yi Wu, Song Han, Ligeng Zhu"
+        ]
+      },
+      {
+        "canonical_headline": "Seeing Depth but Choosing Cues in Vision-Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Hongxing Li, Yixin Li, Dingming Li, Zixuan Wang, Yuchen Yan, Wenqi Zhang, Weiming Lu, Yongliang Shen"
+        ]
+      },
+      {
+        "canonical_headline": "AReaL-RSI: Adaptive Scaling and Coordination of Recursive Self-Improvement",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Siwei Wu, Jincheng Ren, Yizhi Li, Haau-Sing Li, Chengran Yang, Xudong Ma, Yuxuan Zhang, Weicheng Gu, Jian Yang, Riza Batista-Navarro, Chuanyi Zhang, Xianglong Liu, Ming Zhou, Bryan Dai, Chenghua Lin"
+        ]
+      },
+      {
+        "canonical_headline": "LifeSearch: Benchmarking Deep Research Agents for Real-World Life and Productivity",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jun Nie, Zhiqin Yang, Zhenheng Tang, Yonggang Zhang, Xiaowen Chu, Xinmei Tian, Bo Han"
+        ]
+      },
+      {
+        "canonical_headline": "Choosing LLMs for Strategic Agent Interactions",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Linfeng Liu, Tiffany Zhan, Louie Hong Yao, Saptarshi Ghosh, Tianyu Jiang"
+        ]
+      },
+      {
+        "canonical_headline": "AgentStripes: An Evidence-Graded Maturity Model for AI Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Seungjun Yu, Hojun Choi, Seojeong Park, Jaeyo Shin, Hyunjung Shim"
+        ]
+      },
+      {
+        "canonical_headline": "BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Boxuan Zhang, jianing Zhu, Xiaotian Han, Ruixiang Tang"
+        ]
+      },
+      {
+        "canonical_headline": "Posterior Flow Matching",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zeqiao Li, Yijing Wang, Haoyu Wang, Zheng Li, Zhiqiang Zuo"
+        ]
+      },
+      {
+        "canonical_headline": "VH-GPO: Verified Handoff for LLM Agent Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 4,
+        "corroborating_publishers": [
+          "Nabuat Zaman Nahim, Fairoz Nower Khan, Peizhong Ju",
+          "Haolin Tian, Yikang Li, Tonghan Wang",
+          "Junhao Shen, Teng Zhang, Xiaoyan Zhao, Hong Cheng",
+          "Xin Wang, Wenhao Wu, Menghao Zhang, Zhi Wang, Kun Shao, Jian Luan"
+        ]
+      },
+      {
+        "canonical_headline": "PreSO: Privileged Representation Isolation for On-Policy Self-Distillation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yifei Liu, Minghao Fang, Xinyu Gu, Chengkai Yao, Mengdi Liu, Tengfei Ma, Jiangbin Zheng, Chang Yu, Zhangyang Gao"
+        ]
+      },
+      {
+        "canonical_headline": "OPMD: On-Policy Mechanism Distillation Beyond Output Supervision",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Wei Fan, Qingyue Yang, Chao-Hong Tan, Qian Chen, Wen Wang, Xiangang Li, Kejiang Chen, Weiming Zhang, Nenghai Yu",
+          "Yuran Wang, Zekun Wang, Bohan Zeng, Ruixu Zhang, Wenxuan Liu, Liu Yang, Yifan Dai, Yang Shi, Bozhou Li, Chengzhuo Tong, Daili Hua, Yuanxing Zhang, Wentao Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "A Geometric Perspective on Reward Function Updates in Inverse Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Mohammad Rezaei, Jens Lehmann, Sahar Vahdati"
+        ]
+      },
+      {
+        "canonical_headline": "Beyond Discrimination: Evaluating Probability Calibration in Radiomics-Image Fusion for Renal Cell Carcinoma Classification",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yuan Liang, Sourav Bhattacharjee, Abraham Campbell"
+        ]
+      },
+      {
+        "canonical_headline": "Do you \"see\" what I \"see\"? A Multi-panel Visual Question Answer Dataset for Large Language Model Chart Analysis",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yuchen Li, Zongqi Fan, Xintong Li, Ken-tye Yong, Nguyen H. Tran"
+        ]
+      },
+      {
+        "canonical_headline": "Specification-Based Testing of Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 4,
+        "corroborating_publishers": [
+          "Junkai Liang, Zhanpeng Guo, Pengfei Wu, Qingni Shen, Jiaheng Zhang, Zhonghai Wu, Haiyang Xue, Shengfang Zhai",
+          "Zhankai Ye, Bofan Li, Yukai Jin, Shuoqiu Li, Wei Wang, Yanfu Zhang, Shangqian Gao, Xin Liu",
+          "Star S. D. Liu, Xiyu Ding, Robert B. Barrett, Alberto Santamaria-Pang, Nic Dobbins, Harold P. Lehmann",
+          "Yichi Zhang, Zhiqi Wang, Neil Gong, Yuchen Yang"
+        ]
+      },
+      {
+        "canonical_headline": "Towards Merging-conditional Backdoor Unalignment against Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Samhita Bollepally, Aurora Sloman-Moll, Takashi Yamauchi, Neeka Motamedrasa"
+        ]
+      },
+      {
+        "canonical_headline": "Counterfactual Rollouts for Offline Contrastive Goal-Conditioned Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Fairoz Nower Khan, Nabuat Zaman Nahim, Peizhong Ju"
+        ]
+      },
+      {
+        "canonical_headline": "UDHRBench: Benchmarking Human Rights in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Junling Liu, Chao Liu, Peilin Zhou, Qichen Ye, Dading Chong, Kang Zhou, Yueqi Xie, Yuwei Cao, Shoujin Wang, Chenyu You, Philip S. Yu",
+          "Pei-lin Li, Qingle Liu, Junyang Feng, Siyu Li, Sunqi Fan, Xin-Sheng Chen, Shuojin Yang",
+          "Xinhao Wang, Junbo Cui, Zhenghao Liu, Yuan Yao, Xiaohua Li, Yu Gu, Ge Yu"
+        ]
+      },
+      {
+        "canonical_headline": "Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Junhao Shen, Chengzhi Piao, Zhanqiu Zhang, Yiwen Guo, Hong Cheng"
+        ]
+      },
+      {
+        "canonical_headline": "SurgiCLAW: An Interpretable Atomic-Skill Agent for Precision Robotic Micromanipulation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Kaiyuan Chen, Shuangyu Xie, Uksang Yoo, Xinyue Zhu, Cael Magner, Alvin Zhu, Daehwa Kim, Eric Heiden, Erwin Coumans, Miles Macklin, Spencer Huang, Ken Goldberg"
+        ]
+      },
+      {
+        "canonical_headline": "Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Renxi Wang, Bilal El Bouardi, Rifo Ahmad Genadi, Yongxin Wang, Shu Wang, Fajri Koto, Zhengzhong Liu, Timothy Baldwin, Haonan Li",
+          "Long Li, Zhijian Zhou, Tianyi Wang, Weidi Xu, Zuming Huang, Wei Chu, Zhe Wang, Shirui Pan, Chao Qu, Yuan Qi",
+          "Zhipeng Chen, Wayne Xin Zhao, Ji-Rong Wen"
+        ]
+      },
+      {
+        "canonical_headline": "Heuristics are Not Enough: Calibrated and Corrected Caching for Video Diffusion Acceleration",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Desen Sun, Jason Hon, Jintao Zhang, Sihang Liu"
+        ]
+      },
+      {
+        "canonical_headline": "VLA-GAUGE: Systematically Evaluating Generalization and Robustness in Vision-Language-Action Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Min Lin, Bokai Zhou, Jianqi Lin, Kaiyuan Yang, Yicheng Chang, Junjie Yu, Xiaofan Liu, Jianhua Han, Rui Li, Shen Zhao, Xiaodan Liang"
+        ]
+      },
+      {
+        "canonical_headline": "The belief-action gap in language model agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jonas Geiping"
+        ]
+      },
+      {
+        "canonical_headline": "I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yilong Wang, Cheng Qian, Edward Johns"
+        ]
+      },
+      {
+        "canonical_headline": "TStruct: Learning Shared Temporal Structures for Long-Term Time-Series Forecasting",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Federico Zucchi, Yi Xie, Chao Zhang, Thomas Lampert, Ziyue Li"
+        ]
+      },
+      {
+        "canonical_headline": "HaloBlock: Faster and Better Decoding for Diffusion Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Shuai Zhang, Zhanchao Zhou, Huachuan Qiu, Anqi Li, Zhenzhong Lan",
+          "Tianhao Ma, Weihao Xuan, Dong-Dong Wu, Farshid Nooshi, Takashi Ishida, Gang Niu, Naoto Yokoya, Masashi Sugiyama"
+        ]
+      },
+      {
+        "canonical_headline": "Correcting or Continuing? What On-Policy Distillation Learns from Student Errors",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Yu-Chien Tang, An-Zi Yen",
+          "Xin Li, Hao Jiang, Annan Wang, Yichi Zhang, Chau Yuen"
+        ]
+      },
+      {
+        "canonical_headline": "LLM2R: From Large Language Models to 3D Reassemblers",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yue Zhao, Zuobin Xiong, Xiyang Hu, Zhangyu Wang, Xiongye Xiao, Ruolin Li"
+        ]
+      },
+      {
+        "canonical_headline": "Does self-distillation improve reasoning?",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jiazheng Li, Yawei Li, Junru Lu, Zhenyi Shen, Di Yin, Lin Gui, Xing Sun, David R\\\"ugamer, Xinpeng Wang, Yulan He"
+        ]
+      },
+      {
+        "canonical_headline": "Kwai Summary Attention V2 Technical Report",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Dawei Han, Shidong Li, Shijia Liao, Jiahua Liu, Songting Liu, Qingzheng Wang, Yuxuan Wang, Xin Chen, Yifan Cheng, Tianyu Li, Gangin Park, Xuehao Yang, Chang Zeng, Haoyang Zhang, Ruoyi Zhang, Xiangyu Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "SEAR: Self-Evolving Agentic Robotics",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Bingxin Xu, Wenrui Bao, Xinxin Liu, Jiawei Zhou, Yuzhang Shang, Emilio Ferrara",
+          "Yuxuan Zhang, Cong Wei, Penghui Du, Bo Li, Junwen Miao, Huaisong Zhang, Songcheng Cai, Yubo Wang, Dongfu Jiang, Yuyu Zhang, Changqian Yu, Ping Nie, Wenhu Chen, Kelsey R. Allen"
+        ]
+      },
+      {
+        "canonical_headline": "Cite Pretrain: Retrieval-Free Knowledge Attribution for Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Peizhi Niu, Evelyn Ma, Boya Hou, Huiting Zhou, Duo Zhou, Huan Zhang, S. Rasoul Etesami, Olgica Milenkovic",
+          "Jeonghwan Kim, Renjie Tao, Sanat Sharma, Jiaqi Wang, Kai Sun, Zhaojiang Lin, Seungwhan Moon, Lambert Mathias, Anuj Kumar, Heng Ji, Xin Luna Dong",
+          "Xiao Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "e1: Learning Adaptive Control of Reasoning Effort",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Hui Xie, Jie Liu, Ziyue Qiao, Joaquin Vanschore"
+        ]
+      },
+      {
+        "canonical_headline": "Trajectory-Refined Distillation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yilan Chen, Zian Su, Manish Prajapat, Dingmin Wang, Rein Houthooft, Rui Song, Vijay Lingam"
+        ]
+      },
+      {
+        "canonical_headline": "GraphDecisionBench: Benchmarking System One Models on Graph Tasks",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jin Huang, Yutong Xie, Wanli Song, Xingjian Zhang, Owen Yang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei"
+        ]
+      },
+      {
+        "canonical_headline": "RCStat: A Statistical Framework for using Relative Contextualization in Transformers",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ekkehard Schnoor, Jawher Said, Malik Tiomoko, Wojciech Samek, Alexander Jung"
+        ]
+      },
+      {
+        "canonical_headline": "LoopQ: Quantization for Looped Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Dan Saunders, Benjamin Ren, Catherine He"
+        ]
+      },
+      {
+        "canonical_headline": "RoboGaze: Evaluating Robot World Models via Structured Vision-Language Analysis",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ang Li, Haofei Yu, Zhengwei Tao, Liang Chen, Kuan Li, Miaomiao Li, Chenran Cai, Bin Liang, Jiaxuan You, Kam-Fai Wong"
+        ]
+      },
+      {
+        "canonical_headline": "HarnessMDP: Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Peiqi Jiang, Fan Zhang, Xin Xu, Tianhao Chen, Can Yang"
+        ]
+      },
+      {
+        "canonical_headline": "Disclosure-Gated User Simulation for Companion-Agent Evaluation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yunan Lu, Ryan Shea, Yusen Zhang, Zhou Yu"
+        ]
+      },
+      {
+        "canonical_headline": "MoLE: Mixture of Latent Experts for Complementary Visual Reasoning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jeonghwan Kim, Sofia Stoica, Jiwan Chung, Ansel Blume, Hyeonjeong Ha, Zhenhailong Wang, Xin Luna Dong, Heng Ji"
+        ]
+      },
+      {
+        "canonical_headline": "FidelityQ: Preserving Predictive Fidelity in Ultra-Low-Bit Language Model Quantization",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Haotian Li, Liran Dong, Kaicheng Xiao, Guoliang Xing"
+        ]
+      },
+      {
+        "canonical_headline": "Rate-Resolved Text Evaluation with Masked Diffusion Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Ekaterina Alimaskina, Suren Kazarian, Gleb Molodtsov, Aleksandr Beznosikov",
+          "Jasper Dekoninck, Marc Fischer, Luca Beurer-Kellner, Martin Vechev"
+        ]
+      },
+      {
+        "canonical_headline": "Think Before You Speak: Enabling Training-Free Latent Communication Between Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Linquan Wu, Shichang Meng, Tianxiang Jiang, Haoyu Yang, Peng Zhong, Fengming Zhu, Xi Peng, Linqi Song, Jacky Keung, Jingyu Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "Label Collapse in Diffusion Language Model In-Context Learning",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yingqian Cui, Wei Deng, Lantao Mei, Hang Li, Charu C. Aggarwal, Hui Liu, Yue Xing"
+        ]
+      },
+      {
+        "canonical_headline": "PIG: Parallel Inconsistency Guidance for Accelerating Diffusion Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Huiyuan Lai, Xiao Zhang, Malvina Nissim"
+        ]
+      },
+      {
+        "canonical_headline": "Decouple to Forget: Semantic Mediation for Sensitive Unlearning in Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Victor De Lima, Jiqun Liu, Grace Hui Yang"
+        ]
+      },
+      {
+        "canonical_headline": "Are We Testing Too Much? A Survey of Benchmark Compression for Efficient Evaluation of Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shuo Cai, Yanggan Gu, Zihao Wang, Yuanyi Wang, Yibo Yan, Wenjun Wang, Yuhang Liu, Guanghao Zhu, Sirui Huang, Ming Li, Hongxia Yang"
+        ]
+      },
+      {
+        "canonical_headline": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Apple unveils the new Apple TV 4K, supercharged by Siri AI - Apple",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Apple 'Welcome Home' event today: Smart Home Hub, New HomePod Mini and Apple TV expected",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "US, India must deepen cooperation on AI, semiconductors for shared security: Gina Raimondo",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "ET Manufacturing"
+        ]
+      },
+      {
+        "canonical_headline": "Adani Enterprises, Jabil sign pact for AI, data centre hardware joint venture",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gaurav Bagur"
+        ]
+      },
+      {
+        "canonical_headline": "Indian Embassy in Indonesia introduces AI avatar \"Dewi - Big News Network.com",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "LatestLY",
+          "The Economic Times"
+        ]
+      },
+      {
+        "canonical_headline": "Adani And Jabil Partner To Manufacture AI And Data Centre Equipment In India - Rediff",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "The Economic Times",
+          "TradingView"
+        ]
+      },
+      {
+        "canonical_headline": "DRDO to Lead Semiconductor and Next-Gen Chips Session at ESTIC 2026 in New Delhi - Indianmasterminds",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Statesman"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
