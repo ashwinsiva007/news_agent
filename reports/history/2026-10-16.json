@@ -1,0 +1,472 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-16",
+  "generated_at_ist": "16 Oct 2026, 11:34 AM IST",
+  "story_count": 5,
+  "briefing_word_count": 99,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "AI Agents Accessed Indian Firms' Data Without Permission, Government Says - NDTV",
+      "raw_headline": "AI Agents Accessed Indian Firms' Data Without Permission, Government Says - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzJfdWZTM0dPR1UxTzRhTl9ydFl1Q0pkaUdZbjhQNEYwRUxNbGxCd1YzWFpYX2U5NG5CZFBBTzVwNXFySFVLYmNHZEFMSXV4Q1BiZFF6cjBzY05maFpEWGNRNjgyQ1JxWmVPQ0x3TXllamVRQjg3aWF4RmlWM2d4bUdRRXdaNm45OEFkVTZfcnpYSlFvY1UxMXJSVmg1WnJmZFJXLTVCTm5US2JkTXlyd1BnUm9sZHdTX3ZENDY4NUZEZ2fSAcsBQVVfeXFMTkJOYmR1c0NfQ3kxV01yTFJSbEVvVkVZZnRwYUp6WmdPNW5RTEdQYzdGSVpsTjJHWVFiWExkNTlCQ0RyaEowVG9pMUtJUGtJRjMtOXF5QzhuZWVYYXphSnpQNW1HZjVaZ21EUWF6cjFVaUJibFQ5YldHTEtOV2I4UWozOHRTWElDcXJUclpySmE4MGlEODFZU2lNS3FkRU1PcExMd195cDUyWmxvOS1Xdm1RcTZpRnlmUWJFMVVhbXlOeGp6UmRJYUZpZzQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "NDTV",
+      "published_utc": "2026-10-16T05:36:59+00:00",
+      "published_ist": "16 Oct 2026, 11:06 AM IST",
+      "published_timestamp": 1792129019.0,
+      "description": "AI Agents Accessed Indian Firms' Data Without Permission, Government Says NDTV",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7879,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.986,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.986",
+      "rank": 1,
+      "explanation": "AI Agents Accessed Indian Firms' Data Without.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "How GoDaddy is changing the way Indian SMBs use AI",
+      "raw_headline": "How GoDaddy is changing the way Indian SMBs use AI",
+      "url": "https://economictimes.indiatimes.com/tech/technology/how-godaddy-is-changing-the-way-indian-smbs-use-ai/articleshow/134983153.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-10-16T05:21:20+00:00",
+      "published_ist": "16 Oct 2026, 10:51 AM IST",
+      "published_timestamp": 1792128080.0,
+      "description": "Online presence for enterprises have become vital, and thankfully with the advent of AI, easier as well. While creating a website, branding, logos, and finding the right potential customers was a matter of expertise in yesteryears, it can now be done without having the relevant skills and/or resources. GoDaddy, as always, is leading the way!",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "scores": {
+        "composite": 0.7869,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.979,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.979",
+      "rank": 2,
+      "explanation": "Online presence for enterprises have become vital, and thankfully..",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Rogue Artificial Intelligence tools target Indian Corporate networks - prameyanews.com",
+      "raw_headline": "Rogue Artificial Intelligence tools target Indian Corporate networks - prameyanews.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFWmUwQmM4QVkwNEh2RTVxVzQ4VGtGVTg1ODVzejdHS1lRbXUtLXpqN241eml5UWV3LXphMUEwM0NxVmFBV3BGc0NFM0dJcW41bFZxTmlPZGY1R1dVSXgwY2RR?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "prameyanews.com",
+      "published_utc": "2026-10-16T05:17:19+00:00",
+      "published_ist": "16 Oct 2026, 10:47 AM IST",
+      "published_timestamp": 1792127839.0,
+      "description": "Rogue Artificial Intelligence tools target Indian Corporate networks prameyanews.com",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7866,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.977,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.977",
+      "rank": 3,
+      "explanation": "Rogue Artificial Intelligence tools target Indian Corporate networks prameyanews.com..",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indian Software Stocks Set to Beat AI Peers by Most in Decades",
+      "raw_headline": "Indian Software Stocks Set to Beat AI Peers by Most in Decades - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0hZX2NaQlhqQUFaaG16SFYtZV80M0lxRUxEeFNvNWVmQ2laU1o2NE02ZlpJY3U5bmpyREl3NnpGQTdwbGpsd3VGaDItNVJlTnJVMWVtaXk0TXFsU3gwc0JsMmRwNkRsT25BYllMNlhfdmdKTDdVSkhWWlZDUHZmR2tsQVRLd1k5VlA1WEFkY1VIY3NDNVUyVE5iT2dXcEdEUTZFUGtfdzE1TWhWZkI1bWg5OA?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Bloomberg",
+      "published_utc": "2026-10-16T02:41:00+00:00",
+      "published_ist": "16 Oct 2026, 08:11 AM IST",
+      "published_timestamp": 1792118460.0,
+      "description": "Indian Software Stocks Set to Beat AI Peers by Most in Decades Bloomberg",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7759,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.906,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.906",
+      "rank": 4,
+      "explanation": "Indian Software Stocks Set to Beat AI.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI agents accessed Indian firms' live systems during testing, read confidential data: CERT-In - Moneycontrol.com",
+      "raw_headline": "AI agents accessed Indian firms’ live systems during testing, read confidential data: CERT-In - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQ0pRbFF5N2xsNWxkNDBGc3hVY1o5elQ2OWRtRnlJbTNqb1J6OGNFMEdTS3NTU1h4X3pRMWowV1Vod3QtMU01SF9MbUd5WXphdjUxYk5NODg1YXN3ZVN0R1VRSWk1NTdSSjE5QlVBUnFVUmQxWVNEUHNTUzFJMzNsTGo0SUFvdThwNXQ0MjB3YzkwYk90cnR3MzluQkF3bGQwdUxjUVdmR2NuYWNlUE5WY0lUM3ozR3laWUkxS2doeHRwN2NNUFlwbU1jbnpCbEs2dmQtZE95dGxFc1ZOVlVzZUdReVpKaVpWYXZjWXhiWFNMaUVNWVVTbdIB_gFBVV95cUxPaHFoSUtNMC1ZMjVKMkdNUVhhUzhjN1hBMV9DdXgzNjRmdm5Kb3ZKc0dCVldNb05UR1ZvYzVRTHE4WXpxVjdraHpqOG8ybDNjazM4MGlkVkxORFU2T2lPR0FsVW50RUR5WTB2Vjc4ZFhaQTVYUk85NVdHRnhQWEpOdUpLcERBUXN1RFRYYjhudE52WDc1OEhlZF9NaHdlT21oVWZseE4wVDVEdXVSMUJhMVAweE9sb1JmUWpSVkRqQXF0c1dwTzVRcGxjQ1hFWDZZcTcyR3QyUkt6dnljRjV1cldHc2R1Zl9DQk1feUw3d0l5bG5VTWM0UTBGUDR3UQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Moneycontrol.com",
+      "published_utc": "2026-10-15T16:29:21+00:00",
+      "published_ist": "15 Oct 2026, 09:59 PM IST",
+      "published_timestamp": 1792081761.0,
+      "description": "AI agents accessed Indian firms’ live systems during testing, read confidential data: CERT-In Moneycontrol.com",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnEwS055RzROSEFOVzJDb0ZqUnViQWZhQklYMTEwVk9GSEZvb1NzMk94d2NiYWhUbzlsVGdlMDF6TEdQQkV3RXVVYXB6SDhkNDktaENfMU55OUhjUnpfS0h6ZzVXRERTdHdVM051ZUlzaFc4QThmVlctYU5qeXVLTWJ2dW1SdHVVNjduSkhhTUpzUGFvVDdVT0NuOUllMzBVVFVBT3JZRWVBQzlGeElia042cTBRUl9tUkhkMtIBwwFBVV95cUxQc0dfdXNtMmZiX1lxbFExUlJJMnFOMkFOM1lXeXA4aktGcE5NNTI3RzlWUTcyYlJsbUJ1Y25CdWpjSXlXbjFPRUg1ZGpQbHc0SHFFX3NDSmItSWNsb19LSjUzY3FOQXJGVVN0cF9XcGtzVUU2RG1oZjEyWEYtM1BCWEVkWnRHLURBNHpWQkswYmNjblFCSTZzLVY3VGRPZ1V0cUlRczZJMk5aSmpudndFLVNYdUxPTFgzVFdHY3JSMFVRQk0?oc=5",
+          "headline": "Bypassing firewalls, AI agents accessed data of Indian firms: CERT-In - The Indian Express",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7662,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.675,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.675",
+      "rank": 5,
+      "explanation": "AI agents accessed Indian firms’.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 1049,
+    "total_after_lookback": 833,
+    "canonical_events_count": 688,
+    "eligible_events_count": 688,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Probe-and-Resume: When and How to Evaluate Agent Execution",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sebastian-Antonio Toma, Jean de Kernier, Mike Ply, Oliviu Matei"
+        ]
+      },
+      {
+        "canonical_headline": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Haiwen Yi, Xinyuan Song"
+        ]
+      },
+      {
+        "canonical_headline": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Xiuhui Zhang, Ning Gao, Xingyu Jiang, Yihui Chen, Yuheng Pan, Mohan Zhang, Yue Deng",
+          "Tianxiang Fei, Jiazheng Kang, Mao Zheng, Xingyan He, Xiang Yu"
+        ]
+      },
+      {
+        "canonical_headline": "Condition-Contrastive Extrapolation for On-Policy Distillation of Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zaiquan Yang, Fei Wei, Yong Wang, Yudong Han, Yiyu Li, Zhuofan Zong, Gerhard Petrus Hancke, Xiangxiang Chu, Rynson WH Lau"
+        ]
+      },
+      {
+        "canonical_headline": "The Density of Thought: Predicting and Steering Reasoning in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Zixuan Liu, Nan Xue, Rui Bao, Yuhang Xu, Xiaofeng Cao, Jiangchao Yao, Zhiyong Chen",
+          "Jie Yu, Yuxi Sun, Zhaoxu Li, Chunxiao Liu, Xudong Jiang"
+        ]
+      },
+      {
+        "canonical_headline": "Constrained Multi-Agent Reinforcement Learning in Imagination",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yilong Xu, Minrui Xu, Xinyu Zhou, Xiang Long, Haochen Tan, Zhijiang Guo"
+        ]
+      },
+      {
+        "canonical_headline": "DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Haopeng Jin, Wenlong Zhao, Tao Yu, Tiankun Yang, Zhenyu Guan, ShiQuan Dong, Yujia Yang, Shani Ye, Chubin Chen, Hongzhu Yi, Jinwen Luo"
+        ]
+      },
+      {
+        "canonical_headline": "Learning from Interaction Experience via Localized Context Distillation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Feiyang Chen, Runze Ma, Zichen Wang, Jiong Lou, Zihan Wang, Shuangjia Zheng, Jie Li"
+        ]
+      },
+      {
+        "canonical_headline": "Functional Subnetwork Localization for Efficient Continual Learning in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jose H. Blanchet, T. Tony Cai, Xiang Li, Hao Liu, Qi Long, Weijie J. Su"
+        ]
+      },
+      {
+        "canonical_headline": "CARA: Causally Guided Retrieval Agent for Question Answering",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Fazle Mohammed Tasfiq, Sabab Attin, Sheikh Md. Tahmid Hossain, Raiat Reza, Tanzim Ahmmed, Nafis Chowdhury, Anika Ahmed, Moinul Haque, Farig Yousuf Sadeque"
+        ]
+      },
+      {
+        "canonical_headline": "Designing Transformers for Continuous Diffusion Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ya-Shi Zhang, Jian Tang, Pierre-Andr\\'e No\\\"el, Oleksiy Ostapenko"
+        ]
+      },
+      {
+        "canonical_headline": "Truth for Believable AI: Expressed Doubt, Provenance, and Belief Revision as an Engineerable Stance",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sebastian Cochinescu"
+        ]
+      },
+      {
+        "canonical_headline": "Interpreting Language Model Parameters",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Luke J. O'Connor"
+        ]
+      },
+      {
+        "canonical_headline": "ReasonUni: Reasoning-Augmented Reconstruction Advances Unified Multimodal Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Wenkai Li, Wenyi Hong, Zhuoyi Yang, Jie Tang"
+        ]
+      },
+      {
+        "canonical_headline": "Uncertainty Quantification in Pairwise Difference Learning for Classification",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Mohamed Karim Belaid, Maximilian Rabus, Eyke H\\\"ullermeier"
+        ]
+      },
+      {
+        "canonical_headline": "Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Yuechen Luo, Zhiyi Lai, Miao Ziqi, Zihang Xu, Jingxuan Xu, Songwei Yu, Wenqiang Zhu, Weihao Li, Junhao Fan, Haoyang Huang, Yanan Wu, Ken Deng",
+          "Qinglin Su, Licheng Pan, Zhen Fang, Jiakang Wang, Qingnan Ren, Yunsheng Lu, Yan Gao, Zhixuan Chu"
+        ]
+      },
+      {
+        "canonical_headline": "Training-Free On-Policy Distillation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yifei Liu, Minghao Fang, Xinyu Gu, Chengkai Yao, Mengdi Liu, Tengfei Ma, Jiangbin Zheng, Chang Yu, Zhangyang Gao"
+        ]
+      },
+      {
+        "canonical_headline": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ming Shin Cindy Sung, Duan Leijiahao, Haoxiang Wang, Boning Tan, Liangna Fu, Chao Tan, Yafu Li, Yulong Chen, Chaoqun Wan, Zhen Huang, Shuxian Liang, Xian-Sheng Hua"
+        ]
+      },
+      {
+        "canonical_headline": "ChaosBench-Logic: A Benchmark for Logical and Symbolic Reasoning on Chaotic Dynamical Systems",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Noel Thomas"
+        ]
+      },
+      {
+        "canonical_headline": "JEPA-DNA: Grounding Genomic Foundation Models through Joint-Embedding Predictive Architectures",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yuanpeng He, Ceyao Zhang, Fangjing Li, Kefei Zhu, Lijian Li, Yueheng Li, Tianjia He, Wenpin Jiao, Zhi Jin, Yaodong Yang, Yuanpei Chen"
+        ]
+      },
+      {
+        "canonical_headline": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Kalyan Bhetwal, Ceren Mert, Ian Whitehouse"
+        ]
+      },
+      {
+        "canonical_headline": "A primer on evaluation methods for large language models in healthcare",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Pengfeng Song, Yunkai Zhuang, Liye Shi"
+        ]
+      },
+      {
+        "canonical_headline": "Amazon's Bee launches two new personal AI devices, starting at $75",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Economic Times Tech & AI"
+        ]
+      },
+      {
+        "canonical_headline": "Meta and Apple team up to make Muse AI models run better on Macs",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Udaan's FY26 Revenue Rises 13% To ₹5,134 Cr, Loss Narrows To ₹852 Cr",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Palak Sharma"
+        ]
+      },
+      {
+        "canonical_headline": "[Update] Tonbo Imaging IPO Subscribed 4X On Day 1, NIIs Lead Demand",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gaurav Bagur"
+        ]
+      },
+      {
+        "canonical_headline": "AI agents accessed Indian firms' live systems during testing, read confidential data: CERT-In - Moneycontrol.com",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Indian Express"
+        ]
+      },
+      {
+        "canonical_headline": "Artificial intelligence may create more jobs than it replaces in India: Piyush Goyal",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "ETHRWorld.com"
+        ]
+      },
+      {
+        "canonical_headline": "India, Europe must jointly develop AI-driven automotive technology: Nasscom Vice Chairperson - www.irishsun.com",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Lokmat Times"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
