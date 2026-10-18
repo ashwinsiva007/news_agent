@@ -1,0 +1,289 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-18",
+  "generated_at_ist": "18 Oct 2026, 11:46 AM IST",
+  "story_count": 5,
+  "briefing_word_count": 54,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "IISc Bengaluru and BHASHINI Develop",
+      "raw_headline": "IISc Bengaluru and BHASHINI Develop AI Speech Models for Sourashtra Language - www.nationpathindia.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVdjOWF5NExUTkVaVUdMQUxGcGYycVpDTFlxaFl2RV9iWEtaMUxDalNrc25YdGUxNmZrVG54NHJlcnViWHhzMTMtdF9tMFB4ZDdxekotWWRYb2lSX19UN0pXcm5UaTZmTEl3aHdRbHJ6dDNGdGdMbnFHWWNVVk1pbl8zZWdmRTNzTllUckV2ejBiUTNV?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "www.nationpathindia.com",
+      "published_utc": "2026-10-18T05:04:31+00:00",
+      "published_ist": "18 Oct 2026, 10:34 AM IST",
+      "published_timestamp": 1792299871.0,
+      "description": "IISc Bengaluru and BHASHINI Develop AI Speech Models for Sourashtra Language www.nationpathindia.com",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.8324,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 1.0,
+        "recency": 0.966,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "bengaluru",
+        "iisc",
+        "bhashini"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 1.0 (india, bengaluru, iisc, bhashini) | Cred: 0.85 | Recency: 0.966",
+      "rank": 1,
+      "explanation": "IISc Bengaluru and BHASHINI Develop AI.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI race may depend more",
+      "raw_headline": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley - www.indiagazette.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGNLRzNJcS0zdUpWMXc1X2FMMVhyTE9zTWp3QjF1akhONE1JeUdrazZzZG9pSGx6NnRTUGd3cWRwUFJXRnZfVC0ybjUwWkVBYm9aVlYwVE5kTjVzdFNBMThYZXB5V1RYRWpCRWNhWnVROHBJREhvRnlFZTd2Z0cyQVpqX3RLb3FIMGliVFJmeWpGQVJMRjFOXzZYSnVodWktRzl2QXB3R3RTNFNsaHpuaFVtUzVEQW9ZQWZJcG5IUmUtbkJVWXBKRGdVTDlwZw?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "www.indiagazette.com",
+      "published_utc": "2026-10-17T06:35:00+00:00",
+      "published_ist": "17 Oct 2026, 12:05 PM IST",
+      "published_timestamp": 1792218900.0,
+      "description": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley www.indiagazette.com",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Livemint AI & Technology",
+          "publisher": "Livemint AI & Technology",
+          "url": "https://www.livemint.com/technology/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley-11792231459245.html",
+          "headline": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "ET Datacenters",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLWNWdy1vU2FSUDYwTV9IeDlROVhtcy1Mb0JzUGVaV0w5eUJLOTNGaFVOLTQ0OHZCM0M4S0paczkzbC05bjVYWWNTY0hOMnFaZWtLd2RkY0xjQ3NvSmQ4eVVYeGRvUmJ6bWx2Wjh5bTkwcFlTal83ck43djZBQVJSSzBiRDZSMEpfemVtWVE0M0RIaWJ2eFFXeXluQXBhNUMxVnJ1VGpTTGVMemRVZlZWNzEyN0dReENEd1l6bUo0UHVVZVoyUVI4emQ5YU5ZaDlGSGhIZjBORGVyS3BYaWVoUmF5VVhtRUpPaWNlRHVn0gHuAUFVX3lxTE0tY1Z3LW9TYVJQNjBNX0h4OVE5WG1zLUxvQnNQZVpXTDl5Qks5M0ZoVU4tNDQ4dkIzQzhLSlpzOTNsLTluNVhZY1NjSE4ycVpla0t3ZGRjTGNDc29KZDh5VVh4ZG9SYnptbHZaOHltOTBwWVNqXzdyTjd2NkFBUlJLMGJENlIwSl96ZW1ZUTQzREhpYnZ4UVd5eW5BcGE1QzFWcnVUalNMZUx6ZFVmVlY3MTI3R1F4Q0R3WXptSjRQdVVlWjJRUjh6ZDlhTlloOUZIaEhmME5EZXJLcFhpZWhSYXlVWG1FSk9pY2VEdWc?oc=5",
+          "headline": "AI race hinges on power, infrastructure over chips: Morgan Stanley - ET Datacenters",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.7813,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.504,
+        "trend_momentum": 0.85,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.504",
+      "rank": 2,
+      "explanation": "AI race may depend more.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Starlink, Jio & OneWeb: Untangling",
+      "raw_headline": "Starlink, Jio & OneWeb: Untangling The Satcom Queue",
+      "url": "https://inc42.com/features/starlink-jio-oneweb-untangling-the-satcom-queue",
+      "source": "Inc42 Indian Startups & AI",
+      "publisher": "Debarghya Sil",
+      "published_utc": "2026-10-18T05:30:39+00:00",
+      "published_ist": "18 Oct 2026, 11:00 AM IST",
+      "published_timestamp": 1792301439.0,
+      "description": "The irony was not lost on many. Around the same time as the internet in India’s national capital Delhi was…",
+      "tier": "tier_3_coverage",
+      "category": "Indian Startups & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://inc42.com/feed/",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Industry Coverage",
+      "credibility_score": 0.7,
+      "evidence_strength_score": 0.65,
+      "is_eligible": true,
+      "verification_rationale": "Reported by specialized industry media.",
+      "scores": {
+        "composite": 0.7667,
+        "credibility": 0.7,
+        "evidence_strength": 0.65,
+        "india_relevance": 1.0,
+        "recency": 0.978,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian",
+        "jio",
+        "delhi"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 1.0 (india, indian, jio, delhi) | Cred: 0.7 | Recency: 0.978",
+      "rank": 3,
+      "explanation": "The irony was not lost on many. Directly.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "'Dad, the internet at home",
+      "raw_headline": "‘Dad, the internet at home is too slow’: How Jio’s founding idea took shape",
+      "url": "https://economictimes.indiatimes.com/tech/technology/dad-the-internet-at-home-is-too-slow-how-jios-founding-idea-took-shape/articleshow/135009724.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-10-17T07:22:56+00:00",
+      "published_ist": "17 Oct 2026, 12:52 PM IST",
+      "published_timestamp": 1792221776.0,
+      "description": "Isha Ambani's concerns regarding poor household internet sparked important conversations about India's digital landscape, leading to transformative innovations. In response, Mukesh Ambani pioneered Reliance Jio in 2011, aiming to enhance mobile connectivity across the nation. Its launch in September 2016 revolutionized the telecom sector by offering affordable data and complimentary voice services.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "scores": {
+        "composite": 0.7624,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.516,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "jio",
+        "reliance"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.99 (india, jio, reliance) | Cred: 0.85 | Recency: 0.516",
+      "rank": 4,
+      "explanation": "Isha Ambani's concerns regarding poor.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Athletics In India, a series",
+      "raw_headline": "Athletics In India, a series on the next athletics super power, by Rupinder Singh, Updates 1-20 - RunBlogRun",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjk1VEp0MmxWMWRDMXdmb1dmOTdKQ0VTSWtyU1pRUmotNkJUaFNpUXA2OTlwNXQ3Ul9QLXZTVnF6RzBDNlNOZW02TGgxTHl0alUtc3N0OV96RTNaSTE0bzJNR0g1UHlZbUFrNTQ3cUJtbFc5LUw5bVNYWFdXODc0emNfdEVYX0NWeFlLR3NXSk83OXFBV3RrRS11azJ5ZG51cXd2eWNYRHhqMHZnRjFSZDZoNDVTb0VOZ2ZwdThvNmRSbTVaZHA0cmEybUQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "RunBlogRun",
+      "published_utc": "2026-10-17T20:50:51+00:00",
+      "published_ist": "18 Oct 2026, 02:20 AM IST",
+      "published_timestamp": 1792270251.0,
+      "description": "Athletics In India, a series on the next athletics super power, by Rupinder Singh, Updates 1-20 RunBlogRun",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7543,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.762,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "upi"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.81 (india, upi) | Cred: 0.85 | Recency: 0.762",
+      "rank": 5,
+      "explanation": "Athletics In India, a series.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 336,
+    "total_after_lookback": 79,
+    "canonical_events_count": 72,
+    "eligible_events_count": 72,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Meta removes language that may have allowed it to scrape news sites",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Anthony Ha"
+        ]
+      },
+      {
+        "canonical_headline": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley - www.indiagazette.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Livemint AI & Technology",
+          "ET Datacenters"
+        ]
+      },
+      {
+        "canonical_headline": "Burma Burma Parent Files DRHP For IPO With ₹150 Cr Fresh Issue",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gaurav Bagur"
+        ]
+      },
+      {
+        "canonical_headline": "Nielsen sees India as its primary global innovation engine: Report - MorungExpress",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "INDIA New England News"
+        ]
+      },
+      {
+        "canonical_headline": "Infineon signs 200mm SiC wafer supply deal with Wolfspeed - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
