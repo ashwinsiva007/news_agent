@@ -1,0 +1,295 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-19",
+  "generated_at_ist": "19 Oct 2026, 11:59 AM IST",
+  "story_count": 5,
+  "briefing_word_count": 60,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "KiranaBench: Can a Language Model",
+      "raw_headline": "KiranaBench: Can a Language Model Run a Neighbourhood Shop?",
+      "url": "https://arxiv.org/abs/2610.22980",
+      "source": "arXiv Computation and Language",
+      "publisher": "Bhuvan Arora, Ankita Karmakar, Chaitanya Jain, Dilesh Churiwal, Harshit Jain, Shivansh Manish Dubey, Manish Prasad, Raja Piyush, Kshitij Tayal, Dhruv Kumar, Jagat Sesh Challa, Raunak Manekar, Yash Sinha",
+      "published_utc": "2026-10-19T04:00:00+00:00",
+      "published_ist": "19 Oct 2026, 09:30 AM IST",
+      "published_timestamp": 1792382400.0,
+      "description": "arXiv:2610.22980v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly evaluated on long-horizon tasks, including autonomously running a business. Existing benchmarks for this setting are almost exclusively English-language, Western in retail context, and single-agent, with the agent observing the business directly. We study how these results transfer to a multi-agent Indic setting. We introduce KiranaBench, a simulated Indian general store in which four roles (manager, cashier, helper, and bookkeeper) are each played by a separate LLM agent. Interactions with custo",
+      "tier": "tier_1_primary",
+      "category": "LLMs & NLP",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.CL",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.7897,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.54,
+        "recency": 0.931,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.7
+      },
+      "matched_india_keywords": [
+        "india",
+        "indic",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (india, indic, indian) | Cred: 1.0 | Recency: 0.931",
+      "rank": 1,
+      "explanation": "arXiv:2610.22980v1 Announce Type: new Abstract: Large language model.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "He went from IIT Madras",
+      "raw_headline": "He went from IIT Madras to Stanford and built an AI startup that raised USD 9 million - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMWVoWm1YWXdRVFppd0VqWFpnTmhzVkRTYk5JdVhmS0kxd25iOTZUQ3RtZ3p5OFBxS240Tk5faENXRGJwVDRTYlZfT1IxTUNqNWpmX2EzNDU3LXhyaVpzWFFiRG1sN3FaeTUwQnhsSDZjaUwtMjg5eGhxX3diZThOVVRJOUFqb2pwTEUzQ1llTkRUZnNfMGtZUkVTTXhHdmhXT0pacHVEVUF2SC0zSHV1dzlEWnpBSzR6cFNGNFVQY3BPNHNVR05LWVpQQkt0bUhVMjh6cFphSzFwMFQ5NGoyS3g2UVFGeDBfV1NoNTQySUZPRGfSAfMBQVVfeXFMTjFlaFptWFl3UVRaaXdFalhaZ05oc1ZEU2JOSXVYZktJMXduYjk2VEN0bWd6eThQcUtuNE5OX2hDV0RicFQ0U2JWX09SMU1DajVqZl9hMzQ1Ny14cmlac1hRYkRtbDdxWnk1MEJ4bEg2Y2lMLTI4OXhocV93YmU4TlVUSTlBam9qcExFM0NZZU5EVGZzXzBrWVJFU014R3ZoV09KWnB1RFVBdkgtM0h1dXc5RFp6QUs0enBTRjRVUGNwTzRzVUdOS1laUEJLdG1IVTI4enBaYUsxcDBUOTRqMkt4NlFRRngwX1dTaDU0MklGT0Rn?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "India Today",
+      "published_utc": "2026-10-19T03:55:38+00:00",
+      "published_ist": "19 Oct 2026, 09:25 AM IST",
+      "published_timestamp": 1792382138.0,
+      "description": "He went from IIT Madras to Stanford and built an AI startup that raised USD 9 million India Today",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7876,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.929,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "iit",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (iit, india) | Cred: 0.85 | Recency: 0.929",
+      "rank": 2,
+      "explanation": "He went from IIT Madras.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Jio 6G Technology: 5 Exciting",
+      "raw_headline": "Jio 6G Technology: 5 Exciting Developments at IMC 2026 - thedigitalbriefnews.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82cEJtM1hXRHVXSVRaaHVVWUVkLUdDYTU3azdhZ0RkdUdpQmJ1RVBpSzNCNzdOUjVZMWVrY3ZqRTRNWU9lUHNna0FIazRETkt1eUszdG9rWmREQjNTb2VYVDh6MGpZTjRRdFow?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "thedigitalbriefnews.com",
+      "published_utc": "2026-10-19T04:11:54+00:00",
+      "published_ist": "19 Oct 2026, 09:41 AM IST",
+      "published_timestamp": 1792383114.0,
+      "description": "Jio 6G Technology: 5 Exciting Developments at IMC 2026 thedigitalbriefnews.com",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7804,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.936,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "jio",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (jio, india) | Cred: 0.85 | Recency: 0.936",
+      "rank": 3,
+      "explanation": "Jio 6G Technology: 5 Exciting Developments at IMC.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India roundup: Tata chip bets",
+      "raw_headline": "India roundup: Tata chip bets face execution test as India semiconductor ecosystem expands - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTE1OWGpPMjcyMmk3NGJuLU9QRTN1RFlVTXBFRFdkb2RYemljNHBxaGpvMDhPbUlDUDRmSEd5QTYtZ1R1cDdWNTZZMnpnNnNPOGh5SXp0dks5Q1lST0JLVVN0X3pDV0tBSjdMYlZCdzVaZ0JBRGczSzV1bHpLT3diNnVQN1ljTDJaZUYxS1hqZGVjWUJzalE?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "digitimes",
+      "published_utc": "2026-10-19T00:15:19+00:00",
+      "published_ist": "19 Oct 2026, 05:45 AM IST",
+      "published_timestamp": 1792368919.0,
+      "description": "India roundup: Tata chip bets face execution test as India semiconductor ecosystem expands digitimes",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7735,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.835,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.7
+      },
+      "matched_india_keywords": [
+        "tata",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (tata, india) | Cred: 0.85 | Recency: 0.835",
+      "rank": 4,
+      "explanation": "India roundup: Tata chip bets.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Nielsen Pivots Global R&D Strategy",
+      "raw_headline": "Nielsen Pivots Global R&D Strategy to India, Hub Generates 75% of Worldwide Product Innovation - indica News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFBBbFRCeGMtbGRBVmotbUNPVUhjQVFTR3MyVnVNYlR5Z3U2eTg5LTltcEtZN2R4ZU4xWk44RDBka2tXTEpnbGszOGpuR3h4T0NYcXBYM0gyaDdPZFFiNk1aX0FDdWV5RnRiZWRaTmdibDRyVC02U0VoMUNJYmR2SHY5czliMDRfbUFOaUNtcEJkUUFyazU2WGsydWpsNkd1TVVlazJpYTNjNkxZRDJoSS02M01iQQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "indica News",
+      "published_utc": "2026-10-18T23:05:38+00:00",
+      "published_ist": "19 Oct 2026, 04:35 AM IST",
+      "published_timestamp": 1792364738.0,
+      "description": "Nielsen Pivots Global R&D Strategy to India, Hub Generates 75% of Worldwide Product Innovation indica News",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7612,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.808,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indic"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (india, indic) | Cred: 0.85 | Recency: 0.808",
+      "rank": 5,
+      "explanation": "Nielsen Pivots Global R&D Strategy.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 605,
+    "total_after_lookback": 299,
+    "canonical_events_count": 289,
+    "eligible_events_count": 289,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Who Do Perspectivist Models Predict Well? Annotator Agreement, Sparsity, and Performance",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yinuo Xu, David Jurgens"
+        ]
+      },
+      {
+        "canonical_headline": "CoLU: Confidence-Weighted Layerwise Unlearning for Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sahil Kale, Ian Harris"
+        ]
+      },
+      {
+        "canonical_headline": "On the Position Bias of Large Language Models: A Comprehensive Study",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Benaya Trabelsi, Jonathan Shaki, Sarit Kraus"
+        ]
+      },
+      {
+        "canonical_headline": "Competence-Based Evaluation of Logical Reasoning in Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Hongxing Li, Jinyue Su, Dingming Li, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen"
+        ]
+      },
+      {
+        "canonical_headline": "LED: Improving Masked Diffusion Language Models by Lookahead Editing",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Roy Miles, Aysim Toker, Andreea-Maria Oncescu, Jiankang Deng, Ismail Elezi"
+        ]
+      },
+      {
+        "canonical_headline": "Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yunan Wang, Minghui Song, Zihan Zhang, Shaohan Huang, Haizhen Huang, Furu Wei, Weiwei Deng, Feng Sun, Qi Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "Only 8% of fund managers report improved investment returns from AI adoption: Morgan Stanley–Oliver Wyman",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Economic Times Tech & AI",
+          "Lokmat Times"
+        ]
+      },
+      {
+        "canonical_headline": "MeitY-backed conclave explores AI applications in healthcare, assistive technologies",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zee News"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
