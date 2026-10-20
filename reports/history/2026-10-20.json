@@ -1,0 +1,538 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-20",
+  "generated_at_ist": "20 Oct 2026, 11:46 AM IST",
+  "story_count": 5,
+  "briefing_word_count": 58,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "PM Modi to attend NDTV",
+      "raw_headline": "PM Modi to attend NDTV World summit in Delhi - Indian Broadcasting World",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLTI2UV9XLWJmWkg4M19pZWFzVWM5TlZ5bFVHTmxUMkpONnp6SXVNV0FOQ3J4X29NSTItSWNxTm96SW5YeDdfNld3UmVYcl9xLUptRi0wSjRpUU9qNXZKbkszR0YyellndlNuaWpuNzNZaHVyTUNoSk8zMEJ4QS05a1Jpb1ZjYU9LNFBZclp3?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Indian Broadcasting World",
+      "published_utc": "2026-10-20T00:30:12+00:00",
+      "published_ist": "20 Oct 2026, 06:00 AM IST",
+      "published_timestamp": 1792456212.0,
+      "description": "PM Modi to attend NDTV World summit in Delhi Indian Broadcasting World",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.8119,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.846,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "delhi",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.81 | India Rel: 0.99 (india, delhi, indian) | Cred: 0.85 | Recency: 0.846",
+      "rank": 1,
+      "explanation": "PM Modi to attend NDTV World.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Scaling Synthetic Pre-training Data and",
+      "raw_headline": "Scaling Synthetic Pre-training Data and Evaluation for Indic LLMs",
+      "url": "https://arxiv.org/abs/2610.26006",
+      "source": "arXiv Computation and Language",
+      "publisher": "Abhinav Khattar (NVIDIA), Aishwarya Chhabra (NVIDIA), Ameya Velingker (NVIDIA), Anusha Kamath (NVIDIA), Brandon Norick (NVIDIA), Kanishk Singla (NVIDIA), Kiran Praveen (NVIDIA), Markus Kliegl (NVIDIA), Mohammad Qazim Bhat (NVIDIA), Mostofa Patwary (NVIDIA), Niket Agarwal (NVIDIA), Rajpreet Thethy (NVIDIA), Ramani Akkati (NVIDIA), Raviraj Joshi (NVIDIA), Sai Nishanth Padala (NVIDIA), Shuoyang Ding (NVIDIA), Sriharsha Niverty (NVIDIA), Utkarsh Vaidya (NVIDIA), Vitaly Lavrukhin (NVIDIA), Yev Meyer (NVIDIA), Anoop Kunchukuttan (AI4Bharat), Mitesh Khapra (AI4Bharat), Mohammed Safi Ur Rahman Khan (AI4Bharat), Rudra Murthy (AI4Bharat), Sumanth Doddapaneni (AI4Bharat), Thanmay Jayakumar (AI4Bharat), Ujjwal Sharma (AI4Bharat)",
+      "published_utc": "2026-10-20T04:00:00+00:00",
+      "published_ist": "20 Oct 2026, 09:30 AM IST",
+      "published_timestamp": 1792468800.0,
+      "description": "arXiv:2610.26006v1 Announce Type: new Abstract: Building capable language models for India requires scalable multilingual data and robust evaluation. We introduce Nemotron-Pretraining-Indic-v1, a synthetic pretraining corpus of approximately 2.83 trillion tokens covering all 22 scheduled Indian languages in native script and twelve in romanized form. It is the largest openly released Indic pretraining corpus. Using our GPU-accelerated pipeline, we translate curated English documents, assess translation quality, and repair low-quality outputs while preserving technical content and document stru",
+      "tier": "tier_1_primary",
+      "category": "LLMs & NLP",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.CL",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.7928,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.55,
+        "recency": 0.935,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian",
+        "indic llm",
+        "indic"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.55 (india, indian, indic llm, indic) | Cred: 1.0 | Recency: 0.935",
+      "rank": 2,
+      "explanation": "arXiv:2610.26006v1 Announce Type: new Abstract: Building capable language.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI agents can pose insider",
+      "raw_headline": "AI agents can pose insider security risks even without being hacked: Microsoft - https://www.indiagazette.com/",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXRmVzFId2VhalVYQWM1OHdlYkl5dTY2UV9rS0F6eUZ4MUJiZ0tnMFo0QnJNM3JZYTRTeFVTZHgtUGJldDgxanNENXFVQU12UVVhMTR0RVM2YW5scU9TY2hmNzVwdzFnLXB0OGJyakt6RFdWZjR6eno0ZUViX0lrXy1ncklSTExibDgwUEgxMDBjRG1CeEpNNml6VE0wRWNPRzNCOEVVbWx1RjlSZ2RzR0hiU2g3Wlk4T0F6Tzd3?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "https://www.indiagazette.com/",
+      "published_utc": "2026-10-19T13:07:00+00:00",
+      "published_ist": "19 Oct 2026, 06:37 PM IST",
+      "published_timestamp": 1792415220.0,
+      "description": "AI agents can pose insider security risks even without being hacked: Microsoft https://www.indiagazette.com/",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Livemint AI & Technology",
+          "publisher": "Livemint AI & Technology",
+          "url": "https://www.livemint.com/technology/ai-agents-can-pose-insider-security-risks-even-without-being-hacked-microsoft-11792428341042.html",
+          "headline": "AI agents can pose insider security risks even without being hacked: Microsoft",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Lokmat Times",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmk1QnJaZmNHN2k2c2pfTkI4R29iMHFYZUl2STlvV1JqSFVSSkdaUlllZ3ZHOXFvcnRZSy1lbktVUTBpdXdGNjdCWXUyYmFKQzdwcWwtT2JYcXJaMUFicHg3b0dzZ1M4czdBTVI1VERmaHBvSnRwRmtTZkhxSFRfTFVTQkpMc2ZvQXlmSDBaTGFBLVhZaUFWOWFXNDE5dzcxNjFPajN2WHppM3pUVUo0QzdJcWZmZ1RldWN30gHAAUFVX3lxTE5sblR0REJoWl9uMEFuVndEaU9OcHp6T0lxVUs4RVBiT1FiVUV3RV9BNUh0YWVsQTExbS03NHNEOGZCUGxXOTd1dk0wcG1yWld6QmJqd0xSZzN0dEwxb1BCc215OEp6Rk1NYUV5SHdRamIyWWs0am5LbDA1WjhpbWc2dkV3YU1sajhycTJ0LTl3OGUxY3ZCVDF5YkFOZDRMdnhfWXdZRmJYZ3NoNFVWSkZBcVBCdXdTdjJvN1NmRUVxNA?oc=5",
+          "headline": "Microsoft Warns: AI Agents Can Create Internal Security Risks Even Without Hacking - Lokmat Times",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.7889,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.609,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.609",
+      "rank": 3,
+      "explanation": "AI agents can pose insider.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indore To Host MP Semiconductor",
+      "raw_headline": "Indore To Host MP Semiconductor Summit 2026 On October 23–24, Over 50 Companies To Participate | VIDEO - Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZzhYNHlHNzVKQ2ZDN0ZUZ3NicFJEQnlVNHZ5cTRKYUNlWS10WThkbHZCNndOQVh2end3c3NoS2hOcmtwejZLaUtlQ2xxeTlHMjlwWlRzWDFNT2FkcU80UlRWVFBBcHh1TkZEY19DYkRRMFg4WENmUElIUjBRYjR4ZXJvTUxybzFNNFNsbmpOQWVheUxjdEJQVmVaYUJGbmpzZjFaX3g5YWRaTFZFVlZoME1MNnpBWkR4NFY1U1JJQjhWbDZid1dCd2JhajF1d0Qwd3lYNHhmOULSAdgBQVVfeXFMUGc4WDR5Rzc1SkNmQzdGVGdzYnBSREJ5VTR2eXE0SmFDZVktdFk4ZGx2QjZ3TkFYdnp3d3NzaEtoTnJrcHo2S2lLZUNscXk5RzI5cFpUc1gxTU9hZHFPNFJUVlRQQXB4dU5GRGNfQ2JEUTBYOFhDZlBJSFIwUWI0eGVyb01Mcm8xTTRTbG5qTkFlYXlMY3RCUFZlWmFCRm5qc2YxWl94OWFkWkxWRVZWaDBNTDZ6QVpEeDRWNVNSSUI4Vmw2YndXQndiYWoxdXdEMHd5WDR4ZjlC?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "Free Press Journal",
+      "published_utc": "2026-10-19T08:20:46+00:00",
+      "published_ist": "19 Oct 2026, 01:50 PM IST",
+      "published_timestamp": 1792398046.0,
+      "description": "Indore To Host MP Semiconductor Summit 2026 On October 23–24, Over 50 Companies To Participate | VIDEO Free Press Journal",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Indian Masterminds",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDNGMnlQbTFHR25uNFZ2QzJsVGVJY21nY1AzVE1TMVI1a284Z3BfX0dURnBoUzkwdmZTUEI2a205WmZ0U1pwbWtnWVlmM0pIblRSY0pfV0N5aVZCWkFkT254UVlucThBNmdGU2RTcjdKYTVEQUtLbWJFeWo0bzdKb1lkYmtncG9wTWZRU0dHRE9sS3lT?oc=5",
+          "headline": "Madhya Pradesh Semiconductor Summit 2026: Indore to Host 50+ Companies on October 23-24 - Indian Masterminds",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "The Tribune",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmVjdnoxTDdIcGxvMzBYNmpLTGtqU2lZc01LVFVTYmtzZ2pkQklsM0lpcVN6VW4tQk11UzJSSldwZjRXcFdZZGQ2SkwyMmJWRTFyV1FwTm5MRmVycDZiR3lHb2Y0d1diU2hGSzFjSzZMVGc4aWQ2NEZaNjVvakxFTzU1Zks2UFNWclhaQUIweWQ1U09KYlQ2MzBhSnh0RlRTaUo2WtIBqAFBVV95cUxOLVRwUm4xRV90TVUxNUU3anZ3R0ZwRkZMc043SEtuZjh6dzBELXhhN2RoY2VadXhvb3RMV0hNQVdfWFpra3FTZ2R2YS1SN29yNFFfU2YzTUMtbWJJM0dvNVczd0R6dGVZN0lvYmFaUXlRckktWWVBVWFzeXlUUmxvR051Z1E1SmcwZTdOMmp1eWpDYW90dDlLRXBJWlhQM0pqVWtnSWp6VTk?oc=5",
+          "headline": "Indore to host Semiconductor Summit on October 23-24 - The Tribune",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.7853,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.53,
+        "trend_momentum": 0.85,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.53",
+      "rank": 4,
+      "explanation": "Indore To Host MP Semiconductor.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "IIT BHU to launch India's",
+      "raw_headline": "IIT BHU to launch India's first school of Physical AI: Here's what students need to know about Robotics and Autonomous Systems - Education Times",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQVAwMm5nVzhjX0p6UElBQjlkY2FXWFFnOFNMMzJySjV4WktWNXpDZUdCQVpVYVdPb1VtRjlkWnlabVZQd0NER3R5YjJKa3FZZURJTkxMeDNSMm5scndXeEpicW9OZjBOX0FsNVlFY0JvcnZIc1JuMGFuZGx3Z2E2blNCRTB3cjJaa3N2SjBoM2RmcXQxR0dHYjhzajZNVlJZLUZhNlNLZlhBUmZUNlVkbENnaGRqdVE1RkkxR1hlUUdhMVpJQXoyNnlnc1cwbC10VDQ4ZFA3bVdiOTV3aEVYVDU5QXkwUlhOd0h3ck5tYkhEZ3ozYW9peFJjTHdMQ25XMWNkRlp2VFVzX1B1Wmg3UWFneHhTZFZz?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Education Times",
+      "published_utc": "2026-10-20T03:30:00+00:00",
+      "published_ist": "20 Oct 2026, 09:00 AM IST",
+      "published_timestamp": 1792467000.0,
+      "description": "IIT BHU to launch India's first school of Physical AI: Here's what students need to know about Robotics and Autonomous Systems Education Times",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7783,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.922,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.7
+      },
+      "matched_india_keywords": [
+        "india",
+        "iit"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, iit) | Cred: 0.85 | Recency: 0.922",
+      "rank": 5,
+      "explanation": "IIT BHU to launch India's.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 1595,
+    "total_after_lookback": 1368,
+    "canonical_events_count": 1147,
+    "eligible_events_count": 1147,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Training-Free Prompt Selection for Efficient Reinforcement Learning With Partial Rollouts",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhaonan Li, Zelei Cheng, Amritansh Mishra, Chia-Hsuan Lee, Mann Patel, Sambit Sahu, Ben Zhou, William M. Campbell"
+        ]
+      },
+      {
+        "canonical_headline": "MemPrice: Online Memory Allocation via Adaptive Pricing for Long-Horizon Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Song-Li Wu, Jingyi Wang, Zhaocheng Du, Weinan Gan"
+        ]
+      },
+      {
+        "canonical_headline": "CoworkEnv: Synthesizing Training Environments for Long-Horizon Cowork Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Lingxiao Jing, Zhengbo Jiao, Yichen Xiang, Bofan Zhu, Lingbei Meng, Yan Ni, Haorui Chen, Ran Ran, Zhirong Shen, Yuheng Yang, Chenhang Cui, Yaosong Du, Rui Huang"
+        ]
+      },
+      {
+        "canonical_headline": "Global probabilistic forecasting of air pollution",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Aakriti, Manoj Cherukumalli, Prathamesh Patil, Leonidas Tsepenekas, Amit Varshney, Penghang Liu, Elizabeth Fons, Vamsi Potluru",
+          "Yiheng Wang, Kai Zheng, Yuetan Lin, Fanglu Fan, Chenliang Tao, Guochao Chen, Hongliang Zhang, Hao Li"
+        ]
+      },
+      {
+        "canonical_headline": "Map-Distribution Mixture-of-Experts for Multi-Agent Pathfinding",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Matthias Eder, Pantelis Emmanouil, Vivek Farias, Fabian Fischer, Adam Jozefiak, Tianyi Peng, Thomas Ulz, Raphael Watschinger, Fangyu Wu, Andrew Zheng"
+        ]
+      },
+      {
+        "canonical_headline": "WhatIf-Bench: Benchmarking Intervention-Aware Time Series Forecasting",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sarkar Snigdha Sarathi Das, Palash Goyal, Mihir Parmar, Nanyun Peng, Vishy Tirumalashetty, Chun-Liang Li, Rui Zhang, Jinsung Yoon, Tomas Pfister"
+        ]
+      },
+      {
+        "canonical_headline": "Client-Aware Security Adaptive Early Exit Vision Transformers for Heterogeneous Federated Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Xinyuan Zhao"
+        ]
+      },
+      {
+        "canonical_headline": "BLANC: Adaptive Temporal Scheduling for Sign Language Production",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sen Fang, Liwei Che, Dimitris N. Metaxas"
+        ]
+      },
+      {
+        "canonical_headline": "Which Long Documents Matter? A Controlled Study of Data Selection for Context Extension",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yongchao Long, Chunrui Zheng, Yuxuan Zhou, Guangkun Nie, Tian-Chi Ma, Chao Pang, Shuohuan Wang, Yuchen Ding, Xianbin Wen, Dianhai Yu, Junyuan Shang, Yuxi Zhou, Shenda Hong"
+        ]
+      },
+      {
+        "canonical_headline": "DiffuPlan: Editable Planning State for Diffusion Language Model Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Renxi Liu, Yiming Li, Shengyin Sun, Chen Chen, Xian Wang, Shuai Yang, Huiling Zhen, Xianzhi Yu, Yaoyuan Wang, Weizhe Lin, Xiaosong Li"
+        ]
+      },
+      {
+        "canonical_headline": "UpLoop: Upcycling Large Language Models with Gated Loop",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Mikhail Salnikov, Hai Le, Olga Tsymboi, Ivan Lazichny, Dmitrii Iarosh, Egor Cheremiskin, Andrey Savchenko, Dmitry Simakov, Alexander Panchenko"
+        ]
+      },
+      {
+        "canonical_headline": "ReTrace: Visual Backtracking for Efficient Multimodal Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Peter Bohm, Saimunur Rahman, Abdelwahed Khamis, Sagun Man Singh Shrestha, Chris McCool, Peyman Moghadam",
+          "Soroush Seifi, Vaggelis Dorovatas, Lin Li, Yarin Gal, Rahaf Aljundi"
+        ]
+      },
+      {
+        "canonical_headline": "Auto-MD-bench: Evaluating Autoresearch Agents for Real-World Medical Tasks",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Yi Zhu, Xiongwei Wu, Qiyi Wang, Tingyu Qu, Jiajun Liu, Sihan Cao, Long Chen, Weigao Sun, Feida Zhu, Yiran Zhong, Steven Hoi",
+          "Zijian Cai, Haowei Liu, Kailai Chen, Lin Peng, Cong Wan, Ziqi Zhang, Chunfeng Yuan, Bing Li, Weiming Hu, Haiyang Xu"
+        ]
+      },
+      {
+        "canonical_headline": "MapSteal: Map-based Autonomous Knowledge Stealing Attack Against Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Albert Qin, Jonathan Cohen, Gautam Reddy"
+        ]
+      },
+      {
+        "canonical_headline": "Keep the Lineages Alive: Diversity-Preserving SMC for Diffusion LLM Decoding",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Minoo Ahmadi, Seyedarmin Azizi, Erfan Baghaei Potraghloo, Mehdi Kamal, Massoud Pedram"
+        ]
+      },
+      {
+        "canonical_headline": "PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shenli Zheng, Zhou Fang, Yuan Du, Yijiang Liu, Li Du"
+        ]
+      },
+      {
+        "canonical_headline": "Nash-MOPD: Optimizing Task Trade-offs in Multi-Teacher On-Policy Distillation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Liu Kaiyuan, Zhuang Ziyuan, Ma Haoxuan, Gu Yannian, Song Mingfei, Weng Rongxiang, Ye Jieping"
+        ]
+      },
+      {
+        "canonical_headline": "Robotic Photography System based on Vision-Language-Action Model",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Yuxuan Wu, Guangming Wang, Zhiheng Yang, Tianchen Deng, Maoqing Yao, Brian Sheil, Hesheng Wang",
+          "Shengyu Si, Yuanzhuo Lu, Ruimeng Yang, Ziyi Ye, Zuxuan Wu, Yu-Gang Jiang"
+        ]
+      },
+      {
+        "canonical_headline": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Runsheng Chen (Technical University of Munich, Germany), Yihong Liu (LMU Munich, Germany, Munich Center for Machine Learning, Germany), Raoyuan Zhao (LMU Munich, Germany, Munich Center for Machine Learning, Germany), Michael A. Hedderich (LMU Munich, Germany, Munich Center for Machine Learning, Germany), Hinrich Sch\\\"utze (LMU Munich, Germany, Munich Center for Machine Learning, Germany), Matthias Grabmair (Technical University of Munich, Germany)"
+        ]
+      },
+      {
+        "canonical_headline": "ADIAS: Automated Design of Interactive Agentic Systems",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jian Zhou, Sihao Lin, Jin Li, Shuai Fu, Gengze Zhou, Qi Wu"
+        ]
+      },
+      {
+        "canonical_headline": "VERDI:Verified Contradictions for Continual World-Model Optimization",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yifan Zhang, Liang Zheng, Qifan Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "Cascade Failure Attribution for Multi-Agent Systems",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Abhinav Kumar, Rediet Abebe, Eugene Bagdasarian, Sahar Abdelnabi"
+        ]
+      },
+      {
+        "canonical_headline": "Forecast-PEFT: Parameter-Efficient Fine-Tuning for Pre-trained Motion Forecasting Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Minglei Li, Peng Ye, Haonan He, Jingqi Ye, Qingyu Yang, Tao Chen"
+        ]
+      },
+      {
+        "canonical_headline": "IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jiwoo Hong, Shao Tang, Zhipeng Wang"
+        ]
+      },
+      {
+        "canonical_headline": "ICAT: Incident-Case-Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Xiang Liu, Kunwei Wu, Miao Liu, Sen Cui, Changshui Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "Dual-Slot: From Serial Loops to Parallel Slots in Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Anshun Asher Zheng, Weili Cao, Fangcong Yin, David Beaver, Junyi Jessy Li"
+        ]
+      },
+      {
+        "canonical_headline": "FisherEdit: Fisher Information Guided Knowledge Editing for Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yu Fu, Seongho Son, Ilija Bogunovic"
+        ]
+      },
+      {
+        "canonical_headline": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Economic Times Tech & AI"
+        ]
+      },
+      {
+        "canonical_headline": "Apple to host 'Pro and tell' event on October 28 in LA",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "AI agents can pose insider security risks even without being hacked: Microsoft - https://www.indiagazette.com/",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Livemint AI & Technology",
+          "Lokmat Times"
+        ]
+      },
+      {
+        "canonical_headline": "[Update] Tonbo Imaging IPO Closes With 135.9X Oversubscription",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Anne Florentyna"
+        ]
+      },
+      {
+        "canonical_headline": "FM Sitharaman flags global capital moving towards US, AI-linked markets as a 'concern' for India in 2027",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "CAclubindia"
+        ]
+      },
+      {
+        "canonical_headline": "Amazon says its AI chips will work with PyTorch coding language, challenges Nvidia - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      },
+      {
+        "canonical_headline": "Indore To Host MP Semiconductor Summit 2026 On October 23–24, Over 50 Companies To Participate | VIDEO - Free Press Journal",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Indian Masterminds",
+          "The Tribune"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
