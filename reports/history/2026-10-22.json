@@ -1,0 +1,434 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-22",
+  "generated_at_ist": "22 Oct 2026, 11:50 AM IST",
+  "story_count": 5,
+  "briefing_word_count": 51,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "In absence of sovereign buyers,",
+      "raw_headline": "In absence of sovereign buyers, Indian chip firms find clients in Japan, EU",
+      "url": "https://www.livemint.com/technology/india-semiconductor-industry-tata-electronics-kaynes-semicon-cg-semi-chip-manufacturing-11792512225371.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-10-22T03:30:15+00:00",
+      "published_ist": "22 Oct 2026, 09:00 AM IST",
+      "published_timestamp": 1792639815.0,
+      "description": "Tata Electronics, Kaynes Semicon and CG Semi are pursuing overseas customers as domestic semiconductor demand remains limited, highlighting the gap between India’s chipmaking ambitions and commercial scale.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.8232,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.921,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.7
+      },
+      "matched_india_keywords": [
+        "indian",
+        "tata",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.82 | India Rel: 0.99 (indian, tata, india) | Cred: 0.85 | Recency: 0.921",
+      "rank": 1,
+      "explanation": "Tata Electronics, Kaynes Semicon and CG.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI-led IPOs may add up",
+      "raw_headline": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXZ4TUNfUkFjQkZFajdtcEh1cU9pY3dSZzc5bFVrOWZwaG1wMGpEZGJleXFJZHhRLTlLdmw0ZWFxMFd1T2Y3VkJVWlhaOUZmWXdXaW9KZG1RTUgxbVBYNlE5bmxPMmJmdjM3aHVRWmk4RVZ2dHhzM1RGc2hfVW5BTjRWV2lwcTM5T3M4QU5aWGo1clFUZUVUYkF3VGFPU2pFN0ttZDc3VUltTkNLZjRCdmpOZS1qRTlFTjNjNlZjNUNKUUJTbHhqWld6aXd6RkFsZHowTmt2SdIB3AFBVV95cUxNemY1cnJYaUYzQmFLRlV1RklHR3NXaTdobTZJM1h5cWpyWDB4RUpJcjFsMjMwWEtpQ3pkeldtMjN6di1icmVpWUIwaHlZN3p2WG8yRldEZ1NBUzhfTHR3VUFNTHVWTmVCZUl6RjQwUzh4bU5WUWVld1lzMEcxMkNVc2VYbjNlUjZlYkVyWU9ieUtXRHZZSERQaDM2WVNJS1BaMnQtdnluWUZZUzZjLVY5WGk1NGxHUVlTdWlrbkozZGdCOUE3UTdzRzRzM0xFVG9SMXdTaGM0QmtSSW5l?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Business Standard",
+      "published_utc": "2026-10-21T06:21:24+00:00",
+      "published_ist": "21 Oct 2026, 11:51 AM IST",
+      "published_timestamp": 1792563684.0,
+      "description": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs Business Standard",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "NewsBytes",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVJ2cGlZYk8wVnJURTRnMkhic2tueUh1VkI0ZGVwaG43RGE0dE42cDRLYWJJaFp1ZXQ5cHFiVGk0MkExU2d5clZzNVRFMXlRaGJyUzdsOTdjR3NtdWYtc2M3TFZ6MnhCR0tLcDc2Q0JRTkZMemdhOTdhWmRSTDFmWS15Yldsd0JVQUpsUUFsR2IxVzdyWXpOZ3V6dW9CZDQ?oc=5",
+          "headline": "AI IPOs could add $100B to India's stock-market: Goldman Sachs - NewsBytes",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Free Press Journal",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHJUQ3RqckdJcmVrYm9vU2FGZFpqMDBvaFRCRVlNaXozSzE0S2dFSzVzN3JyNlVNSjRBSmJ3ckVTVGxMMmJZSVVwaU5LTnpURlBZN2tNVXIwSmtUQ051cU16VGJHOE1oLUNtQjdlblpuV3dqYVM3NFA3NjloRFlSaTJkMXZoX3l2aS1Lb0NLQnlkT0dwbVhsT3I5YTJPS0lqdjZaMXF4OXpnNnlQN0hBQXZGRllyQ0dNYl9Jc3lBZmJMLUHSAcgBQVVfeXFMTUVYYWVaMHBJbXdGQ0JHVnM4eWxORjFWVWplZGl1c1p6NDJ2YjdsbUtQSlJhR1ZFNFE4bmFtaVc0MVNkc2p1dUFIcmZYUmpQNmFwdVkxQ3EtZ0NYcGgzSjdrN284S0tYNlZlcWxQTDlVNUhVVnRoZHJkNlp5U1Y2djFqaktiU0phLW15Q2dJa3k5Z1hJeXhYNkFrQldVaThOYkF1NGh1TW4zTGFVZk0zWktUa3BuOTVjaFM2ZUx2UlhLTkI0Tm9fMzc?oc=5",
+          "headline": "AI IPO Boom Could Add $100 Billion To Indian Stock Market In Five Years: Goldman Sachs - Free Press Journal",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Indian Startup Times",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWWxXTnhwc3l4Y25sbmNGNVBjRjAzWUlHUVA0ZFZDRUpLc3cxQlp4bmE4UzdSOHczNGNMSTNocTl4dHhKbjZVbzRxWUFmNDZQNV9teWpXbVkxUUNXekxFUkNRWS1SY1BhMVQ0aE9FZ01kSFNlWXo5Q1R6cXBJX2RDd2RfQm5qblhQOFdfNjVqc3pFOXZ5d0t1ZlBjRlFaYjJ3UEhOd05id0lDRm5zWG11SkozWGlxbGU1bDMtUDhobDAzV1JhSklzSnl3dXE1NUQwVGxVeDAzQ3ExLUQtR1hDY3k3bmJKQUZ1TTFSWlhEMk85REhlMVVkUERR?oc=5",
+          "headline": "Goldman Sachs: PE Funding in Indian AI Startups Triples Since 2024, IPO Pipeline Could Add $100 Billion in Market Capitalisation - Indian Startup Times",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "The Statesman",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOXRSUy1tYnN0V0Nvam1ab0Y5dEhHVVhyd2hjUU84eE1aa3J1eE5pYURjdi12LTJYRTFYTEtkX3dlb0ZFcHd6bHRHYWRnNWZYcG91NFU0eS1nMkRxSGRMYXZaNmR6Q0htSGFPMGx5MmZINno0YnB4MUtIYmt6RWNXaEk4SzBsZk9iRFdMX0pCejM1cEhmM2c4MWJXTmRHTEZVZ1djdF9nLVBMdThyWDNwbWloWlpYdEF5LVJWajhLSWhVdnRSMFHSAcYBQVVfeXFMTzl0UlMtbWJzdFdDb2ptWm9GOXRIR1VYcndoY1FPOHhNWmtydXhOaWFEY3Ytdi0yWEUxWExLZF93ZW9GRXB3emx0R2FkZzVmWHBvdTRVNHktZzJEcUhkTGF2WjZkekNIbUhhTzBseTJmSDZ6NGJweDFLSGJrekVjV2hJOEswbGZPYkRXTF9KQnozNXBIZjNnODFiV05kR0xGVWdXY3RfZy1QTHU4clgzcG1paFpaWHRBeS1SVmo4S0loVXZ0UjBR?oc=5",
+          "headline": "AI IPO wave may add $50-100 billion to India's market cap: Goldman Sachs - The Statesman",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 4,
+      "cluster_size": 5,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 5 independent news organizations.",
+      "scores": {
+        "composite": 0.7875,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.5,
+        "trend_momentum": 1.0,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.5",
+      "rank": 2,
+      "explanation": "AI-led IPOs may add up.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "eMudhra security incident: MeitY orders",
+      "raw_headline": "eMudhra security incident: MeitY orders probe, says impact on Indian websites and apps was limited; details here",
+      "url": "https://www.livemint.com/technology/tech-news/emudhra-security-incident-meity-orders-probe-says-impact-on-indian-websites-and-apps-was-limited-details-here-11792599679180.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-10-21T16:57:31+00:00",
+      "published_ist": "21 Oct 2026, 10:27 PM IST",
+      "published_timestamp": 1792601851.0,
+      "description": "MeitY has ordered a probe into the eMudhra security incident involving eight compromised digital certificates. The ministry said the impact on Indian websites and apps was limited and clarified that domestic digital signature services were not affected.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7869,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.679,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india",
+        "meity"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.99 (indian, india, meity) | Cred: 0.85 | Recency: 0.679",
+      "rank": 3,
+      "explanation": "MeitY has ordered a probe.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "eMudhra breach: Netizens react as",
+      "raw_headline": "eMudhra breach: Netizens react as IT Ministry says impact on Indian sites ‘very limited’",
+      "url": "https://economictimes.indiatimes.com/tech/technology/emudhra-breach-netizens-react-as-it-ministry-says-impact-on-indian-sites-very-limited/articleshow/135107533.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-10-22T04:46:37+00:00",
+      "published_ist": "22 Oct 2026, 10:16 AM IST",
+      "published_timestamp": 1792644397.0,
+      "description": "Cybersecurity agency CERT-In warned that the compromised keys could let attackers issue fraudulent certificates for domains they do not control, impersonate legitimate websites and carry out attacks that intercept or modify encrypted communications.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "scores": {
+        "composite": 0.7833,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.955,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.955",
+      "rank": 4,
+      "explanation": "Cybersecurity agency CERT-In warned that.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Karmayogi Bharat, OpenAI Partner to",
+      "raw_headline": "Karmayogi Bharat, OpenAI Partner to Train Indian Civil Servants in Artificial Intelligence - The420.in",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkxxdHZlczZuNDJCWkJsT0hZZzZLTUhVM3lOUC1EZlZXOXVvX3dNMm56czQ1NFM5TzRzOWsyRDNjVnliWUlOV1JOS1huMFJZYlZSWDdDQ0h1VjJLQWpZdHR6dkpQczdHMzQ1WFc3bEl6elY3YjVDSExBQlNpSENpYVhnOHl5SzR0bFc1VEtn?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The420.in",
+      "published_utc": "2026-10-21T10:20:49+00:00",
+      "published_ist": "21 Oct 2026, 03:50 PM IST",
+      "published_timestamp": 1792578049.0,
+      "description": "Karmayogi Bharat, OpenAI Partner to Train Indian Civil Servants in Artificial Intelligence The420.in",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7692,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.561,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "bharat",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.99 (indian, bharat, india) | Cred: 0.85 | Recency: 0.561",
+      "rank": 5,
+      "explanation": "Karmayogi Bharat, OpenAI Partner to.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 961,
+    "total_after_lookback": 756,
+    "canonical_events_count": 636,
+    "eligible_events_count": 636,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Parul Gupta,  Satwik, Avni Aggarwal, Bhavesh Gurnani, Arnab Kumar Mondal, Dinesh Khandelwal, Dinesh Garg, Parag Singla",
+          "Koshiro Saito, Daisuke Oba, Danushka Bollegala, Naoaki Okazaki"
+        ]
+      },
+      {
+        "canonical_headline": "UserSWE: Evaluating Coding Agents in Multi-Turn Conversations with Dynamic Users",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Lorenz Brehme, Benjamin Steenhoek, Ruth Breu"
+        ]
+      },
+      {
+        "canonical_headline": "Offline Apprenticeship Learning for Human-Centric Environments",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ge Qu, Jinyang Li, Xiaohan Xu, Xiaolong Li, Bowen Qin, Nan Huo, Ziwei Tang, Chenhao Ma, Reynold Cheng"
+        ]
+      },
+      {
+        "canonical_headline": "Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Fei Bai, Huatong Song, Chuan Hao, Ran Tao, Jian Yang, Bryan Dai, Wayne Xin Zhao, Ji-Rong Wen"
+        ]
+      },
+      {
+        "canonical_headline": "Value-Rectified Distillation for Flow-based Offline Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Boyang Xu, Qing Zou, Siqin Yang, Hao Yan",
+          "Chang-Hoon Jeong, Kisung Shin, Hanwool Sul, Byoung-Tak Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "GRAFT: Restoring the Missing Sampling Interface in Continuous Diffusion Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yejin Lee, Ungsik Kim, Yo-Sub Han"
+        ]
+      },
+      {
+        "canonical_headline": "RegoMender: A Multi-agent Framework for Automated Rego Policy Repair",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ziyao Zeng, Hao Wang, Chen Liu, Youheng Yao, Jingcheng Ni, Tianyu Liu, Xiatao Sun, Fengyu Yang, Chenyu You, Xiaofeng Liu, Daniel Rakita, Ronald R. Coifman, Yuval Kluger, Zhiwen Fan"
+        ]
+      },
+      {
+        "canonical_headline": "Retrieval Augmented Generation Compositionality",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Yiyang Duan, Fan Wu, Tiantong Wu, Che Wang, Zhiren Gong, Wei Guo, Yang Cao, Wei Yang Bryan Lim",
+          "Ethan Zhao, Maksym Taranukhin, Wei Cui, Moira Aikenhead, Vered Shwartz"
+        ]
+      },
+      {
+        "canonical_headline": "Energy-Based Transfer for Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "T. Y. Tsui, Zihao Ye, Pengxiang Cai, Yanchao Li, Yuqiang Li, Zhehong Ai"
+        ]
+      },
+      {
+        "canonical_headline": "Disentangling generalization and memorization in large language models using chess",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ahmad Dawar Hakimi, Kaiwei Lei, Isabelle Augenstein, Hinrich Sch\\\"utze"
+        ]
+      },
+      {
+        "canonical_headline": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Hojin Jeon, Jimin Lee, Taekwan Kim, Nayoung Oh, Taeyoung Kim, Myungkyu Koo, Jinmo Koo, Joonwoo Ahn, Jinwoo Shin"
+        ]
+      },
+      {
+        "canonical_headline": "Language Impairment as a Lens onto Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Federico Marcuzzi, Martin Christoph, Iryna Gurevych, Alla Rozovskays"
+        ]
+      },
+      {
+        "canonical_headline": "Qwen-Audio-3.1-ASR Technical Report",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Markus Krimmel, Louis Milliken, Ekaterina Glazkova, Maximilian Schall, Antoine Chaffin, Sedigheh Eslami, Jonas Golde, Denis Bykov, Claire Beamer, Jeremy Yang, Bo Wang"
+        ]
+      },
+      {
+        "canonical_headline": "Meta sued in Australia class action over alleged social media harm to children",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Eternal Q2 Results: Profit soars 92% YoY to Rs 125 crore; revenue zooms 78%",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Akshit Pushkarna"
+        ]
+      },
+      {
+        "canonical_headline": "Enterprise AI Startup AuxoAI Nets $20.7M To Strengthen Its FDE Team",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gaurav Bagur"
+        ]
+      },
+      {
+        "canonical_headline": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs - Business Standard",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 4,
+        "corroborating_publishers": [
+          "NewsBytes",
+          "Free Press Journal",
+          "Indian Startup Times",
+          "The Statesman"
+        ]
+      },
+      {
+        "canonical_headline": "PepsiCo India scales AI, automation across farm-to-shelf operations - Storyboard18",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "CRN Asia"
+        ]
+      },
+      {
+        "canonical_headline": "India's AI Boom Could Add $100 Billion to Market Value Through IPOs - Newstrack English",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "IANS LIVE"
+        ]
+      },
+      {
+        "canonical_headline": "TSMC plans 3nm chip manufacturing in second Japan factory - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      },
+      {
+        "canonical_headline": "BASF expands Taiwan semiconductor materials capacity for sub-2nm chips - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}

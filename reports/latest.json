@@ -2,180 +2,180 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-10-21",
-  "generated_at_ist": "21 Oct 2026, 11:46 AM IST",
+  "report_date": "2026-10-22",
+  "generated_at_ist": "22 Oct 2026, 11:50 AM IST",
   "story_count": 5,
-  "briefing_word_count": 69,
+  "briefing_word_count": 51,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "Aixtron's Q3 orders double, exceed",
-      "raw_headline": "Aixtron's Q3 orders double, exceed market expectations - electronics.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEI5YU9wdWZ2Ykx2S3RxVmZ3SFlSUEU1YXlJMmNadHkyVFZhZGtKeE1tdFN2REVHMURTYnRlTF80YkRRTTdnV25oak9JVEhlTS1qOEoyeU9DbW9DRUdZaGtpeXBFZHZWME9xMi1wamllYmFxM2x3Z0p3N3hVRjYtTkJZenJYR3VVcWVNQ0NaLTc2dENweFZ5ZEJNT1FSZGN1YzFhaEJHYzNmOWgxVzY0eG8tcjFmSjNOWm9kMTZWOW1rSkZDY1JpYW9jV2EyUdIBzgFBVV95cUxNVEI5YU9wdWZ2Ykx2S3RxVmZ3SFlSUEU1YXlJMmNadHkyVFZhZGtKeE1tdFN2REVHMURTYnRlTF80YkRRTTdnV25oak9JVEhlTS1qOEoyeU9DbW9DRUdZaGtpeXBFZHZWME9xMi1wamllYmFxM2x3Z0p3N3hVRjYtTkJZenJYR3VVcWVNQ0NaLTc2dENweFZ5ZEJNT1FSZGN1YzFhaEJHYzNmOWgxVzY0eG8tcjFmSjNOWm9kMTZWOW1rSkZDY1JpYW9jV2EyUQ?oc=5",
-      "source": "Google News: India Semiconductor Chips",
-      "publisher": "electronics.economictimes.indiatimes.com",
-      "published_utc": "2026-10-21T01:50:24+00:00",
-      "published_ist": "21 Oct 2026, 07:20 AM IST",
-      "published_timestamp": 1792547424.0,
-      "description": "Aixtron's Q3 orders double, exceed market expectations electronics.economictimes.indiatimes.com",
+      "headline": "In absence of sovereign buyers,",
+      "raw_headline": "In absence of sovereign buyers, Indian chip firms find clients in Japan, EU",
+      "url": "https://www.livemint.com/technology/india-semiconductor-industry-tata-electronics-kaynes-semicon-cg-semi-chip-manufacturing-11792512225371.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-10-22T03:30:15+00:00",
+      "published_ist": "22 Oct 2026, 09:00 AM IST",
+      "published_timestamp": 1792639815.0,
+      "description": "Tata Electronics, Kaynes Semicon and CG Semi are pursuing overseas customers as domestic semiconductor demand remains limited, highlighting the gap between India’s chipmaking ambitions and commercial scale.",
       "tier": "tier_2_reputable",
-      "category": "Semiconductors & Hardware",
+      "category": "India Tech & Economy",
       "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVGItQjRYN1J3OU84eFp4ZC1yZE83YnlSNlY3RVJoQ3p4VjNaYnJQMnRKNkh1RG9sNV93QVZjMzNNLWplbEtGOUFwc1BOUzZCS09hdkQzN0o4czkta1dNU0VpY1ZCTW5Xa2RjVERxcFNzSHVSRzk3RTFvT2ttcm1hRXc5Z3k4WWF6N0pLRTFFYnVxMjNwbmh4WGFYWi1KWlRXbGE4czFtSVkybGFfRWIyMEI1NzVHMFhIQnRZNkFMaHVTUjJ5a0p0QktfZkg2SVU3WjFpdDhrQmFyMWdYTTA2LW1DUVJRV0pWNnlIVTJkUEVpbjBHaGc?oc=5",
-          "headline": "Japan's $21 billion US chip bet raises questions over its own semiconductor revival - electronics.economictimes.indiatimes.com",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnZfMUpHblpESHlYVVE4ZGNFWTBWSDBvQnJBaEpIaTVBT1J0XzZiWjhXMTRpeU52Vkt2TkM0M2l0RjZRX2pzVlN6NTMwTm4wb3dIUDQ5N21fVlk3RnBsaUN4RTRKMTFmSjhKM3QtNXphV01nNXVHWDJOendIeTFIWldmaHluc1pYSTdFQnhWT1R6NWh4LVVwQmNBQm9EbXN2aFdFWkozUnNhaGt1WGE1bFAxRS1rMmdDVl9vbEtSa3BMOHpyYkhHZEtMaWJvSWkx0gHUAUFVX3lxTE15QWNjTDVrNWZkekdjODZkWU11TkE0Z0diT0pKSldQa0pXV1VHYVZsRnk4NUM2bzYwaGxsMVZVeXBHTHlEWGdGQUl0dWRnMHRYR29OYXk1VDZUMHNiNjc1RTRoUUlURURxcURfMnpSaVdEaThTTGNUWFFRcjJYTkVDTGNvUHExT292SWRXQ0NkQmJUQVNVc21YNHFfUkk4U3c1dFpYTzNCa2pmb2FVanlFSk5aWnQ1c0hRVUNXdzUtUThySTQxU0g2S1huT3BDa3pUMEJv?oc=5",
-          "headline": "TSMC plans 3nm chip manufacturing in second Japan factory - electronics.economictimes.indiatimes.com",
-          "tier": "tier_2_reputable"
-        }
-      ],
-      "corroboration_count": 2,
-      "cluster_size": 3,
-      "verification_status": "Corroborated (Multi-Source)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 0.9,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
       "scores": {
-        "composite": 0.8376,
-        "credibility": 1.0,
-        "evidence_strength": 0.9,
-        "india_relevance": 0.63,
-        "recency": 0.879,
-        "trend_momentum": 0.85,
-        "user_preference": 0.665,
-        "technical_significance": 0.4
+        "composite": 0.8232,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.921,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.7
       },
       "matched_india_keywords": [
+        "indian",
+        "tata",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.84 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.879",
+      "ranking_rationale": "Composite: 0.82 | India Rel: 0.99 (indian, tata, india) | Cred: 0.85 | Recency: 0.921",
       "rank": 1,
-      "explanation": "Aixtron's Q3 orders double, exceed market expectations electronics.economictimes.indiatimes.com..",
+      "explanation": "Tata Electronics, Kaynes Semicon and CG.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Scaling Synthetic Pre-training Data and",
-      "raw_headline": "Scaling Synthetic Pre-training Data and Evaluation for Indic LLMs",
-      "url": "https://arxiv.org/abs/2610.26006",
-      "source": "arXiv Computation and Language",
-      "publisher": "Abhinav Khattar (NVIDIA), Aishwarya Chhabra (NVIDIA), Ameya Velingker (NVIDIA), Anusha Kamath (NVIDIA), Brandon Norick (NVIDIA), Kanishk Singla (NVIDIA), Kiran Praveen (NVIDIA), Markus Kliegl (NVIDIA), Mohammad Qazim Bhat (NVIDIA), Mostofa Patwary (NVIDIA), Niket Agarwal (NVIDIA), Rajpreet Thethy (NVIDIA), Ramani Akkati (NVIDIA), Raviraj Joshi (NVIDIA), Sai Nishanth Padala (NVIDIA), Shuoyang Ding (NVIDIA), Sriharsha Niverty (NVIDIA), Utkarsh Vaidya (NVIDIA), Vitaly Lavrukhin (NVIDIA), Yev Meyer (NVIDIA), Anoop Kunchukuttan (AI4Bharat), Mitesh Khapra (AI4Bharat), Mohammed Safi Ur Rahman Khan (AI4Bharat), Rudra Murthy (AI4Bharat), Sumanth Doddapaneni (AI4Bharat), Thanmay Jayakumar (AI4Bharat), Ujjwal Sharma (AI4Bharat)",
-      "published_utc": "2026-10-21T04:00:00+00:00",
-      "published_ist": "21 Oct 2026, 09:30 AM IST",
-      "published_timestamp": 1792555200.0,
-      "description": "arXiv:2610.26006v1 Announce Type: new Abstract: Building capable language models for India requires scalable multilingual data and robust evaluation. We introduce Nemotron-Pretraining-Indic-v1, a synthetic pretraining corpus of approximately 2.83 trillion tokens covering all 22 scheduled Indian languages in native script and twelve in romanized form. It is the largest openly released Indic pretraining corpus. Using our GPU-accelerated pipeline, we translate curated English documents, assess translation quality, and repair low-quality outputs while preserving technical content and document stru",
-      "tier": "tier_1_primary",
-      "category": "LLMs & NLP",
-      "is_india_focused": false,
-      "raw_feed_url": "https://rss.arxiv.org/rss/cs.CL",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Verified (Primary Source / Paper)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 1.0,
-      "is_eligible": true,
-      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
-      "scores": {
-        "composite": 0.7928,
-        "credibility": 1.0,
-        "evidence_strength": 1.0,
-        "india_relevance": 0.55,
-        "recency": 0.935,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.55
-      },
-      "matched_india_keywords": [
-        "indic",
-        "india",
-        "indic llm",
-        "indian"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.55 (indic, india, indic llm, indian) | Cred: 1.0 | Recency: 0.935",
-      "rank": 2,
-      "explanation": "arXiv:2610.26006v1 Announce Type: new Abstract: Building capable language.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Tenstorrent raises $1.5 billion, valuation",
-      "raw_headline": "Tenstorrent raises $1.5 billion, valuation doubles to $6.2 billion - electronics.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOU43ZUpRenpXcC1jVF91eW5ZUUJ2TDFDNVlsT05rUnVScEdjQjVNcGhoSmNaNFRDbDd0ekdzSHhYdm1zQkN0ZGFVWkxNUnZ6WDNaZjlvNjJLb0NtUl9zeVZnMkwybm55aGRXZFlSLTJqd2R3UkVfcjFuTWEteEFfRjNPRXdXXzlHV25hR1hBQ2pqRm9sM05IRnd3eklTWnAzbTlXM1RVQlJ3eE1hUXAyT09xWmx2cXV2QlY2cnlodTRaRHlSNUtEY2xrNHlPeVBHMkJHQmNnX0JoNWhO0gHgAUFVX3lxTE9zZHdGMC1ZTEJyaVVIaXV2WVMyUGUtWVVfYU84YjMzb2Rwd2xjUUF2MC1lMGJYMXFCUFdaaThpWGZnQVRpMld3V3pka2JsOVVsYzRmZnZnbTB3TkJpb1hIOFEzaWo0R2NUVGphaktnd2RKeEVxeV8tVGZVNlBOeVlEMVkwOWs3UWVrV0FCcUdWclFwaWdKRmZGRll6RWNOZk1kTG9zTGt6NHBwWWVFRnhCcEZXT3E3VDc1T05VXzdYWVpSalNVSHlnVXNUV0toc0otUUtodHdlWmtWLVhvLVQ1?oc=5",
-      "source": "Google News: India Semiconductor Chips",
-      "publisher": "electronics.economictimes.indiatimes.com",
-      "published_utc": "2026-10-20T07:19:13+00:00",
-      "published_ist": "20 Oct 2026, 12:49 PM IST",
-      "published_timestamp": 1792480753.0,
-      "description": "Tenstorrent raises $1.5 billion, valuation doubles to $6.2 billion electronics.economictimes.indiatimes.com",
+      "headline": "AI-led IPOs may add up",
+      "raw_headline": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXZ4TUNfUkFjQkZFajdtcEh1cU9pY3dSZzc5bFVrOWZwaG1wMGpEZGJleXFJZHhRLTlLdmw0ZWFxMFd1T2Y3VkJVWlhaOUZmWXdXaW9KZG1RTUgxbVBYNlE5bmxPMmJmdjM3aHVRWmk4RVZ2dHhzM1RGc2hfVW5BTjRWV2lwcTM5T3M4QU5aWGo1clFUZUVUYkF3VGFPU2pFN0ttZDc3VUltTkNLZjRCdmpOZS1qRTlFTjNjNlZjNUNKUUJTbHhqWld6aXd6RkFsZHowTmt2SdIB3AFBVV95cUxNemY1cnJYaUYzQmFLRlV1RklHR3NXaTdobTZJM1h5cWpyWDB4RUpJcjFsMjMwWEtpQ3pkeldtMjN6di1icmVpWUIwaHlZN3p2WG8yRldEZ1NBUzhfTHR3VUFNTHVWTmVCZUl6RjQwUzh4bU5WUWVld1lzMEcxMkNVc2VYbjNlUjZlYkVyWU9ieUtXRHZZSERQaDM2WVNJS1BaMnQtdnluWUZZUzZjLVY5WGk1NGxHUVlTdWlrbkozZGdCOUE3UTdzRzRzM0xFVG9SMXdTaGM0QmtSSW5l?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Business Standard",
+      "published_utc": "2026-10-21T06:21:24+00:00",
+      "published_ist": "21 Oct 2026, 11:51 AM IST",
+      "published_timestamp": 1792563684.0,
+      "description": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs Business Standard",
       "tier": "tier_2_reputable",
-      "category": "Semiconductors & Hardware",
+      "category": "India AI Developments",
       "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
       "corroborating_sources": [
         {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2JFaEJZX3Y3cVRPbTBMM3pYWmtrall1VFlnb0RhOEc3cUEyTU5oamtfb2ZnU1YtYjlPNVJhYlpwbWZxRm9FZm84RmtnWGpsblhBU0dyMndfWG1PVXBGMFBxOHVJVUpHXzZ4Rk9yODFyQjdkLXBDbFdRbFlueEtDRW14QmRnbDdDMzQySktsRjg5UWJpMGV3Wlk2UEw2bDJzRFN2SnJXb1cyVWNqMFNHQVVfY1RnWjUyUjRBWS1mck9QWWtKbzNvREFHRjlBdjR5YWdZ0gHTAUFVX3lxTFBPYkVoQllfdjdxVE9tMEwzelhaa2tqWXVUWWdvRGE4RzdxQTJNTmhqa19vZmdTVi1iOU81UmFiWnBtZnFGb0VmbzhGa2dYamxuWEFTR3Iyd19YbU9VcEYwUHE4dUlVSkdfNnhGT3I4MXJCN2QtcENsV1FsWW54S0NFbXhCZGdsN0MzNDJKS2xGODlRYmkwZXdaWTZQTDZsMnNEU3ZKcldvVzJVY2owU0dBVV9jVGdaNTJSNEFZLWZyT1BZa0pvM29EQUdGOUF2NHlhZ1k?oc=5",
-          "headline": "Chinese tech giants order $35 billion in Nvidia AI chips - electronics.economictimes.indiatimes.com",
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "NewsBytes",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVJ2cGlZYk8wVnJURTRnMkhic2tueUh1VkI0ZGVwaG43RGE0dE42cDRLYWJJaFp1ZXQ5cHFiVGk0MkExU2d5clZzNVRFMXlRaGJyUzdsOTdjR3NtdWYtc2M3TFZ6MnhCR0tLcDc2Q0JRTkZMemdhOTdhWmRSTDFmWS15Yldsd0JVQUpsUUFsR2IxVzdyWXpOZ3V6dW9CZDQ?oc=5",
+          "headline": "AI IPOs could add $100B to India's stock-market: Goldman Sachs - NewsBytes",
           "tier": "tier_2_reputable"
         },
         {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb3dkSWZiZEhPOEdwUGI1QnRRNWYtRHRnLWdrMDFsUFlsWG5IdEdiWl9RSlFhdWVKM0x0MXZNRHp0MXVySEVnZTNZYjJUcG9iSE1CT281dkYxbUdXOWZlX3hmeUdObTNZWnN1WGtWUC14NTYtck1CMi0xclhWZFhOMWhXelhMVnVjbWRfZGI1WDFaNkR5MVZDN0pWengzQlBuSXRFMlFSMl92SWtvZjVrVGswdWlsQ3NGRF9CamVhbFZMUmRoLTRjaDJzejZseDZFX1UtY1BpVG5VU2NWalZmR2liN2ZMZ2pS0gHXAUFVX3lxTE5rd0QxLS1vM0VDTVppa1NOME96TGNFWEJrZWdjaENKYV9pUE5SXzhJMWtFYm85SjRxRzM3aHhTS21mQW1jak01Q3Vnd0dsbDVWOXFGZnJPd3hrSHpEajNSdWN2dnNEQTl4U1JDSnBWR2cxRGY5Q3FRc09BT2VWQmxWTzJ0Y3dZbjQ4MVJMSHIwZURBbl8xRm9ya2JhLVdpd2RPVkYtVENIQmNpUUtMWldjNVBDUE1kd2R4QU9oYW9LUkp0N19vek5XcW5KNmp5RGQxZ3daQVd3?oc=5",
-          "headline": "Qualcomm to cut jobs globally in performance review: Report - electronics.economictimes.indiatimes.com",
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Free Press Journal",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHJUQ3RqckdJcmVrYm9vU2FGZFpqMDBvaFRCRVlNaXozSzE0S2dFSzVzN3JyNlVNSjRBSmJ3ckVTVGxMMmJZSVVwaU5LTnpURlBZN2tNVXIwSmtUQ051cU16VGJHOE1oLUNtQjdlblpuV3dqYVM3NFA3NjloRFlSaTJkMXZoX3l2aS1Lb0NLQnlkT0dwbVhsT3I5YTJPS0lqdjZaMXF4OXpnNnlQN0hBQXZGRllyQ0dNYl9Jc3lBZmJMLUHSAcgBQVVfeXFMTUVYYWVaMHBJbXdGQ0JHVnM4eWxORjFWVWplZGl1c1p6NDJ2YjdsbUtQSlJhR1ZFNFE4bmFtaVc0MVNkc2p1dUFIcmZYUmpQNmFwdVkxQ3EtZ0NYcGgzSjdrN284S0tYNlZlcWxQTDlVNUhVVnRoZHJkNlp5U1Y2djFqaktiU0phLW15Q2dJa3k5Z1hJeXhYNkFrQldVaThOYkF1NGh1TW4zTGFVZk0zWktUa3BuOTVjaFM2ZUx2UlhLTkI0Tm9fMzc?oc=5",
+          "headline": "AI IPO Boom Could Add $100 Billion To Indian Stock Market In Five Years: Goldman Sachs - Free Press Journal",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Indian Startup Times",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWWxXTnhwc3l4Y25sbmNGNVBjRjAzWUlHUVA0ZFZDRUpLc3cxQlp4bmE4UzdSOHczNGNMSTNocTl4dHhKbjZVbzRxWUFmNDZQNV9teWpXbVkxUUNXekxFUkNRWS1SY1BhMVQ0aE9FZ01kSFNlWXo5Q1R6cXBJX2RDd2RfQm5qblhQOFdfNjVqc3pFOXZ5d0t1ZlBjRlFaYjJ3UEhOd05id0lDRm5zWG11SkozWGlxbGU1bDMtUDhobDAzV1JhSklzSnl3dXE1NUQwVGxVeDAzQ3ExLUQtR1hDY3k3bmJKQUZ1TTFSWlhEMk85REhlMVVkUERR?oc=5",
+          "headline": "Goldman Sachs: PE Funding in Indian AI Startups Triples Since 2024, IPO Pipeline Could Add $100 Billion in Market Capitalisation - Indian Startup Times",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "The Statesman",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOXRSUy1tYnN0V0Nvam1ab0Y5dEhHVVhyd2hjUU84eE1aa3J1eE5pYURjdi12LTJYRTFYTEtkX3dlb0ZFcHd6bHRHYWRnNWZYcG91NFU0eS1nMkRxSGRMYXZaNmR6Q0htSGFPMGx5MmZINno0YnB4MUtIYmt6RWNXaEk4SzBsZk9iRFdMX0pCejM1cEhmM2c4MWJXTmRHTEZVZ1djdF9nLVBMdThyWDNwbWloWlpYdEF5LVJWajhLSWhVdnRSMFHSAcYBQVVfeXFMTzl0UlMtbWJzdFdDb2ptWm9GOXRIR1VYcndoY1FPOHhNWmtydXhOaWFEY3Ytdi0yWEUxWExLZF93ZW9GRXB3emx0R2FkZzVmWHBvdTRVNHktZzJEcUhkTGF2WjZkekNIbUhhTzBseTJmSDZ6NGJweDFLSGJrekVjV2hJOEswbGZPYkRXTF9KQnozNXBIZjNnODFiV05kR0xGVWdXY3RfZy1QTHU4clgzcG1paFpaWHRBeS1SVmo4S0loVXZ0UjBR?oc=5",
+          "headline": "AI IPO wave may add $50-100 billion to India's market cap: Goldman Sachs - The Statesman",
           "tier": "tier_2_reputable"
         }
       ],
-      "corroboration_count": 2,
-      "cluster_size": 3,
+      "corroboration_count": 4,
+      "cluster_size": 5,
       "verification_status": "Corroborated (Multi-Source)",
       "credibility_score": 1.0,
       "evidence_strength_score": 0.9,
       "is_eligible": true,
-      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "verification_rationale": "Corroborated across 5 independent news organizations.",
       "scores": {
-        "composite": 0.783,
+        "composite": 0.7875,
         "credibility": 1.0,
         "evidence_strength": 0.9,
         "india_relevance": 0.63,
-        "recency": 0.515,
-        "trend_momentum": 0.85,
-        "user_preference": 0.665,
+        "recency": 0.5,
+        "trend_momentum": 1.0,
+        "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
         "india"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.515",
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.5",
+      "rank": 2,
+      "explanation": "AI-led IPOs may add up.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "eMudhra security incident: MeitY orders",
+      "raw_headline": "eMudhra security incident: MeitY orders probe, says impact on Indian websites and apps was limited; details here",
+      "url": "https://www.livemint.com/technology/tech-news/emudhra-security-incident-meity-orders-probe-says-impact-on-indian-websites-and-apps-was-limited-details-here-11792599679180.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-10-21T16:57:31+00:00",
+      "published_ist": "21 Oct 2026, 10:27 PM IST",
+      "published_timestamp": 1792601851.0,
+      "description": "MeitY has ordered a probe into the eMudhra security incident involving eight compromised digital certificates. The ministry said the impact on Indian websites and apps was limited and clarified that domestic digital signature services were not affected.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7869,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.679,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india",
+        "meity"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.99 (indian, india, meity) | Cred: 0.85 | Recency: 0.679",
       "rank": 3,
-      "explanation": "Tenstorrent raises $1.5 billion, valuation doubles to $6.2.",
+      "explanation": "MeitY has ordered a probe.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "HSBC Flags Buying Opportunities in",
-      "raw_headline": "HSBC Flags Buying Opportunities in Indian Stocks as Global AI Investments Face Risks - Siliconindia",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeEZkV0djaEhqYVNMSEpNb3pKdXdRWUZUTXNsQVl5MkJFNkdJWElRMnBuWUxMWmVkWGRHaUR4Y3dTdk9tRkQ2NjVqQ2hTcWt1TnZnQm5sMlpoUzZXX1NVQUhwX2RBU1ZJOXY0SUYzbEFyVEtObUg2NUNPdHdvTjh0S3ZpXzV1OGFYdGROb2pnMUx0ZVpTM015S2tZZXh5QmpVQ2pNMkp3SDFrdGtNUlBxRlA3NTlHR2lDSmM4VkZWXzYtQXBRWHFFaWY4OHpXRG51ekM4UlBEZzdFalpFQVhLelRn?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "Siliconindia",
-      "published_utc": "2026-10-21T04:25:59+00:00",
-      "published_ist": "21 Oct 2026, 09:55 AM IST",
-      "published_timestamp": 1792556759.0,
-      "description": "HSBC Flags Buying Opportunities in Indian Stocks as Global AI Investments Face Risks Siliconindia",
+      "headline": "eMudhra breach: Netizens react as",
+      "raw_headline": "eMudhra breach: Netizens react as IT Ministry says impact on Indian sites ‘very limited’",
+      "url": "https://economictimes.indiatimes.com/tech/technology/emudhra-breach-netizens-react-as-it-ministry-says-impact-on-indian-sites-very-limited/articleshow/135107533.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-10-22T04:46:37+00:00",
+      "published_ist": "22 Oct 2026, 10:16 AM IST",
+      "published_timestamp": 1792644397.0,
+      "description": "Cybersecurity agency CERT-In warned that the compromised keys could let attackers issue fraudulent certificates for domains they do not control, impersonate legitimate websites and carry out attacks that intercept or modify encrypted communications.",
       "tier": "tier_2_reputable",
-      "category": "India AI Developments",
+      "category": "India Tech & Business",
       "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
       "corroborating_sources": [],
       "corroboration_count": 0,
       "cluster_size": 1,
@@ -183,36 +183,36 @@
       "credibility_score": 0.85,
       "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
       "scores": {
-        "composite": 0.7821,
+        "composite": 0.7833,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.947,
+        "recency": 0.955,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "india",
-        "indian"
+        "indian",
+        "india"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.947",
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.955",
       "rank": 4,
-      "explanation": "HSBC Flags Buying Opportunities in.",
+      "explanation": "Cybersecurity agency CERT-In warned that.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Jio Platforms IPO: Raymond James",
-      "raw_headline": "Jio Platforms IPO: Raymond James Says Record Public Issue Can Shape India Market Outlook - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxORUYtVjFId1hFaTJ3N0lGUVRaa1ppNENyVkttNG4xbklUeVhmTkJ0VHZmZjJRVm0zdUJsN1o0TkpVS3JXRGFTbFBWMHBOUFVycHFhZER3TXMxSUd0aXIwbkNGRTU5ajg2YjM0S0lud3JOMmlHRUw4NnVkR2RsNnFsNS0tTlZtUlJqY0VfOUNuZFR2NTRVYkxlMC13b3hDbmlnVFhsREw1b3M5dm5pOF9TTzJyd2N3TW43Y3dqbFdEY2trZTNlY3ZmeExoWi0xU2F6TEhXcWJjRWp3MHFRR2dGRENWZTA3cHlqX0NOMGVaVTRJWU9qMDdoNkpoNFRMbzhqLUV4Y01ReC1YZlJ2Ym9Gc2hhMEtISFgyZk5TRmxCQUZnWGs0YWdYQV9HcThDXzRUcFFscWtBcGxTMVZ0SlRxTmFTaTEyNGYwMmxwS3JleldnblVqX3Bz0gHcAkFVX3lxTE9nYk1rRXNXLS1EUkZuSEszMHdwdzE5OHJtWGxod04xLWJKMGhnRUtjNXFNNlRIOGhtMFo2Y0R0TXg5bTVrRTRfUHhJeW1rNDhIWDFRVzhJTnBDemRXRk1yU0ExTW5iNFMyaEVzQmhXLU96dmdGZWpfZzhXMmtEc0o1bk00T0wtY3BzZkM2NlBjelJyRkhQUkNPT3VHenVOaFRkVGhFMG9FVEZ2THl0QXAzN0FWSWdXdFVFeGJleGdRdEdSTHVINDBjVVhvRE1KM2JPTVVDeXFGWTZqbHhBdFVUSEU3RXYwekdrd2FhcXlkMlBUVDEwQW5iNWptRF9hbkp4aThhWDFTbzFLUkd0dFlfVlA1cVdOdGJ1X0pPaE54c1p3ZmxyVEpUZVBablZYenhWaWJXZTF3NUhITFVTNmZzWlJmTnVaV2NsMkpkYUxyNEdabF80dW9mX3NyVQ?oc=5",
+      "headline": "Karmayogi Bharat, OpenAI Partner to",
+      "raw_headline": "Karmayogi Bharat, OpenAI Partner to Train Indian Civil Servants in Artificial Intelligence - The420.in",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkxxdHZlczZuNDJCWkJsT0hZZzZLTUhVM3lOUC1EZlZXOXVvX3dNMm56czQ1NFM5TzRzOWsyRDNjVnliWUlOV1JOS1huMFJZYlZSWDdDQ0h1VjJLQWpZdHR6dkpQczdHMzQ1WFc3bEl6elY3YjVDSExBQlNpSENpYVhnOHl5SzR0bFc1VEtn?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "CNBC TV18",
-      "published_utc": "2026-10-21T03:51:54+00:00",
-      "published_ist": "21 Oct 2026, 09:21 AM IST",
-      "published_timestamp": 1792554714.0,
-      "description": "Jio Platforms IPO: Raymond James Says Record Public Issue Can Shape India Market Outlook CNBC TV18",
+      "publisher": "The420.in",
+      "published_utc": "2026-10-21T10:20:49+00:00",
+      "published_ist": "21 Oct 2026, 03:50 PM IST",
+      "published_timestamp": 1792578049.0,
+      "description": "Karmayogi Bharat, OpenAI Partner to Train Indian Civil Servants in Artificial Intelligence The420.in",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -226,294 +226,142 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7798,
+        "composite": 0.7692,
         "credibility": 0.85,
         "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.932,
+        "india_relevance": 0.99,
+        "recency": 0.561,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "india",
-        "jio"
+        "indian",
+        "bharat",
+        "india"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, jio) | Cred: 0.85 | Recency: 0.932",
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.99 (indian, bharat, india) | Cred: 0.85 | Recency: 0.561",
       "rank": 5,
-      "explanation": "Jio Platforms IPO: Raymond James.",
+      "explanation": "Karmayogi Bharat, OpenAI Partner to.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 1280,
-    "total_after_lookback": 1024,
-    "canonical_events_count": 972,
-    "eligible_events_count": 972,
+    "total_raw_fetched": 961,
+    "total_after_lookback": 756,
+    "canonical_events_count": 636,
+    "eligible_events_count": 636,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Yu Fu, Seongho Son, Ilija Bogunovic"
-        ]
-      },
-      {
-        "canonical_headline": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Noor Abo Mokh, Teresa Lynn, Nizar Habash, Ahmed Elshabrawy, Sara Alhajeri, Alaa Elsetohy, Preslav Nakov, Alham Fikri Aji"
-        ]
-      },
-      {
-        "canonical_headline": "KPHarness: Co-Evolving Knowledge and Probing for Long-Horizon Gaming Harnesses",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Ruhan Wang, Yucheng Shi, Zongxia Li, Junyao Yang, Zhongzhi Li, Yue Yu, Haitao Mi, Dongruo Zhou,  Leoweiliang"
-        ]
-      },
-      {
-        "canonical_headline": "Ask to Distill: Learning to Synthesize Data for On-Policy Distillation",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Bangji Yang, Jiajun Fan, Zhaoyu Zhu, Hongbo Ma, Ge Liu"
-        ]
-      },
-      {
-        "canonical_headline": "From Encoding to Generation: Towards Empathetic Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 4,
-        "corroborating_publishers": [
-          "Ning Zhang, Shihao Wang, Jinrui Zhang, Chaodong Xiao, Lei Zhang",
-          "Arnav Chavan, Chanhyuk Lee, Udbhav Bamba, Jaehoon Yoo, Seunghoon Hong, Aditi Raghunathan, Jinwoo Kim",
-          "Albert Qin, Jonathan Cohen, Gautam Reddy",
-          "Kevin Krazius, Tim Schlippe, Paul Libbrecht"
-        ]
-      },
-      {
-        "canonical_headline": "Give the Model a Finger: Developmentally Aligned Evaluation of Counting in Vision-Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Allison Chen, William Yang, Salma Abdel Magid, Jonathan Williams, Olga Russakovsky, Esin Tureci"
-        ]
-      },
-      {
-        "canonical_headline": "Physical Operating-Condition-Guided Vision-Language Matching for Cavitation Diagnosis in Industrial Pipeline Systems",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Yu Sha, Junqi Tao, Dixin Zhou, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou"
-        ]
-      },
-      {
-        "canonical_headline": "Staged Continual Adaptation of Multimodal Foundation Models for Japanese Financial Documents",
+        "canonical_headline": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 2,
         "corroborating_publishers": [
-          "Aliullah, Julian Oelhaf, Edouard Fouch\\'e, Jessica Deuschel, Christian Bergler, Andreas Maier, Siming Bayer",
-          "Shikai Qiu, Xiaowen Xu, Benlei Cui, Ting Ma, Xiufeng Huang, Wenjing Jiang, Shaoxuan He, Haolei Xu, Chunyang Chai, Yujian Li, Yiliang Zhang, Guanghui Wang, Ziheng Wang, Ziwen Xu, Zhaoyu Fan, Jinhao Chen, Ruijie Jian, Hongxing Li, Chuxi Xiao, Xinyue Chen, Wenxuan Liu, Libin Dong, Yupeng Cao, Xiaoqian Xia, Jing Wang, Zhe Jiang, Zhenan Ye, Guang Yang, Bin Liu, Wei Peng, Ziqiang Zhu, Meihui Lian, Kaiwen Lv Kacuila, Haidong Ding, Dongjie Zhang, Yangfan Zhou, Bingyu Zhu, Yan Wang, Hai Zhao, Xuan Jin, Wei Zhao, Pengfei Sun, Huiming Zhang, Wei Wang, Xipeng Cao, Jialun Chen, Xiao Chen, Shaola Ren, Yunqing Hu, Bin Li, Chengwen Yao, Meng Huang, Xianfeng Li, Bin Tang, Chao Liu, Hui Xue, Longtao Huang, Haiwen Hong"
+          "Parul Gupta,  Satwik, Avni Aggarwal, Bhavesh Gurnani, Arnab Kumar Mondal, Dinesh Khandelwal, Dinesh Garg, Parag Singla",
+          "Koshiro Saito, Daisuke Oba, Danushka Bollegala, Naoaki Okazaki"
         ]
       },
       {
-        "canonical_headline": "ACE-Compression: An Ability-Centric Evaluation of Compressed Large Language Models",
+        "canonical_headline": "UserSWE: Evaluating Coding Agents in Multi-Turn Conversations with Dynamic Users",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Huawei Lin, Jinting Liu, Tan Yu, Weijie Zhao"
+          "Lorenz Brehme, Benjamin Steenhoek, Ruth Breu"
         ]
       },
       {
-        "canonical_headline": "Quantum-JEPA: Quantum Born Priors for Latent-Action JEPA World Models",
+        "canonical_headline": "Offline Apprenticeship Learning for Human-Centric Environments",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Peisong Wen, Qianqian Xu, Minye Lei, Siran Dai, Yang Liu, Qingming Huang"
+          "Ge Qu, Jinyang Li, Xiaohan Xu, Xiaolong Li, Bowen Qin, Nan Huo, Ziwei Tang, Chenhao Ma, Reynold Cheng"
         ]
       },
       {
-        "canonical_headline": "IECG: Weakly-Supervised Interpretability-Enhancing Foundation Model for Electrocardiogram",
+        "canonical_headline": "Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Spiros Maggioros, Guray Erus, Gareth Harman, George Aidinis, Alexander Getka, Aristeidis Sotiras, Christos Davatzikos"
+          "Fei Bai, Huatong Song, Chuan Hao, Ran Tao, Jian Yang, Bryan Dai, Wayne Xin Zhao, Ji-Rong Wen"
         ]
       },
       {
-        "canonical_headline": "MaD-RSI: Model-as-Data for Recursive Self-Improvement of Agent Harnesses",
+        "canonical_headline": "Value-Rectified Distillation for Flow-based Offline Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Boyang Xu, Qing Zou, Siqin Yang, Hao Yan",
+          "Chang-Hoon Jeong, Kisung Shin, Hanwool Sul, Byoung-Tak Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "GRAFT: Restoring the Missing Sampling Interface in Continuous Diffusion Language Models",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Qianru Meng, Xi Zhang, Konstantinos Papakostas, Congfeng Cao, Wenxiang Hu, Tianyi Lu, Xiao Zhang, Lun Zhou, Zaiqiao Meng, Zhaochun Ren, Xiaohui Yan, Yougang Lyu"
+          "Yejin Lee, Ungsik Kim, Yo-Sub Han"
         ]
       },
       {
-        "canonical_headline": "Expert-Guided Rubrics as Dense Reward Signals for Reinforcement Learning in Non-Verifiable Domains",
+        "canonical_headline": "RegoMender: A Multi-agent Framework for Automated Rego Policy Repair",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Yunan Zeng, Jinhao Jing, Xi Cheng, Yuwang Wang"
+          "Ziyao Zeng, Hao Wang, Chen Liu, Youheng Yao, Jingcheng Ni, Tianyu Liu, Xiatao Sun, Fengyu Yang, Chenyu You, Xiaofeng Liu, Daniel Rakita, Ronald R. Coifman, Yuval Kluger, Zhiwen Fan"
         ]
       },
       {
-        "canonical_headline": "GRaSP: Latency-Aware Optimization for Geo-Distributed Retrieval-Augmented Generation",
+        "canonical_headline": "Retrieval Augmented Generation Compositionality",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Yiyang Duan, Fan Wu, Tiantong Wu, Che Wang, Zhiren Gong, Wei Guo, Yang Cao, Wei Yang Bryan Lim",
+          "Ethan Zhao, Maksym Taranukhin, Wei Cui, Moira Aikenhead, Vered Shwartz"
+        ]
+      },
+      {
+        "canonical_headline": "Energy-Based Transfer for Reinforcement Learning",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Ha Lan N. T, Minh-Anh Nguyen, Dung D. Le"
+          "T. Y. Tsui, Zihao Ye, Pengxiang Cai, Yanchao Li, Yuqiang Li, Zhehong Ai"
         ]
       },
       {
-        "canonical_headline": "Beyond Policy Discrepancy: Capability-Aware Multi-Teacher On-Policy Distillation",
+        "canonical_headline": "Disentangling generalization and memorization in large language models using chess",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Liu Kaiyuan, Zhuang Ziyuan, Ma Haoxuan, Gu Yannian, Song Mingfei, Weng Rongxiang, Ye Jieping"
+          "Ahmad Dawar Hakimi, Kaiwei Lei, Isabelle Augenstein, Hinrich Sch\\\"utze"
         ]
       },
       {
-        "canonical_headline": "Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models",
+        "canonical_headline": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Hongxiang Zhang, Yuan Tian, Tianyi Zhang"
+          "Hojin Jeon, Jimin Lee, Taekwan Kim, Nayoung Oh, Taeyoung Kim, Myungkyu Koo, Jinmo Koo, Joonwoo Ahn, Jinwoo Shin"
         ]
       },
       {
-        "canonical_headline": "Theorem prover Arend",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Andrew Bistras, Marty Johnson"
-        ]
-      },
-      {
-        "canonical_headline": "Scaling Graph Reasoning in Language Models with Learnable Graph Positional Encodings",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Felix Draxler, Robin C. Geyer, Daniel Geyfman, Farrin Marouf Sofian, Justus Will, Philipp Hildebrandt, Giosue Migliorini, Prakhar Srivastava, Gagan Sai Trinadh Duggaraju Peddiraju, Kushagra Pandey, Jorge da Silva Gon\\c{c}alves, Elijah Tavares, Jan Niklas Groeneveld, Yang Meng, Julia E. Vogt, Stephan Mandt"
-        ]
-      },
-      {
-        "canonical_headline": "HealBench: A Fine-Grained Benchmark for Evaluating Psychological Comfort in Text-to-Image Generation",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Savitha Sam Abraham, Marjan Alirezaie, Hossein Rahnama"
-        ]
-      },
-      {
-        "canonical_headline": "MoDDiT: Simple Token Routing in Diffusion Transformers",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Chao Xu, Maohua Li, Qirui Li, Yixuan Xu, Yanke Zhou, Yunhe Li, Cuifeng Shen, Hanlin Tang, Kan Liu, Tao Lan, Lin Qu, Shao-Qun Zhang"
-        ]
-      },
-      {
-        "canonical_headline": "Non-Stationarity Breaks Permutation Surrogates in Multi-Agent Reinforcement Learning: Diagnosis and Remedies",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Bowei He, Yankai Chen, Xiaokun Zhang, Changjiang Han, Ye Yuan, Chong Li, Xue Liu"
-        ]
-      },
-      {
-        "canonical_headline": "AgentStripes: An Evidence-Graded Maturity Model for AI Agents",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Zecheng Ren, Ruichen Cong, Yi Min Chen, Jing Zhang, Feiyang Chen, Wutong Zhang, Kaixiang Wang, Zihan Wang, Jiong Lou, Jie LI, Qun Jin"
-        ]
-      },
-      {
-        "canonical_headline": "MedHal: a Synthetic Dataset for Medical Hallucination Detection",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Xinyu Zhu, Yihao Feng, Yanchao Sun, Xianzhi Du, Pingzhi Li, Olli Saarikivi, Yun Zhu, Yu Meng"
-        ]
-      },
-      {
-        "canonical_headline": "SpectralTrain: A Universal Framework for Hyperspectral Image Classification",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Carlton Kigonya, Tanaka Chirara, Yunting Yin"
-        ]
-      },
-      {
-        "canonical_headline": "Reducing belief in conspiracy theories as they unfold using large language models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Raina Gao, Tristan Raffo"
-        ]
-      },
-      {
-        "canonical_headline": "Composing What Each Teacher Learned: Delta Distillation for Multi-Teacher On-Policy Learning",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Runsheng Chen (Technical University of Munich, Germany), Yihong Liu (LMU Munich, Germany, Munich Center for Machine Learning, Germany), Raoyuan Zhao (LMU Munich, Germany, Munich Center for Machine Learning, Germany), Michael A. Hedderich (LMU Munich, Germany, Munich Center for Machine Learning, Germany), Hinrich Sch\\\"utze (LMU Munich, Germany, Munich Center for Machine Learning, Germany), Matthias Grabmair (Technical University of Munich, Germany)"
-        ]
-      },
-      {
-        "canonical_headline": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Carlos Andr\\'e Antunes, Aldry Albuquerque, Gabriel de Melo Schmith, Nat\\~a Batista, Pedro Oziel Escobar da Silva, Stefano Benko Rossi, Lingrid Dietrich Lorenz da Silva, Fl\\'avia Cristina da Costa, Thiago Bertotto, Luis Fernando Fausto"
-        ]
-      },
-      {
-        "canonical_headline": "Which Long Documents Matter? A Controlled Study of Data Selection for Context Extension",
+        "canonical_headline": "Language Impairment as a Lens onto Large Language Models",
         "source": "arXiv Computation and Language",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Yongchao Long, Chunrui Zheng, Yuxuan Zhou, Guangkun Nie, Tian-Chi Ma, Chao Pang, Shuohuan Wang, Yuchen Ding, Xianbin Wen, Dianhai Yu, Junyuan Shang, Yuxi Zhou, Shenda Hong"
+          "Federico Marcuzzi, Martin Christoph, Iryna Gurevych, Alla Rozovskays"
         ]
       },
       {
-        "canonical_headline": "DiffuPlan: Editable Planning State for Diffusion Language Model Agents",
+        "canonical_headline": "Qwen-Audio-3.1-ASR Technical Report",
         "source": "arXiv Computation and Language",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Renxi Liu, Yiming Li, Shengyin Sun, Chen Chen, Xian Wang, Shuai Yang, Huiling Zhen, Xianzhi Yu, Yaoyuan Wang, Weizhe Lin, Xiaosong Li"
+          "Markus Krimmel, Louis Milliken, Ekaterina Glazkova, Maximilian Schall, Antoine Chaffin, Sedigheh Eslami, Jonas Golde, Denis Bykov, Claire Beamer, Jeremy Yang, Bo Wang"
         ]
       },
       {
-        "canonical_headline": "Dual-Slot: From Serial Loops to Parallel Slots in Language Models",
-        "source": "arXiv Computation and Language",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Anshun Asher Zheng, Weili Cao, Fangcong Yin, David Beaver, Junyi Jessy Li"
-        ]
-      },
-      {
-        "canonical_headline": "Keep the Lineages Alive: Diversity-Preserving SMC for Diffusion LLM Decoding",
-        "source": "arXiv Computation and Language",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Minoo Ahmadi, Seyedarmin Azizi, Erfan Baghaei Potraghloo, Mehdi Kamal, Massoud Pedram"
-        ]
-      },
-      {
-        "canonical_headline": "Tesla and SpaceX are discussing a possible merger, Musk says",
-        "source": "The Verge Tech & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "The Hindu - Technology"
-        ]
-      },
-      {
-        "canonical_headline": "Anthropic recorded net loss of over $80 billion in first half of this year",
+        "canonical_headline": "Meta sued in Australia class action over alleged social media harm to children",
         "source": "Economic Times Tech & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
@@ -521,36 +369,61 @@
         ]
       },
       {
-        "canonical_headline": "Indian students fear AI boosts speed but hurts deep learning - The Siasat Daily",
-        "source": "Google News: India Artificial Intelligence",
+        "canonical_headline": "Eternal Q2 Results: Profit soars 92% YoY to Rs 125 crore; revenue zooms 78%",
+        "source": "Economic Times Tech & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "The Indian Express"
+          "Akshit Pushkarna"
         ]
       },
       {
-        "canonical_headline": "India News | From AI to Automation, Young Innovators Drive Technology Beyond Metros - LatestLY",
-        "source": "Google News: India Artificial Intelligence",
+        "canonical_headline": "Enterprise AI Startup AuxoAI Nets $20.7M To Strengthen Its FDE Team",
+        "source": "Inc42 Indian Startups & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "LatestLY"
+          "Gaurav Bagur"
         ]
       },
       {
-        "canonical_headline": "Aixtron's Q3 orders double, exceed market expectations - electronics.economictimes.indiatimes.com",
+        "canonical_headline": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs - Business Standard",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 4,
+        "corroborating_publishers": [
+          "NewsBytes",
+          "Free Press Journal",
+          "Indian Startup Times",
+          "The Statesman"
+        ]
+      },
+      {
+        "canonical_headline": "PepsiCo India scales AI, automation across farm-to-shelf operations - Storyboard18",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "CRN Asia"
+        ]
+      },
+      {
+        "canonical_headline": "India's AI Boom Could Add $100 Billion to Market Value Through IPOs - Newstrack English",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "IANS LIVE"
+        ]
+      },
+      {
+        "canonical_headline": "TSMC plans 3nm chip manufacturing in second Japan factory - electronics.economictimes.indiatimes.com",
         "source": "Google News: India Semiconductor Chips",
-        "duplicates_merged_count": 2,
+        "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "electronics.economictimes.indiatimes.com",
           "electronics.economictimes.indiatimes.com"
         ]
       },
       {
-        "canonical_headline": "Tenstorrent raises $1.5 billion, valuation doubles to $6.2 billion - electronics.economictimes.indiatimes.com",
+        "canonical_headline": "BASF expands Taiwan semiconductor materials capacity for sub-2nm chips - electronics.economictimes.indiatimes.com",
         "source": "Google News: India Semiconductor Chips",
-        "duplicates_merged_count": 2,
+        "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "electronics.economictimes.indiatimes.com",
           "electronics.economictimes.indiatimes.com"
         ]
       }
