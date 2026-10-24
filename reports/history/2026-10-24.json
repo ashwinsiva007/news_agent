@@ -1,0 +1,317 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-24",
+  "generated_at_ist": "24 Oct 2026, 11:39 AM IST",
+  "story_count": 5,
+  "briefing_word_count": 59,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Govt to Issue AI Law",
+      "raw_headline": "Govt to Issue AI Law Consultation Paper Soon: Vaishnaw - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXNSUlpzVUFWRTNSMGRLUTNrMWprNTh6MFdlZFJvMUNRMDE4ZHJOMlhuMEIwUlBwTmw1dzJuWEEtWm55UGM4ODNqQ2RpX0lieG16NWdsMDc4aW5XTFFOc3BxaE1lczlacjRkZnQ0M3RwbGpEQ09NSzhLX04yYUFsVllTYlpUMGxTTV84Y3I4N2RrUWhDR3N2b2dySGg1OU5rSlVtR3FyRDjSAa4BQVVfeXFMTXpIeXNPLUs5RnRYYUE1eGVSV1h3WnZULTkyOGhqeWpMZXlFTXdXV1duZU9PNHpvQ1duM0Z1VzY2bEhXdnB0SWFvREhqVWVhM1EwNnpfQWZvbXF0bW1HV19NVGFoWW5ycHJ3MVhzV3pDT2RjTzJLZmVtNVR1LW5wLWkwZG9uTU9peWVvUDc5eEx6N2I1c0tidlQxc2xELUpZTk1tbW5renFZTmdOUW1n?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "Rediff",
+      "published_utc": "2026-10-23T17:27:21+00:00",
+      "published_ist": "23 Oct 2026, 10:57 PM IST",
+      "published_timestamp": 1792776441.0,
+      "description": "Govt to Issue AI Law Consultation Paper Soon: Vaishnaw Rediff",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Economic Times Tech & AI",
+          "publisher": "Economic Times Tech & AI",
+          "url": "https://economictimes.indiatimes.com/tech/technology/govt-to-issue-consultation-paper-on-ai-law-in-coming-weeks-vaishnaw/articleshow/135152578.cms",
+          "headline": "Govt to issue consultation paper on AI law in coming weeks: Vaishnaw",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "ET Government",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbHRNWmNjZ291T2NtdEpHS0YzQnBDejNkbEFzRFYwSVVLa0hBMGJQSWRlY0dzblpQT0ZhLWVLZVpGcnM1NFowV2lhZ1V4Z2JIV0JGYUw2SWlsNGw2TXNRNkk3QU9jOUtYRktfakdsdzZuZ2FPLWtXZkhYUDNmVThrR05qTnF5Y1BVbjg4UDFZVFJUWE5vXzVLR0NEMnJZVElCN3Rwam94WS1EeXM3cFd2TkJtLWVlWDVNd2dUejJlMDN6YklOYU5sZW9aeThJcGtwUFIyVXdKQ0xOZy1YR0w1OUNoeXFwbjNXWGdVWk5IS19UMzRmYktXcjhxTEJpMGZhZHJCb0lOeUVDVHZBR1RjWk5R?oc=5",
+          "headline": "Govt to issue consultation paper on AI law in coming weeks: Vaishnaw - ET Government",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8097,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.693,
+        "trend_momentum": 0.85,
+        "user_preference": 0.665,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.81 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.693",
+      "rank": 1,
+      "explanation": "Govt to Issue AI Law Consultation Paper Soon:.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Gone in 300 seconds! ₹3",
+      "raw_headline": "Gone in 300 seconds!  ₹3 lakh iPhone Duo foldable phone sells out on Blinkit; Is Apple's monthly lease worth it?",
+      "url": "https://www.livemint.com/technology/iphone-duo-at-rs-2-99-lakh-sells-out-on-blinkit-in-5-minutes-is-apples-monthly-lease-worth-it-11792813203796.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-10-24T03:46:46+00:00",
+      "published_ist": "24 Oct 2026, 09:16 AM IST",
+      "published_timestamp": 1792813606.0,
+      "description": "Apple’s first foldable smartphone, the iPhone Duo, sold out on Blinkit within five minutes of going on sale in Delhi-NCR on October 23, 2026, with prices starting at ₹2,99,900 in India.&nbsp;",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7801,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.934,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "delhi",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (delhi, india) | Cred: 0.85 | Recency: 0.934",
+      "rank": 2,
+      "explanation": "Apple’s first foldable smartphone, the.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Sheikh Theyab meets Indian Prime",
+      "raw_headline": "Sheikh Theyab meets Indian Prime Minister Narendra Modi in New Delhi - ARN News Centre",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDRGWU9ha3VCQ1M3U1ZHeDhXRVpFX3RtRVc2MU5hNFJJTWM4cGozSDNRQ2hTZGRkMkU0dVVaeEVIT2ViV0lSYS1INmFPYzZHaGNMcHZXY3NtdjJkbWNuSGc1NnhxNlNrcGM3QkpqNkM4ZndQYjZReU8yRjNpamhLYjJwZm85aC1VWG9XbGNuTU9EQXhvQTUzdVkxXzROaUdTMDZ4aVNJYWtRVDJMYUhJ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "ARN News Centre",
+      "published_utc": "2026-10-23T12:39:32+00:00",
+      "published_ist": "23 Oct 2026, 06:09 PM IST",
+      "published_timestamp": 1792759172.0,
+      "description": "Sheikh Theyab meets Indian Prime Minister Narendra Modi in New Delhi ARN News Centre",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7755,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.603,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "delhi",
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.99 (delhi, india, indian) | Cred: 0.85 | Recency: 0.603",
+      "rank": 3,
+      "explanation": "Sheikh Theyab meets Indian Prime.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of",
+      "raw_headline": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+      "url": "https://arxiv.org/abs/2610.30161",
+      "source": "arXiv Computation and Language",
+      "publisher": "Krishanu Adhikary, Prashant Devadiga",
+      "published_utc": "2026-10-24T04:00:00+00:00",
+      "published_ist": "24 Oct 2026, 09:30 AM IST",
+      "published_timestamp": 1792814400.0,
+      "description": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they give correct information and follow the bank's rules. These rules prescribe a procedure, a set of required steps, such as obtaining a closure quote before closing a deposit. Adapting models to this domain requires measuring how well they follow the procedure, before and after training. Benchmarks usually judge only the records left at the end of a conve",
+      "tier": "tier_1_primary",
+      "category": "LLMs & NLP",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.CL",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.746,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.36,
+        "recency": 0.94,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.36 (india, indian) | Cred: 1.0 | Recency: 0.94",
+      "rank": 4,
+      "explanation": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "NCERT introduces module on Computational",
+      "raw_headline": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12 - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPQmFScmlyOFd0N0VlN0pZVE0xT083dHVQWkJNNHdHdWxRSU5nZzRDRzg5cHQ1M3Z2VG5yclNZU3dnamp0UUhBd1lESzZkdURraFNqTEJIUThFYlNLX0RTUUFHQzFmdmtieGEwVnQ2ZUl4eTJRZjhFSXlRX1hUSnRpQi1LRldTU2VYZGJCeDFNdlZxWEhyelJrMWcyeGk3OXhzMUx1dC0xbnpDYkxOaGVVV3A4dzdfMzUzMU0waVZMbks2SXFsY0JaRlh4ZWM1QkdnUFpxRURKMnlZRWxaNjhBOExYdnVZTnJMS2xlUUk2bUttbU9CNllBSHQzQnl0ZXFyUHhlRzEzbE5XenJPWmlCNjllZWxVVHNSU2fSAeoBQVVfeXFMUGtMYThGVzdmTHpYUGJnUkFKUWEyMUszSWN6UzA0T2NnbVNmTmZqM0NuVGF3aWlEaUpTUENGOGFKanBtUkhfU1VoSUpveE5QVXFGOEVXTVQ0RVNBMmUtX0xtQTdFX191Q3dUeEZUTHVSMzlHem9hSzlfbjBVcFJSS01qRjhCZzZ5Zi1yM1R2NE1FemJBMG1sUWk4WWFlSnpOaUNiM19hT1psN0diYVVFSXJZaWZaNEZwcmltMXlQNThjVHJsNDRxWFk2RHphaXhJdi15SmpJUzVha0l5QWdiUmNaemlPRDRzTmdn?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The New Indian Express",
+      "published_utc": "2026-10-23T17:58:17+00:00",
+      "published_ist": "23 Oct 2026, 11:28 PM IST",
+      "published_timestamp": 1792778297.0,
+      "description": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12 The New Indian Express",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7455,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.703,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.703",
+      "rank": 5,
+      "explanation": "NCERT introduces module on Computational.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 549,
+    "total_after_lookback": 303,
+    "canonical_events_count": 293,
+    "eligible_events_count": 293,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "FusionEval: Benchmarking Model Fusion for Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhaolu Kang, Yidi Wang, Yile Li, Siqi Zeng, Yingjie He, Richeng Xuan, Zhichao hu"
+        ]
+      },
+      {
+        "canonical_headline": "The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Nimun Bajwa, Massimo Poesio"
+        ]
+      },
+      {
+        "canonical_headline": "The Imperfective Paradox in Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Federico Marcuzzi, Martin Christoph, Iryna Gurevych, Alla Rozovskaya"
+        ]
+      },
+      {
+        "canonical_headline": "Markovian Generation Chains in Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Israfel Salazar, Stella Frank, Dan Oneata, Desmond Elliott, Constanza Fierro"
+        ]
+      },
+      {
+        "canonical_headline": "Polish PM Donald Tusk seeks deeper technology cooperation with India across AI, digital and space sectors - The Tribune",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Govt to Issue AI Law Consultation Paper Soon: Vaishnaw - Rediff",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Economic Times Tech & AI",
+          "ET Government"
+        ]
+      },
+      {
+        "canonical_headline": "Infosys Q2 Results: Profit rises 6% YoY to Rs 7,823 crore; co lowers revenue guidance",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gaurav Bagur"
+        ]
+      },
+      {
+        "canonical_headline": "Tower, Semtech expand SiGe partnership for AI data centers - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      },
+      {
+        "canonical_headline": "Video | NDTV World Summit 2026: AI, Chips, Warfare And The Future Of The World | Key Conversations - NDTV",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "NDTV"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}

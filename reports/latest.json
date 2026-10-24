@@ -2,166 +2,41 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-10-23",
-  "generated_at_ist": "23 Oct 2026, 11:44 AM IST",
+  "report_date": "2026-10-24",
+  "generated_at_ist": "24 Oct 2026, 11:39 AM IST",
   "story_count": 5,
-  "briefing_word_count": 60,
+  "briefing_word_count": 59,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "iPhone Duo's entire first week",
-      "raw_headline": "iPhone Duo's entire first week stock pre-booked in India",
-      "url": "https://economictimes.indiatimes.com/tech/technology/iphone-duos-entire-first-week-stock-pre-booked-in-india/articleshow/135132280.cms",
-      "source": "Economic Times Tech & AI",
-      "publisher": "Economic Times Tech & AI",
-      "published_utc": "2026-10-23T02:46:02+00:00",
-      "published_ist": "23 Oct 2026, 08:16 AM IST",
-      "published_timestamp": 1792723562.0,
-      "description": "Apple Store in BKC (Bandra Kurla Complex), Mumbai, and Saket, New Delhi, have clocked maximum number of pre-bookings for the ultra premium first foldable iPhone from the company's stable.",
-      "tier": "tier_2_reputable",
-      "category": "India Tech & Business",
-      "is_india_focused": true,
-      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
-      "scores": {
-        "composite": 0.8206,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.99,
-        "recency": 0.904,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "delhi",
-        "mumbai",
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.82 | India Rel: 0.99 (delhi, mumbai, india) | Cred: 0.85 | Recency: 0.904",
-      "rank": 1,
-      "explanation": "Apple Store in BKC (Bandra Kurla Complex), Mumbai.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Photon Bridge raises €10m to",
-      "raw_headline": "Photon Bridge raises €10m to tackle AI laser bottleneck, targets volume in 2028 - electronics.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxONm80MXVyZGp1S3Z0RDNMM2YzdlZhM2cxN2gtbl9tNnRjWWdQYzByXzNzQWtYcHhwU1Z6d2FVeGJMWE1zVEEwcWFudWlNOHd0aV9CdE9uMlY1amVTWHRSaEJTU21qMlVxa1hVUkY4ZzM1UFk1dVB2OVVYcVJ4ek9wQlpRakNJdS0wUTE0TlVIeFBsekNzWC03STh5OWxKV0hfV3luZWJQbnhoM053RU5qZWUzNWxvZ2NpcDR3V1BQTTk3MU9NNll0ZGFMaTF2Qy1rczlaRDRVZzBuYmxUODdqLV8xWGVWZTI3Z3pvdVcxZlNtQ0hqczdsZTVkSkVmeHZHUy1VN3poal9nOWlLUjhnNmtKTGVsd1JNQjVURWNlZFE3YjNQdVZCdVNkUdIB8wFBVV95cUxNYklveDc1dk5Gd2xkYlI3bDBCR1A2NS1Jdk9BN2FTeGhGT3dKc0MwektsZElhQnhmMlJnTkt0bGoyTWFaQVExbkwzdnIydzFTUkFPQkU0c2tKZmpLbXh6WGg4UjZJdmNDMEZ4SktKRldhTGZ1UWh5emRhdnNvZkY0SHNjVHNtc192bEJsNXFxY2VQNk9UcnZBX1pVTzgxTk14S2hHSW5xSkp1OHBhV3F6MDlOQUdTWVE2Yy1hTXR4ZWYzNzBwOW1pX0NKYjUwX1ljRU5FRS04cVZzQ3FYQXNyMG9jZWFDVW1Sb01Ja2RtamQtSjA?oc=5",
+      "headline": "Govt to Issue AI Law",
+      "raw_headline": "Govt to Issue AI Law Consultation Paper Soon: Vaishnaw - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXNSUlpzVUFWRTNSMGRLUTNrMWprNTh6MFdlZFJvMUNRMDE4ZHJOMlhuMEIwUlBwTmw1dzJuWEEtWm55UGM4ODNqQ2RpX0lieG16NWdsMDc4aW5XTFFOc3BxaE1lczlacjRkZnQ0M3RwbGpEQ09NSzhLX04yYUFsVllTYlpUMGxTTV84Y3I4N2RrUWhDR3N2b2dySGg1OU5rSlVtR3FyRDjSAa4BQVVfeXFMTXpIeXNPLUs5RnRYYUE1eGVSV1h3WnZULTkyOGhqeWpMZXlFTXdXV1duZU9PNHpvQ1duM0Z1VzY2bEhXdnB0SWFvREhqVWVhM1EwNnpfQWZvbXF0bW1HV19NVGFoWW5ycHJ3MVhzV3pDT2RjTzJLZmVtNVR1LW5wLWkwZG9uTU9peWVvUDc5eEx6N2I1c0tidlQxc2xELUpZTk1tbW5renFZTmdOUW1n?oc=5",
       "source": "Google News: India Semiconductor Chips",
-      "publisher": "electronics.economictimes.indiatimes.com",
-      "published_utc": "2026-10-22T06:38:01+00:00",
-      "published_ist": "22 Oct 2026, 12:08 PM IST",
-      "published_timestamp": 1792651081.0,
-      "description": "Photon Bridge raises €10m to tackle AI laser bottleneck, targets volume in 2028 electronics.economictimes.indiatimes.com",
+      "publisher": "Rediff",
+      "published_utc": "2026-10-23T17:27:21+00:00",
+      "published_ist": "23 Oct 2026, 10:57 PM IST",
+      "published_timestamp": 1792776441.0,
+      "description": "Govt to Issue AI Law Consultation Paper Soon: Vaishnaw Rediff",
       "tier": "tier_2_reputable",
       "category": "Semiconductors & Hardware",
       "is_india_focused": true,
       "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
       "corroborating_sources": [
         {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeXBnQnJvUUZ3WW9tRjZFd2FUQ3prUnJKNGtUUjcwQmlEQmJTZS1zYmpUT29SQWhUeUNycVlPSnhsbUJfLUp0Sk1mRW9zYWFkMVZkVUVPNnVnaWhxX2ltSjI3N3hfQy1BQ0lpbHZNckw4MzRXa2NtbExCTFQwR3EzX1BQa0dCUFZITUNpamhxSHg2SWkzV3hkc2FHZFVTOW5Ud0JEeFRSdzV4N0RrOEhlTWpaVzJzc3hzSFY0TWQxS3lxb3laUUJwcHJ4M1RRM282anRpX3J30gHaAUFVX3lxTFBkVUF6TVdJamNVenlkRTFLY0JFYV9Mbi1tUV8yazl2Z3drMmxscDc2Sll2VWpLLXFjWXFFQjEweHYtbkpFdzVySWFtSEhYVkFmRm90aU1LTURMQVVyZi1kQ1FKZExzdlhodWtFRXhyOWlGVGtORUdfSTNqa3BudEF3Yldwdmo4cFpVSE1EN3hWekJDV0FnMVJSeWFhbmxibkE2UDktdnB1U0E4dnJzbGNqbF9KcWpxeFFqTUQxckZpTXJGUWxMN3F3OEo0bXB0ZUtFbFN4a09wc293?oc=5",
-          "headline": "UK expands Semiconductor Catapult for AI, defence electronics - electronics.economictimes.indiatimes.com",
+          "source": "Economic Times Tech & AI",
+          "publisher": "Economic Times Tech & AI",
+          "url": "https://economictimes.indiatimes.com/tech/technology/govt-to-issue-consultation-paper-on-ai-law-in-coming-weeks-vaishnaw/articleshow/135152578.cms",
+          "headline": "Govt to issue consultation paper on AI law in coming weeks: Vaishnaw",
           "tier": "tier_2_reputable"
         },
         {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdzJqemFVMl9fMlMzRS1FZzVjZDllTTRLdlZfbzE4T3poWkloRWlDc0ZhU3pNekc5S0N1ZHhkc0xEaXZ0aEZaaXdGS1hoZ2I0MTUxWE5zcTVlcXN2LVZ6d1ZRMjFIS2tTNVhVOUlWOExtbWVSQ3BPNDdlUUQ1N2tnNVVwYzVQQ1VUWnhGNTZzY0FVUDc0ZHdaNnZzMVUwdzIwWWU3NTRpVWUzb01wS1dEak5aNHM1Qk9BVUFzazNzS3JTTE9BQzlUNHFPMnQxMlFW0gHUAUFVX3lxTE43bS0wclVRVmZqdXZvakFoQld6QnJwX1RrTk9QUXlZYVJ5d2l4dnNQaFhhcHlVQWEyM1dCMy1iTHdleFhJUExSdEh0bUJNOXNxMHJhb0FOelpmSW9CVEhETWtFSzN5QjFQYVpYVkw3S1lpekpISi00eTNoRGZtZGlYRm95SXZUWWZXQjliSTVzSHJWcXlRNEtFdndTbGJmZV9QU3k4OUpuNWltV3RCeE5ibm1XOFJCOXYxYUVnSjM5VXg0MjdJUW05MExOaUR4SThRcXZO?oc=5",
-          "headline": "India's OSAT buildout puts semiconductor testing in focus - electronics.economictimes.indiatimes.com",
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "ET Government",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbHRNWmNjZ291T2NtdEpHS0YzQnBDejNkbEFzRFYwSVVLa0hBMGJQSWRlY0dzblpQT0ZhLWVLZVpGcnM1NFowV2lhZ1V4Z2JIV0JGYUw2SWlsNGw2TXNRNkk3QU9jOUtYRktfakdsdzZuZ2FPLWtXZkhYUDNmVThrR05qTnF5Y1BVbjg4UDFZVFJUWE5vXzVLR0NEMnJZVElCN3Rwam94WS1EeXM3cFd2TkJtLWVlWDVNd2dUejJlMDN6YklOYU5sZW9aeThJcGtwUFIyVXdKQ0xOZy1YR0w1OUNoeXFwbjNXWGdVWk5IS19UMzRmYktXcjhxTEJpMGZhZHJCb0lOeUVDVHZBR1RjWk5R?oc=5",
+          "headline": "Govt to issue consultation paper on AI law in coming weeks: Vaishnaw - ET Government",
           "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFQtUm9nZVMwSkVldEdqSW5lZU1xZGJBLWxPc05mNnhWdjBqU3h3RlJJd2R5OXBmUUc2T1NuVUZRWERjOWZuOHUwVS1CQUpybFlKNHR4cW1NYWM0TmRNZ2toZllYazJhSUpLV0ZtUlg1bmxWQmUxVjVhbmhwVDlqWTVVekdDR2FtbEg3d3BpczhYX0F6cUNYT2QtcHBKWU0xU0xicXZUYnQxSXVaMEhjUF9aemdYSGcxY3d4SWF1UjBWb2diQkIyMzZINjZDZlXSAdMBQVVfeXFMUDBUQ0xCc29kQ1lJVVlFQmVNbkk2Z0k5aElOWWhmOEotaXV6NHcyNEV5Smx4YktCMUlDeklwejEzSi1abkowU1hpNWtQYVpVR3RUaWxfMW9mTjN0SUJTUjNWQ085MmNlcXpLRHVDNXRGOE85bjNVVzYtb0NndHlOQk9yT0pBTlhOMmktV3hlY0JBdVNhdk4xMWctR2RtemRuZWdzd2tUT3JjOWZlYVdpQTlLaXhxOWQxaHBLMkxuc2ZpOG9aWmRYRmZfRlM2ZkIzTG4tOA?oc=5",
-          "headline": "India needs adaptable testing systems for complex chips - electronics.economictimes.indiatimes.com",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVNSZHNmMlQ1bTdIQVNlNE9rc1EyRURNbmUwVE13RWhFQ3VGVmt2cjVDR3BkY3A2dWNGVVR4ZjZ6UzJOSnotRWpqbWRwUjlXOE9hRlZuQ09JbVdtRDdnejRtM1pzZURvLW9MUXh4dS0teDFxWmVUamk5X0Fwck1rQnZvdUFFaWkxLU8zSF9nc1l0dnBMR21aSFJzZVhqSWh5QUd0cllPZjl3cGRINk4wLU1DZnNSWVVtbjN0UlBIZHNQejhTbzhoMlhZd1VDZkVjVjM3aVhZONIB2wFBVV95cUxNeVFYdkhTOTB4TU5VR2xaakc1dmJGTWZlRmRZVnRwWjViYURLaE1QNUY0NE9yek1xS0xEMHQyWHZxVk1pVVpZeFhZenQwOUdzekktOWptcmFBczNObUJoWTVkNFk5S2FUYUdzazBnMmZEbVlhOTZMZDFabDJmTngzVWR2TXhGUDdSeXJmc3hxeU8xX3lhOWxHSEV4dl9yUDl4LTFsbm5GdFVhV042eERHWkZwUHV4WUZ0cHRhd29IV0FGSnd1WFkxMGhzZV9sUUlSYl91VnVSaWF1U1E?oc=5",
-          "headline": "Infineon, NVIDIA collaborate on GaN for 800VDC AI data centres - electronics.economictimes.indiatimes.com",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVS0xdWhFYUxQWkNCVFlReGgtcTEtS01uU0NVU2hkTU9LQW1mSDhDczdGa3d5Y1QzNlB3NHh2c2V4V0pGUjlFN01BSHhPem0ydXJSS09PbFE0Z2FYVWtiX29XY2JHWjlmQWpvcmItY212QWwteWktZ1kwRkxJYnF0UE1wXzFzSWxGU1dJNGJrVEdRa01CRlBRQWkwRE9aV21MQlZXR3Nab1Q1aVZmUW55d084cU8tQTNYVHl3b1NpWGRmZFNwZDhQbkNjRHJ4NEUxVjdOeW1jMElDVUVxTFg0OUxuUjFLZmppUnNIZncwOUpYalpEcjlucGhnUHlERlBKZkI5ZG5UaHVnQ0NhaXfSAdYBQVVfeXFMTTl1QmY0VU5TTzlDN1o4ZmxyLUJpUmVRbGFydGN3XzhoMzNCQkhJcXpwOHFhT0FQMW1DRTR3OGc2OFFfeTA1NlFNVDNtYXFiMlZ0RkVFalNxRWFyX2lmeVcwVlVYeExCRHIybnBUUDhKV3dhekxlQzNCbk5qOWpJVVNTdlhfZmRfLXN2ZGpMX0E4d0lodFdUQ0RwLU1BcWVtQnJqUE1pSExmYVFrVFp2bzJlc1FsQWF4akx6SmJiX1ZwUUpIcVVKNjZtQUhBVzJPNmV2cGlFZw?oc=5",
-          "headline": "Tower, Semtech expand SiGe partnership for AI data centers - electronics.economictimes.indiatimes.com",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3A5WFFnWHVwNXhlbVlSTHNIQkVzTUo1OENZOWdfV2dBbDU5ZHZtZk56TjNYTVctR0VIUWQ1ei1lQk5PdHdZYWhTZTRodW0tNWREMjdLLUtnYVhuNDZqbXl6bkZJZ1BObDRNQnZZeWhWdy1jSkFfYzJReE0wZ1FibmNEMHZEOGtDOEdnZFNzSjRqVjUzS0J0ZlVKY0JiQnAtVTAwLW9WbHRJbUowSVhGTUFhSG5YY0p1bkdkVUp6VjQwbm9qNFJBTtIBzAFBVV95cUxOTXAzVjFTT3gyc1VDc05sNUp3cE03dV94MklzRzJENXExVXR6TUxucmJueGxBNWcydmFRbUYxdjZ2NTk5SElOY0RDWUs0dTRJb2daa2pqVldQYXZvM2xKbFEzOVlMUjB5QThLSWVsTEtHeFJxUzVEVDhSOW9CaUl0TXVmejBpZlFDY0VNX25NTV9sN3V0V21XQ3pkSXZrT2k4Z2pudU5uUTRGaVdXeVBWNlZLWVlneE1ISUJ2YV9pWDdiQ2FmREM2VE1qV0M?oc=5",
-          "headline": "US to award $389 million for power semiconductor R&D - electronics.economictimes.indiatimes.com",
-          "tier": "tier_2_reputable"
-        }
-      ],
-      "corroboration_count": 6,
-      "cluster_size": 7,
-      "verification_status": "Corroborated (Multi-Source)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 0.9,
-      "is_eligible": true,
-      "verification_rationale": "Corroborated across 7 independent news organizations.",
-      "scores": {
-        "composite": 0.7966,
-        "credibility": 1.0,
-        "evidence_strength": 0.9,
-        "india_relevance": 0.63,
-        "recency": 0.506,
-        "trend_momentum": 1.0,
-        "user_preference": 0.665,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.8 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.506",
-      "rank": 2,
-      "explanation": "Photon Bridge raises €10m to.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Zetwerk Manufacturing shares list at",
-      "raw_headline": "Zetwerk Manufacturing shares list at 5% premium over IPO price",
-      "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135134461.cms",
-      "source": "Economic Times Tech & AI",
-      "publisher": "Economic Times Tech & AI",
-      "published_utc": "2026-10-23T02:18:56+00:00",
-      "published_ist": "23 Oct 2026, 07:48 AM IST",
-      "published_timestamp": 1792721936.0,
-      "description": "The Rs 5,012.33 crore IPO comprises a fresh issue of shares worth Rs 2,830 crore and an offer for sale (OFS) of 14.45 crore shares worth approximately Rs 2,182 crore. While the proceeds from the fresh issue will go to the company, the OFS proceeds will accrue to the selling shareholders.",
-      "tier": "tier_2_reputable",
-      "category": "India Tech & Business",
-      "is_india_focused": true,
-      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
-      "corroborating_sources": [
-        {
-          "source": "Inc42 Indian Startups & AI",
-          "publisher": "Shrishti Bisht",
-          "url": "https://inc42.com/buzz/tonbo-imaging-makes-strong-market-debut-lists-at-66-premium-to-ipo-price",
-          "headline": "Tonbo Imaging Makes Strong Market Debut, Lists At 66% Premium To IPO Price",
-          "tier": "tier_3_coverage"
-        },
-        {
-          "source": "Inc42 Indian Startups & AI",
-          "publisher": "Shrishti Bisht",
-          "url": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo",
-          "headline": "Zetwerk Makes NSE Debut At 5.5% Premium After ₹5,012 Cr IPO",
-          "tier": "tier_3_coverage"
         }
       ],
       "corroboration_count": 2,
@@ -172,72 +47,157 @@
       "is_eligible": true,
       "verification_rationale": "Corroborated across 3 independent news organizations.",
       "scores": {
-        "composite": 0.7865,
+        "composite": 0.8097,
         "credibility": 1.0,
         "evidence_strength": 0.9,
-        "india_relevance": 0.45,
-        "recency": 0.893,
+        "india_relevance": 0.63,
+        "recency": 0.693,
         "trend_momentum": 0.85,
+        "user_preference": 0.665,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.81 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.693",
+      "rank": 1,
+      "explanation": "Govt to Issue AI Law Consultation Paper Soon:.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Gone in 300 seconds! ₹3",
+      "raw_headline": "Gone in 300 seconds!  ₹3 lakh iPhone Duo foldable phone sells out on Blinkit; Is Apple's monthly lease worth it?",
+      "url": "https://www.livemint.com/technology/iphone-duo-at-rs-2-99-lakh-sells-out-on-blinkit-in-5-minutes-is-apples-monthly-lease-worth-it-11792813203796.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-10-24T03:46:46+00:00",
+      "published_ist": "24 Oct 2026, 09:16 AM IST",
+      "published_timestamp": 1792813606.0,
+      "description": "Apple’s first foldable smartphone, the iPhone Duo, sold out on Blinkit within five minutes of going on sale in Delhi-NCR on October 23, 2026, with prices starting at ₹2,99,900 in India.&nbsp;",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7801,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.934,
+        "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
-      "matched_india_keywords": [],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.45 (Global impact) | Cred: 1.0 | Recency: 0.893",
+      "matched_india_keywords": [
+        "delhi",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (delhi, india) | Cred: 0.85 | Recency: 0.934",
+      "rank": 2,
+      "explanation": "Apple’s first foldable smartphone, the.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Sheikh Theyab meets Indian Prime",
+      "raw_headline": "Sheikh Theyab meets Indian Prime Minister Narendra Modi in New Delhi - ARN News Centre",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDRGWU9ha3VCQ1M3U1ZHeDhXRVpFX3RtRVc2MU5hNFJJTWM4cGozSDNRQ2hTZGRkMkU0dVVaeEVIT2ViV0lSYS1INmFPYzZHaGNMcHZXY3NtdjJkbWNuSGc1NnhxNlNrcGM3QkpqNkM4ZndQYjZReU8yRjNpamhLYjJwZm85aC1VWG9XbGNuTU9EQXhvQTUzdVkxXzROaUdTMDZ4aVNJYWtRVDJMYUhJ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "ARN News Centre",
+      "published_utc": "2026-10-23T12:39:32+00:00",
+      "published_ist": "23 Oct 2026, 06:09 PM IST",
+      "published_timestamp": 1792759172.0,
+      "description": "Sheikh Theyab meets Indian Prime Minister Narendra Modi in New Delhi ARN News Centre",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7755,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.603,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "delhi",
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.99 (delhi, india, indian) | Cred: 0.85 | Recency: 0.603",
       "rank": 3,
-      "explanation": "The Rs 5,012.33 crore IPO comprises a fresh.",
+      "explanation": "Sheikh Theyab meets Indian Prime.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Indian Students Worry AI Could",
-      "raw_headline": "Indian Students Worry AI Could Limit In-Depth Learning, Survey Reveals - BW Education",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclViSHR6V3puTzhxYzNTanduSnFnSWtOMlNHNWk5dHZKQTBFYVhTaGllejM4ak5vMl9UUEgyRGl2ZFYtU0RKbW5JUE5hNlhBdldpVXBTUUViQU1LTldiQWE4dHNPY0xXak1SNk04T2RCekNhVUZ1azI4ajhlQkc5dXVtQlRUR0RPMEZMc3VJbmZfbzZFRTBYb01IanZ5cWwwSlNXUkFaUDlLWV9paXNaYlln?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "BW Education",
-      "published_utc": "2026-10-23T04:13:41+00:00",
-      "published_ist": "23 Oct 2026, 09:43 AM IST",
-      "published_timestamp": 1792728821.0,
-      "description": "Indian Students Worry AI Could Limit In-Depth Learning, Survey Reveals BW Education",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "headline": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of",
+      "raw_headline": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+      "url": "https://arxiv.org/abs/2610.30161",
+      "source": "arXiv Computation and Language",
+      "publisher": "Krishanu Adhikary, Prashant Devadiga",
+      "published_utc": "2026-10-24T04:00:00+00:00",
+      "published_ist": "24 Oct 2026, 09:30 AM IST",
+      "published_timestamp": 1792814400.0,
+      "description": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they give correct information and follow the bank's rules. These rules prescribe a procedure, a set of required steps, such as obtaining a closure quote before closing a deposit. Adapting models to this domain requires measuring how well they follow the procedure, before and after training. Benchmarks usually judge only the records left at the end of a conve",
+      "tier": "tier_1_primary",
+      "category": "LLMs & NLP",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.CL",
       "corroborating_sources": [],
       "corroboration_count": 0,
       "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
       "scores": {
-        "composite": 0.7815,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.943,
+        "composite": 0.746,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.36,
+        "recency": 0.94,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
-        "technical_significance": 0.4
+        "technical_significance": 0.55
       },
       "matched_india_keywords": [
         "india",
         "indian"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.943",
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.36 (india, indian) | Cred: 1.0 | Recency: 0.94",
       "rank": 4,
-      "explanation": "Indian Students Worry AI Could Limit.",
+      "explanation": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Microsoft AI tool outperforms doctors",
-      "raw_headline": "Microsoft AI tool outperforms doctors in complex diagnostic tests, study finds - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUVJDV2VaM19yVVVsdkdNX2c5NVpHeExxTWpnLUQ0cEFJelVLM1RFYzdZb0M0V05aaFdiQl9oZXdiVkg4cERrSnpLOTVfZXgtQjEwckgxRU1zR3VQMDZTbFhBYU10elpQTzR3bDRhZ2VBR25FdlZrbUt4M0NoRlNLdTlUMFNUYXZ2LURmeWo1QWFjT2NjY2NLRHlQU3MxdzB3SXFnQ0ZERk5Dc2tEZzNhc0ZoLU1DTXVHTTFoZTlueVkxWmdkbGtIWXVvT2wwZDF0RkcxWkljdHp6QW1pcGlaMllmdVVYYWowb3JiStIB8wFBVV95cUxPRmJtLU9PMUc4Z0xkM0s0MXIyUjg2bV9kMi1MeUVLWnZscFpqalkyb1JOd2NfdmJmZ0xVRnNENzVycFg2WS1qdmRyRk8zWjZRczc3SEV1b2l1YUdYLUtidVlUVUNXUkVFYmYwNlp0Zmg4dld2YlpJR2g3Vzg1RVIwR2Vjdno4b0Y5cUZGampPT3NKeGZMZ2JlLUI3emF2UklEUGYwVlFtX2hGajJzYlhER3pZdU52bGxzaEVfTjB4VEVGbGZiajMtYVdYV1A2dElDUTlQc3JCU1JJUUlxeFNpSmtxaEZEZG1Ua2lKN2RTOEhvR2s?oc=5",
+      "headline": "NCERT introduces module on Computational",
+      "raw_headline": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12 - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPQmFScmlyOFd0N0VlN0pZVE0xT083dHVQWkJNNHdHdWxRSU5nZzRDRzg5cHQ1M3Z2VG5yclNZU3dnamp0UUhBd1lESzZkdURraFNqTEJIUThFYlNLX0RTUUFHQzFmdmtieGEwVnQ2ZUl4eTJRZjhFSXlRX1hUSnRpQi1LRldTU2VYZGJCeDFNdlZxWEhyelJrMWcyeGk3OXhzMUx1dC0xbnpDYkxOaGVVV3A4dzdfMzUzMU0waVZMbks2SXFsY0JaRlh4ZWM1QkdnUFpxRURKMnlZRWxaNjhBOExYdnVZTnJMS2xlUUk2bUttbU9CNllBSHQzQnl0ZXFyUHhlRzEzbE5XenJPWmlCNjllZWxVVHNSU2fSAeoBQVVfeXFMUGtMYThGVzdmTHpYUGJnUkFKUWEyMUszSWN6UzA0T2NnbVNmTmZqM0NuVGF3aWlEaUpTUENGOGFKanBtUkhfU1VoSUpveE5QVXFGOEVXTVQ0RVNBMmUtX0xtQTdFX191Q3dUeEZUTHVSMzlHem9hSzlfbjBVcFJSS01qRjhCZzZ5Zi1yM1R2NE1FemJBMG1sUWk4WWFlSnpOaUNiM19hT1psN0diYVVFSXJZaWZaNEZwcmltMXlQNThjVHJsNDRxWFk2RHphaXhJdi15SmpJUzVha0l5QWdiUmNaemlPRDRzTmdn?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "The Indian Express",
-      "published_utc": "2026-10-23T02:16:01+00:00",
-      "published_ist": "23 Oct 2026, 07:46 AM IST",
-      "published_timestamp": 1792721761.0,
-      "description": "Microsoft AI tool outperforms doctors in complex diagnostic tests, study finds The Indian Express",
+      "publisher": "The New Indian Express",
+      "published_utc": "2026-10-23T17:58:17+00:00",
+      "published_ist": "23 Oct 2026, 11:28 PM IST",
+      "published_timestamp": 1792778297.0,
+      "description": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12 The New Indian Express",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -251,11 +211,11 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7737,
+        "composite": 0.7455,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.891,
+        "recency": 0.703,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
@@ -264,157 +224,78 @@
         "india",
         "indian"
       ],
-      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.891",
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.703",
       "rank": 5,
-      "explanation": "Microsoft AI tool outperforms doctors.",
+      "explanation": "NCERT introduces module on Computational.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 923,
-    "total_after_lookback": 690,
-    "canonical_events_count": 582,
-    "eligible_events_count": 582,
+    "total_raw_fetched": 549,
+    "total_after_lookback": 303,
+    "canonical_events_count": 293,
+    "eligible_events_count": 293,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "DConstrain: Compiling Context-Parameterized Transitions for Diffusion Language Model Constrained Decoding",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Yuannuo Feng, Yubing Ye, Wenshuai Yao, Yizhe Chen, Ngai Wong, Wenyong Zhou, Wang Kang"
-        ]
-      },
-      {
         "canonical_headline": "FusionEval: Benchmarking Model Fusion for Large Language Models",
-        "source": "arXiv Computer Science & AI",
+        "source": "arXiv Computation and Language",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "Zhaolu Kang, Yidi Wang, Yile Li, Siqi Zeng, Yingjie He, Richeng Xuan, Zhichao hu"
         ]
       },
       {
-        "canonical_headline": "Probing and Steering for Safety-Relevant Behaviours in Large Language Models",
-        "source": "arXiv Computer Science & AI",
+        "canonical_headline": "The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models",
+        "source": "arXiv Computation and Language",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Shihui Li, Mette Andersen, Martha Lewis"
+          "Nimun Bajwa, Massimo Poesio"
         ]
       },
       {
-        "canonical_headline": "VLTest: Finding Joint Image-Text Failures in Vision-Language Models",
-        "source": "arXiv Computer Science & AI",
+        "canonical_headline": "The Imperfective Paradox in Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Federico Marcuzzi, Martin Christoph, Iryna Gurevych, Alla Rozovskaya"
+        ]
+      },
+      {
+        "canonical_headline": "Markovian Generation Chains in Large Language Models",
+        "source": "arXiv Computation and Language",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "Israfel Salazar, Stella Frank, Dan Oneata, Desmond Elliott, Constanza Fierro"
         ]
       },
       {
-        "canonical_headline": "TRCA: Transition-wise Rubric Credit Assignment for Long-horizon LLM Agents",
-        "source": "arXiv Computer Science & AI",
+        "canonical_headline": "Polish PM Donald Tusk seeks deeper technology cooperation with India across AI, digital and space sectors - The Tribune",
+        "source": "Google News: India Artificial Intelligence",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Rumei Li, Xunliang Cai"
+          "Livemint AI & Technology"
         ]
       },
       {
-        "canonical_headline": "R$^2$ Flow: Recursive Self-Improvement via Recursive Skill Evolution",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Mingda Zhang, Yun Huang, Qiang Huang, Yanjin Li, Rui Qian, Qichao Zhao, Tiesunlong Shen, Na Zhao, Jian Wang, Xiaoying Tang",
-          "Xiao Huang, Mingda Zhang, Junming Zhang, Qiang Huang, Hanwen Zhang, Yue Dai, Zijia Wang, Xiaoying Tang"
-        ]
-      },
-      {
-        "canonical_headline": "AgentMonopoly: Behavioral Patterns and Persona Control in LLM Agents",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Haokai Zhao, Jie Gao, Yunze Xiao, Xintao Wang, Weihao Xuan, Aditya Joshi, Mark Dredze, Jen-tse Huang"
-        ]
-      },
-      {
-        "canonical_headline": "Markovian Generation Chains in Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Bolei Ma, Yusuke Miyao"
-        ]
-      },
-      {
-        "canonical_headline": "Claude Duet app is Anthropic's bet on agents",
-        "source": "TechCrunch AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Economic Times Tech & AI"
-        ]
-      },
-      {
-        "canonical_headline": "Why does Meta have to pay a $25 billion penalty? | Explained",
-        "source": "The Hindu - Technology",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "The Hindu - Technology"
-        ]
-      },
-      {
-        "canonical_headline": "What does eMudhra's web security key leak mean for internet users? | Explained",
-        "source": "The Hindu - Technology",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "The Hindu - Technology"
-        ]
-      },
-      {
-        "canonical_headline": "Zetwerk Manufacturing shares list at 5% premium over IPO price",
-        "source": "Economic Times Tech & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Shrishti Bisht",
-          "Shrishti Bisht"
-        ]
-      },
-      {
-        "canonical_headline": "BlueStone reports Rs 4.4 crore loss in Q2 as operating revenue rises 45%",
-        "source": "Economic Times Tech & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Akshit Pushkarna"
-        ]
-      },
-      {
-        "canonical_headline": "Cognizant acquires DyFlex Solutions to enhance AI and SAP transformation capabilities",
-        "source": "Economic Times Tech & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Mukundan Sivaraj"
-        ]
-      },
-      {
-        "canonical_headline": "eMudhra to exit global SSL/TLS certificate business after controversy",
-        "source": "Economic Times Tech & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Supreeth Koundinya",
-          "Shraddha Goled"
-        ]
-      },
-      {
-        "canonical_headline": "Photon Bridge raises €10m to tackle AI laser bottleneck, targets volume in 2028 - electronics.economictimes.indiatimes.com",
+        "canonical_headline": "Govt to Issue AI Law Consultation Paper Soon: Vaishnaw - Rediff",
         "source": "Google News: India Semiconductor Chips",
-        "duplicates_merged_count": 6,
+        "duplicates_merged_count": 2,
         "corroborating_publishers": [
-          "electronics.economictimes.indiatimes.com",
-          "electronics.economictimes.indiatimes.com",
-          "electronics.economictimes.indiatimes.com",
-          "electronics.economictimes.indiatimes.com",
-          "electronics.economictimes.indiatimes.com",
-          "electronics.economictimes.indiatimes.com"
+          "Economic Times Tech & AI",
+          "ET Government"
         ]
       },
       {
-        "canonical_headline": "Analog chipmaker Texas Instruments sees quarterly sales above estimates - electronics.economictimes.indiatimes.com",
+        "canonical_headline": "Infosys Q2 Results: Profit rises 6% YoY to Rs 7,823 crore; co lowers revenue guidance",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gaurav Bagur"
+        ]
+      },
+      {
+        "canonical_headline": "Tower, Semtech expand SiGe partnership for AI data centers - electronics.economictimes.indiatimes.com",
         "source": "Google News: India Semiconductor Chips",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
@@ -422,11 +303,11 @@
         ]
       },
       {
-        "canonical_headline": "South Korean chipmakers upgrade Chinese NAND plants - electronics.economictimes.indiatimes.com",
+        "canonical_headline": "Video | NDTV World Summit 2026: AI, Chips, Warfare And The Future Of The World | Key Conversations - NDTV",
         "source": "Google News: India Semiconductor Chips",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "electronics.economictimes.indiatimes.com"
+          "NDTV"
         ]
       }
     ],
