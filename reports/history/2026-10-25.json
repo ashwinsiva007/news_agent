@@ -1,0 +1,276 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-25",
+  "generated_at_ist": "25 Oct 2026, 11:59 AM IST",
+  "story_count": 5,
+  "briefing_word_count": 51,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Priti Adani Calls for Skilled",
+      "raw_headline": "Priti Adani Calls for Skilled Talent to Power India’s Chip Ambitions - The Blunt Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmZ0U0NBRHpmUkZ2cngwU2lRaXpRWkZUSE1iZ3NMb2lpUUNkRXFlLTRwa0tFZ0xHSnYxQ3VZNzlSLTJ0VGNjcjRMY1Y4VElBbC1QalhjbzNiSlJDSXc2WDdFUVo0SFBWeGVVS1l3YjllXy1UQW42WHpNVk95WGYtQS1tRUEwTFBiR3czcFFBUVVHV0VaQVI3SzUzZUZnUW1s?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "The Blunt Times",
+      "published_utc": "2026-10-24T08:45:01+00:00",
+      "published_ist": "24 Oct 2026, 02:15 PM IST",
+      "published_timestamp": 1792831501.0,
+      "description": "Priti Adani Calls for Skilled Talent to Power India’s Chip Ambitions The Blunt Times",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "IANS LIVE",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORG4xWlVnSHR5dkJZSUstSmtpN3dfdGhZWVV3aGhtanE2QllQWnlCYXowODdUOXNFNDZ3b3BkajhKZDZaTlZCS2hhSzJlWHJiUnZ2dzN2MDBSODR6RXV3V0hIYk9mb2dHVVJhVlJTSW4tdGZfUXpFN0ZXbEJSbXRZRmJHWG5CbU52YWVZQWVKYnUzWHo1NUkzb2d2OGdyZ2tGcllOVXFIYlRsSGo1bzhkVmd3S3RNX2lPdkszUzNTS05lX1JiUjQyM0NUbng?oc=5",
+          "headline": "Dr Priti Adani calls for human intelligence, skilled talent to power India's semiconductor mission - IANS LIVE",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Odisha Diary",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUhBUERaNVlrWUtyekE1dVB5d3M3YjJ4YmtfVXljbEtGMi1OODctZDZjQVBhRmI1eGFqSVNYdTFrNkhNelpHYnpENlVQbGZfcjR0azFJcE5hck05VGZ6WjZMTGJZQ190LWVhbjVKdWVDUWhYbkFQdmFZdHNaa0ZIMkJtbnRzTlpCd1ltSlF0NGJRTmZrczQtSjlETWZrdWRtX284X0xIdWZ0aFlZREdrYzVwUVROeXJHWnluTWRmWmRiendDcWc?oc=5",
+          "headline": "Dr Priti Adani Calls for Human Intelligence and Skilled Talent to Power India's Semiconductor Ambitions - Odisha Diary",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Oneindia",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmkwRS12UUFFSTlNcEhwZWlreWpKQk9jWmtjcUIyaVdESkFKQm5PY3UyLUZTaGhDX1V1OTV2S2lsVGJTTkJFYnJTXzBTRHpNR0F4RURYOUcwcndtQ2FxNlRrZXRZM3Ntd2NZTGZmeEM4clRPcGF6U2hJa0NVTWlNejhESGI4ZC1uMjNhLVlxV0NrNHNtaktkdjZyRU1aV2tvUmJyREN0anRSWkJyN3c?oc=5",
+          "headline": "Dr Priti Adani Calls for Skilled Talent, Research to Power India's Semiconductor Ambitions - Oneindia",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Republic World",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVHp3WTZJNi14NEtTTlFaaFFxYnFtQnp0TVc0emJNTG43Vk15LTNzMkZSYlE1c0Vuc3AxRGR0Qjd6LXlCMnV0dU9UQ3hjakFNR2JoRU5aLXM2Rk9zMGYydTlMbU9zVzRDd3ZCeXBSa1VHM0xSSGNNazN4UjVPMnRvSEdGbHUxVUZFQUVvcVk5OGk5cnpvX3ZXbWx2bWN2bVBpUGFNRFVFZk5tOGlZQWw4TzI2TWpTa3pHR1ZaZHJnVnB5U3lvLXhjRFpaa21WX2dKYkF6bzBGdEtqZlJCdFphU3B2TDB0aW10Wlo4ODJVODJ3S29a0gH6AUFVX3lxTFBwVFNUc1J4aTNJLTlaNnRhMC1Hbi1YUW5zWFQzelM1YkdXX0dKcUN2TXhuQ1ozSGpsQTgwbFNRZnlSX1ZpSHppUzN2QW55QjF3aXdHN1BuVUZudVV4TlZmMW1XMmJ0bl9uN2ZnRG1XRndJQjBrTlNCYWJnNmU3ckVXNWtZbHBqOTVJV09sRXMtZXB2ZHJaWWFvQ2F3UEZ2bEhyN2tiNEZuQkluYS1Wa1ByZy1CMG4tSHVyUTd4dUxycTBsU2NydXY4d0xFZ2RGSlhWR0I0dDZiYnRVOVZfZzVYR2N5QWtGZ2tRRkVKNGZsVTgyU1I2WXBjUEE?oc=5",
+          "headline": "Dr Priti Adani Calls For Human Intelligence And Skilled Talent To Power India's Semiconductor Ambitions - Republic World",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 4,
+      "cluster_size": 5,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 5 independent news organizations.",
+      "scores": {
+        "composite": 0.8008,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.534,
+        "trend_momentum": 1.0,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.8 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.534",
+      "rank": 1,
+      "explanation": "Priti Adani Calls for Skilled.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "KTR inaugurates Random Trees' Indian",
+      "raw_headline": "KTR inaugurates Random Trees' Indian headquarters in Hyderabad as company launches operations with 400 employees - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSGtLZWE2blRWVC1laTktcVZFUUVaRmptazN3bi1hRFpUNTRucWNIaXZQM18yb0ZFaTZsbHRrRjlwU1BxSFc1M25jZGNvcGVFNnJ5VmljOEtCVDNaU3Y0VTlRenpEUFYzWjBfUkwwUVU4V2Y0YndsSnVOSHhQZTNwRzhHSE9lOXNDUVBUOFliY2VDQjRjX1h4WkQzMEdOaXJOWmxMRURpRUJQOVJSUUhQM0ZoZzF5UWtMUnU4WVphXzFFNDVHRVVMcUtSOVZYdHVWd2ZBRmkxWUw2WWV0M21TRXA5QUFQX1JrbElTZ1h3?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Big News Network.com",
+      "published_utc": "2026-10-24T13:03:00+00:00",
+      "published_ist": "24 Oct 2026, 06:33 PM IST",
+      "published_timestamp": 1792846980.0,
+      "description": "KTR inaugurates Random Trees' Indian headquarters in Hyderabad as company launches operations with 400 employees Big News Network.com",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7756,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.604,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian",
+        "hyderabad"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.99 (india, indian, hyderabad) | Cred: 0.85 | Recency: 0.604",
+      "rank": 2,
+      "explanation": "KTR inaugurates Random Trees' Indian.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Chinese intrusion: Indian Army destroys",
+      "raw_headline": "Chinese intrusion: Indian Army destroys 17 tents pitched in Arunachal’s Taksing - INDIA - GENERAL - Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUllPVVl6a3lCUno3RnAwVG1BbU05Zk11MVE5MzBRek4tUDl0VmhSOEJZd0FyMkJDTEo1ZFRNanhhSnpCOVhQbVJETG0xakw1Tm9uQUVKZm53TnVqYXM2c0UzVG9jY2JLRTV1RTQzZnVTNm1taGdiMGhSMjBMMnowMnJMRjFDajJPQ1BFeU1iTjdIVFZLMlRCSm1QMEYzdDNMNjdpV2F5Yk9jbzVZcmc?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Kerala Kaumudi",
+      "published_utc": "2026-10-24T23:58:19+00:00",
+      "published_ist": "25 Oct 2026, 05:28 AM IST",
+      "published_timestamp": 1792886299.0,
+      "description": "Chinese intrusion: Indian Army destroys 17 tents pitched in Arunachal’s Taksing - INDIA - GENERAL Kerala Kaumudi",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7642,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.828,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.828",
+      "rank": 3,
+      "explanation": "Chinese intrusion: Indian Army destroys.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Centre Seeks AI-Proof Jobs For",
+      "raw_headline": "Centre Seeks AI-Proof Jobs For Indian To Lead In Future - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUYta19jZmEyUnNQYkg3YXNwUjJDai1CUkRVLUdDd2daVkd6MmhTcjBTWjJDV2J6UVhVZWtUbkZBZzlGS0hpbjdINGpyMWM3T2xoOFJtZnV6dWI1bTdkN2gtWHNWbi1rZkdZTExnM2FaWXJKWHNSNlFCVENveVRvY0pXWDlyNDJmTHpMYmEtWmN6M00zNUE2cmJOalJLU0tvX0lVNtIBqgFBVV95cUxOZ2xvMjNBVk42dVI2TWEzLV94d1h4Y1d5ODQyQlRpSThQanRPWE9rdzRXTWlaSEoycl9CV25QR2tLOHBpSXdqYThhR1pZUGRLalVWSE83MnAteGpPZWRDSlRfc2JqT3RxMG1lNDctNDhxNGd0eWFqUVlGMW5lcktsbldZX2RNX0dVOXhjTzlkcFVDYjBwNWItVFpoQ2NBUFh0b3N0eDVUN1NkZw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Deccan Chronicle",
+      "published_utc": "2026-10-24T20:17:42+00:00",
+      "published_ist": "25 Oct 2026, 01:47 AM IST",
+      "published_timestamp": 1792873062.0,
+      "description": "Centre Seeks AI-Proof Jobs For Indian To Lead In Future Deccan Chronicle",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7518,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.745,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.745",
+      "rank": 4,
+      "explanation": "Centre Seeks AI-Proof Jobs For Indian.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Partnering with India, the Government",
+      "raw_headline": "Partnering with India, the Government Aims to Grow the Creative Economy by Two Digit Through AI - VOI.ID",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PWENZeEUxSF9nbkI3ellURDktbklKSUtHSmJjRmkwZmEzTEI2TkFDOHVieW1PMzR0Q2FGZkFZTkdvd9IBQkFVX3lxTE9PWENZeEUxSF9nbkI3ellURDktbklKSUtHSmJjRmkwZmEzTEI2TkFDOHVieW1PMzR0Q2FGZkFZTkdvdw?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "VOI.ID",
+      "published_utc": "2026-10-25T05:32:24+00:00",
+      "published_ist": "25 Oct 2026, 11:02 AM IST",
+      "published_timestamp": 1792906344.0,
+      "description": "Partnering with India, the Government Aims to Grow the Creative Economy by Two Digit Through AI VOI.ID",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7492,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.973,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.973",
+      "rank": 5,
+      "explanation": "Partnering with India, the Government.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 363,
+    "total_after_lookback": 64,
+    "canonical_events_count": 59,
+    "eligible_events_count": 59,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "India's emerging sectors to drive capex, credit demand towards storage, semiconductors: Report",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "ET Enterprise AI"
+        ]
+      },
+      {
+        "canonical_headline": "Priti Adani Calls for Skilled Talent to Power India's Chip Ambitions - The Blunt Times",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 4,
+        "corroborating_publishers": [
+          "IANS LIVE",
+          "Odisha Diary",
+          "Oneindia",
+          "Republic World"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
