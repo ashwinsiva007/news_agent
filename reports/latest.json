@@ -2,175 +2,168 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-10-25",
-  "generated_at_ist": "25 Oct 2026, 11:59 AM IST",
+  "report_date": "2026-10-26",
+  "generated_at_ist": "26 Oct 2026, 12:09 PM IST",
   "story_count": 5,
-  "briefing_word_count": 51,
+  "briefing_word_count": 58,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "Priti Adani Calls for Skilled",
-      "raw_headline": "Priti Adani Calls for Skilled Talent to Power India’s Chip Ambitions - The Blunt Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmZ0U0NBRHpmUkZ2cngwU2lRaXpRWkZUSE1iZ3NMb2lpUUNkRXFlLTRwa0tFZ0xHSnYxQ3VZNzlSLTJ0VGNjcjRMY1Y4VElBbC1QalhjbzNiSlJDSXc2WDdFUVo0SFBWeGVVS1l3YjllXy1UQW42WHpNVk95WGYtQS1tRUEwTFBiR3czcFFBUVVHV0VaQVI3SzUzZUZnUW1s?oc=5",
-      "source": "Google News: India Semiconductor Chips",
-      "publisher": "The Blunt Times",
-      "published_utc": "2026-10-24T08:45:01+00:00",
-      "published_ist": "24 Oct 2026, 02:15 PM IST",
-      "published_timestamp": 1792831501.0,
-      "description": "Priti Adani Calls for Skilled Talent to Power India’s Chip Ambitions The Blunt Times",
+      "headline": "NIFTEM-K Brings AI Into Alternative",
+      "raw_headline": "NIFTEM-K Brings AI Into Alternative Protein Innovation With India’s First Food Tech Hackathon - Indian Masterminds",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNemFUbVlfY01vWW5PT0d4akVKalBqbHV6TGI3Z3ZEbHBBcXd3QXNEZTk5S3FfNXBBR3hNZXVzcFdmQ2FGMnZXTVlhUGQtNlU4XzlCcWZHaXlJTi1pWWp3UGJ3VXB4d1Y2UnFsaGZ5OGVwYlJkSXc2TjdrN2UzSGZtdER3MjlTdTVYZWt3S3VSTUVvdw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Indian Masterminds",
+      "published_utc": "2026-10-26T05:49:20+00:00",
+      "published_ist": "26 Oct 2026, 11:19 AM IST",
+      "published_timestamp": 1792993760.0,
+      "description": "NIFTEM-K Brings AI Into Alternative Protein Innovation With India’s First Food Tech Hackathon Indian Masterminds",
       "tier": "tier_2_reputable",
-      "category": "Semiconductors & Hardware",
+      "category": "India AI Developments",
       "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
       "corroborating_sources": [
         {
           "source": "Google News: India Artificial Intelligence",
-          "publisher": "IANS LIVE",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORG4xWlVnSHR5dkJZSUstSmtpN3dfdGhZWVV3aGhtanE2QllQWnlCYXowODdUOXNFNDZ3b3BkajhKZDZaTlZCS2hhSzJlWHJiUnZ2dzN2MDBSODR6RXV3V0hIYk9mb2dHVVJhVlJTSW4tdGZfUXpFN0ZXbEJSbXRZRmJHWG5CbU52YWVZQWVKYnUzWHo1NUkzb2d2OGdyZ2tGcllOVXFIYlRsSGo1bzhkVmd3S3RNX2lPdkszUzNTS05lX1JiUjQyM0NUbng?oc=5",
-          "headline": "Dr Priti Adani calls for human intelligence, skilled talent to power India's semiconductor mission - IANS LIVE",
+          "publisher": "GK Today",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2YzaFFFQm9ObUlXUmhFcDllV29XcWxuTFhxOXljTVF1Zlc4eXA3aXM5SC16WFd6ZlJqSjRULW9hNGtFbHVzY0N0R3FmaUJoREJtMTBfcnNIYVA5X0k3cllxY1NXWDVXQXktVUpfbzZ6R3c1Z2hLLTRtLXBxX295R1JKeE1DYlk?oc=5",
+          "headline": "NIFTEM-K Hosts India's First AI-Food Technology Hackathon - GK Today",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.8114,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.976,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.81 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.976",
+      "rank": 1,
+      "explanation": "NIFTEM-K Brings AI Into Alternative.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Why did Tinder's scam detection",
+      "raw_headline": "Why did Tinder’s scam detection fail, and what should Indian users do?",
+      "url": "https://www.thehindu.com/sci-tech/technology/why-did-tinders-scam-detection-fail-and-what-should-indian-users-do/article71625830.ece",
+      "source": "The Hindu - Technology",
+      "publisher": "The Hindu - Technology",
+      "published_utc": "2026-10-26T06:27:47+00:00",
+      "published_ist": "26 Oct 2026, 11:57 AM IST",
+      "published_timestamp": 1792996067.0,
+      "description": "U.S. lawmakers shared troubling statistics about how dating app users on Tinder and Hinge were matching with scammers, due to outdated AI protections",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (The Hindu - Technology).",
+      "scores": {
+        "composite": 0.7891,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.994,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.994",
+      "rank": 2,
+      "explanation": "lawmakers shared troubling statistics about how dating.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI, semiconductors key to India's",
+      "raw_headline": "AI, semiconductors key to India’s 2047 growth ambition: KPMG - DQ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWp3c05NLVp6Y3V4TWFVM05TaS1QQ1lIR2sxTE1jU2MwTkk1Q01hWmpna3BGMkRNS2tES2lyZF8wc0ZIUEFSVTFwTEdTcUtaSkVhdWdfVnJ4dzVUeTlZa0thYk0tU2d6MVFOYXA3TmpTdG9DVjVqbWdYM0x0STF6blE1ZWkxNGFoOXc4Q0ZrNkJfWHdwM21NUHlseFNJUdIBngFBVV95cUxPdWp3c05NLVp6Y3V4TWFVM05TaS1QQ1lIR2sxTE1jU2MwTkk1Q01hWmpna3BGMkRNS2tES2lyZF8wc0ZIUEFSVTFwTEdTcUtaSkVhdWdfVnJ4dzVUeTlZa0thYk0tU2d6MVFOYXA3TmpTdG9DVjVqbWdYM0x0STF6blE1ZWkxNGFoOXc4Q0ZrNkJfWHdwM21NUHlseFNJUQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "DQ",
+      "published_utc": "2026-10-25T13:30:48+00:00",
+      "published_ist": "25 Oct 2026, 07:00 PM IST",
+      "published_timestamp": 1792935048.0,
+      "description": "AI, semiconductors key to India’s 2047 growth ambition: KPMG DQ",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Economic Times Tech & AI",
+          "publisher": "Economic Times Tech & AI",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-compute-and-rd-key-to-indias-ai-ambitions-report/articleshow/135201920.cms",
+          "headline": "Talent, compute and R&D key to India's AI ambitions: Report",
           "tier": "tier_2_reputable"
         },
         {
           "source": "Google News: India Artificial Intelligence",
-          "publisher": "Odisha Diary",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUhBUERaNVlrWUtyekE1dVB5d3M3YjJ4YmtfVXljbEtGMi1OODctZDZjQVBhRmI1eGFqSVNYdTFrNkhNelpHYnpENlVQbGZfcjR0azFJcE5hck05VGZ6WjZMTGJZQ190LWVhbjVKdWVDUWhYbkFQdmFZdHNaa0ZIMkJtbnRzTlpCd1ltSlF0NGJRTmZrczQtSjlETWZrdWRtX284X0xIdWZ0aFlZREdrYzVwUVROeXJHWnluTWRmWmRiendDcWc?oc=5",
-          "headline": "Dr Priti Adani Calls for Human Intelligence and Skilled Talent to Power India's Semiconductor Ambitions - Odisha Diary",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "Oneindia",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmkwRS12UUFFSTlNcEhwZWlreWpKQk9jWmtjcUIyaVdESkFKQm5PY3UyLUZTaGhDX1V1OTV2S2lsVGJTTkJFYnJTXzBTRHpNR0F4RURYOUcwcndtQ2FxNlRrZXRZM3Ntd2NZTGZmeEM4clRPcGF6U2hJa0NVTWlNejhESGI4ZC1uMjNhLVlxV0NrNHNtaktkdjZyRU1aV2tvUmJyREN0anRSWkJyN3c?oc=5",
-          "headline": "Dr Priti Adani Calls for Skilled Talent, Research to Power India's Semiconductor Ambitions - Oneindia",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "Republic World",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVHp3WTZJNi14NEtTTlFaaFFxYnFtQnp0TVc0emJNTG43Vk15LTNzMkZSYlE1c0Vuc3AxRGR0Qjd6LXlCMnV0dU9UQ3hjakFNR2JoRU5aLXM2Rk9zMGYydTlMbU9zVzRDd3ZCeXBSa1VHM0xSSGNNazN4UjVPMnRvSEdGbHUxVUZFQUVvcVk5OGk5cnpvX3ZXbWx2bWN2bVBpUGFNRFVFZk5tOGlZQWw4TzI2TWpTa3pHR1ZaZHJnVnB5U3lvLXhjRFpaa21WX2dKYkF6bzBGdEtqZlJCdFphU3B2TDB0aW10Wlo4ODJVODJ3S29a0gH6AUFVX3lxTFBwVFNUc1J4aTNJLTlaNnRhMC1Hbi1YUW5zWFQzelM1YkdXX0dKcUN2TXhuQ1ozSGpsQTgwbFNRZnlSX1ZpSHppUzN2QW55QjF3aXdHN1BuVUZudVV4TlZmMW1XMmJ0bl9uN2ZnRG1XRndJQjBrTlNCYWJnNmU3ckVXNWtZbHBqOTVJV09sRXMtZXB2ZHJaWWFvQ2F3UEZ2bEhyN2tiNEZuQkluYS1Wa1ByZy1CMG4tSHVyUTd4dUxycTBsU2NydXY4d0xFZ2RGSlhWR0I0dDZiYnRVOVZfZzVYR2N5QWtGZ2tRRkVKNGZsVTgyU1I2WXBjUEE?oc=5",
-          "headline": "Dr Priti Adani Calls For Human Intelligence And Skilled Talent To Power India's Semiconductor Ambitions - Republic World",
+          "publisher": "ET Enterprise AI",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORjZzV3pqSzdmeEZCLUhoODloMm04NmhrVUo0c3VhTUxJN0NpSGpHZ2RxRkxqVHExcVBKQ25KRjN2SE1QVEwyeE9aOTg2YUt2enNkOTdEc1NVY3p3bTUwdG9UbEE5YkZheUQ1YjF0VXg2NUI3b3dpbXRKemdlSjZqTG54RERURHBTOUFXRENMNk9hXzBqTi1fSnhYN3YzTGNxUldtTkNOX2dHRTlrUEp1bXVVYkVoQVdKLWxFUEVYR1FOdFRBOGh4YmFxLWozQdIBzgFBVV95cUxORjZzV3pqSzdmeEZCLUhoODloMm04NmhrVUo0c3VhTUxJN0NpSGpHZ2RxRkxqVHExcVBKQ25KRjN2SE1QVEwyeE9aOTg2YUt2enNkOTdEc1NVY3p3bTUwdG9UbEE5YkZheUQ1YjF0VXg2NUI3b3dpbXRKemdlSjZqTG54RERURHBTOUFXRENMNk9hXzBqTi1fSnhYN3YzTGNxUldtTkNOX2dHRTlrUEp1bXVVYkVoQVdKLWxFUEVYR1FOdFRBOGh4YmFxLWozQQ?oc=5",
+          "headline": "Talent, compute and R&D key to India's AI ambitions: Report - ET Enterprise AI",
           "tier": "tier_2_reputable"
         }
       ],
-      "corroboration_count": 4,
-      "cluster_size": 5,
+      "corroboration_count": 2,
+      "cluster_size": 3,
       "verification_status": "Corroborated (Multi-Source)",
       "credibility_score": 1.0,
       "evidence_strength_score": 0.9,
       "is_eligible": true,
-      "verification_rationale": "Corroborated across 5 independent news organizations.",
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
       "scores": {
-        "composite": 0.8008,
+        "composite": 0.7889,
         "credibility": 1.0,
         "evidence_strength": 0.9,
         "india_relevance": 0.63,
-        "recency": 0.534,
-        "trend_momentum": 1.0,
-        "user_preference": 0.665,
+        "recency": 0.609,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
         "technical_significance": 0.55
       },
       "matched_india_keywords": [
         "india"
       ],
-      "ranking_rationale": "Composite: 0.8 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.534",
-      "rank": 1,
-      "explanation": "Priti Adani Calls for Skilled.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "KTR inaugurates Random Trees' Indian",
-      "raw_headline": "KTR inaugurates Random Trees' Indian headquarters in Hyderabad as company launches operations with 400 employees - Big News Network.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSGtLZWE2blRWVC1laTktcVZFUUVaRmptazN3bi1hRFpUNTRucWNIaXZQM18yb0ZFaTZsbHRrRjlwU1BxSFc1M25jZGNvcGVFNnJ5VmljOEtCVDNaU3Y0VTlRenpEUFYzWjBfUkwwUVU4V2Y0YndsSnVOSHhQZTNwRzhHSE9lOXNDUVBUOFliY2VDQjRjX1h4WkQzMEdOaXJOWmxMRURpRUJQOVJSUUhQM0ZoZzF5UWtMUnU4WVphXzFFNDVHRVVMcUtSOVZYdHVWd2ZBRmkxWUw2WWV0M21TRXA5QUFQX1JrbElTZ1h3?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "Big News Network.com",
-      "published_utc": "2026-10-24T13:03:00+00:00",
-      "published_ist": "24 Oct 2026, 06:33 PM IST",
-      "published_timestamp": 1792846980.0,
-      "description": "KTR inaugurates Random Trees' Indian headquarters in Hyderabad as company launches operations with 400 employees Big News Network.com",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7756,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.99,
-        "recency": 0.604,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india",
-        "indian",
-        "hyderabad"
-      ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.99 (india, indian, hyderabad) | Cred: 0.85 | Recency: 0.604",
-      "rank": 2,
-      "explanation": "KTR inaugurates Random Trees' Indian.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Chinese intrusion: Indian Army destroys",
-      "raw_headline": "Chinese intrusion: Indian Army destroys 17 tents pitched in Arunachal’s Taksing - INDIA - GENERAL - Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUllPVVl6a3lCUno3RnAwVG1BbU05Zk11MVE5MzBRek4tUDl0VmhSOEJZd0FyMkJDTEo1ZFRNanhhSnpCOVhQbVJETG0xakw1Tm9uQUVKZm53TnVqYXM2c0UzVG9jY2JLRTV1RTQzZnVTNm1taGdiMGhSMjBMMnowMnJMRjFDajJPQ1BFeU1iTjdIVFZLMlRCSm1QMEYzdDNMNjdpV2F5Yk9jbzVZcmc?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "Kerala Kaumudi",
-      "published_utc": "2026-10-24T23:58:19+00:00",
-      "published_ist": "25 Oct 2026, 05:28 AM IST",
-      "published_timestamp": 1792886299.0,
-      "description": "Chinese intrusion: Indian Army destroys 17 tents pitched in Arunachal’s Taksing - INDIA - GENERAL Kerala Kaumudi",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7642,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.828,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india",
-        "indian"
-      ],
-      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.828",
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.609",
       "rank": 3,
-      "explanation": "Chinese intrusion: Indian Army destroys.",
+      "explanation": "AI, semiconductors key to India’s 2047 growth ambition:.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Centre Seeks AI-Proof Jobs For",
-      "raw_headline": "Centre Seeks AI-Proof Jobs For Indian To Lead In Future - Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUYta19jZmEyUnNQYkg3YXNwUjJDai1CUkRVLUdDd2daVkd6MmhTcjBTWjJDV2J6UVhVZWtUbkZBZzlGS0hpbjdINGpyMWM3T2xoOFJtZnV6dWI1bTdkN2gtWHNWbi1rZkdZTExnM2FaWXJKWHNSNlFCVENveVRvY0pXWDlyNDJmTHpMYmEtWmN6M00zNUE2cmJOalJLU0tvX0lVNtIBqgFBVV95cUxOZ2xvMjNBVk42dVI2TWEzLV94d1h4Y1d5ODQyQlRpSThQanRPWE9rdzRXTWlaSEoycl9CV25QR2tLOHBpSXdqYThhR1pZUGRLalVWSE83MnAteGpPZWRDSlRfc2JqT3RxMG1lNDctNDhxNGd0eWFqUVlGMW5lcktsbldZX2RNX0dVOXhjTzlkcFVDYjBwNWItVFpoQ2NBUFh0b3N0eDVUN1NkZw?oc=5",
+      "headline": "India risks becoming a 'digital",
+      "raw_headline": "India risks becoming a ‘digital colony’ without its own AI foundations: Sarvam co-founder Vivek Raghavan - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdlVNVzlKUHF5UjYyWXRfTmQ5SUhBMlBVSS1NVUVGcEEtOUJWdjRPTzc0MDdGN25KakZMUFI0VXNJeXMzOG5EaFFsR1hPa25EWG5zZ0JNbGhuRUZXcEhrNHZEZ3FPeF9pQkdGaHB3WEVkWV9qNDVEU1Y1dFhiVUpmbVQwUGowaUtZYjB5NVRIUWFuQ1RZbDBRTjlvU1BPUlZWanpjN1k1WHpuYWZMOHpBVDdqV3pDNzZTOVFPVzlNcFhFc2xHc1d4cWxlV0tGV0tXbkJZQTh3S1NoYlNyS1YwZlZQaUY1eHVZR0xhejhhbXdNWjRQNHRaNzBQOHpVM0t3cnV5WNIBhAJBVV95cUxQdlVNVzlKUHF5UjYyWXRfTmQ5SUhBMlBVSS1NVUVGcEEtOUJWdjRPTzc0MDdGN25KakZMUFI0VXNJeXMzOG5EaFFsR1hPa25EWG5zZ0JNbGhuRUZXcEhrNHZEZ3FPeF9pQkdGaHB3WEVkWV9qNDVEU1Y1dFhiVUpmbVQwUGowaUtZYjB5NVRIUWFuQ1RZbDBRTjlvU1BPUlZWanpjN1k1WHpuYWZMOHpBVDdqV3pDNzZTOVFPVzlNcFhFc2xHc1d4cWxlV0tGV0tXbkJZQTh3S1NoYlNyS1YwZlZQaUY1eHVZR0xhejhhbXdNWjRQNHRaNzBQOHpVM0t3cnV5WA?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "Deccan Chronicle",
-      "published_utc": "2026-10-24T20:17:42+00:00",
-      "published_ist": "25 Oct 2026, 01:47 AM IST",
-      "published_timestamp": 1792873062.0,
-      "description": "Centre Seeks AI-Proof Jobs For Indian To Lead In Future Deccan Chronicle",
+      "publisher": "Business Today",
+      "published_utc": "2026-10-26T04:12:25+00:00",
+      "published_ist": "26 Oct 2026, 09:42 AM IST",
+      "published_timestamp": 1792987945.0,
+      "description": "India risks becoming a ‘digital colony’ without its own AI foundations: Sarvam co-founder Vivek Raghavan Business Today",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -184,11 +177,52 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7518,
+        "composite": 0.7798,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.745,
+        "recency": 0.932,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "sarvam"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, sarvam) | Cred: 0.85 | Recency: 0.932",
+      "rank": 4,
+      "explanation": "India risks becoming a ‘digital.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Put your AI agents to",
+      "raw_headline": "Put your AI agents to work with these 5 killer tasks - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXo0aW1FdFBxeHBOOW9OR3RoMWhQbHJVODdQTlFGR0xXMlhpYm52ZXlHNlpEZHFoVmF3UFh3LVZwdW5jc0prUXNFWVlLcHd1V3VjUHNoZEhackhGbDFkTTE2MWVKcUJ6Q0JNN0tOWWJWR1NnYXlNTEo3NVNHZ2s1dElHOVA1cHVnOTZKWFZpam1oT3pqVENwcmlxQzUwLW5BaExxcDJaSTJDWThlWjl6VDE0dVctNVpfdjVMdFMzdGFsd29fNU5mN0R5T0lPVEs2Q3fSAdIBQVVfeXFMTjl6NGltRXRQcXhwTjlvTkd0aDFoUGxyVTg3UE5RRkdMVzJYaWJudmV5RzZaRGRxaFZhd1BYdy1WcHVuY3NKa1FzRVlZS3B3dVd1Y1BzaGRIWnJIRmwxZE0xNjFlSnFCekNCTTdLTlliVkdTZ2F5TUxKNzVTR2drNXRJRzlQNXB1Zzk2SlhWaWptaE96alRDcHJpcUM1MC1uQWhMcXAyWkkyQ1k4ZVo5elQxNHVXLTVaX3Y1THRTM3RhbHdvXzVOZjdEeU9JT1RLNkN3?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The Indian Express",
+      "published_utc": "2026-10-26T04:11:20+00:00",
+      "published_ist": "26 Oct 2026, 09:41 AM IST",
+      "published_timestamp": 1792987880.0,
+      "description": "Put your AI agents to work with these 5 killer tasks The Indian Express",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7797,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.931,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
@@ -197,76 +231,91 @@
         "india",
         "indian"
       ],
-      "ranking_rationale": "Composite: 0.75 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.745",
-      "rank": 4,
-      "explanation": "Centre Seeks AI-Proof Jobs For Indian.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Partnering with India, the Government",
-      "raw_headline": "Partnering with India, the Government Aims to Grow the Creative Economy by Two Digit Through AI - VOI.ID",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PWENZeEUxSF9nbkI3ellURDktbklKSUtHSmJjRmkwZmEzTEI2TkFDOHVieW1PMzR0Q2FGZkFZTkdvd9IBQkFVX3lxTE9PWENZeEUxSF9nbkI3ellURDktbklKSUtHSmJjRmkwZmEzTEI2TkFDOHVieW1PMzR0Q2FGZkFZTkdvdw?oc=5",
-      "source": "Google News: India Semiconductor Chips",
-      "publisher": "VOI.ID",
-      "published_utc": "2026-10-25T05:32:24+00:00",
-      "published_ist": "25 Oct 2026, 11:02 AM IST",
-      "published_timestamp": 1792906344.0,
-      "description": "Partnering with India, the Government Aims to Grow the Creative Economy by Two Digit Through AI VOI.ID",
-      "tier": "tier_2_reputable",
-      "category": "Semiconductors & Hardware",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
-      "scores": {
-        "composite": 0.7492,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.973,
-        "trend_momentum": 0.4,
-        "user_preference": 0.665,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.75 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.973",
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.931",
       "rank": 5,
-      "explanation": "Partnering with India, the Government.",
+      "explanation": "Put your AI agents to.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 363,
-    "total_after_lookback": 64,
-    "canonical_events_count": 59,
-    "eligible_events_count": 59,
+    "total_raw_fetched": 854,
+    "total_after_lookback": 569,
+    "canonical_events_count": 487,
+    "eligible_events_count": 487,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "India's emerging sectors to drive capex, credit demand towards storage, semiconductors: Report",
-        "source": "Google News: India Artificial Intelligence",
+        "canonical_headline": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Yuhua Jiang, Chang Xu, Feifei Gao, Li Zhao",
+          "Shuo Han, Zhilin Wang, Peng Ling, Wenjia Gong, Yang Liu, Guanjun Jiang, Yukun Cao, Xike Xie"
+        ]
+      },
+      {
+        "canonical_headline": "What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design",
+        "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
+          "Zaifei Yang, Weiyu Chen, Yaqing Wang, James Kwok"
+        ]
+      },
+      {
+        "canonical_headline": "GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Monojit Banerjee, Zhujun Lan, Defu Cao"
+        ]
+      },
+      {
+        "canonical_headline": "Anthropic's Claude accessed Georgia state vote count information behind paywall",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "AI, semiconductors key to India's 2047 growth ambition: KPMG - DQ",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Economic Times Tech & AI",
           "ET Enterprise AI"
         ]
       },
       {
-        "canonical_headline": "Priti Adani Calls for Skilled Talent to Power India's Chip Ambitions - The Blunt Times",
+        "canonical_headline": "Musk says SpaceX raised $40 billion in debt for GPUs - electronics.economictimes.indiatimes.com",
         "source": "Google News: India Semiconductor Chips",
-        "duplicates_merged_count": 4,
+        "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "IANS LIVE",
-          "Odisha Diary",
-          "Oneindia",
-          "Republic World"
+          "Economic Times Tech & AI"
+        ]
+      },
+      {
+        "canonical_headline": "PIB Backgrounder - Press Information Bureau",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Press Information Bureau"
+        ]
+      },
+      {
+        "canonical_headline": "NIFTEM-K Brings AI Into Alternative Protein Innovation With India's First Food Tech Hackathon - Indian Masterminds",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "GK Today"
+        ]
+      },
+      {
+        "canonical_headline": "AI, chips, defence to drive Rs 16 lakh cr in India's next capex cycle: Union Bank report - The Financial Express",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The420.in"
         ]
       }
     ],
