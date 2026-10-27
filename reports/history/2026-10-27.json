@@ -1,0 +1,539 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-27",
+  "generated_at_ist": "27 Oct 2026, 12:03 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 56,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "IIT-Kharagpur To Set Up India's",
+      "raw_headline": "IIT-Kharagpur To Set Up India's First Dedicated School Of Physical AI - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVpBUWlRdk9nalBfUWtrcTYtQ0kyaXZJTGYzRkVuVGJULWJQVk13Y0wxa2lvUC1DenZyaGxQVDZTbHlRLTVkWUh4OTFtQnVQRzREaUxVR1JYbDBRczJxeFZQNGFWTlBvT1FwOUloS1FNWGV5SUVTTjFKejZpQjA5RTRSRFRFS3ktZEhWTGFJWVFxaDBhVFV6Nl94cUw2cUtuWTZUaDdieko1anpsNFV2QVdnejQ4SlZreEpUTUdB0gG-AUFVX3lxTE9VWkFRaVF2T2dqUF9Ra2txNi1DSTJpdklMZjNGRW5UYlQtYlBWTXdjTDFraW9QLUN6dnJobFBUNlNseVEtNWRZSHg5MW1CdVBHNERpTFVHUlhsMFFzMnF4VlA0YVZOUG9PUXA5SWhLUU1YZXlJRVNOMUp6NmlCMDlFNFJEVEVLeS1kSFZMYUlZUXFoMGFUVXo2X3hxTDZxS25ZNlRoN2J6SjVqemw0VXZBV2d6NDhKVmt4SlRNR0E?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "ETV Bharat",
+      "published_utc": "2026-10-26T13:32:03+00:00",
+      "published_ist": "26 Oct 2026, 07:02 PM IST",
+      "published_timestamp": 1793021523.0,
+      "description": "IIT-Kharagpur To Set Up India's First Dedicated School Of Physical AI ETV Bharat",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "MillenniumPost",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeTRDd29nckZac2RkLWtuTTg5S3VxRmx1ektSc29Ta2NwTmhYWmpVTnVNX3NHWGZCbi1QejVjMUZJWW9PUDBKVHlKNUVOZXZBQ3lHYnFYS1JaeFctdXRyZjlxQ1E3NG1FOU1icm9kckZMSzNNcWdGUGdVVGw2OEhVZ05ZUi1fYUhJU3h5bHhLeTIycWN6NWEtZE1PS2ZQQy1Ld0xraXVZTkFwaDJocVNsOFdjczhsS2vSAbcBQVVfeXFMT3k0Q3dvZ3JGWnNkZC1rbk04OUt1cUZsdXpLUnNvU2tjcE5oWFpqVU51TV9zR1hmQm4tUHo1YzFGSVlvT1AwSlR5SjVFTmV2QUN5R2JxWEtSWnhXLXV0cmY5cUNRNzRtRTlNYnJvZHJGTEszTXFnRlBnVVRsNjhIVWdOWVItX2FISVN4eWx4S3kyMnFjejVhLWRNT0tmUEMtS3dMa2l1WU5BcGgyaHFTbDhXY3M4bEtr?oc=5",
+          "headline": "IIT-Kharagpur to set up India's first dedicated school of Physical AI - MillenniumPost",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Lokmat Times",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOV8wcWppUVZaWkwxMHVIODhuYXhmckhLSzFDSzVPU2hDdjhMOWJTZHhIV21FSVA2RDdHakFNYXB3ekU3dG9ZNk1ubFdtb0hsc1ZzRWhvWW03SFpkRm1tZTRKb0lWb081ODB5MmFTYXFiMUI0VlgtUDJ3WVVoZW02WkdERFozeGNub3gtNi1oNENYUFE4VENYYklsY1NVTkNPQ0gybERjdHV1aHVmMEpGQ2NB0gG3AUFVX3lxTE5SU0hHS2NTLWx4SloxcW9lbUU2SktjSm83OGwzRmlSQXNWY3U5b2VINEQzX3R6cXdsUlRYNUpfYTZDMnVpelhMdDFscGo1UXc2WjhwR2lTREhYU2FWb3lTbjYtYXJkb1FzcjB0bUM2REtrSkVoOWs1MFNFaV81d1RGb0lfOEl0Rm5qM2c2V1hJZVlyZ2FxaWVEZ1NxeE9aMmZQaHpIaWpYeHRNclNXcWxjOEZFaUFrSQ?oc=5",
+          "headline": "IIT Kharagpur to Launch India's First Dedicated 'Physical AI' School - Lokmat Times",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ1dkNG4yeDhnT1JHcUtuaFplX1RRWXdtZnlFV3BGRGhoSmd1M3hSbUlLZS1DckphYTlWMG9VeTJtT2hQTGtfQUw5S21tNXlBUllxbHc1UHBaSW1zM0RLZEYxZXZ1S3ZsUVFxM0ptYmoxMHVUbm9POWdBWHdqQTNWdmFpWmJwbFhyd1VGbWZhMHFoR3U3QzI2SDk1NjdKeE04MHpzWXNmN3hzdXFyQ1RoaFA3U25wSFpySmViTjZ0UlR6M3ctZEJQNkV4bHVad2NsNENUQ3BURHhEU1RwWEljSEZEbVVDTEHSAe4BQVVfeXFMTTMzZ0FFQ2FIdDdDVW9UMkZLelRoV05rREh1MkFXYkR1RXlHSGs0cGVIbzdDdWFLNEltMC0zbHpaQW1PYmV5ZkRwdUFFbmNFWW1HVk9EQnQxSkJxdmNtMUhiaUM4LXB4YkxBQno3dWJoX0RpeVp1WFpwNGNRTFlDc2Ric09nZzQwRnlRYVQ1dC1Qd203LTF5N1J1N1VFWEI4WUFXcFNKdmpDOW1NYjJMVmdaZDlUTWIzaFBDRnlpbDNtNHoxTnRaREo3cHlVaVhsaTZ1cUdYeGVXcGxPc2xaTlE3VUJRSEtjZnR6S2hrQQ?oc=5",
+          "headline": "IIT Kharagpur to establish India's first Physical AI school with Rs 35 crore investment - The Indian Express",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Rediff",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFhIX0hVa1V0dTNQT1ljNmZoOTF2N0xoS2l6b20yMFBHNkJwc0cyMkN2LVh4aUo2REZKUjY1RXFTQVhuNHdvNUlYRTQ0RTkyOHBTNUJDWkk5QU50REpNcWF3UkVwZ0dUcEVRbkJldXpSM2h0QkUzcGcwUllwTVdtVHllSHJwT1huT2dNYXFUVk5BNENnbnJ0eW1sYm16Ykx2Zk90bGZB0gGoAUFVX3lxTFAyRHkyVFMtN01Uenh6WVdyczRNZV9LVFBTVlE1aFo5S2pHcERYM0tLRTNsZEpfWVZldnlFMTVKdFljcmVKS1Y3dEVyRktaM01oUHprUU1JVnhwYklvMG1UdEQ3YUF6OHRsWEZxQW4yVkNMMzFGUExUUWNBR3k2U1NDYndQZERBc1BOTWZLQW52S3U1aVlESW9fc0lOVE1aUnBqbk1rU1FLRQ?oc=5",
+          "headline": "IIT-Kharagpur Pioneers Physical AI With New School - Rediff",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Free Press Journal",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRWR4UkJWcGRjOTJ4R21FdjBtSnZWTGJ1V2tsY3hsQmtHNGZjcmh4b01TZjJrVHFLQzhfN1l0YVlDSHdZN3JBWktoWnZmdHduV2k4NnpSNU5KMFlQQTRuZDhYVzZqSmRiNl9JOHA2bFhjeDdicEU5TWFQYVQ0RWx2N2VJOXNvVzU2WTN0VTk4c2hFby1wcFl4Sl83U0NZSEdLbnlyTlNUTDVYWHNjQkgyamxlelFKZGU1ZV9TUkx4Q2EtZkI2VjJOcTM5ZFhWTmJLd3JTelVTaDg1QlNuMlNCeWx4YkxwNF9wemxRTUhZbTRtQWpN0gH6AUFVX3lxTFB5MFhTVjZoc1dHOFNPNzNyRmNHTnl4Tk5FNFhNQlMwVWd6eDZJUXNEUVhIZGw2UkpUZ2o5N25HSU51RzBXUFNEZWtuUVByV0tfUmJNSXNSc25aUS1VN0dRWGttOVA2WFJMOF9PLUZlYmc0TzBhLS1XYlFQSlpEcGVZMkw3OERBNWp4SWt4WWpKYUJJZkM1Rjd6bFcwdndPVHlGVjRlZWlmTzNjQ2ItajBMeTN1cVlfcDBtLVhQbmZYcnY1Z3JCaVVYaThkcGltQ3RSWk1jSE01c3BYZDlwVTM5YlF5M0QzbkhGcGlYbGJOZVpaR3VPNW5UNGc?oc=5",
+          "headline": "IIT Kharagpur To Establish Indias First Physical AI School With ₹35 Crore Investment, Focus On Robotics & - Free Press Journal",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "BW Education",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVk96eDJoTjlwc1FXdWQ3cHdBcnlRNzR4ZXhGUnRiQURzdURFWThRNEdIeHNKSTBzMi1EdVVwZ2ZwMF93YmtkcEc5ejk0Ull5aUhZYlRTNG16ekdsWmlSZjloTkFpUUlhY1RlQzBxNXA1TWs1cTRUQTR0MklzM3Vmcmd5WFM4bUdwbjRaVkREOWxEaTU3SFg4QnlZOEpqNmVvbXY5TA?oc=5",
+          "headline": "IIT Kharagpur To Establish India's First Physical AI School - BW Education",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 6,
+      "cluster_size": 7,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 7 independent news organizations.",
+      "scores": {
+        "composite": 0.8942,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.99,
+        "recency": 0.611,
+        "trend_momentum": 1.0,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "iit",
+        "bharat"
+      ],
+      "ranking_rationale": "Composite: 0.89 | India Rel: 0.99 (india, iit, bharat) | Cred: 1.0 | Recency: 0.611",
+      "rank": 1,
+      "explanation": "IIT-Kharagpur To Set Up India's.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Tata Communications plans $450 million",
+      "raw_headline": "Tata Communications plans $450 million investment in India AI network - DQ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONU9qRC1FeFZ4YmdGaHhLNzlSd2NURGRvbnNtWXF3TmY0QnJVWDdkUS00YmVyVzlTRE8wXzVqMkl2azY3RkhRSi1QYVozZHo5VVpRblhlV2xMRXQ2Q0t6WXp1RlRfa005dkh5Ym1LX0RhOTYxa1JjNTZfQ2tDd0FITEZ2SjFKa1c0ZUE0ZzBjNNIBjwFBVV95cUxONU9qRC1FeFZ4YmdGaHhLNzlSd2NURGRvbnNtWXF3TmY0QnJVWDdkUS00YmVyVzlTRE8wXzVqMkl2azY3RkhRSi1QYVozZHo5VVpRblhlV2xMRXQ2Q0t6WXp1RlRfa005dkh5Ym1LX0RhOTYxa1JjNTZfQ2tDd0FITEZ2SjFKa1c0ZUE0ZzBjNA?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "DQ",
+      "published_utc": "2026-10-26T12:58:41+00:00",
+      "published_ist": "26 Oct 2026, 06:28 PM IST",
+      "published_timestamp": 1793019521.0,
+      "description": "Tata Communications plans $450 million investment in India AI network DQ",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Analytics India Magazine",
+          "publisher": "Siddharth Jindal",
+          "url": "https://analyticsindiamag.com/ai-news/tata-communications-plans-450-mn-investment-to-build-10000-km-ai-network",
+          "headline": "Tata Communications Plans $450 Mn Investment to Build 10,000 Km AI Network",
+          "tier": "tier_3_coverage"
+        },
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Anjali Jain",
+          "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure",
+          "headline": "Tata Communications To Pour Up To $450 Mn To Build AI Connectivity Infrastructure",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8327,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.81,
+        "recency": 0.601,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "tata"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.81 (india, tata) | Cred: 1.0 | Recency: 0.601",
+      "rank": 2,
+      "explanation": "Tata Communications plans $450 million investment in.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AMD, Intel collaborate to simplify",
+      "raw_headline": "AMD, Intel collaborate to simplify AI development on x86 CPUs - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLXF6WWJ5Snk2Sm1OMjhOSEt5ZHEwUTh6OU0zcUdxUFJsNFQ2OS1kNzVvYlZXeS0yblVCNWFVaHBCOVJDN0NGWHp4UnA0dDZqallzNk1PeW80UjhYeERyQm5HNE5ER1l1SzhBdDN6cTBfNGJVaHFidDVyQjNOZTBMVjZrajM0Z1hpbHdGRDBPVVRMenZKc1d1OGFaYjBvRDdWREN1eW5vWE83UHpta3JNb3QyVS11QjI0Sk5OLXJqTVNMbWVKTENMbmN5d1Bob3VtZGNiX2R3dXJ5UnBrU0Q40gHaAUFVX3lxTFBRc0U2TjRMM2FZeU9NOWZha2hRcFVxemF1R0lSek9VV0d4cld5RTJHUnJSU0FDX25rcmdDc3psem4xcy1ONE5fYnJJQkdMcGgyRkhaNFMtbExZZTJoUkoyd0JhTE9ROEdSX3RDd2dYN1FQTTR4RTI4Z0hqSm11NUdXWlc1dUdUcFExTExEeEtLMFNHc3VpREhweE85UDYtS1dxOG9lR3h5SkxuYUlkRlBnc1JmTUJtb1NnQ3UwTHVGZXYxaU4wanNIRUU3czkxb0Z4TlNCZG1GVm5B?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "electronics.economictimes.indiatimes.com",
+      "published_utc": "2026-10-26T19:19:33+00:00",
+      "published_ist": "27 Oct 2026, 12:49 AM IST",
+      "published_timestamp": 1793042373.0,
+      "description": "AMD, Intel collaborate to simplify AI development on x86 CPUs electronics.economictimes.indiatimes.com",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2dSZnVyS01aVkZORzdYTW1QY2VlWDl5aWVOd29uNUJBR0NhVGwwdUU0WG1WZEZJNkFndF9yb1JBMzRYRWpuYXJPYVpOaTV3RzczRVRlSXdtT1lZaTFLcmFPM1YycXZ5SmNoYlU1eVBUMHdQVkVlYjZpMU5TTjJRU3BDUW5SSVEwTWR2STJVa2NjUQ?oc=5",
+          "headline": "Applied Materials to raise BESI stake to about 20%",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORTMzMWItdDlUNFlEN3htcy00TWp6amFrbVJ2c3luaUNFT2pWaGRCN1VSbDhsZ0pZMTk0T0Nud3A5XzdQX2JkU2RrV1pVTkFVcVFpU0UxUUZQZWtFMHRIdDMxbkp3R0RoQlRNd19Kc1ctdmJ0X3lQeXdVNTVVSGFrSGE4MmYwYlpuc0pzTXZvZm1jWlhZSW5BQVkzZ0dDcVlCOUR2T21IRnVKZXgtTmpPWlNhRDM3cXVxMGN5cGdPREZsUkVvaVE0Ull1SmlZZl9zVlczdtIB2AFBVV95cUxOamhVOWQwYVJyRFhSaG9TWXlZUXBOZXpqUkpmTEtlS3hQZ25ZWHlvcWY2UHB0TXZyTmR3bVNiMEd0UV9vYlNxOWtTU3hPbzNnRXRwdDlhdXBzY0w0c3dDYk9SUzdsMEk3MVFuTm5VTU5IWnU1dEJ2MWI1VzJHYmlHRENtclpfNHpDMEotQjJSeV9lRmMzQ1M4X2swMTN5cnRKNmZHWHBWVWpVcnVCS3hkYnZFcWJrVUMwd1JyZ0I4OUJsZXd6eWctekJqSHV2SVFpUkptbXhNZTg?oc=5",
+          "headline": "Applied Materials to raise BESI stake for AI chip packaging - electronics.economictimes.indiatimes.com",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSkR3Vnkzc2FTQ1Z3LUFZblpIR1JxTHNiYkVOaGZRT29ZLXR2VWZBcW1hTnhmT3BSanN3eGR2UEtlRnhabFJHNGlSMG9iajd4enJsaF9JUjRGNG9pS1NDWWtER2Y3cUxkV0xIaFhlY2lHaVkzX0g4cUVhNElGczdMZkpnUVZ5YVlScTlCVHhCdElnVmxDTTJGQm9rV3R2SU5YTVpfbEZoOGVQMjB5ZmtGY0dKTjMzN21EYWRVcU8zYTZxeHpWTTVocGM2aU5LdW9GSDlsUjhR0gHWAUFVX3lxTFBKRHdWeTNzYVNDVnctQVluWkhHUnFMc2JiRU5oZlFPb1ktdHZVZkFxbWFOeGZPcFJqc3d4ZHZQS2VGeFpsUkc0aVIwb2JqN3h6cmxoX0lSNEY0b2lLU0NZa0RHZjdxTGRXTEhoWGVjaUdpWTNfSDhxRWE0SUZzN0xmSmdRVnlhWVJxOUJUeEJ0SWdWbENNMkZCb2tXdHZJTlhNWl9sRmg4ZVAyMHlma0ZjR0pOMzM3bURhZFVxTzNhNnF4elZNNWhwYzZpTkt1b0ZIOWxSOFE?oc=5",
+          "headline": "Cadence unveils Maestro AI models for agentic chip design - electronics.economictimes.indiatimes.com",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 3,
+      "cluster_size": 4,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 4 independent news organizations.",
+      "scores": {
+        "composite": 0.829,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.722,
+        "trend_momentum": 1.0,
+        "user_preference": 0.665,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.722",
+      "rank": 3,
+      "explanation": "AMD, Intel collaborate to simplify AI development.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Veefin H1 FY27 Profit Jumps",
+      "raw_headline": "Veefin H1 FY27 Profit Jumps 2.3X YoY To ₹25 Cr, Revenue More Than Doubles",
+      "url": "https://inc42.com/buzz/veefin-h1-fy27-profit-jumps-2-3x-yoy-to-%e2%82%b925-cr-revenue-more-than-doubles",
+      "source": "Inc42 Indian Startups & AI",
+      "publisher": "Akshit Pushkarna",
+      "published_utc": "2026-10-26T09:32:40+00:00",
+      "published_ist": "26 Oct 2026, 03:02 PM IST",
+      "published_timestamp": 1793007160.0,
+      "description": "Ahead of listing on the mainboard, BSE SME-listed fintech SaaS company Veefin Solutions reported a 127% rise in its consolidated…",
+      "tier": "tier_3_coverage",
+      "category": "Indian Startups & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://inc42.com/feed/",
+      "corroborating_sources": [
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Akshit Pushkarna",
+          "url": "https://inc42.com/buzz/paytm-q2-profit-skyrockets-over-10x-yoy-to-%e2%82%b9225-cr-revenue-up-28",
+          "headline": "Paytm Q2 Profit Skyrockets Over 10X YoY To ₹225 Cr, Revenue Up 28%",
+          "tier": "tier_3_coverage"
+        },
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Akshit Pushkarna",
+          "url": "https://inc42.com/buzz/acevector-q2-loss-surges-116-yoy-to-%e2%82%b916-2-cr-revenue-up-17",
+          "headline": "AceVector Q2 Loss Surges 116% YoY To ₹16.2 Cr, Revenue Up 17%",
+          "tier": "tier_3_coverage"
+        },
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Team Inc42",
+          "url": "https://inc42.com/buzz/leap-india-q2-profit-zooms-62-yoy-to-%e2%82%b918-cr-revenue-up-18",
+          "headline": "LEAP India Q2: Profit Zooms 62% YoY To ₹18 Cr, Revenue Up 18%",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 3,
+      "cluster_size": 4,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 4 independent news organizations.",
+      "scores": {
+        "composite": 0.8017,
+        "credibility": 0.85,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.81,
+        "recency": 0.545,
+        "trend_momentum": 1.0,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.8 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.545",
+      "rank": 4,
+      "explanation": "Ahead of listing on the.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indian AI companies showcase homegrown",
+      "raw_headline": "Indian AI companies showcase homegrown technologies at Dubai AI Festival 2026 - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnhpME50RVVLeHFiTGpyZGV2eld1OXBJaXRMa1g5UXFxaFJmalY1R0ctNHMtMXpESVBsWE5kZGJBRlRrUDkwcWQ3WXpsalI4djBjd3FxejQtUV9IeWtXODJOYlNSZ2w5TnVvMk02dHR0SlhKM0VISTBxR0kxa0pJNk5UZFdhYk5LcEphMEg3TFJVX0ZYRWFKMFpaaEJFR09JS3NiUmVn?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "News On AIR",
+      "published_utc": "2026-10-27T02:27:00+00:00",
+      "published_ist": "27 Oct 2026, 07:57 AM IST",
+      "published_timestamp": 1793068020.0,
+      "description": "Indian AI companies showcase homegrown technologies at Dubai AI Festival 2026 News On AIR",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Chennaionline",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDMyT2k1dVNGblB2Q2lOV05ZVnlxNW04UmpTNERRMG9BRXc4X3VzNXlSTHY1amVBczg4UHU1em00TWVfY04wRGs2cHhZVW9BZVM4b1lBcmpnX2s1cUttT3ZmT1VadWo0T2dOMEdfalpGQzNYT2ZDUEpnaVZ6VjhDM3ZTQWJiWWF2b3BjWnNBbEYzSTRZaUEyS1VKb0c4QzZacnlSWTRkQ0owc1MwVFHSAa4BQVVfeXFMT2wzMk9pNXVTRm5QdkNpTldOWVZ5cTVtOFJqUzREUTBvQUV3OF91czV5Ukx2NWplQXM4OFB1NXptNE1lX2NOMERrNnB4WVVvQWVTOG9ZQXJqZ19rNXFLbU92Zk9VWnVqNE9nTjBHX2paRkMzWE9mQ1BKZ2lWelY4QzN2U0FiYllhdm9wY1pzQWxGM0k0WWlBMktVSm9HOEM2WnJ5Ulk0ZENKMHNTMFRR?oc=5",
+          "headline": "Indian AI Companies Highlight Local Innovations at Dubai AI Festival 2026 - Chennaionline",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7981,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.887,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.8 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.887",
+      "rank": 5,
+      "explanation": "Indian AI companies showcase homegrown.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 1053,
+    "total_after_lookback": 844,
+    "canonical_events_count": 803,
+    "eligible_events_count": 803,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Yuhua Jiang, Chang Xu, Feifei Gao, Li Zhao",
+          "Shuo Han, Zhilin Wang, Peng Ling, Wenjia Gong, Yang Liu, Guanjun Jiang, Yukun Cao, Xike Xie",
+          "Wangcheng Tao, Zhanglu Yan, Han Wu, Weng-Fai Wong"
+        ]
+      },
+      {
+        "canonical_headline": "Understanding Communication Failures in Multi-Agent LLM Systems",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Hanwen Li, Jinhao Duan, Xiaoshuang Shi, Yue Zhang, Tianlong Chen, Kaidi Xu, Chenxi Yuan"
+        ]
+      },
+      {
+        "canonical_headline": "DELA: Learning Controllable Edits for Diffusion Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Yukai Jin, Zhankai Ye, Jiayue Yang, Fangyi Li, Shuoqiu Li, Xu Gao, Shibo Li, Xin Liu, Shangqian Gao",
+          "Aidar Myrzakhan, Zhiqiang Shen",
+          "Maxime Dassen, Alexander Martin, Andrew Yates, Reno Kriz, William Walden"
+        ]
+      },
+      {
+        "canonical_headline": "What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zaifei Yang, Weiyu Chen, Yaqing Wang, James Kwok"
+        ]
+      },
+      {
+        "canonical_headline": "ActionRAG: Evidence-Refining Graph Diffusion for Long-Term Memory in LLM Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Xinyu Zhang, Weiwei Sun"
+        ]
+      },
+      {
+        "canonical_headline": "SkillPyramid: A Hierarchical Skill Consolidation Framework for Self-Evolving Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jun Gao, Yun Peng, Changhai Zhou, Yuhan Zhu, Xiangyu Zeng, Shiyang Zhang Yuhua Zhou, Luozheng Qin, Qian Qiao, Xiaoteng Ma, Baian Chen Weiyi Shang, Zhen Ming Jack Jiang, Lizhi Liao, Xiaoxue Ren"
+        ]
+      },
+      {
+        "canonical_headline": "Continuous Audio Thinking for Large Audio Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Wenwen Hou, Xinyuan Song, Wenqian Weng, Shiwei Liu"
+        ]
+      },
+      {
+        "canonical_headline": "SimPOTrans: Self-Adaptation for Offline-to-Simultaneous Speech Translation via Reinforcement Learning",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Haotian Tan, Hiroki Ouchi, Sakriani Sakti"
+        ]
+      },
+      {
+        "canonical_headline": "StateLoop: Persistent State for Looped Transformers",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Feichen Song, Boyi Zeng, Yiqin Hao, Shixiang Song, He Li, Yizhou Yang, Zitong Wang, Yifan Liu, Ziwei He, Zhouhan Lin"
+        ]
+      },
+      {
+        "canonical_headline": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Fei Bai, Huatong Song, Chuan Hao, Ran Tao, Jian Yang, Bryan Dai, Wayne Xin Zhao, Ji-Rong Wen"
+        ]
+      },
+      {
+        "canonical_headline": "Microsoft Offers Voluntary Exit to 60,000 Staff in India, US, UK - Deccan Chronicle",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Microsoft is offering buyouts to around 60,000 employees, reports say",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Siddharth Jindal"
+        ]
+      },
+      {
+        "canonical_headline": "Protectt.ai To Acquire Controlling Stake In Bosch's AIShield",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Supreeth Koundinya"
+        ]
+      },
+      {
+        "canonical_headline": "Pronto Founder Enters Physical AI Space With Provision Labs",
+        "source": "Analytics India Magazine",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shrishti Bisht"
+        ]
+      },
+      {
+        "canonical_headline": "Tata Communications plans $450 million investment in India AI network - DQ",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Siddharth Jindal",
+          "Anjali Jain"
+        ]
+      },
+      {
+        "canonical_headline": "Ather Turns Profitable In Q2, Posts ₹1.3 Cr PAT",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shrishti Bisht"
+        ]
+      },
+      {
+        "canonical_headline": "Veefin H1 FY27 Profit Jumps 2.3X YoY To ₹25 Cr, Revenue More Than Doubles",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Akshit Pushkarna",
+          "Akshit Pushkarna",
+          "Team Inc42"
+        ]
+      },
+      {
+        "canonical_headline": "Indian AI companies showcase homegrown technologies at Dubai AI Festival 2026 - News On AIR",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Chennaionline"
+        ]
+      },
+      {
+        "canonical_headline": "IIT-Kharagpur To Set Up India's First Dedicated School Of Physical AI - ETV Bharat",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 6,
+        "corroborating_publishers": [
+          "MillenniumPost",
+          "Lokmat Times",
+          "The Indian Express",
+          "Rediff",
+          "Free Press Journal",
+          "BW Education"
+        ]
+      },
+      {
+        "canonical_headline": "IIT Madras Report: AI will not 'take' jobs in India, but entry-level workers face the biggest risk - The Indian Express",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "DT Next"
+        ]
+      },
+      {
+        "canonical_headline": "India to lead multimodal AI use, daily usage seen doubling to 43 pc by 2030: Report - The Hans India",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "The Economic Times",
+          "Business Standard",
+          "Fortune India"
+        ]
+      },
+      {
+        "canonical_headline": "AMD, Intel collaborate to simplify AI development on x86 CPUs - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Reuters",
+          "electronics.economictimes.indiatimes.com",
+          "electronics.economictimes.indiatimes.com"
+        ]
+      },
+      {
+        "canonical_headline": "OpenAI claims AI breakthroughs in math, physics and computing - NewsBytes",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Asianet Newsable"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
