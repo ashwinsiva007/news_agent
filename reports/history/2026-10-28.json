@@ -1,0 +1,396 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-28",
+  "generated_at_ist": "28 Oct 2026, 12:33 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 55,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Sarvam AI signs MoU with",
+      "raw_headline": "Sarvam AI signs MoU with Defence Ministry to build AI tools for Indian armed forces - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3YxSkU5YVdycm05QUVLekdCN3NOT2hSRDZfVDM4b3pNazlLaU1nZWFEZV8za2tXN2M4OFphUkhvQlhTUTJLd2gtdVRpM3pvVXZPSGhYaTI1Z0gxbGJEbUo5MkJLVE5HNDVnTEF6S1BuN3ZOdG5tZkwtVUtnWHVNZWlwZnM3QjljYzBIUEx3ZkRaTGF4UmpVaVpnYXU0bnBzNV9PeUhBRDBQNWRVWXg3bzhUMkMtMFhRTDVGcGw2b0NnZmdLVllB0gHMAUFVX3lxTE5qLV9vWThJRFRoVWpEX3hjb1dXMUJZQkNFRXNzZTNnenVPcGFsaV9RUVo1RVlsc050WWlTN0ZQdzczVngyV1FQSTZvS3dQOWE3MmlSUkRQVzJPYjFkOHRCaVowaEFqdnNfTTdqWnotV3daY1RvNURzTE52U085NU5HLUUxREdqQkwtQXpLXzdrVVQybEhuZHlJRktDRXJkckhfMjdFbHpEMlVXQk5UcDUtUmRfWVY5b3lFRWFzYVgtUUIzWVo3Vy0zZ1VVVw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Firstpost",
+      "published_utc": "2026-10-27T10:38:24+00:00",
+      "published_ist": "27 Oct 2026, 04:08 PM IST",
+      "published_timestamp": 1793097504.0,
+      "description": "Sarvam AI signs MoU with Defence Ministry to build AI tools for Indian armed forces Firstpost",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Anne Florentyna",
+          "url": "https://inc42.com/buzz/ministry-of-defence-partners-with-sarvam-to-drive-ai-adoption-for-armed-forces",
+          "headline": "Ministry Of Defence Partners With Sarvam To Drive AI Adoption For Armed Forces",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7931,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.554,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "sarvam",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.99 (indian, sarvam, india) | Cred: 0.85 | Recency: 0.554",
+      "rank": 1,
+      "explanation": "Sarvam AI signs MoU with.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Cyber criminal gang Mr Robot",
+      "raw_headline": "Cyber criminal gang Mr Robot renting out tech tools to target Indian banking customers: CloudSEK",
+      "url": "https://www.livemint.com/technology/cyber-criminal-gang-mr-robot-renting-out-tech-tools-to-target-indian-banking-customers-cloudsek-11793168256533.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-10-28T06:17:36+00:00",
+      "published_ist": "28 Oct 2026, 11:47 AM IST",
+      "published_timestamp": 1793168256.0,
+      "description": "Cyber criminal gang Mr Robot renting out tech tools to target Indian banking customers: CloudSEK",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7867,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.978,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.978",
+      "rank": 2,
+      "explanation": "Cyber criminal gang Mr Robot.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indian IT firms poised to",
+      "raw_headline": "Indian IT firms poised to benefit from enterprise AI adoption as infrastructure costs rise: Report",
+      "url": "https://www.livemint.com/technology/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report-11793166741416.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-10-28T05:52:20+00:00",
+      "published_ist": "28 Oct 2026, 11:22 AM IST",
+      "published_timestamp": 1793166740.0,
+      "description": "Indian information technology (IT) companies are well-positioned to benefit from the growing adoption of artificial intelligence (AI) by enterprises, as rising infrastructure investments and funding requirements increase financial risks for companies building and operating AI computing capacity, according to a research report by Anand Rathi.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7849,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.966,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.966",
+      "rank": 3,
+      "explanation": "Indian information technology (IT) companies.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "OpenAI plans to buy Google's",
+      "raw_headline": "OpenAI plans to buy Google's AI chips",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-plans-to-buy-googles-ai-chips/articleshow/135249807.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-10-28T02:39:55+00:00",
+      "published_ist": "28 Oct 2026, 08:09 AM IST",
+      "published_timestamp": 1793155195.0,
+      "description": "OpenAI plans to buy Google's AI chips, The Information reported on Tuesday, citing a person familiar with the matter, as technology companies ramp up spending on data centers and semiconductors to meet surging demand for AI computing.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [
+        {
+          "source": "The Hindu - Technology",
+          "publisher": "The Hindu - Technology",
+          "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece",
+          "headline": "OpenAI plans to buy Google's AI chips: Report",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Analytics India Magazine",
+          "publisher": "Siddharth Jindal",
+          "url": "https://analyticsindiamag.com/ai-news/openai-plans-to-purchase-google-tpus-report",
+          "headline": "OpenAI Plans to Purchase Google TPUs: Report",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.7845,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.45,
+        "recency": 0.88,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.85
+      },
+      "matched_india_keywords": [],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.45 (Global impact) | Cred: 1.0 | Recency: 0.88",
+      "rank": 4,
+      "explanation": "OpenAI plans to buy Google's AI chips, The.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Microsoft offers voluntary exit to",
+      "raw_headline": "Microsoft offers voluntary exit to 60,000 employees: What it means for India staff - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVE3RmVvM1FDMnNpdS0zdWZRQ3o2UWEtZGp3UFZncElxMGU4MTBKM3FPS2Q3aG5oVG9JX283eWRPZFA1RFJ4YnhndFh5YThaaHNldVdBV01FUklMZ2FQRGVBUTBBblNJcUQwazhHMEJJenFNVWZuZDRKMEl4V3h3VlQteFJXWTNKQmtnN1l6ZXNtSUxIZ09PaVZGY0llSk1Md1MwemdaU3I1b3l1YlNNUG85WXhrZm1zQTUwaWJUc1RPa3JfZ1J6VFRR0gHQAUFVX3lxTE5HSjVtRkhGWXZfaGlpYUg4WkI2SFNvQ0gzRm43TXpDcWVsc0MtUl9lT1FnaURtazExMVFnQVduQ3lETlJJNlM3djY0S29CZElCTFYxakZaNWFJWmdtY2JxSnlLVTJRdXp0YTdtZmNWRzRhWncxZHo5VXVaQ1ZvRmh6ZmVacFhZOGNVekl2SUwzXzBGMWFRMDJXSUVPWGdqTDRiYlhGdFU0YTNEVUtUcmNwWTFPMFV2cjN2dEtpdEtLejhtcHFTb1JmM09aMmZMT3c?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The Indian Express",
+      "published_utc": "2026-10-28T04:01:32+00:00",
+      "published_ist": "28 Oct 2026, 09:31 AM IST",
+      "published_timestamp": 1793160092.0,
+      "description": "Microsoft offers voluntary exit to 60,000 employees: What it means for India staff The Indian Express",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7774,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.916,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.916",
+      "rank": 5,
+      "explanation": "Microsoft offers voluntary exit to.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 935,
+    "total_after_lookback": 734,
+    "canonical_events_count": 643,
+    "eligible_events_count": 643,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Fangzhi Xu, Hang Yan, Qiushi Sun, Jinyang Wu, Zixian Huang, Muye Huang, Jingyang Gong, Zichen Ding, Kanzhi Cheng, Yian Wang, Xinyu Che, Zeyi Sun, Jian Zhang, Zhangyue Yin, Haoran Luo, Ben Kao, Qika Lin"
+        ]
+      },
+      {
+        "canonical_headline": "Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Fariba Dehghan, Sebastian Stein, Vahid Yazdanpanah, Stephanie Gauthier"
+        ]
+      },
+      {
+        "canonical_headline": "Proposing Better Rollouts for On-Policy Distillation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhengpeng Xie, Li Lyna Zhang, Zeke Xie, Mao Yang"
+        ]
+      },
+      {
+        "canonical_headline": "V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhuoming Liu, Jinhong Lin, Kwan Man Cheng, Lin Zhang, Shayok Bagchi, Yin Li"
+        ]
+      },
+      {
+        "canonical_headline": "CoS-VQ: Coordinated Shared-Scale Vector Quantization for Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Rongguang Ye, Zhan Zhuang, Yichen Wu, Ming Tang, Kede Ma"
+        ]
+      },
+      {
+        "canonical_headline": "Test-Time Communication in Trading Agent Swarms",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhen Yang, Xiaogang Xu, Wen Wang, Cong Chen, Xander Xu, Ying-Cong Chen"
+        ]
+      },
+      {
+        "canonical_headline": "Doubly Robust Alignment for Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Zhuo-Yang Song, Qing-Hong Cao, Ming-xing Luo, Hua Xing Zhu",
+          "Oleksandr Cherednichenko, Roman Klypa"
+        ]
+      },
+      {
+        "canonical_headline": "AK_QMUL at ArGuard Shared Tasks: A Single Fine-Tuned JAIS for Arabic Harmful-Prompt Detection",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ahmed M. Fetouh, Mariam Labib, Nsrin Ashraf, Omer Dawood, Hamada Nayel"
+        ]
+      },
+      {
+        "canonical_headline": "AI makes discoveries in mathematics, computer science, physics, OpenAI says - Al Jazeera",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Robert Hart"
+        ]
+      },
+      {
+        "canonical_headline": "OpenAI plans to buy Google's AI chips",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "The Hindu - Technology",
+          "Siddharth Jindal"
+        ]
+      },
+      {
+        "canonical_headline": "Oracle expands AI chip deals with Nvidia, Google, Cerebras - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Supreeth Koundinya"
+        ]
+      },
+      {
+        "canonical_headline": "Maya Research releases open-weight speech model for 11 Indian languages - TechGig",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Kileuna Haralu"
+        ]
+      },
+      {
+        "canonical_headline": "Cent Raises $15 Mn To Scale AI-Led Preventive Healthcare Platform",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ridhika Basnet"
+        ]
+      },
+      {
+        "canonical_headline": "Finding India's Next AI Goldmine - Inc42",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ankush Das"
+        ]
+      },
+      {
+        "canonical_headline": "Live2.ai Raises ₹130 Cr To Scale AI Marketing SaaS Platform",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shrishti Bisht"
+        ]
+      },
+      {
+        "canonical_headline": "Sarvam AI signs MoU with Defence Ministry to build AI tools for Indian armed forces - Firstpost",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Anne Florentyna"
+        ]
+      },
+      {
+        "canonical_headline": "Trump says US to ban artificial intelligence term, pushes super intelligence - The Tribune",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Times of India"
+        ]
+      },
+      {
+        "canonical_headline": "India-based Spintronics AI weighs GaN chip fab in Madhya Pradesh - digitimes",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
