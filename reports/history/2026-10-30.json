@@ -1,0 +1,449 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-10-30",
+  "generated_at_ist": "30 Oct 2026, 12:58 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 63,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Samsung logs record quarterly profits",
+      "raw_headline": "Samsung logs record quarterly profits despite investor AI jitters - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeXdRbEN1bUF1WVhDMkpBeEJBNi1IWUl1TDdJMUlNOWtKWTVLMU9YdU00Smo2MXlVeWsyZ0UxUkVpODJUWkd1dmdQbzdBM2wyNDJraWtIYWpBWWJFem5DeWJMdXBIQ2FNMEhvNWRPLTJ0ZXZGVURrNWhRbTYxUEhtSS1QMUx3VE9UdTNlUElLUjhWTmVWc1RUcUlHVzVSdDNWMHdaX29Iel9DaFFqSWVKY3RxVWNKNUdMRWpDVEY1TmxJcFc0NGYxYmxhNzhrZ01IdUIyOEp1cUw4bWZEVEtPXw?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "electronics.economictimes.indiatimes.com",
+      "published_utc": "2026-10-30T01:51:47+00:00",
+      "published_ist": "30 Oct 2026, 07:21 AM IST",
+      "published_timestamp": 1793325107.0,
+      "description": "Samsung logs record quarterly profits despite investor AI jitters electronics.economictimes.indiatimes.com",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSE0xSXFReGE2UGQzMEI4TzNua2s2TUx6eG5FSnQ3eFlpdGhMWGVNVXI4Rlh0bnl4YlFLSXFjMzNKbHprSkJTem1IazRfanZuTDc1bm10UGtjYWZUb2pXdUVUX3lCTFBDemJjS1F2dlk2ZXBSc1pic0otUDY5ZnEzUkdOM3pmUExsNHhNbzJnbU52TUNqVWpIZFNTX0V5Y3VERTBHUjBkdWVRcHpSa0lFN0U3Vy12SGM5cTFDWUZDa3hmUDNVR3dFRFQ0UGlfTVRHekVfNUluQkg3X1hUM2JHek5ndzlBVzVtbmxtZHc4akFqV0l0Q3Fta09WVHBRUEJnODExS1dOeFRtRmVQV2Fz?oc=5",
+          "headline": "Intel signals slower growth as PC market remains under pressure - electronics.economictimes.indiatimes.com",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGJyd0tlenBpZlBuR0trRWZ6QkxtSHg3QUU2TWN4dVlueVExYkZ6NWQ3QXVSVEJJYW1OX1RNQkhyYVhiTk13QjJnVTBfRkxtcHJNYXVKc3VaY0ZzNmQtMWhPd1U2eFBROWZMUUZUaHpUcXRVTkN6UTZyYm8tczE0V2xDc1Y5V244ZlBob3RlampFZ3FBVEczVGpRLTlOWXcya1ZvaVk3ZW9RcDAtVDU2N0kwaG51RWRaWmZLRTdibXLSAcQBQVVfeXFMTmM1YVRha3NRUnQzQ0s2YzZMM3F5SEUzQnBDUFJmM0dZTGVHOF90c190YU1oVnJIemxjNUs5YV9wYjhNOEtOblc5d1UwZnBrX3p1NnljVWZ2X3ZaOEN5N1E0eG1GdEpqRmVNXzV5Z2dRVGFqQ2E1VDJ3Nkw0REdEX2l0Tzc1TTFXM2VOXzRZbTJrR1k5elE5LW5jS18wWE9DWDZGamY4V3RyYmYzNkpMemtFS0laNFhiN256LUhBbmpRenhkbg?oc=5",
+          "headline": "STMicro forecasts Q4 sales of over $4 billion - electronics.economictimes.indiatimes.com",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8333,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.85,
+        "trend_momentum": 0.85,
+        "user_preference": 0.665,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.85",
+      "rank": 1,
+      "explanation": "Samsung logs record quarterly profits despite investor AI.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India says AI, maritime security",
+      "raw_headline": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29 - Greater Kashmir",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbU9DS1ptS1lPVHk5c3lZdms1dmV6NTVGX2VEQkg0b0hpRF9aanJWMWw0TEE5dUdGQVhmamVzekhINndHTDNQY2xOZVJ6dWUwTkVUUnp5Tk1pN0RoME5WQzBTbURTZWdCUFJRSkVjeEFwTkZXaHcxRU80NFNpcVBCVUJoZElNazd0VVN3TzJJTkVJVVZXNlZPYk55Q1VYazRhNnh2Z3RKRktwZl9zX19lNVhDR2U5U2JVYzFhSDF6OWxsc19rQXlV0gHMAUFVX3lxTE9OLXRuai1rUDREN1dsSlJaaVFYV054QnBTOVNTVTB5VUxzOXdnUjRvTVI0NXNua3RoTlVnZHNhWDBpemRQYXNhNlIyTHd1UGkyNTMtTkZPT05SRDE5QjRQV0pGR0Fxd1RUdWR4NHJCaWZvQ1FCN0x6WnI3RW12YUFQTkFYaUYwX2YtVVFWTV9TMjZHSi1WRGQ1dWw5V3ZmR1k0SHJLQnJIbGpWZVlLMEhBU1ZoTFJCbTRfVkFETUE3dXExWlBkSl82eUlFNQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Greater Kashmir",
+      "published_utc": "2026-10-30T03:50:37+00:00",
+      "published_ist": "30 Oct 2026, 09:20 AM IST",
+      "published_timestamp": 1793332237.0,
+      "description": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29 Greater Kashmir",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "DD News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTFCbFlrXzZfN3E0MnR1dWtnTDh5NmJMZ0ZhamVFaEY0NHlmY1ZmbGM3R0VYbnhRZG96RWMtWFBGdUJ0Q3JwcGpickxfY1JPaFNhNl9GTzZvNlJBSl9iT1dDOXFDRmtPbXVBNVpSZjJta1lZQTNQcjhRcTdvbHdTTmNlZFNVUW1wZmdZRVFqYllPbFVNU1Jn?oc=5",
+          "headline": "AI, maritime security priorities in India's pursuit of UNSC election - DD News",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeGg2cHItel9kRjY3ZXhBWmdMVXVFT1ZfRjRIeWNrTG9NSDJkT25memlmeXdyR0Y4TG9VakxWZ3FXOUpVTUVqTjdXY2ZLc2MtODZzRWNrR0lnTldlQXZoVXg5dlIzVEtLNkI0azhLSHFuLWZCOW4tNTlVWU50MTJwcUZYbmdUS1ZMbGxPemVmcEIxOXZjOGo5alBUZTFuUXhEUXk0OFE0dndiWE52dTBkeG1tWGtCMmxPWmhkdUdnUnNPZlh1Y1pFSNIBzgFBVV95cUxPUlhjc3U1bjduN1cxS1l3dWRka28yTUJvcmJpZGxXMVR1R2ZBSkxqOEo4Mlh0ZFpkSE5ZRmJNRUU4Um9kdEJDbENrcFgtMGdaa3RnbmtSSnVrenJPb3Jkb3dlcGJFRU5BYldpci15SFEyNktGVnNkcDdwSjFKMTZzY3VGeG5NNWRHQ3IxNmRiS3ZfU29lNnhRZEowRm9wRXk5QlBzdHRkZTRGYmFrWU5iQXpfME83TGpyWkk5cWpOMklHR0Z0MXE3V3dvQUlRZw?oc=5",
+          "headline": "UNSC Election 2028-29: AI, Maritime Security India's Key Priorities - Deccan Chronicle",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8325,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.9,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.9",
+      "rank": 2,
+      "explanation": "India says AI, maritime security.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "IndicIPR-QA: A Benchmark for Extractive",
+      "raw_headline": "IndicIPR-QA: A Benchmark for Extractive Question Answering on Indian IPR Laws",
+      "url": "https://arxiv.org/abs/2610.40518",
+      "source": "arXiv Computation and Language",
+      "publisher": "M. Mohaiminul Islam, Muhammad Abulaish",
+      "published_utc": "2026-10-30T04:00:00+00:00",
+      "published_ist": "30 Oct 2026, 09:30 AM IST",
+      "published_timestamp": 1793332800.0,
+      "description": "arXiv:2610.40518v1 Announce Type: new Abstract: Legal Question Answering (QA) over statutory texts is a challenging task in Natural Language Processing (NLP), especially in low-resource settings with complex legal systems. It requires answers that are precise and grounded in the law. However, to the best of current knowledge, no existing extractive QA benchmark provides exact answer spans from statutory texts across all seven Indian Intellectual Property Rights (IPR) Acts. This paper presents IndicIPR-QA1, an extractive QA benchmark for Indian IPR laws. The proposed dataset contains 4,462 QA p",
+      "tier": "tier_1_primary",
+      "category": "LLMs & NLP",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.CL",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.7856,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.54,
+        "recency": 0.904,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india",
+        "indic"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (indian, india, indic) | Cred: 1.0 | Recency: 0.904",
+      "rank": 3,
+      "explanation": "arXiv:2610.40518v1 Announce Type: new Abstract: Legal Question Answering.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Defenders of Digital Bharat: Navigating",
+      "raw_headline": "Defenders of Digital Bharat: Navigating Cybersecurity in India's Evolving Artificial Intelligence Landscape - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeW5GeURZQno1ZUdQSERPbVQ2elkycGxYdlAtLXBvY3pIRkZ1RWhsZDBPMm1HcXpoWm51Mk9iWVpoWXl4dkYtSTFFNms5TnFrMEV6ell2VGlhY3drb2JfTlJzSmJMVVVMYWJQQTdURXp1NFVSVGxiTjRmOG5tVGRwT0xQWkpLVzJNdlNHNnRreDd5bEJMWmlFOV9KcnZUNi1YLU1NRGxITnppOXNjckZYd2c4T284Z3hWOWNMa055eloySGdYNE1aeGFSUXlGVWE1ODVyd29QRkdPWS1TODZWN3k2eE8yQWxFSTlRQUNpZFHSAfYBQVVfeXFMUGNoWW9nS1BSUDMyNWFsUVl0ZmpoSGhUV2JFZm9TWUZOek8yVnZkcFZwNTdVLWVBbTQ4cExqdVVHNU84dGZmaVNXLXdFMjk1UERaY0NHejBodDBZNFR1LXJEdjlxeEU4UTNTMzVQd3Y5blRiRVZoTFFHdnRvMzg4ajVUdlVRTzZzZ0pOSUs1X2dhR1VPa01zWld5ZWhDQWlXYjZWaHFVR3B0SFNraTR1M0RNNlJjUE1SWlRoY212Z3Y5RlE5T19fNXY0Wl9nNEk5VTN0dEhTUVBlTVNVVFNmQXRmYVA2S2pOTG40eEJnUjVOYTFKc2xB?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Firstpost",
+      "published_utc": "2026-10-30T06:02:38+00:00",
+      "published_ist": "30 Oct 2026, 11:32 AM IST",
+      "published_timestamp": 1793340158.0,
+      "description": "Defenders of Digital Bharat: Navigating Cybersecurity in India's Evolving Artificial Intelligence Landscape Firstpost",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7839,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.959,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "bharat",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (bharat, india) | Cred: 0.85 | Recency: 0.959",
+      "rank": 4,
+      "explanation": "Defenders of Digital Bharat: Navigating.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Sarvam-led funding surge takes India's",
+      "raw_headline": "Sarvam-led funding surge takes India’s Indic AI investments to $687 mn - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM2g5UjRxTnc2dkVoRHBWX2RlX2VvUUtweGd1aXJpSVBIWXZ3ZWxHcGV3Rm1zRU1mLUVKNFBEM3ZzNFN2YVAzUmo4WUxJYmt0YTJENTNScHI0eTVMbkdMcjgwTkVlbF9JVlVLeXp4cWRORjRHZV83QnBaMl96NjZkVUs0YXdkNlhQVE4wekUzVGZRT0N1cUtnbkRBNEVEbDE4ZlUtYVZGSlV1RlJkdmJXSzJNN1NIZXdkQ21mVmdjWm0teVlxekpqZ2RqYnFfeU9zTTREXzItS1I0Z0dhellz?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Livemint",
+      "published_utc": "2026-10-29T16:52:44+00:00",
+      "published_ist": "29 Oct 2026, 10:22 PM IST",
+      "published_timestamp": 1793292764.0,
+      "description": "Sarvam-led funding surge takes India’s Indic AI investments to $687 mn Livemint",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7834,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.656,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indic",
+        "sarvam"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.99 (india, indic, sarvam) | Cred: 0.85 | Recency: 0.656",
+      "rank": 5,
+      "explanation": "Sarvam-led funding surge takes India’s Indic AI investments.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 1240,
+    "total_after_lookback": 1002,
+    "canonical_events_count": 852,
+    "eligible_events_count": 852,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Wo Wei Lin, Ethan Rathbun, Enrico Marchesini, Xiang Zhi Tan"
+        ]
+      },
+      {
+        "canonical_headline": "Understanding Large Language Models as Numerical Optimizers",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Basel Shbita, Michael Hind, Chad DeLuca, Nathan Fulton, Shubhi Asthana, Farhan Ahmed, Anisa Halimi, Yada Zhu, Mauro Martino, David Cox, Dan Gutfreund"
+        ]
+      },
+      {
+        "canonical_headline": "DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yanbin Yin, Chuyu Xu, Liqin Ye, Jing Peng, Chao Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "SCOPE: Selective Critical-Step On-Policy Self-Distillation for Agentic Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Haotian Zhao, Songlin Zhou, Yuxin Zhang, Stephen S. -T. Yau, Wenyu Zhang, Lun Tian, Tianshu Zhu, Yifeng Huang, Yucheng Zeng, Jingnan Gu, Daxiang Dong, Jianmin Wu",
+          "Ke Jiang, Wen Jiang, Yoshinobu Kawahara, Xiaoyang Tan"
+        ]
+      },
+      {
+        "canonical_headline": "CALM: Conflict-Aware Lifecycle Memory Governance for Long-Horizon Language Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Xinyuan Song, Zekun Cai"
+        ]
+      },
+      {
+        "canonical_headline": "Goal-Aware Dynamic Multi-Agent Collaboration for Long-Horizon Tasks",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Qinuo Cao, Xin He, Dianxuan Fu, Lizhi Zhang, Zhaoqing Xing, Jiapu Wang, Xin Wang, Na Zou, Yi Chang, Qinggang Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "SocialArena: Evaluating Social Intelligence in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Zhanzhan Zhao, Yi Yang, Xiao Jia, Zeyun Dong, Chenzhang Wang",
+          "Malvina Nikandrou, Georgios Pantazopoulos, Ioannis Konstas, Alessandro Suglia",
+          "Gianluca Barmina, Federico Torrielli, Sven Harms, Jacob Nielsen, Flavia Filesi, Felix M\\\"achtle, Stine Lyngs{\\o} Beltoft, Peter Schneider-Kamp, Thomas Eisenbarth, Lukas Galke Poech, Anne Lauscher"
+        ]
+      },
+      {
+        "canonical_headline": "Locating and Closing Information Gaps in Multi-Agent Systems",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Hehai Lin, Qi Yang, Chengwei Qin"
+        ]
+      },
+      {
+        "canonical_headline": "On-Policy Self-Distillation with Teacher Evolution",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yifu Luo, Chuang Ma, Zeyu Chen, Enkelejda Kasneci, Qi Chen, Gjergji Kasneci"
+        ]
+      },
+      {
+        "canonical_headline": "Autonomous Quantum Measurement with Agentic AI",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zachary W. Gomez, Nathan Bittner, Jordan T. McCourt, Qingrui Cao, Sandesh S. Kalantre, Benjamin H. Alexander, Zhiren Zheng, Kenji Watanabe, Takashi Taniguchi, Aaron Sharpe"
+        ]
+      },
+      {
+        "canonical_headline": "DeCoRL: Decomposed Consistency Reinforcement Learning for Multi-Image Composition",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yujia Chen, Yang Ye, Xiao Chu, Yuchi Ma, Cuiyun Gao"
+        ]
+      },
+      {
+        "canonical_headline": "Cord: Confidence-Anchored Order Residual Decoding for Masked Diffusion Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yan Tai, Yunan Ding, Guangzhao Li, Siqi Luo, Chaoyang Zhang, Guangtao Zhai, Guodong Guo, Xiaohong Liu"
+        ]
+      },
+      {
+        "canonical_headline": "Escaping Path Mirages in Offline Goal-Conditioned Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhenghong Ke, Jingbo Zhou, Hua Wu"
+        ]
+      },
+      {
+        "canonical_headline": "Evaluation Metrics for Safe Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhiyuan Zhou, Andy Peng, Charles Xu, Qiyang Li, Jost Tobias Springenberg, Kevin Frans, Sergey Levine"
+        ]
+      },
+      {
+        "canonical_headline": "Conditional Memory Enhanced Item Representation for Generative Recommendation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yuxi Huang, Silin Zhou, Chenhao Wang, Zihan Li, Gangming Guo, Pei Ke, Shen Gao, Shuo Shang"
+        ]
+      },
+      {
+        "canonical_headline": "Joint Latent Reasoning and Observation for Agentic Video Understanding",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Nishtha Agarwal, Adam Visokay, Astha Wahi, Kwabena Owusu Aninkora, Amy Gu, Tyler McCormick, Li Liu"
+        ]
+      },
+      {
+        "canonical_headline": "TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Haikun Liu, Zhichao Yan, Shaoru Guo, Jiawei Gu, Victor Gutierrez Basulto, Jiapu Wang, Ru Li"
+        ]
+      },
+      {
+        "canonical_headline": "Nvidia's web of AI bets: Smart strategy or bubble risk? - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "NVIDIA Launches Open-Weight Transcription Model for 40 Languages",
+        "source": "Analytics India Magazine",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Kileuna Haralu"
+        ]
+      },
+      {
+        "canonical_headline": "Venttup Raises $3 Million To Expand Precision Manufacturing",
+        "source": "Analytics India Magazine",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shrishti Bisht"
+        ]
+      },
+      {
+        "canonical_headline": "Pine Labs Q2 Profit Jumps Over 6X YoY To ₹38.6 Cr, Revenue Rises 24%",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Palak Sharma",
+          "Team Inc42"
+        ]
+      },
+      {
+        "canonical_headline": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29 - Greater Kashmir",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "DD News",
+          "Deccan Chronicle"
+        ]
+      },
+      {
+        "canonical_headline": "Samsung logs record quarterly profits despite investor AI jitters - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com",
+          "electronics.economictimes.indiatimes.com"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
