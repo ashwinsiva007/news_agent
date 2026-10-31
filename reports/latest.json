@@ -2,23 +2,167 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-10-30",
-  "generated_at_ist": "30 Oct 2026, 12:58 PM IST",
+  "report_date": "2026-10-31",
+  "generated_at_ist": "31 Oct 2026, 12:45 PM IST",
   "story_count": 5,
-  "briefing_word_count": 63,
+  "briefing_word_count": 99,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "Samsung logs record quarterly profits",
-      "raw_headline": "Samsung logs record quarterly profits despite investor AI jitters - electronics.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeXdRbEN1bUF1WVhDMkpBeEJBNi1IWUl1TDdJMUlNOWtKWTVLMU9YdU00Smo2MXlVeWsyZ0UxUkVpODJUWkd1dmdQbzdBM2wyNDJraWtIYWpBWWJFem5DeWJMdXBIQ2FNMEhvNWRPLTJ0ZXZGVURrNWhRbTYxUEhtSS1QMUx3VE9UdTNlUElLUjhWTmVWc1RUcUlHVzVSdDNWMHdaX29Iel9DaFFqSWVKY3RxVWNKNUdMRWpDVEY1TmxJcFc0NGYxYmxhNzhrZ01IdUIyOEp1cUw4bWZEVEtPXw?oc=5",
+      "headline": "India Targets Semiconductor Self-reliance By 2047: MoD - BW Businessworld",
+      "raw_headline": "India Targets Semiconductor Self-reliance By 2047: MoD - BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTYxeWU5b2VWOGtHTUVzY3dEaTZjMzhLUjc1LTFRYzdWSG9FbkV1Z1RDS0drVWpvaEdLYmVWR3M5UE5IMTV3MDF4ZTBzcG93WjBmQ3ZaV3h0RUdyUWNhaEVfWTcwaUZNWVc1cWN1MkdXemxmc0Q3Mzd5REpiWEt4b05sU1VzbHdYQU1hMU5QU1RHR3NWVkRuZHRTR3dGUQ?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "BW Businessworld",
+      "published_utc": "2026-10-31T06:32:48+00:00",
+      "published_ist": "31 Oct 2026, 12:02 PM IST",
+      "published_timestamp": 1793428368.0,
+      "description": "India Targets Semiconductor Self-reliance By 2047: MoD BW Businessworld",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7951,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.979,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "reliance",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.8 | India Rel: 0.81 (reliance, india) | Cred: 0.85 | Recency: 0.979",
+      "rank": 1,
+      "explanation": "India Targets Semiconductor Self-reliance By 2047: MoD BW Businessworld..",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India proposes framework to unlock data for AI training, protect privacy - Business Standard",
+      "raw_headline": "India proposes framework to unlock data for AI training, protect privacy - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTjJpZHlvV3hHZ0VRa2hFSldBS1pPQzdBZ3ZEb29pd1VkSEhzaTl2Z2t6YmJ2WVRvdVdvMGNsazAta08zVENJV2gwX1JtOWliS25fNFRfdmNMSXBXQ1htRC11T1M2b0gwd0E3Y05KdF9lV1FrUlRZclVyTV9FVWRvTGNMSDV3elNQX1JnelVKY2ROaWZ4NU1DVjEwZVItbVFqNm1hV0t1V05lRDRVOVEtekotQTUzNFh4MVhfSkw0SDAycGF0NkFJeFZ4d19vRGthWWxVNm9EU3EzX3RuVS1ES3hOR0M3R0JBSnZtaTNpOVBMZ9IB9wFBVV95cUxPWVJHR3A3dTVnYVNDeDlpd0ZRR0ctZUxablBfN0hXLVRpMjQ4VDVWa251dXhFZGpqLVZmeVFJM2ZMenlMdFl0d3E2TnQ1WUVsZzFNLXltbkxQYU5TaUNMQkxCRFF5ZFRvOXByWnpWVHRBZFhLV3pGZjdVN1RVbllDTGI1WS1XcU14SEFZbFdZQlQwd1FfeFJLd0VzVVF2MVJNWDJ2bnp2T2gxYmdsUWJ1SHZfenJrMTRRVm9NRUNTckpfSERNYmk0V2diOTFSZm5EMjMwOWZ4ZlVZVTRrRjJ6bS1Hc3hNNUhRd0dOWjF6QWFXYUpBaWl3?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Business Standard",
+      "published_utc": "2026-10-30T12:31:27+00:00",
+      "published_ist": "30 Oct 2026, 06:01 PM IST",
+      "published_timestamp": 1793363487.0,
+      "description": "India proposes framework to unlock data for AI training, protect privacy Business Standard",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "ET Datacenters",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaXVkN1pOalRPVUtOV3hfSVVWZTR1cjlFcW44VmJaWTllaEV5c1ZSTmpwMFdQWlk3ejlEaUk0ZTdRNFNsYU9MZFVDX054eXhuLXZ4MXJncmVVOVZOM2VPcm4zV2RJQWQ4Tk5uMGNPbi1PRjFyQmVGYU16WnMzZlNIX2g2QUVmUjB2ZGRLdWR4aW41bktSdEtwdVBtWUlyX2FhVTNtSWZOc0ZobWUxOUVnSzR3SHZyNEJXd3dCSVZ4ZGxtald5RnlmVTNOSmxIUVhsYTlvVlVERFpieXAxSzRMb1RxdlRKNzZqT0RqWG5sai15S3BYR0VldVFIMTRvNlJYQWF5QV9vanUyQkNYSG930gHeAUFVX3lxTE82VzJJT285aUo1OGdoQ3J2MUNDM0gweWN4ZkhmNTBqSDk5eHFnYzhnUXJPaVRjeGplV3BPcWdIcGlRRlRMRDNPUXc4ZzBnaGJXZVpyeFJFclJjTFRGQXFFa2ctMUhSTlNOZXRWRDF2cXZPaGZpWVV5RzlzOV8yWEh6aEpmMW9UbFBsVUtSLVNRV1RlbE1OQ21icEo2ZEJYZWx5emlHNEhESzFBMm9lVFctY0xEbW52M3NXTEpEck9tZ0t5QjNOeXNnN0JMVHUtYmhaNk1ZXzJjc2pHM3ZaQQ?oc=5",
+          "headline": "India proposes DEPA framework to unlock data for AI training - ET Datacenters",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Gaurav Bagur",
+          "url": "https://inc42.com/buzz/meity-floats-new-privacy-led-framework-to-unlock-data-for-training-ai-models",
+          "headline": "MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.7848,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.582,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.582",
+      "rank": 2,
+      "explanation": "India proposes framework to unlock.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Odisha plans over $4 billion semiconductor, AI data centre projects - ET Datacenters",
+      "raw_headline": "Odisha plans over $4 billion semiconductor, AI data centre projects - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPYlg5MXR3dTFLUHB6NURNZ0NrMExBUE11X1d4bVR6eEhhWkxLUTY2Y3dQVjV3c0JWbFlGeGVQakJ1MXE1WnNCVlNFbXVRX1Jhd0xTaFZqdGZCQjI3Y3ZsYWZDQ1A2bGUyMDRSOGlyclVTV2xfVjl4dFNXZThEdVd4c2lIY0FEVFhSU0lyTF9tZG9ydUNsN0NmTDBhRFE3ODhiOUlWWTZHMGhTQkVBbW9EWmQtLVRRY0lYU2VVOEt0ZkZjLUJIMUJBMVh3OGtIX0ZKMVIwbDZEUjlCSWhmbk9sUFpSVl9VcXdxcUpHeVRSaXA5ZzJfOXg4clVfNXBISWZXT0RYbWo0SUlqd2gya2JqYWpCREdkQ2JBd0tUY2lTd2bSAe8BQVVfeXFMT0wyVWVKS0twV29fWEkybnJJY2dPcTVWNGNjNy1yd196X29zLXllSzRmSW1pZVRWcXp0RFB4cl9Nbml3bHNSdzJfb2lUd0FUcW9FVUxSWm9ERW9PaTVCNE9SczN0N3E4SEpaZFdkc3U3c2dyeEtsSEk3c0JBUFhPeVExZi1ZNDJSV3NTaTZNeUVJX3VJMVd1YkctbXg5NzVFNUo4ZmpkekJBcnI1Skkwc1JKTWh4OHh2RDZtY1FEdGJVVnJtV0hrbEwzVlRXMzRTTEhvOWgwc3BlZjU5LWpELTdOZFlabWZwTlFhcHB6aW8?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "ET Datacenters",
+      "published_utc": "2026-10-31T03:19:43+00:00",
+      "published_ist": "31 Oct 2026, 08:49 AM IST",
+      "published_timestamp": 1793416783.0,
+      "description": "Odisha plans over $4 billion semiconductor, AI data centre projects ET Datacenters",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "boldnewsonline.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWs2MDZMZXlCNGItOTlpMXNCTlNqd3ByWi1hQlJvVXJTcHI2UTZPLVh0NVlxcW42WU9IQnozYkQyOFRFbkNIOUlYcUR4OTR6MXZYY3ViT1pIUUhIUWN5UTFEX3hINUhldTg5cWViTFF5a2ota09wbG16ek1pT3VrdkZQT1Z6V2c3NXBPOG1aZ01QbElMbEl4N2EtUExIMmlIX2hYWHNoYzg0d2tqWVNScQ?oc=5",
+          "headline": "Odisha Plans Over USD 4 Billion Semiconductor Investments Through Five Projects - boldnewsonline.com",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7621,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.892,
+        "trend_momentum": 0.65,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.892",
+      "rank": 3,
+      "explanation": "Odisha plans over $4 billion semiconductor.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Tokyo Electron sees robust profit growth amid jitters over AI returns - electronics.economictimes.indiatimes.com",
+      "raw_headline": "Tokyo Electron sees robust profit growth amid jitters over AI returns - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWTdlRzdJcEJTbm1tSTloekFySmh4bjdSS3hEbzdpRmdEODdndElWSEpudHhZNDJucnZnNWxmMW5hZGtCY2ZPMWFKNjVaV3NXMVFuWHROY2QweDM5Vk56SUYtS0J3VnFiT09HTmhsTERiUU9CUTZUTC1SYlhKM3RHNTZsYzVORGxnT21HWXBwOFRmMEJtU3FHZWd1N1Z3ZmZCSEdZa2Z0dGNrb3dGRm9TWjhrSmFPS0hTODNkMXJyc3VHdG1QalZYMkx1d1hTZndDODU0WEQ1bEFneWhWU3FVUtIB5AFBVV95cUxOWVFkQldXcnVFV0RuYWFWZkdEdlBlZUNIM0xjNnAyRGdDMGVUWnNVMkRaakhjTS1Qc1N4enpoWnc2Z3plQXJLVnFXdmxyNnZzQkM0cGFRRC1VRVAxY1JUZGZKdklhTTNDYjJnZmdyR3pnMlpoakxGU0RHMXpjSEhGRXREVDAyZEFSVjN3eGl5NENjMVdlZWF1dk9yVGc5VHQ1ZktBdV9PdHFvRTRtSWF6X21MNWZ3OEx1bWZteGNwZ3gtNUhXOWNhLXl5M1d1WVEyYUNYNmc3bW85SHZ2RkdyMGJmQVg?oc=5",
       "source": "Google News: India Semiconductor Chips",
       "publisher": "electronics.economictimes.indiatimes.com",
-      "published_utc": "2026-10-30T01:51:47+00:00",
-      "published_ist": "30 Oct 2026, 07:21 AM IST",
-      "published_timestamp": 1793325107.0,
-      "description": "Samsung logs record quarterly profits despite investor AI jitters electronics.economictimes.indiatimes.com",
+      "published_utc": "2026-10-31T02:35:53+00:00",
+      "published_ist": "31 Oct 2026, 08:05 AM IST",
+      "published_timestamp": 1793414153.0,
+      "description": "Tokyo Electron sees robust profit growth amid jitters over AI returns electronics.economictimes.indiatimes.com",
       "tier": "tier_2_reputable",
       "category": "Semiconductors & Hardware",
       "is_india_focused": true,
@@ -27,150 +171,46 @@
         {
           "source": "Google News: India Semiconductor Chips",
           "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSE0xSXFReGE2UGQzMEI4TzNua2s2TUx6eG5FSnQ3eFlpdGhMWGVNVXI4Rlh0bnl4YlFLSXFjMzNKbHprSkJTem1IazRfanZuTDc1bm10UGtjYWZUb2pXdUVUX3lCTFBDemJjS1F2dlk2ZXBSc1pic0otUDY5ZnEzUkdOM3pmUExsNHhNbzJnbU52TUNqVWpIZFNTX0V5Y3VERTBHUjBkdWVRcHpSa0lFN0U3Vy12SGM5cTFDWUZDa3hmUDNVR3dFRFQ0UGlfTVRHekVfNUluQkg3X1hUM2JHek5ndzlBVzVtbmxtZHc4akFqV0l0Q3Fta09WVHBRUEJnODExS1dOeFRtRmVQV2Fz?oc=5",
-          "headline": "Intel signals slower growth as PC market remains under pressure - electronics.economictimes.indiatimes.com",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "electronics.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGJyd0tlenBpZlBuR0trRWZ6QkxtSHg3QUU2TWN4dVlueVExYkZ6NWQ3QXVSVEJJYW1OX1RNQkhyYVhiTk13QjJnVTBfRkxtcHJNYXVKc3VaY0ZzNmQtMWhPd1U2eFBROWZMUUZUaHpUcXRVTkN6UTZyYm8tczE0V2xDc1Y5V244ZlBob3RlampFZ3FBVEczVGpRLTlOWXcya1ZvaVk3ZW9RcDAtVDU2N0kwaG51RWRaWmZLRTdibXLSAcQBQVVfeXFMTmM1YVRha3NRUnQzQ0s2YzZMM3F5SEUzQnBDUFJmM0dZTGVHOF90c190YU1oVnJIemxjNUs5YV9wYjhNOEtOblc5d1UwZnBrX3p1NnljVWZ2X3ZaOEN5N1E0eG1GdEpqRmVNXzV5Z2dRVGFqQ2E1VDJ3Nkw0REdEX2l0Tzc1TTFXM2VOXzRZbTJrR1k5elE5LW5jS18wWE9DWDZGamY4V3RyYmYzNkpMemtFS0laNFhiN256LUhBbmpRenhkbg?oc=5",
-          "headline": "STMicro forecasts Q4 sales of over $4 billion - electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUkNxNG1NZWZZMXo1RU5sUm1GV29lVmRwMlN0SVZ0ejVSUGxRNkgtZ2xoV0o5b1N0d21GcjZ6MnVmbFBNbUk0V3ZMZmMyN2hOcWNmNG52dFJ1ZHB6YXpxZGRWMTV3YVg1Y011emVnYnZBYmhPNGpOZVpvX3dwM05TVmRUTkttajFyQ3dsVi1UeVUtVjIxTTZhaFZ2YzBsVTJpcWw1Z2p4SHNaRVhZNDgwT0hUWGU5a3ZsZVE3NFRaaHZ4RjdnVWZlaDR2SFA2Y2d1aHYzMi02WXI5VDFOeDdGaEVRU2ZlVlZhQmE1VFN3TEJpU0nSAfcBQVVfeXFMTV96Q3lRVEFLQWNzOFE1cFU0NFZZMWt3cDRCb1F2c1ZsMEc5VHVzOU40R2tYdjlpQ0xfR2FGaUk0NXBueFhVX2lqSXZyZTMzRkJlSmt6UVcyNVpXWmV3SGhTMkNfSS1xMEEzbkxGdFZIbmRIcEhJOUpfU0pGSlFlbWVMMTBzc3hLbTk1VTRuZVBnaUJWcmNpYUFjT2xmUkFvR2M2VWZMUE9sa2NWUzBWcmFiS1RNS2YxcWhmQ1d6QTNkMDBZeF8tdmJQZkI0ZXJyeDVQdU5WQmJ3VVROOVkzXzVLOE05VHU0XzJUNVZUancxOWtwdXF4OA?oc=5",
+          "headline": "Syrma SGS' net profit rises 87% to ₹124 crore in Q2FY27, revenue nears ₹2,000 crore - electronics.economictimes.indiatimes.com",
           "tier": "tier_2_reputable"
         }
       ],
-      "corroboration_count": 2,
-      "cluster_size": 3,
-      "verification_status": "Corroborated (Multi-Source)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 0.9,
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
       "scores": {
-        "composite": 0.8333,
-        "credibility": 1.0,
-        "evidence_strength": 0.9,
+        "composite": 0.7592,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
         "india_relevance": 0.63,
-        "recency": 0.85,
-        "trend_momentum": 0.85,
+        "recency": 0.873,
+        "trend_momentum": 0.65,
         "user_preference": 0.665,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
         "india"
       ],
-      "ranking_rationale": "Composite: 0.83 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.85",
-      "rank": 1,
-      "explanation": "Samsung logs record quarterly profits despite investor AI.",
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.873",
+      "rank": 4,
+      "explanation": "Tokyo Electron sees robust profit growth.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "India says AI, maritime security",
-      "raw_headline": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29 - Greater Kashmir",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbU9DS1ptS1lPVHk5c3lZdms1dmV6NTVGX2VEQkg0b0hpRF9aanJWMWw0TEE5dUdGQVhmamVzekhINndHTDNQY2xOZVJ6dWUwTkVUUnp5Tk1pN0RoME5WQzBTbURTZWdCUFJRSkVjeEFwTkZXaHcxRU80NFNpcVBCVUJoZElNazd0VVN3TzJJTkVJVVZXNlZPYk55Q1VYazRhNnh2Z3RKRktwZl9zX19lNVhDR2U5U2JVYzFhSDF6OWxsc19rQXlV0gHMAUFVX3lxTE9OLXRuai1rUDREN1dsSlJaaVFYV054QnBTOVNTVTB5VUxzOXdnUjRvTVI0NXNua3RoTlVnZHNhWDBpemRQYXNhNlIyTHd1UGkyNTMtTkZPT05SRDE5QjRQV0pGR0Fxd1RUdWR4NHJCaWZvQ1FCN0x6WnI3RW12YUFQTkFYaUYwX2YtVVFWTV9TMjZHSi1WRGQ1dWw5V3ZmR1k0SHJLQnJIbGpWZVlLMEhBU1ZoTFJCbTRfVkFETUE3dXExWlBkSl82eUlFNQ?oc=5",
+      "headline": "Indian AI companies showcase homegrown technologies at Dubai AI Festival 2026 - News On AIR",
+      "raw_headline": "Indian AI companies showcase homegrown technologies at Dubai AI Festival 2026 - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnhpME50RVVLeHFiTGpyZGV2eld1OXBJaXRMa1g5UXFxaFJmalY1R0ctNHMtMXpESVBsWE5kZGJBRlRrUDkwcWQ3WXpsalI4djBjd3FxejQtUV9IeWtXODJOYlNSZ2w5TnVvMk02dHR0SlhKM0VISTBxR0kxa0pJNk5UZFdhYk5LcEphMEg3TFJVX0ZYRWFKMFpaaEJFR09JS3NiUmVn?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "Greater Kashmir",
-      "published_utc": "2026-10-30T03:50:37+00:00",
-      "published_ist": "30 Oct 2026, 09:20 AM IST",
-      "published_timestamp": 1793332237.0,
-      "description": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29 Greater Kashmir",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [
-        {
-          "source": "Google News: India Artificial Intelligence",
-          "publisher": "DD News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTFCbFlrXzZfN3E0MnR1dWtnTDh5NmJMZ0ZhamVFaEY0NHlmY1ZmbGM3R0VYbnhRZG96RWMtWFBGdUJ0Q3JwcGpickxfY1JPaFNhNl9GTzZvNlJBSl9iT1dDOXFDRmtPbXVBNVpSZjJta1lZQTNQcjhRcTdvbHdTTmNlZFNVUW1wZmdZRVFqYllPbFVNU1Jn?oc=5",
-          "headline": "AI, maritime security priorities in India's pursuit of UNSC election - DD News",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Artificial Intelligence",
-          "publisher": "Deccan Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeGg2cHItel9kRjY3ZXhBWmdMVXVFT1ZfRjRIeWNrTG9NSDJkT25memlmeXdyR0Y4TG9VakxWZ3FXOUpVTUVqTjdXY2ZLc2MtODZzRWNrR0lnTldlQXZoVXg5dlIzVEtLNkI0azhLSHFuLWZCOW4tNTlVWU50MTJwcUZYbmdUS1ZMbGxPemVmcEIxOXZjOGo5alBUZTFuUXhEUXk0OFE0dndiWE52dTBkeG1tWGtCMmxPWmhkdUdnUnNPZlh1Y1pFSNIBzgFBVV95cUxPUlhjc3U1bjduN1cxS1l3dWRka28yTUJvcmJpZGxXMVR1R2ZBSkxqOEo4Mlh0ZFpkSE5ZRmJNRUU4Um9kdEJDbENrcFgtMGdaa3RnbmtSSnVrenJPb3Jkb3dlcGJFRU5BYldpci15SFEyNktGVnNkcDdwSjFKMTZzY3VGeG5NNWRHQ3IxNmRiS3ZfU29lNnhRZEowRm9wRXk5QlBzdHRkZTRGYmFrWU5iQXpfME83TGpyWkk5cWpOMklHR0Z0MXE3V3dvQUlRZw?oc=5",
-          "headline": "UNSC Election 2028-29: AI, Maritime Security India's Key Priorities - Deccan Chronicle",
-          "tier": "tier_2_reputable"
-        }
-      ],
-      "corroboration_count": 2,
-      "cluster_size": 3,
-      "verification_status": "Corroborated (Multi-Source)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 0.9,
-      "is_eligible": true,
-      "verification_rationale": "Corroborated across 3 independent news organizations.",
-      "scores": {
-        "composite": 0.8325,
-        "credibility": 1.0,
-        "evidence_strength": 0.9,
-        "india_relevance": 0.63,
-        "recency": 0.9,
-        "trend_momentum": 0.85,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.83 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.9",
-      "rank": 2,
-      "explanation": "India says AI, maritime security.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "IndicIPR-QA: A Benchmark for Extractive",
-      "raw_headline": "IndicIPR-QA: A Benchmark for Extractive Question Answering on Indian IPR Laws",
-      "url": "https://arxiv.org/abs/2610.40518",
-      "source": "arXiv Computation and Language",
-      "publisher": "M. Mohaiminul Islam, Muhammad Abulaish",
-      "published_utc": "2026-10-30T04:00:00+00:00",
-      "published_ist": "30 Oct 2026, 09:30 AM IST",
-      "published_timestamp": 1793332800.0,
-      "description": "arXiv:2610.40518v1 Announce Type: new Abstract: Legal Question Answering (QA) over statutory texts is a challenging task in Natural Language Processing (NLP), especially in low-resource settings with complex legal systems. It requires answers that are precise and grounded in the law. However, to the best of current knowledge, no existing extractive QA benchmark provides exact answer spans from statutory texts across all seven Indian Intellectual Property Rights (IPR) Acts. This paper presents IndicIPR-QA1, an extractive QA benchmark for Indian IPR laws. The proposed dataset contains 4,462 QA p",
-      "tier": "tier_1_primary",
-      "category": "LLMs & NLP",
-      "is_india_focused": false,
-      "raw_feed_url": "https://rss.arxiv.org/rss/cs.CL",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Verified (Primary Source / Paper)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 1.0,
-      "is_eligible": true,
-      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
-      "scores": {
-        "composite": 0.7856,
-        "credibility": 1.0,
-        "evidence_strength": 1.0,
-        "india_relevance": 0.54,
-        "recency": 0.904,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.55
-      },
-      "matched_india_keywords": [
-        "indian",
-        "india",
-        "indic"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (indian, india, indic) | Cred: 1.0 | Recency: 0.904",
-      "rank": 3,
-      "explanation": "arXiv:2610.40518v1 Announce Type: new Abstract: Legal Question Answering.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Defenders of Digital Bharat: Navigating",
-      "raw_headline": "Defenders of Digital Bharat: Navigating Cybersecurity in India's Evolving Artificial Intelligence Landscape - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeW5GeURZQno1ZUdQSERPbVQ2elkycGxYdlAtLXBvY3pIRkZ1RWhsZDBPMm1HcXpoWm51Mk9iWVpoWXl4dkYtSTFFNms5TnFrMEV6ell2VGlhY3drb2JfTlJzSmJMVVVMYWJQQTdURXp1NFVSVGxiTjRmOG5tVGRwT0xQWkpLVzJNdlNHNnRreDd5bEJMWmlFOV9KcnZUNi1YLU1NRGxITnppOXNjckZYd2c4T284Z3hWOWNMa055eloySGdYNE1aeGFSUXlGVWE1ODVyd29QRkdPWS1TODZWN3k2eE8yQWxFSTlRQUNpZFHSAfYBQVVfeXFMUGNoWW9nS1BSUDMyNWFsUVl0ZmpoSGhUV2JFZm9TWUZOek8yVnZkcFZwNTdVLWVBbTQ4cExqdVVHNU84dGZmaVNXLXdFMjk1UERaY0NHejBodDBZNFR1LXJEdjlxeEU4UTNTMzVQd3Y5blRiRVZoTFFHdnRvMzg4ajVUdlVRTzZzZ0pOSUs1X2dhR1VPa01zWld5ZWhDQWlXYjZWaHFVR3B0SFNraTR1M0RNNlJjUE1SWlRoY212Z3Y5RlE5T19fNXY0Wl9nNEk5VTN0dEhTUVBlTVNVVFNmQXRmYVA2S2pOTG40eEJnUjVOYTFKc2xB?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "Firstpost",
-      "published_utc": "2026-10-30T06:02:38+00:00",
-      "published_ist": "30 Oct 2026, 11:32 AM IST",
-      "published_timestamp": 1793340158.0,
-      "description": "Defenders of Digital Bharat: Navigating Cybersecurity in India's Evolving Artificial Intelligence Landscape Firstpost",
+      "publisher": "News On AIR",
+      "published_utc": "2026-10-30T23:16:51+00:00",
+      "published_ist": "31 Oct 2026, 04:46 AM IST",
+      "published_timestamp": 1793402211.0,
+      "description": "Indian AI companies showcase homegrown technologies at Dubai AI Festival 2026 News On AIR",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -184,72 +224,30 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7839,
+        "composite": 0.7591,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.959,
+        "recency": 0.794,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "bharat",
+        "indian",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (bharat, india) | Cred: 0.85 | Recency: 0.959",
-      "rank": 4,
-      "explanation": "Defenders of Digital Bharat: Navigating.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Sarvam-led funding surge takes India's",
-      "raw_headline": "Sarvam-led funding surge takes India’s Indic AI investments to $687 mn - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM2g5UjRxTnc2dkVoRHBWX2RlX2VvUUtweGd1aXJpSVBIWXZ3ZWxHcGV3Rm1zRU1mLUVKNFBEM3ZzNFN2YVAzUmo4WUxJYmt0YTJENTNScHI0eTVMbkdMcjgwTkVlbF9JVlVLeXp4cWRORjRHZV83QnBaMl96NjZkVUs0YXdkNlhQVE4wekUzVGZRT0N1cUtnbkRBNEVEbDE4ZlUtYVZGSlV1RlJkdmJXSzJNN1NIZXdkQ21mVmdjWm0teVlxekpqZ2RqYnFfeU9zTTREXzItS1I0Z0dhellz?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "Livemint",
-      "published_utc": "2026-10-29T16:52:44+00:00",
-      "published_ist": "29 Oct 2026, 10:22 PM IST",
-      "published_timestamp": 1793292764.0,
-      "description": "Sarvam-led funding surge takes India’s Indic AI investments to $687 mn Livemint",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7834,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.99,
-        "recency": 0.656,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india",
-        "indic",
-        "sarvam"
-      ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.99 (india, indic, sarvam) | Cred: 0.85 | Recency: 0.656",
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.794",
       "rank": 5,
-      "explanation": "Sarvam-led funding surge takes India’s Indic AI investments.",
+      "explanation": "Indian AI companies showcase homegrown.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 1240,
-    "total_after_lookback": 1002,
-    "canonical_events_count": 852,
-    "eligible_events_count": 852,
+    "total_raw_fetched": 978,
+    "total_after_lookback": 718,
+    "canonical_events_count": 693,
+    "eligible_events_count": 693,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
@@ -304,11 +302,9 @@
       {
         "canonical_headline": "SocialArena: Evaluating Social Intelligence in Large Language Models",
         "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 3,
+        "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Zhanzhan Zhao, Yi Yang, Xiao Jia, Zeyun Dong, Chenzhang Wang",
-          "Malvina Nikandrou, Georgios Pantazopoulos, Ioannis Konstas, Alessandro Suglia",
-          "Gianluca Barmina, Federico Torrielli, Sven Harms, Jacob Nielsen, Flavia Filesi, Felix M\\\"achtle, Stine Lyngs{\\o} Beltoft, Peter Schneider-Kamp, Thomas Eisenbarth, Lukas Galke Poech, Anne Lauscher"
+          "Zhanzhan Zhao, Yi Yang, Xiao Jia, Zeyun Dong, Chenzhang Wang"
         ]
       },
       {
@@ -317,14 +313,6 @@
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "Hehai Lin, Qi Yang, Chengwei Qin"
-        ]
-      },
-      {
-        "canonical_headline": "On-Policy Self-Distillation with Teacher Evolution",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Yifu Luo, Chuang Ma, Zeyu Chen, Enkelejda Kasneci, Qi Chen, Gjergji Kasneci"
         ]
       },
       {
@@ -341,14 +329,6 @@
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "Yujia Chen, Yang Ye, Xiao Chu, Yuchi Ma, Cuiyun Gao"
-        ]
-      },
-      {
-        "canonical_headline": "Cord: Confidence-Anchored Order Residual Decoding for Masked Diffusion Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Yan Tai, Yunan Ding, Guangzhao Li, Siqi Luo, Chaoyang Zhang, Guangtao Zhai, Guodong Guo, Xiaohong Liu"
         ]
       },
       {
@@ -376,69 +356,67 @@
         ]
       },
       {
-        "canonical_headline": "Joint Latent Reasoning and Observation for Agentic Video Understanding",
-        "source": "arXiv Computer Science & AI",
+        "canonical_headline": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+        "source": "TechCrunch AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Nishtha Agarwal, Adam Visokay, Astha Wahi, Kwabena Owusu Aninkora, Amy Gu, Tyler McCormick, Li Liu"
+          "TechCrunch Events"
         ]
       },
       {
-        "canonical_headline": "TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering",
-        "source": "arXiv Computation and Language",
+        "canonical_headline": "India ranks second globally in AI-powered shopping, 76% consumers use AI tools: McKinsey",
+        "source": "Livemint AI & Technology",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Haikun Liu, Zhichao Yan, Shaoru Guo, Jiawei Gu, Victor Gutierrez Basulto, Jiapu Wang, Ru Li"
+          "ET CIO"
         ]
       },
       {
-        "canonical_headline": "Nvidia's web of AI bets: Smart strategy or bubble risk? - electronics.economictimes.indiatimes.com",
-        "source": "Google News: India Semiconductor Chips",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "The Hindu - Technology"
-        ]
-      },
-      {
-        "canonical_headline": "NVIDIA Launches Open-Weight Transcription Model for 40 Languages",
-        "source": "Analytics India Magazine",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Kileuna Haralu"
-        ]
-      },
-      {
-        "canonical_headline": "Venttup Raises $3 Million To Expand Precision Manufacturing",
-        "source": "Analytics India Magazine",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Shrishti Bisht"
-        ]
-      },
-      {
-        "canonical_headline": "Pine Labs Q2 Profit Jumps Over 6X YoY To ₹38.6 Cr, Revenue Rises 24%",
-        "source": "Inc42 Indian Startups & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Palak Sharma",
-          "Team Inc42"
-        ]
-      },
-      {
-        "canonical_headline": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29 - Greater Kashmir",
+        "canonical_headline": "India proposes framework to unlock data for AI training, protect privacy - Business Standard",
         "source": "Google News: India Artificial Intelligence",
         "duplicates_merged_count": 2,
         "corroborating_publishers": [
-          "DD News",
-          "Deccan Chronicle"
+          "ET Datacenters",
+          "Gaurav Bagur"
         ]
       },
       {
-        "canonical_headline": "Samsung logs record quarterly profits despite investor AI jitters - electronics.economictimes.indiatimes.com",
-        "source": "Google News: India Semiconductor Chips",
-        "duplicates_merged_count": 2,
+        "canonical_headline": "PB Fintech Q2 Profit Jumps 42% YoY To ₹192 Cr, Revenue Up 35%",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "electronics.economictimes.indiatimes.com",
+          "Gaurav Bagur"
+        ]
+      },
+      {
+        "canonical_headline": "Data Security Council unveils India-specific agentic AI liability guide - Business Standard",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "ET Datacenters"
+        ]
+      },
+      {
+        "canonical_headline": "TRAI proposes draft AI rules for telecom operators, sets November 27 deadline - Zee Business",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Tribune"
+        ]
+      },
+      {
+        "canonical_headline": "Odisha plans over $4 billion semiconductor, AI data centre projects - ET Datacenters",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "boldnewsonline.com"
+        ]
+      },
+      {
+        "canonical_headline": "Tokyo Electron sees robust profit growth amid jitters over AI returns - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
           "electronics.economictimes.indiatimes.com"
         ]
       }
