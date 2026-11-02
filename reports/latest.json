@@ -2,69 +2,27 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-11-01",
-  "generated_at_ist": "01 Nov 2026, 01:18 PM IST",
+  "report_date": "2026-11-02",
+  "generated_at_ist": "02 Nov 2026, 01:25 PM IST",
   "story_count": 5,
-  "briefing_word_count": 64,
+  "briefing_word_count": 61,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "The Bengaluru Founder Building a",
-      "raw_headline": "The Bengaluru Founder Building a Bridge to San Francisco",
-      "url": "https://analyticsindiamag.com/ai-startups/the-bengaluru-founder-building-a-bridge-to-san-francisco",
-      "source": "Analytics India Magazine",
-      "publisher": "Supreeth Koundinya",
-      "published_utc": "2026-11-01T06:23:32+00:00",
-      "published_ist": "01 Nov 2026, 11:53 AM IST",
-      "published_timestamp": 1793514212.0,
-      "description": "Indian engineers found that replicating San Francisco’s model wasn’t enough to scale. Success required a deeper understanding of user behaviour and engagement,",
-      "tier": "tier_3_coverage",
-      "category": "India AI & Analytics",
-      "is_india_focused": true,
-      "raw_feed_url": "https://analyticsindiamag.com/feed/",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Industry Coverage",
-      "credibility_score": 0.7,
-      "evidence_strength_score": 0.65,
-      "is_eligible": true,
-      "verification_rationale": "Reported by specialized industry media.",
-      "scores": {
-        "composite": 0.7615,
-        "credibility": 0.7,
-        "evidence_strength": 0.65,
-        "india_relevance": 0.99,
-        "recency": 0.96,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "indian",
-        "india",
-        "bengaluru"
-      ],
-      "ranking_rationale": "Composite: 0.76 | India Rel: 0.99 (indian, india, bengaluru) | Cred: 0.7 | Recency: 0.96",
-      "rank": 1,
-      "explanation": "Indian engineers found that replicating San Francisco’s model.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Festive spending drives record UPI",
-      "raw_headline": "Festive spending drives record UPI transactions in October",
-      "url": "https://economictimes.indiatimes.com/tech/technology/festive-spending-drives-record-upi-transactions-in-october/articleshow/135420426.cms",
-      "source": "Economic Times Tech & AI",
-      "publisher": "Economic Times Tech & AI",
-      "published_utc": "2026-11-01T07:08:40+00:00",
-      "published_ist": "01 Nov 2026, 12:38 PM IST",
-      "published_timestamp": 1793516920.0,
-      "description": "Festive spending pushed UPI transactions to a record 25.47 billion in October, up 23% year-on-year, while transaction value rose 16% to a record ₹31.53 lakh crore, according to NPCI data. Average daily transaction value crossed ₹1 lakh crore for the first time, driven by festive shopping, dining and online sales.",
+      "headline": "Hyderabad startup developing personalised cancer",
+      "raw_headline": "Hyderabad startup developing personalised cancer vaccine - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDlfZDVBUzVoYXVlaXdiZFJHMWg0OXdzWjRieU9wNkZoUzZaM0djWV9PSkpsZWFod2ExNGRocVUtRnFSMVRLeGNnbVdrcUpaWDZ6VkxWbVY5ZDIzZTdrbml6R3p1VGlVWTFLXzdlNHJuZHlyVGhWZnVUNXp5bWpQcnhDQ0RZWkcwZUlscEduTFhyb0tTLWMybmE1QXdkX05fRTRQN1d5WTlGVU9zV2VjLTdtTHpDWVJPS3c?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The New Indian Express",
+      "published_utc": "2026-11-02T02:49:08+00:00",
+      "published_ist": "02 Nov 2026, 08:19 AM IST",
+      "published_timestamp": 1793587748.0,
+      "description": "Hyderabad startup developing personalised cancer vaccine The New Indian Express",
       "tier": "tier_2_reputable",
-      "category": "India Tech & Business",
+      "category": "India AI Developments",
       "is_india_focused": true,
-      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
       "corroborating_sources": [],
       "corroboration_count": 0,
       "cluster_size": 1,
@@ -72,76 +30,119 @@
       "credibility_score": 0.85,
       "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7422,
+        "composite": 0.8145,
         "credibility": 0.85,
         "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.981,
+        "india_relevance": 0.99,
+        "recency": 0.863,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "upi"
+        "hyderabad",
+        "india",
+        "indian"
       ],
-      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (upi) | Cred: 0.85 | Recency: 0.981",
-      "rank": 2,
-      "explanation": "Festive spending pushed UPI transactions to a record.",
+      "ranking_rationale": "Composite: 0.81 | India Rel: 0.99 (hyderabad, india, indian) | Cred: 0.85 | Recency: 0.863",
+      "rank": 1,
+      "explanation": "Hyderabad startup developing personalised cancer vaccine The New.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Netflix Flips Its India Script",
-      "raw_headline": "Netflix Flips Its India Script",
-      "url": "https://inc42.com/features/netflix-flips-its-india-script",
-      "source": "Inc42 Indian Startups & AI",
-      "publisher": "Gargi Sarkar",
-      "published_utc": "2026-11-01T05:30:55+00:00",
-      "published_ist": "01 Nov 2026, 11:00 AM IST",
-      "published_timestamp": 1793511055.0,
-      "description": "What if Netflix’s next big hit in India is not an expensive scripted original, but a reality show with a…",
-      "tier": "tier_3_coverage",
-      "category": "Indian Startups & AI",
+      "headline": "Indian AI, data startups emerge",
+      "raw_headline": "Indian AI, data startups emerge as key M&A targets for US, European tech firms - The Sentinel - of this Land, for its People",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYTQ3XzBla3JMakFyV3g0bkNLZkU2RGZlajVHdGlLdldxNkZDZVBkVWdYU0ZmcnhJNHRqWW1iZ3A1R2JHZkh6d1B4eTd1YmM5ZnZOcFQtOHpmOXZaUjdFZllYdElPTXptTi1XdFdDcUlIQ0hWNGhRd1N1M1dUMkd1VGRGTTRlQjNFcTZkTURXQV9teHVJR2RoZ2lwUG9pMmhleWNraENsYUdnZF9rTVAyY2R3R0dfaGxDMEZZNGNzMFVkUdIBzwFBVV95cUxPRlY4VnJHYTdFZTJDbm81dWxsZWRvSHhTOHZTVk43RmRlSVRBcERrdExXcDhCZ091Z3JfSUdSQ0NwRHJ4M0ItQjdqYnFSeXluOXZfNWdBeHJLYlZBTVAyNmdjT0YteTJJaHBUOFlIdFlScWV0WjZRZ0cwSnJ5UUVuckNHdzI2cERyZWdBb28xa2hPVjhjcVhCcjVqb1MwMUpNWmt2NlcwWkRVbEtxTUhOWDVnYTFwZTJINWVPMk9jQ1EwSXR1clBNNmhwZ1pZdGM?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The Sentinel - of this Land, for its People",
+      "published_utc": "2026-11-02T06:28:25+00:00",
+      "published_ist": "02 Nov 2026, 11:58 AM IST",
+      "published_timestamp": 1793600905.0,
+      "description": "Indian AI, data startups emerge as key M&A targets for US, European tech firms The Sentinel - of this Land, for its People",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
       "is_india_focused": true,
-      "raw_feed_url": "https://inc42.com/feed/",
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
       "corroborating_sources": [],
       "corroboration_count": 0,
       "cluster_size": 1,
-      "verification_status": "Industry Coverage",
-      "credibility_score": 0.7,
-      "evidence_strength_score": 0.65,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Reported by specialized industry media.",
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7129,
-        "credibility": 0.7,
-        "evidence_strength": 0.65,
+        "composite": 0.7839,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.936,
+        "recency": 0.959,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "indian",
-        "india"
+        "india",
+        "indian"
       ],
-      "ranking_rationale": "Composite: 0.71 | India Rel: 0.81 (indian, india) | Cred: 0.7 | Recency: 0.936",
-      "rank": 3,
-      "explanation": "What if Netflix’s next big hit in India.",
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.959",
+      "rank": 2,
+      "explanation": "Indian AI, data startups emerge.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "CapGrid Secures ₹50 Cr Funding",
-      "raw_headline": "CapGrid Secures ₹50 Cr Funding To Deepen Its Manufacturing Play",
-      "url": "https://inc42.com/buzz/capgrid-secures-%e2%82%b950-cr-funding-to-deepen-its-manufacturing-play",
+      "headline": "How a new standard could",
+      "raw_headline": "How a new standard could make it easier for publishers to opt out of AI training - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcWJaT1Z4dGY2aEx6WkZLcWVEM3BLeFR1eUlRS1RNR0ZjeUFDUjRFNE1RVVBuY3pyMGloRFNGb2dXVERHWVBqOTFJNzB3U1VNWm1tRUpiTUtNVFdxLV9BZ2dRdl9pTC1HdHduWXEtckFRODRsMThndkdyTTU5b2h6elpIZ3ozMkZ5c1k5X2dQT0VYZnI3MHBOZ3cwU1NJVkRrdzNPODdhMWhNeHR3TU81NTctRW44XzhiUERaSXNHVdIBxgFBVV95cUxQcmlpZjVwR01kRm1fZ3JRSGJySk1ZSS1CdWNsQUcweElfSjdEQTI1STNmRWpLYTNkUHd0SXpnN2o2akhBWjZzaGtiaUhkakhqN0JkNE9pVGVRWmVNa0NjZktxV2pKd0pZQ0xMQXVGbkx1c1BMWnhSN3BlQTdwaVVWeGx2Qk9rbmpoTE5aWG5uZ3hvSEMwbEJCNFh4X28teTAwWVFXWkhHUkRnNlhITmlxU3hybHpIOHRBTGU1VS1sZEcxWVBTQ0E?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The Indian Express",
+      "published_utc": "2026-11-02T03:33:00+00:00",
+      "published_ist": "02 Nov 2026, 09:03 AM IST",
+      "published_timestamp": 1793590380.0,
+      "description": "How a new standard could make it easier for publishers to opt out of AI training The Indian Express",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7722,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.881,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.881",
+      "rank": 3,
+      "explanation": "How a new standard could.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Delhivery Shares Jump Nearly 10%",
+      "raw_headline": "Delhivery Shares Jump Nearly 10% After Q2 Swing To ₹41 Cr Profit",
+      "url": "https://inc42.com/buzz/delhivery-shares-jump-nearly-10-after-q2-swing-to-%e2%82%b941-cr-profit",
       "source": "Inc42 Indian Startups & AI",
       "publisher": "Shrishti Bisht",
-      "published_utc": "2026-10-31T13:46:37+00:00",
-      "published_ist": "31 Oct 2026, 07:16 PM IST",
-      "published_timestamp": 1793454397.0,
-      "description": "Delhi NCR-based B2B manufacturing startup CapGrid has raised ₹50 Cr (about $5.2 Mn) in a Pre-Series B round to develop…",
+      "published_utc": "2026-11-02T07:28:10+00:00",
+      "published_ist": "02 Nov 2026, 12:58 PM IST",
+      "published_timestamp": 1793604490.0,
+      "description": "Shares of Delhivery jumped 9.7% to an intraday high of ₹423.35 on the BSE after the logistics company reported a…",
       "tier": "tier_3_coverage",
       "category": "Indian Startups & AI",
       "is_india_focused": true,
@@ -155,35 +156,35 @@
       "is_eligible": true,
       "verification_rationale": "Reported by specialized industry media.",
       "scores": {
-        "composite": 0.7066,
+        "composite": 0.7656,
         "credibility": 0.7,
         "evidence_strength": 0.65,
         "india_relevance": 0.99,
-        "recency": 0.594,
+        "recency": 0.987,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
         "delhi",
-        "indian",
-        "india"
+        "india",
+        "indian"
       ],
-      "ranking_rationale": "Composite: 0.71 | India Rel: 0.99 (delhi, indian, india) | Cred: 0.7 | Recency: 0.594",
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.99 (delhi, india, indian) | Cred: 0.7 | Recency: 0.987",
       "rank": 4,
-      "explanation": "Delhi NCR-based B2B manufacturing startup CapGrid has raised.",
+      "explanation": "Shares of Delhivery jumped 9.7% to an.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Exclusive: D2C Skincare Brand Numour",
-      "raw_headline": "Exclusive: D2C Skincare Brand Numour In Talks To Raise $3.1 Mn From Sharrp Ventures",
-      "url": "https://inc42.com/buzz/numour-in-talks-to-raise-3-1-mn-from-sharrp-ventures",
+      "headline": "UPI Transactions Rise 5.8% MoM",
+      "raw_headline": "UPI Transactions Rise 5.8% MoM To Record 25.47 Bn In October",
+      "url": "https://inc42.com/buzz/upi-transactions-rise-5-8-mom-to-record-25-47-bn-in-october",
       "source": "Inc42 Indian Startups & AI",
-      "publisher": "Debarghya Sil",
-      "published_utc": "2026-10-31T08:52:47+00:00",
-      "published_ist": "31 Oct 2026, 02:22 PM IST",
-      "published_timestamp": 1793436767.0,
-      "description": "Delhi NCR-based D2C skincare brand Numour is in talks to raise nearly $3.1 Mn (about ₹30 Cr) in a funding…",
+      "publisher": "Anjali Jain",
+      "published_utc": "2026-11-02T06:41:31+00:00",
+      "published_ist": "02 Nov 2026, 12:11 PM IST",
+      "published_timestamp": 1793601691.0,
+      "description": "UPI transaction volume rose 5.8% MoM to a record 25.47 Bn in October from 24.07 Bn in September, according to…",
       "tier": "tier_3_coverage",
       "category": "Indian Startups & AI",
       "is_india_focused": true,
@@ -197,33 +198,90 @@
       "is_eligible": true,
       "verification_rationale": "Reported by specialized industry media.",
       "scores": {
-        "composite": 0.6949,
+        "composite": 0.7622,
         "credibility": 0.7,
         "evidence_strength": 0.65,
         "india_relevance": 0.99,
-        "recency": 0.516,
+        "recency": 0.965,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "delhi",
-        "indian",
-        "india"
+        "upi",
+        "india",
+        "indian"
       ],
-      "ranking_rationale": "Composite: 0.69 | India Rel: 0.99 (delhi, indian, india) | Cred: 0.7 | Recency: 0.516",
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.99 (upi, india, indian) | Cred: 0.7 | Recency: 0.965",
       "rank": 5,
-      "explanation": "Delhi NCR-based D2C skincare brand.",
+      "explanation": "UPI transaction volume rose 5.8% MoM to a.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 259,
-    "total_after_lookback": 36,
-    "canonical_events_count": 36,
-    "eligible_events_count": 36,
+    "total_raw_fetched": 769,
+    "total_after_lookback": 496,
+    "canonical_events_count": 435,
+    "eligible_events_count": 435,
     "rejected_events_count": 0,
-    "duplicate_groups": [],
+    "duplicate_groups": [
+      {
+        "canonical_headline": "The psychophysics of affect in large language models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Chanhyuk Lee, Wonjung Kim, Patrick Pynadath, Jaehoon Yoo, Satoshi Hayakawa, Ruqi Zhang, Jinwoo Kim, Seunghoon Hong"
+        ]
+      },
+      {
+        "canonical_headline": "The Generative Gap Between Speculative Drafter and Continuous Diffusion Language Model",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Guangfu Guo, Xiaoqian Lu, Linsey Pang, Weiran Yao, Haolin Chen, Long Cheng, Kunpeng Liu"
+        ]
+      },
+      {
+        "canonical_headline": "GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Tobias Holtdirk, Georg Ahnert, Joseph W Sakshaug, Anna-Carolina Haensch"
+        ]
+      },
+      {
+        "canonical_headline": "Terminal-RSI: Recursive Self-Improving Terminal Agents via Recursive Self-Rewrite and Policy-Refine",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yikun Zhang, Xiwei Cheng, Mingze Yuan, Yu Zhang, Brian Shim, Aarti Krishnan, Daniel Rosen, Kunyang Sun, Yingze Wang, Zhenfeng Deng, Botao Yu, Bingxu Liu, David Liu, Tianyu Liu, Yuanqi Du, Nir Hacohen, James J. Collins, Wengong Jin"
+        ]
+      },
+      {
+        "canonical_headline": "Millennials lead AI shopping adoption in India at 84%, ahead of Gen Z: McKinsey",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Mid-Day"
+        ]
+      },
+      {
+        "canonical_headline": "PSUs are back—but they should exercise caution when implementing artificial intelligence",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "TradingView"
+        ]
+      },
+      {
+        "canonical_headline": "Samsung chief visits Japanese unit, discusses chip packaging: Report - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      }
+    ],
     "rejected_stories": [],
     "feed_errors": []
   }
