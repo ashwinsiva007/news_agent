@@ -1,0 +1,343 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-05",
+  "generated_at_ist": "05 Nov 2026, 01:39 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 54,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "SEBI Partners with BHASHINI to",
+      "raw_headline": "SEBI Partners with BHASHINI to Expand Investor Education and Financial Information in Indian Languages - www.nationpathindia.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1lmdzZJSktpTHJfNUVZTkRIWUVrT2hJaUxmV29Fdk43YVM4WlR4cGhYTl9BRTZ4dG12RC0wdEQyTU5xQ2lMWVo3bDlZeFRBelpTOThydml2RmozalE3ZE1lTHo3MmtLRlpHaEo0V2QyNHZhY2lkb2ttTlpoenlsdVNRTEV2MDNTRXR1VUVVYUU1Z0JfWFZnSVF1NkhuUQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "www.nationpathindia.com",
+      "published_utc": "2026-11-04T20:17:45+00:00",
+      "published_ist": "05 Nov 2026, 01:47 AM IST",
+      "published_timestamp": 1793823465.0,
+      "description": "SEBI Partners with BHASHINI to Expand Investor Education and Financial Information in Indian Languages www.nationpathindia.com",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7915,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.71,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian",
+        "bhashini"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.99 (india, indian, bhashini) | Cred: 0.85 | Recency: 0.71",
+      "rank": 1,
+      "explanation": "SEBI Partners with BHASHINI to.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "MeitY Releases Two More Indigenous",
+      "raw_headline": "MeitY Releases Two More Indigenous AI Models Under IndiaAI Mission: What Are Their Features? - Convergence Now",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU3U3NDdVNi0zNU1pTTMxWmc2dTVkZWZMRHU3SzlrZmtaSFY0cFFPNnIzWVRzcHhVRUU4OVhUMmFaNy15R1k2OWpDV1J4aDBqN0luWUN4RTJ0azlKZVVieFZER3IxRjFZMElBNHFvRmFVRFd2eFB4cUNLMS1tdHFKR1pDa2tqamdBbGN6dzlWcm5nbVAtOW4zRWZ2MjJWYTZCQTlMVlVvUUtMS2Z0Qkw3Z0NuRzJ3QUl4XzFpaksyTkVCYjJRWWRrMEVuV0ZmR3I2TkdFdkV1dVRsR01NOHlSNw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Convergence Now",
+      "published_utc": "2026-11-04T15:44:05+00:00",
+      "published_ist": "04 Nov 2026, 09:14 PM IST",
+      "published_timestamp": 1793807045.0,
+      "description": "MeitY Releases Two More Indigenous AI Models Under IndiaAI Mission: What Are Their Features? Convergence Now",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7808,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 1.0,
+        "recency": 0.622,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "ai mission",
+        "india",
+        "meity",
+        "indiaai"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 1.0 (ai mission, india, meity, indiaai) | Cred: 0.85 | Recency: 0.622",
+      "rank": 2,
+      "explanation": "MeitY Releases Two More Indigenous.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "'The real test is taking",
+      "raw_headline": "‘The real test is taking Indian silicon to global markets’: Sasken Technologies’ Rajiv C Mody - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU2VSMTlfQVgwclBENzVMdU5FMmo3OEFyUURSR2NFWGhBYkZmQ0xYc2wwdUdjeHgtTXpZLXpoemJSVkZTTEJpOWZUSjltTzNOcXByX2k0elBVMHRHcWYwczlOckRNTjl0anNSLTY4cmNTVG4zZFZlVi0tZzhmSFA4YlQ2TjBPcTR0clF2RFF1bndvRnJ5eXdfMEpQZnN0MVFYQkYzd25TY0FQd0tqclhiM0JPdmY4dDkwVVMtdHpnNGFlQ3ZJVWtPTWFPNmpxVHd6UEFmTm1kTDFZYWJuUXlTakZ5MNIB6gFBVV95cUxOdTAzNmNmbHZhaUVDUWd5Y2I1MTZNbFdUcm5pSnZfdDBYR1RXU09kc3A2Wm1pMUJ6UWM2Vm9UZ0g4ZkJQaWhiY3ZxUWtfbGE5Y1hlWjVZTHVlSDhfZVVpRWZDYllJX25GaDc1WjhGWHB6LUpRVFRoUkFNa3FkTkZ6MVNZNzUwMW9OcDdSTlVNTGxhMXg2NDVxdV9BaklxSjl4cWp5aUNVRGFNdnkyM3hqcldkV0UxbURBTUVjT0tvd3lDSjhyaV9CdXZ0SlZKRUpHQVlySjhMX0Y3OWNFeEVReVJubVdHR2ZkRUE?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "The Financial Express",
+      "published_utc": "2026-11-04T17:50:06+00:00",
+      "published_ist": "04 Nov 2026, 11:20 PM IST",
+      "published_timestamp": 1793814606.0,
+      "description": "‘The real test is taking Indian silicon to global markets’: Sasken Technologies’ Rajiv C Mody The Financial Express",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7474,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.661,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.661",
+      "rank": 3,
+      "explanation": "‘The real test is taking.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Chipmaker YMTC's IPO on hold",
+      "raw_headline": "Chipmaker YMTC's IPO on hold as China tightens share sale approvals - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGdJcWRsMGFxbkM4ckFHVVo5NTFtN0hFMEQzbEJyTTkzVzVrb0t2RnZ5RlZ6cEIzU3ItNWxTT3hzTkk2ZXktYkMxcGlMWnNYWk1WVktHT3VMMkZndmp4ZEw3aXYwMzN5MTJsUDdZUGxGOXBseXc2Zk1QUFZ5VEFaaU55SHZzZ3RUNkdRcjZPX3B6dHB1czFTeFJxajVBTTBZVndiYmNzZXE2QlhCX2djSEVUOUQ3cE1wcG0tYVFUU29IemZ1UURQWDZlTmdCUjVlMlZaX1dqY1ZiT2Vnd1HSAeIBQVVfeXFMTWxYZWVoNUlraDE5VURkeTdDTkpXUlF5NVg3dE5kd204UUg2VGoyUVI1NEZad2NQdVpzNTNUN3U2M2ctb2trNHhLZVdsX1JCM0JQQkZEZDk4bXVTR3V5dnJSTTkyZzFkcFZSYlZXSlJObGtqalUxc3oxdjZqRno0ZzA1X3VjQ0k2cl9CUEVMbW1lLWRSTkg4Y1kxQnk3cXJwY1ZaX3VoUDE5N0VDVTJ6RnNQLW1WUVVKZ1pJMVVNbU0xUjVUQk94WGZrWEV3Y05GcWNEY1FvN2ZUM0lTUFJET0lNZw?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "electronics.economictimes.indiatimes.com",
+      "published_utc": "2026-11-05T06:28:57+00:00",
+      "published_ist": "05 Nov 2026, 11:58 AM IST",
+      "published_timestamp": 1793860137.0,
+      "description": "Chipmaker YMTC's IPO on hold as China tightens share sale approvals electronics.economictimes.indiatimes.com",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7462,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.953,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.953",
+      "rank": 4,
+      "explanation": "Chipmaker YMTC's IPO on hold as.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI to reshape India's office",
+      "raw_headline": "AI to reshape India's office space demand, workforce seen at 48 million by 2030: Report",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-to-reshape-indias-office-space-demand-workforce-seen-at-48-million-by-2030-report/articleshow/135564234.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-11-05T07:39:35+00:00",
+      "published_ist": "05 Nov 2026, 01:09 PM IST",
+      "published_timestamp": 1793864375.0,
+      "description": "AI is expected to change the nature of India's office space demand rather than reduce it, with the country's office-using workforce projected to grow from around 38 million in 2025 to 48 million by 2030, according to a study by Cushman & Wakefield.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "scores": {
+        "composite": 0.7429,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.986,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.986",
+      "rank": 5,
+      "explanation": "AI is expected to change.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 842,
+    "total_after_lookback": 645,
+    "canonical_events_count": 574,
+    "eligible_events_count": 574,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Qizhi Chu, Zekai Yu, Sijie Wen, Yang Liu, Chen Qian, Cheng Yang, Chuan Shi, Zhiyuan Liu",
+          "Shu Zhou, Ziyang He, Yuxin Rao, Yudong Fang, Jiali Qian, Dongyuan Chen, Juntao Zhang, Yong Hu"
+        ]
+      },
+      {
+        "canonical_headline": "ServerBench: How can your coding agents design specialized LLM serving systems?",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Xinrui Zhong, Zhifeng Li, Zhiming Wang, Yongqi Liu, Shanglin Yang, Yang Zhou, Zikun Li, Zhuoming Chen, Beidi Chen"
+        ]
+      },
+      {
+        "canonical_headline": "Learning to Incentivize Perfect-Knowledge Agents with Unobserved Rewards",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ilgin Dogan, Zuo-Jun Max Shen, Anil Aswani"
+        ]
+      },
+      {
+        "canonical_headline": "Token Time Continuous Diffusion for Language Modeling",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jiajun Liang, Yucheng Liao, Yukang Cao, Jiazhe Wei, Ken Li, Wende Tan, Jiankun Zhang, ZY Cui, Jingkang Yang, Liucheng Guo, Shiqi Yang, B. Yang, Caifeng Shan, Ziwei Liu, Chenyang Si"
+        ]
+      },
+      {
+        "canonical_headline": "SRRM: A Retrieval-Reconstruction Benchmark for Evaluating Long-Context Memory in Small Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jarrod Ragsdale, Rajendra Boppana"
+        ]
+      },
+      {
+        "canonical_headline": "Sparse Reward Subsystem in Large Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shu Yang, Shenzhe Zhu, Hao Zhu, Jos\\'e Ram\\'on Enr\\'iquez, Di Wang, Alex Pentland, Michiel A. Bakker, Jiaxin Pei"
+        ]
+      },
+      {
+        "canonical_headline": "Building on open source AI? Hugging Face's policy chief on the costs, risks, and trade-offs",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Theresa Loconsolo"
+        ]
+      },
+      {
+        "canonical_headline": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Greg Brockman says",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "India cybercrime agency warns financial firms on AI attacks",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "AMD forecasts quarterly revenue above estimates as data-center growth accelerates",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Economic Times Tech & AI"
+        ]
+      },
+      {
+        "canonical_headline": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      },
+      {
+        "canonical_headline": "MapmyIndia Q2: Profit Rises 90% YoY To ₹35 Cr, Revenue Up 16%",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Anne Florentyna"
+        ]
+      },
+      {
+        "canonical_headline": "Lenskart Q2 Profit Jumps 125% YoY To ₹233 Cr, Revenue Rises 36%",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shrishti Bisht"
+        ]
+      },
+      {
+        "canonical_headline": "IndiaAI Mission Releases Foundation Models - https://www.fintechbiznews.com/",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "www.nationpathindia.com"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
