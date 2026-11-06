@@ -2,23 +2,23 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-11-05",
-  "generated_at_ist": "05 Nov 2026, 01:39 PM IST",
+  "report_date": "2026-11-06",
+  "generated_at_ist": "06 Nov 2026, 01:43 PM IST",
   "story_count": 5,
-  "briefing_word_count": 54,
+  "briefing_word_count": 53,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "SEBI Partners with BHASHINI to",
-      "raw_headline": "SEBI Partners with BHASHINI to Expand Investor Education and Financial Information in Indian Languages - www.nationpathindia.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1lmdzZJSktpTHJfNUVZTkRIWUVrT2hJaUxmV29Fdk43YVM4WlR4cGhYTl9BRTZ4dG12RC0wdEQyTU5xQ2lMWVo3bDlZeFRBelpTOThydml2RmozalE3ZE1lTHo3MmtLRlpHaEo0V2QyNHZhY2lkb2ttTlpoenlsdVNRTEV2MDNTRXR1VUVVYUU1Z0JfWFZnSVF1NkhuUQ?oc=5",
+      "headline": "Indian Stocks Gain Haven Appeal",
+      "raw_headline": "Indian Stocks Gain Haven Appeal as Investors Flee AI Trade - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjhVWjg5bW1COFV1bHpsSHMtQ3FJVl83Nm02cHBQNUJEX1JVZ3JxYTVoMmJ1Uk5DazhWOEJYWkNjTzBCX3pLbXkwNmpKQWczNnZySFRYcUkwZ25NUksxUW9odkdRUVQ5Uk5xVW4zTXQ5YWVETzNrdmwyS1h1SXNwaFBydmN1VXJLUC1RWktSeDVLMW5COE0wX2RBbE5GcHZlVUYtRGNVcnA2V1NmQlE?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "www.nationpathindia.com",
-      "published_utc": "2026-11-04T20:17:45+00:00",
-      "published_ist": "05 Nov 2026, 01:47 AM IST",
-      "published_timestamp": 1793823465.0,
-      "description": "SEBI Partners with BHASHINI to Expand Investor Education and Financial Information in Indian Languages www.nationpathindia.com",
+      "publisher": "Bloomberg.com",
+      "published_utc": "2026-11-06T05:00:00+00:00",
+      "published_ist": "06 Nov 2026, 10:30 AM IST",
+      "published_timestamp": 1793941200.0,
+      "description": "Indian Stocks Gain Haven Appeal as Investors Flee AI Trade Bloomberg.com",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -32,119 +32,117 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7915,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.99,
-        "recency": 0.71,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india",
-        "indian",
-        "bhashini"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.99 (india, indian, bhashini) | Cred: 0.85 | Recency: 0.71",
-      "rank": 1,
-      "explanation": "SEBI Partners with BHASHINI to.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "MeitY Releases Two More Indigenous",
-      "raw_headline": "MeitY Releases Two More Indigenous AI Models Under IndiaAI Mission: What Are Their Features? - Convergence Now",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU3U3NDdVNi0zNU1pTTMxWmc2dTVkZWZMRHU3SzlrZmtaSFY0cFFPNnIzWVRzcHhVRUU4OVhUMmFaNy15R1k2OWpDV1J4aDBqN0luWUN4RTJ0azlKZVVieFZER3IxRjFZMElBNHFvRmFVRFd2eFB4cUNLMS1tdHFKR1pDa2tqamdBbGN6dzlWcm5nbVAtOW4zRWZ2MjJWYTZCQTlMVlVvUUtMS2Z0Qkw3Z0NuRzJ3QUl4XzFpaksyTkVCYjJRWWRrMEVuV0ZmR3I2TkdFdkV1dVRsR01NOHlSNw?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "Convergence Now",
-      "published_utc": "2026-11-04T15:44:05+00:00",
-      "published_ist": "04 Nov 2026, 09:14 PM IST",
-      "published_timestamp": 1793807045.0,
-      "description": "MeitY Releases Two More Indigenous AI Models Under IndiaAI Mission: What Are Their Features? Convergence Now",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7808,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 1.0,
-        "recency": 0.622,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.55
-      },
-      "matched_india_keywords": [
-        "ai mission",
-        "india",
-        "meity",
-        "indiaai"
-      ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 1.0 (ai mission, india, meity, indiaai) | Cred: 0.85 | Recency: 0.622",
-      "rank": 2,
-      "explanation": "MeitY Releases Two More Indigenous.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "'The real test is taking",
-      "raw_headline": "‘The real test is taking Indian silicon to global markets’: Sasken Technologies’ Rajiv C Mody - The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU2VSMTlfQVgwclBENzVMdU5FMmo3OEFyUURSR2NFWGhBYkZmQ0xYc2wwdUdjeHgtTXpZLXpoemJSVkZTTEJpOWZUSjltTzNOcXByX2k0elBVMHRHcWYwczlOckRNTjl0anNSLTY4cmNTVG4zZFZlVi0tZzhmSFA4YlQ2TjBPcTR0clF2RFF1bndvRnJ5eXdfMEpQZnN0MVFYQkYzd25TY0FQd0tqclhiM0JPdmY4dDkwVVMtdHpnNGFlQ3ZJVWtPTWFPNmpxVHd6UEFmTm1kTDFZYWJuUXlTakZ5MNIB6gFBVV95cUxOdTAzNmNmbHZhaUVDUWd5Y2I1MTZNbFdUcm5pSnZfdDBYR1RXU09kc3A2Wm1pMUJ6UWM2Vm9UZ0g4ZkJQaWhiY3ZxUWtfbGE5Y1hlWjVZTHVlSDhfZVVpRWZDYllJX25GaDc1WjhGWHB6LUpRVFRoUkFNa3FkTkZ6MVNZNzUwMW9OcDdSTlVNTGxhMXg2NDVxdV9BaklxSjl4cWp5aUNVRGFNdnkyM3hqcldkV0UxbURBTUVjT0tvd3lDSjhyaV9CdXZ0SlZKRUpHQVlySjhMX0Y3OWNFeEVReVJubVdHR2ZkRUE?oc=5",
-      "source": "Google News: India Semiconductor Chips",
-      "publisher": "The Financial Express",
-      "published_utc": "2026-11-04T17:50:06+00:00",
-      "published_ist": "04 Nov 2026, 11:20 PM IST",
-      "published_timestamp": 1793814606.0,
-      "description": "‘The real test is taking Indian silicon to global markets’: Sasken Technologies’ Rajiv C Mody The Financial Express",
-      "tier": "tier_2_reputable",
-      "category": "Semiconductors & Hardware",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
-      "scores": {
-        "composite": 0.7474,
+        "composite": 0.7767,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.661,
+        "recency": 0.911,
         "trend_momentum": 0.4,
-        "user_preference": 0.665,
+        "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "india",
-        "indian"
+        "indian",
+        "india"
       ],
-      "ranking_rationale": "Composite: 0.75 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.661",
-      "rank": 3,
-      "explanation": "‘The real test is taking.",
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.911",
+      "rank": 1,
+      "explanation": "Indian Stocks Gain Haven Appeal as Investors Flee.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Chipmaker YMTC's IPO on hold",
-      "raw_headline": "Chipmaker YMTC's IPO on hold as China tightens share sale approvals - electronics.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGdJcWRsMGFxbkM4ckFHVVo5NTFtN0hFMEQzbEJyTTkzVzVrb0t2RnZ5RlZ6cEIzU3ItNWxTT3hzTkk2ZXktYkMxcGlMWnNYWk1WVktHT3VMMkZndmp4ZEw3aXYwMzN5MTJsUDdZUGxGOXBseXc2Zk1QUFZ5VEFaaU55SHZzZ3RUNkdRcjZPX3B6dHB1czFTeFJxajVBTTBZVndiYmNzZXE2QlhCX2djSEVUOUQ3cE1wcG0tYVFUU29IemZ1UURQWDZlTmdCUjVlMlZaX1dqY1ZiT2Vnd1HSAeIBQVVfeXFMTWxYZWVoNUlraDE5VURkeTdDTkpXUlF5NVg3dE5kd204UUg2VGoyUVI1NEZad2NQdVpzNTNUN3U2M2ctb2trNHhLZVdsX1JCM0JQQkZEZDk4bXVTR3V5dnJSTTkyZzFkcFZSYlZXSlJObGtqalUxc3oxdjZqRno0ZzA1X3VjQ0k2cl9CUEVMbW1lLWRSTkg4Y1kxQnk3cXJwY1ZaX3VoUDE5N0VDVTJ6RnNQLW1WUVVKZ1pJMVVNbU0xUjVUQk94WGZrWEV3Y05GcWNEY1FvN2ZUM0lTUFJET0lNZw?oc=5",
+      "headline": "From Madhubani to AI: Interactive",
+      "raw_headline": "From Madhubani to AI: Interactive digital art exhibition comes to Chennai - DT Next",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUJ6czRnUE1ZT2pDWUNZRWZtaVQ3dDBUaEVRaWZYaUhVQ1JjYk5SWDI5ckdrdFViQjdFcnlsdHNqMzBmaU14NmdnRE5xcXprZDRTQ0hyTmluNi1QeHZCc01YTTYwR1dBTU9Ic2VJV2VFTG9sbTNoT3VhVVc3Z3JmMTFMZkV4QUQ0cTVmbXZaMVNtb05oMlNQcWF1RjJiQXpDbzRobFRTeE40TFnSAbgBQVVfeXFMT0VNMUptOFdNc2s4VGZNQXpTV3ZrbkFVX1Jwd1I5SWxkS1ZRel9PcXBRRld0UXo2NFlRQTZjN3prcVFHMk9hNVZjVGhVSTIwLUM0QUwxNjFIZmpJeWVUZHdHa0hSYjZmdVlvQmg1amdaRkg0cWRzckQyUUZ1UzFQeUltRmV5XzFqSUxKcWZsZ3Mwa0IxV0JmX012eFhXUUV0SElZSnlNSW9KR1hOdVlJMTVfcjl5dzN2VQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "DT Next",
+      "published_utc": "2026-11-06T01:55:16+00:00",
+      "published_ist": "06 Nov 2026, 07:25 AM IST",
+      "published_timestamp": 1793930116.0,
+      "description": "From Madhubani to AI: Interactive digital art exhibition comes to Chennai DT Next",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.765,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.833,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "chennai",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (chennai, india) | Cred: 0.85 | Recency: 0.833",
+      "rank": 2,
+      "explanation": "From Madhubani to AI: Interactive.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "IIT Guwahati researchers use drones",
+      "raw_headline": "IIT Guwahati researchers use drones and AI to decode traffic patterns on Indian roads",
+      "url": "https://www.livemint.com/technology/iit-guwahati-researchers-use-drones-and-ai-to-decode-traffic-patterns-on-indian-roads-11793871039108.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-11-05T09:30:38+00:00",
+      "published_ist": "05 Nov 2026, 03:00 PM IST",
+      "published_timestamp": 1793871038.0,
+      "description": "IIT Guwahati researchers use drones and AI to decode traffic patterns on Indian roads",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7629,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.519,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india",
+        "iit"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.99 (indian, india, iit) | Cred: 0.85 | Recency: 0.519",
+      "rank": 3,
+      "explanation": "IIT Guwahati researchers use drones.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India Bets on Homegrown Chips:",
+      "raw_headline": "India Bets on Homegrown Chips: A Domestic GPU in 24 Months, RISC-V Processors Headed to Market in Parallel - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PX3BlSzloUFp1eVJrTDB0bXVtUnMtaUVpY1JwZUlXbHI4MURnRWQtaklGTGlCMV9MaXFDMFpYYzJ6S3JtTHN0d1RFbEtVUkpQSG1ablhsOExYczdaNlkxcDBtTzRkbnB0ODZETlVBb0cxaE85bHc?oc=5",
       "source": "Google News: India Semiconductor Chips",
-      "publisher": "electronics.economictimes.indiatimes.com",
-      "published_utc": "2026-11-05T06:28:57+00:00",
-      "published_ist": "05 Nov 2026, 11:58 AM IST",
-      "published_timestamp": 1793860137.0,
-      "description": "Chipmaker YMTC's IPO on hold as China tightens share sale approvals electronics.economictimes.indiatimes.com",
+      "publisher": "BigGo Finance",
+      "published_utc": "2026-11-06T05:36:00+00:00",
+      "published_ist": "06 Nov 2026, 11:06 AM IST",
+      "published_timestamp": 1793943360.0,
+      "description": "India Bets on Homegrown Chips: A Domestic GPU in 24 Months, RISC-V Processors Headed to Market in Parallel BigGo Finance",
       "tier": "tier_2_reputable",
       "category": "Semiconductors & Hardware",
       "is_india_focused": true,
@@ -158,11 +156,11 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
       "scores": {
-        "composite": 0.7462,
+        "composite": 0.7423,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.63,
-        "recency": 0.953,
+        "recency": 0.927,
         "trend_momentum": 0.4,
         "user_preference": 0.665,
         "technical_significance": 0.55
@@ -170,25 +168,25 @@
       "matched_india_keywords": [
         "india"
       ],
-      "ranking_rationale": "Composite: 0.75 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.953",
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.927",
       "rank": 4,
-      "explanation": "Chipmaker YMTC's IPO on hold as.",
+      "explanation": "India Bets on Homegrown Chips:.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "AI to reshape India's office",
-      "raw_headline": "AI to reshape India's office space demand, workforce seen at 48 million by 2030: Report",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-to-reshape-indias-office-space-demand-workforce-seen-at-48-million-by-2030-report/articleshow/135564234.cms",
-      "source": "Economic Times Tech & AI",
-      "publisher": "Economic Times Tech & AI",
-      "published_utc": "2026-11-05T07:39:35+00:00",
-      "published_ist": "05 Nov 2026, 01:09 PM IST",
-      "published_timestamp": 1793864375.0,
-      "description": "AI is expected to change the nature of India's office space demand rather than reduce it, with the country's office-using workforce projected to grow from around 38 million in 2025 to 48 million by 2030, according to a study by Cushman & Wakefield.",
+      "headline": "IIT Guwahati taps predictive AI",
+      "raw_headline": "IIT Guwahati taps predictive AI to tackle traffic snarls with new models - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeElMXzdqb1VMR3BoYTVDVXIxSmhkYTgyNTFKRWR3aTI1T1JSdmo4Vkc5TUNiM2FuMC1VRmliWGRWM0hhTnM0eWlmdC1IM0k4eThmNE1aZ3NXbFZ1bjdLVlN6VVBxcmd2V0hsTXVTT01oVFNhR0VpMmhIQWxOQkg2bEZzLTdBRDlURTB5OHFsaGdzc2ZvVUxuMEc3cE8xdmw5TXFfdzNjOHdqbmVvQkpYSVdxQUVKZmoyZnFiUWoxclpZMlE2Qm0zSFZ2dDZJbjFEVGNNcXR6THdONElIVnRYUmx1MmVhNkxXdFd0Y1BCRmZOYjjSAfgBQVVfeXFMT0dhZER0YUNLYnZCWXNjSDVQem4xVmU4aTNDZnp6c3p4Wm4tdWYwa0hELWJFR0xDRFc5bHZJX1ZvWE1ydDNlNlJNYW1XMk1ldi1EaC04alcwYXBPUEZYVnBsWjBiYURQYWlXMzk3TEN0Nmo4OGNZUXRVemE0MDdDWnhRNWpWclk3by1uRHFKRWpfSzlUMXVzX1FJYzZzVlpiQXZMUXZlZDBTbWdiX09mazZoZWdhaEIxZjBmTmJJR1M2cDVzQkFBZ3FXUkFVVFd2bnBFUGtqNF9nMDVUMFYyU1BBcnYxZmsyaGJUanZybU1WbVNQbTZ6TWs?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Business Standard",
+      "published_utc": "2026-11-05T18:50:16+00:00",
+      "published_ist": "06 Nov 2026, 12:20 AM IST",
+      "published_timestamp": 1793904616.0,
+      "description": "IIT Guwahati taps predictive AI to tackle traffic snarls with new models Business Standard",
       "tier": "tier_2_reputable",
-      "category": "India Tech & Business",
+      "category": "India AI Developments",
       "is_india_focused": true,
-      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
       "corroborating_sources": [],
       "corroboration_count": 0,
       "cluster_size": 1,
@@ -196,72 +194,120 @@
       "credibility_score": 0.85,
       "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7429,
+        "composite": 0.7419,
         "credibility": 0.85,
         "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.986,
+        "india_relevance": 0.81,
+        "recency": 0.679,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "india"
+        "india",
+        "iit"
       ],
-      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.986",
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.81 (india, iit) | Cred: 0.85 | Recency: 0.679",
       "rank": 5,
-      "explanation": "AI is expected to change.",
+      "explanation": "IIT Guwahati taps predictive AI.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 842,
-    "total_after_lookback": 645,
-    "canonical_events_count": 574,
-    "eligible_events_count": 574,
+    "total_raw_fetched": 844,
+    "total_after_lookback": 610,
+    "canonical_events_count": 590,
+    "eligible_events_count": 590,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Qizhi Chu, Zekai Yu, Sijie Wen, Yang Liu, Chen Qian, Cheng Yang, Chuan Shi, Zhiyuan Liu",
-          "Shu Zhou, Ziyang He, Yuxin Rao, Yudong Fang, Jiali Qian, Dongyuan Chen, Juntao Zhang, Yong Hu"
-        ]
-      },
-      {
-        "canonical_headline": "ServerBench: How can your coding agents design specialized LLM serving systems?",
+        "canonical_headline": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Xinrui Zhong, Zhifeng Li, Zhiming Wang, Yongqi Liu, Shanglin Yang, Yang Zhou, Zikun Li, Zhuoming Chen, Beidi Chen"
+          "Joonyoung Lim, Younghwan Yoo"
         ]
       },
       {
-        "canonical_headline": "Learning to Incentivize Perfect-Knowledge Agents with Unobserved Rewards",
+        "canonical_headline": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Ilgin Dogan, Zuo-Jun Max Shen, Anil Aswani"
+          "Zikun Nie, Suyuan Zhao, Yizhen Luo, Siqi Fan, Zaiqing Nie"
         ]
       },
       {
-        "canonical_headline": "Token Time Continuous Diffusion for Language Modeling",
+        "canonical_headline": "Learning Noise Optimization for Reward Alignment in Few-Step Generative Models",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Jiajun Liang, Yucheng Liao, Yukang Cao, Jiazhe Wei, Ken Li, Wende Tan, Jiankun Zhang, ZY Cui, Jingkang Yang, Liucheng Guo, Shiqi Yang, B. Yang, Caifeng Shan, Ziwei Liu, Chenyang Si"
+          "Jinho Chang, Jong Chul Ye"
         ]
       },
       {
-        "canonical_headline": "SRRM: A Retrieval-Reconstruction Benchmark for Evaluating Long-Context Memory in Small Language Models",
-        "source": "arXiv Computation and Language",
+        "canonical_headline": "Finite-Time Convergence and Regret Guarantees for Neural Reinforcement Learning in POMDPs",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Nishanth Anand, Doina Precup"
+        ]
+      },
+      {
+        "canonical_headline": "Encoding and Propagation of Grammatical Number in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Huaman Sun, Dingcheng Wang, Jason Hartline, Jessica Hullman"
+        ]
+      },
+      {
+        "canonical_headline": "O$^2$PD: Overlap-Gated On-Policy Distillation on Reliable Prefix",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sinuo Wang, Jiacheng Lu, Zeyu Zhang, Maojia Song, Rui Sun, Beidi Luan, Yutong Xie, Jing Li, Daxin Jiang, Qi Wu, Zuo Bai"
+        ]
+      },
+      {
+        "canonical_headline": "CardioLM: A multilingual suite of small language models for the cardiology domain",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Souvik Nath, Sumit Wadhwa, Luis Perez"
+        ]
+      },
+      {
+        "canonical_headline": "NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models",
+        "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "Jarrod Ragsdale, Rajendra Boppana"
+        ]
+      },
+      {
+        "canonical_headline": "Q-Learning under Finite Model Uncertainty",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Maja Pavlovic, Silviu Paun, Massimo Poesio"
+        ]
+      },
+      {
+        "canonical_headline": "Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Steffen Castle, Nils Feldhus, Christopher Ebert, Leonhard Hennig, Sebastian M\\\"oller"
+        ]
+      },
+      {
+        "canonical_headline": "UniSD: Towards a Unified Self-Distillation Framework for Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Pengfei Zhou, Jiajun Song, Zhiwei Tang, Yixing Ma, Donghui Si, Yuhang Xu, Huiqi Song, Yiyuan Miao, Yichen Qian, Weihua Chen, Wangbo Zhao, Bohan Zhuang, Jiasheng Tang, Yang You"
         ]
       },
       {
@@ -273,67 +319,35 @@
         ]
       },
       {
-        "canonical_headline": "Building on open source AI? Hugging Face's policy chief on the costs, risks, and trade-offs",
+        "canonical_headline": "EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Man Hu, Yahui Ding, Yatao Yang, Liangyu Chen, Yanhao Jia, Shuai Zhao"
+        ]
+      },
+      {
+        "canonical_headline": "Token Time Continuous Diffusion for Language Modeling",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jiajun Liang, Yucheng Liao, Yukang Cao, Jiazhe Wei, Ken Li, Wende Tan, Jiankun Zhang, ZY Cui, Jingkang Yang, Liucheng Guo, Shiqi Yang, B. Yang, Caifeng Shan, Ziwei Liu, Chenyang Si"
+        ]
+      },
+      {
+        "canonical_headline": "Airbnb says it's launching an AI travel agent in the first half of 2027",
         "source": "TechCrunch AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Theresa Loconsolo"
+          "Jay Peters"
         ]
       },
       {
-        "canonical_headline": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Greg Brockman says",
-        "source": "Economic Times Tech & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "The Hindu - Technology"
-        ]
-      },
-      {
-        "canonical_headline": "India cybercrime agency warns financial firms on AI attacks",
-        "source": "Google News: India Artificial Intelligence",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Livemint AI & Technology"
-        ]
-      },
-      {
-        "canonical_headline": "AMD forecasts quarterly revenue above estimates as data-center growth accelerates",
-        "source": "Economic Times Tech & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Economic Times Tech & AI"
-        ]
-      },
-      {
-        "canonical_headline": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-        "source": "Economic Times Tech & AI",
+        "canonical_headline": "Chipmaker YMTC's IPO on hold as China tightens share sale approvals - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "electronics.economictimes.indiatimes.com"
-        ]
-      },
-      {
-        "canonical_headline": "MapmyIndia Q2: Profit Rises 90% YoY To ₹35 Cr, Revenue Up 16%",
-        "source": "Inc42 Indian Startups & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Anne Florentyna"
-        ]
-      },
-      {
-        "canonical_headline": "Lenskart Q2 Profit Jumps 125% YoY To ₹233 Cr, Revenue Rises 36%",
-        "source": "Inc42 Indian Startups & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Shrishti Bisht"
-        ]
-      },
-      {
-        "canonical_headline": "IndiaAI Mission Releases Foundation Models - https://www.fintechbiznews.com/",
-        "source": "Google News: AI Breakthroughs & Models",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "www.nationpathindia.com"
         ]
       }
     ],
