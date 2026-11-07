@@ -1,0 +1,313 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-07",
+  "generated_at_ist": "07 Nov 2026, 12:59 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 55,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "India focused on becoming AI",
+      "raw_headline": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
+      "url": "https://www.livemint.com/technology/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw-11793958699116.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-11-06T09:51:38+00:00",
+      "published_ist": "06 Nov 2026, 03:21 PM IST",
+      "published_timestamp": 1793958698.0,
+      "description": "India is focused on becoming the artificial intelligence (AI) \"application capital\" of the world, Union Electronics and Information Technology Minister Ashwini Vaishnaw said.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Open Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR0xsY3ByaEVXM1g2WWoxTFJLUGhWdlNqcFhQYVNsMmJOT2o5TFpLUkJSYmNjdGRCMTRsc0pjNjlUSzRNZ241RUQ4dThPRjRUUHYzTHNTZzVtUE5iUWlPYVlNTDR2M3dRb2FkdzJ0aV82MkZRUFpqNFN4cV9RbHBCNWFrdHBZYUR0cHJINVNJT0cwNFVxb1BJb3ZCdVJqYWl6Z2s2Slk2SldDZw?oc=5",
+          "headline": "India Aims to Become Global AI Application Capital, Says Ashwini Vaishnaw - Open Magazine",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Rediff",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1YwX29FSzVrTl90RDhRVXVrTkhfX1B2S3FPVlkzVlZlQTlxWVhEem5DaFlfbmdzaWdua09DcDVmVWlMOGFpN0VnZEcwTzFEZllEQWZ0SmIzVDhEYThSclp2Q2FlcXJ2ZTdUVE5zWkFmOFBwZFZWUE92VmVEYmJNNXY2UHEyNk15eWkzZXVEbkR1Wk1XRURyNkVMSDFMdmJHV3pWSU1mZWxDUdIBqgFBVV95cUxQT1YwX29FSzVrTl90RDhRVXVrTkhfX1B2S3FPVlkzVlZlQTlxWVhEem5DaFlfbmdzaWdua09DcDVmVWlMOGFpN0VnZEcwTzFEZllEQWZ0SmIzVDhEYThSclp2Q2FlcXJ2ZTdUVE5zWkFmOFBwZFZWUE92VmVEYmJNNXY2UHEyNk15eWkzZXVEbkR1Wk1XRURyNkVMSDFMdmJHV3pWSU1mZWxDUQ?oc=5",
+          "headline": "Union Minister Vaishnaw: India Focused On Becoming World's AI Application Capital - Rediff",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.7778,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.535,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.535",
+      "rank": 1,
+      "explanation": "India is focused on becoming the artificial.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Top 10 Best Artificial Intelligence",
+      "raw_headline": "Top 10 Best Artificial Intelligence Companies In India In 2027 - Inventiva",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3ctQms1dXhFQmRJaEZMaXFsWmhINER4WnpUYVI1aG9vd1psM3cwUmZZVXpOOGJJSnlnaURmTmtIUU5fRUVJZFlYQXdFMEVRTDNIYjJCZDBGR2V1YmJuZXpXb1FzWWxqZ2hWTk5jaWlzRDNzYVFxTkV1QWd2QkhKYUw3RUhLSHRhSWg5T2hGN0FiV2tqUFVaZ1k1S3oyQXc?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Inventiva",
+      "published_utc": "2026-11-06T07:43:22+00:00",
+      "published_ist": "06 Nov 2026, 01:13 PM IST",
+      "published_timestamp": 1793951002.0,
+      "description": "Top 10 Best Artificial Intelligence Companies In India In 2027 Inventiva",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Inventiva",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPME5EVWlFS05BOFgxOHdNUHdMUEtQcHFWWWZQdEdkNFI2VjVyV0NkUi1FRTdzUVBpNExZcVBFdmVTX2dBNHVtMGdsejhwbU1mQ2lyOHZ2TEdjNXdOakpvdWxSU1dqNVJvR0gwQVNZRExjcERRWkV1WnZaSzQ4MEdiVlh2djVIdHBrQVJ4VU0xR1cxU0F2UFBDODZTWTQ?oc=5",
+          "headline": "Top 10 Best Artificial Intelligence Courses In India In 2027 - Inventiva",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Inventiva",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzNVcUVLMTVfUmF0T2RhUE5vdDc3dG9oRFY4RlVyLVlmTWdVR3FlMElqaUltVlNoc2c3UE9xb2F6d3NOdVZlbnBBYzZNQ2FuRmZ4ZGljTTVmNDdHenc3eThkWndSQ0MwOHBFOURtZkRWSktwakxaNmlqUG1md3V6UHJsUjBEOXNTM29ZNHdwSFNEQVFRdkJj?oc=5",
+          "headline": "Top 10 Best Artificial Jewellery Brands In India In 2027 - Inventiva",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.773,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.503,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.503",
+      "rank": 2,
+      "explanation": "Top 10 Best Artificial Intelligence Companies In.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "From digital public infrastructure to",
+      "raw_headline": "From digital public infrastructure to public intelligence: Building sovereign, AI-ready services for India - ET Government",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVVFZTDBkMTAtcDZwQ0tuY3RKVGRJMWJCVWttellWdE5LTVp0M1JENE9zcTBBbGUzNnRTUGdkN0RISDdaRkVaSXRrei1lRzY2NFNRa3dHNGxlbzViZ3RDYUx2Sm9CcDEzUzhtTEp1T2U0V2hjQWdSWUY2M3hLTWVjaVNqX0tHQmhFdFBqMFNpN1Vid1kzRVoxZU55bWNnNXphYm9GelZrVkFvQXdrcHctVjZENTM0TmFKVklMMWJHUzR4OVhjLWFhTnViNWs1RmFQcUl6Z1czQUdIVTdURkp5ZTNueXNIcW5TT3ZDLVVQSkRSRTlpV3lfQzdjSdIB_wFBVV95cUxNeFRjOFZPSkhSNDd0amNfUlJ4dTZmNWNBd1YyR1JZMVFsRkhTSTlqNXRvUXdxMTBDOHd6TFFmTEx3VldYQmJ5WUYzRzE1OUZPN2F6eDZ5VF9GR0pBNlYxcHRmcGZaZFVobDJpWUdpLURoRXduLU92b3ZSRWc2NGRlY2g1ZmtWTUVFRlMwTF9BbS16d2IwRG9xcGhETWtyazlrNlNBVkpqOXRSOHR3bVVBa1pTaHF0aFpoUFdPbFZoa0JaVjlvcHlNX0ExcUYzcmNwTGNvbjZFZlZwRE9UWF92RF9zSDljUVhuQVFNd094QnJaRHlOcFdZWnlMcnpWSEk?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "ET Government",
+      "published_utc": "2026-11-06T23:20:41+00:00",
+      "published_ist": "07 Nov 2026, 04:50 AM IST",
+      "published_timestamp": 1794007241.0,
+      "description": "From digital public infrastructure to public intelligence: Building sovereign, AI-ready services for India ET Government",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7585,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.79,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "digital public infrastructure",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (digital public infrastructure, india) | Cred: 0.85 | Recency: 0.79",
+      "rank": 3,
+      "explanation": "From digital public infrastructure to.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India Plans to Develop Homegrown",
+      "raw_headline": "India Plans to Develop Homegrown GPUs Within Two Years India Targets Indigenous GPU - The 420.in",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OVzY1N1E4TmpRRjZqQWhtWV9UV2xROUltQ1BkcWxnNmRNd1JMZm83empQYTg3RGIwQ2dZV01wNl9nLWtIT2VTWXlGbTFjQ0V0SWJCQnBGV2tjelFWNzRPVUhuRjlhZkE?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "The 420.in",
+      "published_utc": "2026-11-07T05:39:31+00:00",
+      "published_ist": "07 Nov 2026, 11:09 AM IST",
+      "published_timestamp": 1794029971.0,
+      "description": "India Plans to Develop Homegrown GPUs Within Two Years India Targets Indigenous GPU The 420.in",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7455,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.948,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.948",
+      "rank": 4,
+      "explanation": "India Plans to Develop Homegrown.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India Targets AI Application Leadership,",
+      "raw_headline": "India Targets AI Application Leadership, Says Ashwini Vaishnaw - Dainik Jagran MP CG",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXo1ejlzUTRBMThLV1BYdmR5ODYtdlNHa2NpTlYzLWQ1UEpBNHpMTnBseXF1cmx2SFo0YWJoV3N1YzlkOHBLYXNhNndwMHE1SldaNWlZNE53dGtITVB4T3hIbGEtOUhFeEFYanFNT0RINjF0X1FSemdPbzhuOWlGWUhRX1FhWkRhRGx5NDJTaHpUbHBHeUlXZ2lOMmxkNHZXMi05MTBlUzZ3Tm5EZUl5YloxXzMzamtsM1J0U2ppZDA?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Dainik Jagran MP CG",
+      "published_utc": "2026-11-07T06:57:30+00:00",
+      "published_ist": "07 Nov 2026, 12:27 PM IST",
+      "published_timestamp": 1794034650.0,
+      "description": "India Targets AI Application Leadership, Says Ashwini Vaishnaw Dainik Jagran MP CG",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7426,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.984,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.984",
+      "rank": 5,
+      "explanation": "India Targets AI Application Leadership, Says.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 320,
+    "total_after_lookback": 91,
+    "canonical_events_count": 79,
+    "eligible_events_count": 79,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Economic Times Tech & AI"
+        ]
+      },
+      {
+        "canonical_headline": "After the midterms, is the AI industry in for a rough two years?",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec"
+        ]
+      },
+      {
+        "canonical_headline": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Open Magazine",
+          "Rediff"
+        ]
+      },
+      {
+        "canonical_headline": "Mamaearth Parent Honasa's Q2 Profit Jumps 87% YoY To ₹73 Cr",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Team Inc42"
+        ]
+      },
+      {
+        "canonical_headline": "Top 10 Best Artificial Intelligence Companies In India In 2027 - Inventiva",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Inventiva",
+          "Inventiva"
+        ]
+      },
+      {
+        "canonical_headline": "Nvidia chips pile up in Hong Kong as China withholds import approval - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      },
+      {
+        "canonical_headline": "US FDA Grants Breakthrough Device Designation to Primaa's AI Dermatopathology Device: Here's What Cleo Skin May Bring to the Table - The Dermatology Digest",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Clinical Lab Products"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
