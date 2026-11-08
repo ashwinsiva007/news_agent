@@ -1,0 +1,242 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-08",
+  "generated_at_ist": "08 Nov 2026, 01:11 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 58,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Top AI adopters in customer",
+      "raw_headline": "Top AI adopters in customer service gain over 50% KPI improvements, but value realization remains uneven: EY report",
+      "url": "https://www.livemint.com/technology/top-ai-adopters-in-customer-service-gain-over-50-kpi-improvements-but-value-realization-remains-uneven-ey-report-11794109806515.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-11-08T03:50:06+00:00",
+      "published_ist": "08 Nov 2026, 09:20 AM IST",
+      "published_timestamp": 1794109806.0,
+      "description": "Organizations realizing the highest value from artificial intelligence (AI) in customer service reported up to 50 per cent or higher improvements across core customer service key performance indicators, according to EY India's latest report.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7743,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.895,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indic",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (indic, india) | Cred: 0.85 | Recency: 0.895",
+      "rank": 1,
+      "explanation": "Organizations realizing the highest value.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Sony revives iconic 1979 Walkman",
+      "raw_headline": "Sony revives iconic 1979 Walkman design with MDR-3R USB-C headphones: Check price in India",
+      "url": "https://www.livemint.com/technology/sony-revives-iconic-1979-walkman-design-with-mdr-3r-usb-c-headphones-check-price-in-india-11794106890911.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-11-08T06:50:07+00:00",
+      "published_ist": "08 Nov 2026, 12:20 PM IST",
+      "published_timestamp": 1794120607.0,
+      "description": "Sony has even extended this vintage theme to the product's packaging and instruction manual, mirroring the original unboxing experience.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7414,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.976,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.976",
+      "rank": 2,
+      "explanation": "Sony has even extended this.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "The Human Side of India's",
+      "raw_headline": "The Human Side of India’s Growth Story - India Narrative",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjRQNHRsTTY3cFl3ckI0ME43MGhONzlsczlRSDNZN2xvRmNETzhjSy1PdzM3ZUZnM0NPM0F1WG54NHNLaEo0QTh0U2RqdXVfM3NWRDVpRlBUV0NzbzlORVpvZEhETGhmaUMxYTQ4SS1hYnhjdXlVZUxzbGlfd21jTVBnNA?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "India Narrative",
+      "published_utc": "2026-11-08T00:30:00+00:00",
+      "published_ist": "08 Nov 2026, 06:00 AM IST",
+      "published_timestamp": 1794097800.0,
+      "description": "The Human Side of India’s Growth Story India Narrative",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.717,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.813,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.72 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.813",
+      "rank": 3,
+      "explanation": "The Human Side of India’s Growth Story India.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Pronto's Second Shift",
+      "raw_headline": "Pronto’s Second Shift",
+      "url": "https://inc42.com/features/prontos-second-shift",
+      "source": "Inc42 Indian Startups & AI",
+      "publisher": "Shraddha Goled",
+      "published_utc": "2026-11-08T05:30:13+00:00",
+      "published_ist": "08 Nov 2026, 11:00 AM IST",
+      "published_timestamp": 1794115813.0,
+      "description": "Anjali Sardana and Pronto entered India’s domestic services market in 2025 to solve a familiar urban problem: finding reliable…",
+      "tier": "tier_3_coverage",
+      "category": "Indian Startups & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://inc42.com/feed/",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Industry Coverage",
+      "credibility_score": 0.7,
+      "evidence_strength_score": 0.65,
+      "is_eligible": true,
+      "verification_rationale": "Reported by specialized industry media.",
+      "scores": {
+        "composite": 0.7134,
+        "credibility": 0.7,
+        "evidence_strength": 0.65,
+        "india_relevance": 0.81,
+        "recency": 0.939,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.71 | India Rel: 0.81 (indian, india) | Cred: 0.7 | Recency: 0.939",
+      "rank": 4,
+      "explanation": "Anjali Sardana and Pronto entered India’s domestic services.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India on right track in",
+      "raw_headline": "India on right track in AI; firms moving from pilots to production: Oracles Kumar",
+      "url": "https://www.livemint.com/technology/india-on-right-track-in-ai-firms-moving-from-pilots-to-production-oracles-kumar-11794038633340.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-11-07T08:03:52+00:00",
+      "published_ist": "07 Nov 2026, 01:33 PM IST",
+      "published_timestamp": 1794038632.0,
+      "description": "India on right track in AI; firms moving from pilots to production: Oracle's Kumar",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Deccan Herald",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRTBxeGJBejhLSlZBSWFlcVdLQ01GMEJpNEpCVkNNVkJGTVhWNEd2NzI5NGR3X3FQZ0hfdEFDTXJ2bDAwWG90Wi1rMnJxRmRUYzlpNkxxZDlXSE5Nd0Q3RTJ2cU5HcDl0MGg0TUUtQ1Qza3AtZHlQc3NhU0loaFA4X1ctdXlOcDVkWmxZQnlva2RwXzNVVlZHcG5WRDhOUjJHb2g5X1hObHVPMTBjdXZ1V0ZWcG9LNnlWUTVLdDdvd0pUSEZtVTBmaDdYeThlclkxOENuTDFyREY5MVBzTldUUkltanBESUZpZE1SNVN3OUlnV3Jp?oc=5",
+          "headline": "India on right track in AI; firms moving from pilots to production: Oracle's Shailender Kumar - Deccan Herald",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.6959,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.506,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.7 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.506",
+      "rank": 5,
+      "explanation": "India on right track in.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 312,
+    "total_after_lookback": 32,
+    "canonical_events_count": 30,
+    "eligible_events_count": 30,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "India on right track in AI; firms moving from pilots to production: Oracles Kumar",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Deccan Herald"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
