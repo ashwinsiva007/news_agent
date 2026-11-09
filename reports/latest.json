@@ -2,104 +2,65 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-11-08",
-  "generated_at_ist": "08 Nov 2026, 01:11 PM IST",
+  "report_date": "2026-11-09",
+  "generated_at_ist": "09 Nov 2026, 01:50 PM IST",
   "story_count": 5,
-  "briefing_word_count": 58,
+  "briefing_word_count": 64,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "Top AI adopters in customer",
-      "raw_headline": "Top AI adopters in customer service gain over 50% KPI improvements, but value realization remains uneven: EY report",
-      "url": "https://www.livemint.com/technology/top-ai-adopters-in-customer-service-gain-over-50-kpi-improvements-but-value-realization-remains-uneven-ey-report-11794109806515.html",
-      "source": "Livemint AI & Technology",
-      "publisher": "Livemint AI & Technology",
-      "published_utc": "2026-11-08T03:50:06+00:00",
-      "published_ist": "08 Nov 2026, 09:20 AM IST",
-      "published_timestamp": 1794109806.0,
-      "description": "Organizations realizing the highest value from artificial intelligence (AI) in customer service reported up to 50 per cent or higher improvements across core customer service key performance indicators, according to EY India's latest report.",
-      "tier": "tier_2_reputable",
-      "category": "India Tech & Economy",
-      "is_india_focused": true,
-      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "headline": "The Invisible Gap: Romanized Indic",
+      "raw_headline": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
+      "url": "https://arxiv.org/abs/2611.09085",
+      "source": "arXiv Computer Science & AI",
+      "publisher": "Madhu Sudhan Rao Beesetty, Surbhi Sharma, Devesh Maheshwari, Lokesh Meesala",
+      "published_utc": "2026-11-09T05:00:00+00:00",
+      "published_ist": "09 Nov 2026, 10:30 AM IST",
+      "published_timestamp": 1794200400.0,
+      "description": "arXiv:2611.09085v1 Announce Type: cross Abstract: Hundreds of millions of Indians communicate with digital systems in romanized Latin characters -- typing \"aap kaise hain\" rather than native script -- yet romanized Indic generation is absent from NLP benchmarks and evaluation frameworks. We demonstrate that automatic metrics (BGE-M3, BERTScore) systematically misrepresent the quality of romanized Hindi, Telugu, and Kannada generation. We evaluate four LLMs (Claude Opus 4.8, GPT-5.5, Gemini 2.5-flash, Qwen3.5-35B) on 142 OpenAssistant query-response pairs. On a 72-response diagnostic subset, na",
+      "tier": "tier_1_primary",
+      "category": "Research Breakthroughs",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.AI",
       "corroborating_sources": [],
       "corroboration_count": 0,
       "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
       "scores": {
-        "composite": 0.7743,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.895,
+        "composite": 0.7883,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.54,
+        "recency": 0.907,
         "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
+        "user_preference": 0.545,
+        "technical_significance": 0.55
       },
       "matched_india_keywords": [
+        "india",
         "indic",
-        "india"
+        "indian"
       ],
-      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (indic, india) | Cred: 0.85 | Recency: 0.895",
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (india, indic, indian) | Cred: 1.0 | Recency: 0.907",
       "rank": 1,
-      "explanation": "Organizations realizing the highest value.",
+      "explanation": "arXiv:2611.09085v1 Announce Type: cross Abstract: Hundreds of millions.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Sony revives iconic 1979 Walkman",
-      "raw_headline": "Sony revives iconic 1979 Walkman design with MDR-3R USB-C headphones: Check price in India",
-      "url": "https://www.livemint.com/technology/sony-revives-iconic-1979-walkman-design-with-mdr-3r-usb-c-headphones-check-price-in-india-11794106890911.html",
-      "source": "Livemint AI & Technology",
-      "publisher": "Livemint AI & Technology",
-      "published_utc": "2026-11-08T06:50:07+00:00",
-      "published_ist": "08 Nov 2026, 12:20 PM IST",
-      "published_timestamp": 1794120607.0,
-      "description": "Sony has even extended this vintage theme to the product's packaging and instruction manual, mirroring the original unboxing experience.",
-      "tier": "tier_2_reputable",
-      "category": "India Tech & Economy",
-      "is_india_focused": true,
-      "raw_feed_url": "https://www.livemint.com/rss/technology",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
-      "scores": {
-        "composite": 0.7414,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.976,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.976",
-      "rank": 2,
-      "explanation": "Sony has even extended this.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "The Human Side of India's",
-      "raw_headline": "The Human Side of India’s Growth Story - India Narrative",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjRQNHRsTTY3cFl3ckI0ME43MGhONzlsczlRSDNZN2xvRmNETzhjSy1PdzM3ZUZnM0NPM0F1WG54NHNLaEo0QTh0U2RqdXVfM3NWRDVpRlBUV0NzbzlORVpvZEhETGhmaUMxYTQ4SS1hYnhjdXlVZUxzbGlfd21jTVBnNA?oc=5",
+      "headline": "AI policy must take into",
+      "raw_headline": "AI policy must take into account democratic bargain - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0dVX3pZYkxLa1RwTDVkUTg1Q1JjdHFqUm4wQ05NcXZ1c1V0TXpPOGpGUWhTSHhYU0w1S1VwRndLUlIxcjlzV0RXVjZUbWdQNmlETm1JU3haTkp5dDRDTmgwUURPemlyTUZkdXRNekl1VHJwU0pRSmJ0ZDBkb3NPM2lJTjRmT2VuYlhuemIzNy1RVlotUVdXZURiZExKOUd1UW1GTXZpLWdxbU5TclJYUtIBtwFBVV95cUxNblFQTEpRQkVFMHhCT09SV2ZUeHFHZVVtMkJFb0lzZHI3UWlyZE5ZU2lzSjVMMExfak9SX0NfdkpKOGlIOVVhTFo1bDFGSmtCS2ZIcXBmMGU1MjVHcGRndHEtWFh0Nm1MaEV4RzR0N2U4bC1Vc0ltNW5FRkVqTVZxWUhMMjJnVE1sZ3BKTnJGU0ZvWUNPZGtOQ1NPRV9BbXRQUTBGdnpPQV90Zl9LeEpsMnBnRGt1cm8?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "India Narrative",
-      "published_utc": "2026-11-08T00:30:00+00:00",
-      "published_ist": "08 Nov 2026, 06:00 AM IST",
-      "published_timestamp": 1794097800.0,
-      "description": "The Human Side of India’s Growth Story India Narrative",
+      "publisher": "The Indian Express",
+      "published_utc": "2026-11-09T01:08:58+00:00",
+      "published_ist": "09 Nov 2026, 06:38 AM IST",
+      "published_timestamp": 1794186538.0,
+      "description": "AI policy must take into account democratic bargain The Indian Express",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -113,126 +74,247 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.717,
+        "composite": 0.7618,
         "credibility": 0.85,
         "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.813,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.72 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.813",
-      "rank": 3,
-      "explanation": "The Human Side of India’s Growth Story India.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Pronto's Second Shift",
-      "raw_headline": "Pronto’s Second Shift",
-      "url": "https://inc42.com/features/prontos-second-shift",
-      "source": "Inc42 Indian Startups & AI",
-      "publisher": "Shraddha Goled",
-      "published_utc": "2026-11-08T05:30:13+00:00",
-      "published_ist": "08 Nov 2026, 11:00 AM IST",
-      "published_timestamp": 1794115813.0,
-      "description": "Anjali Sardana and Pronto entered India’s domestic services market in 2025 to solve a familiar urban problem: finding reliable…",
-      "tier": "tier_3_coverage",
-      "category": "Indian Startups & AI",
-      "is_india_focused": true,
-      "raw_feed_url": "https://inc42.com/feed/",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Industry Coverage",
-      "credibility_score": 0.7,
-      "evidence_strength_score": 0.65,
-      "is_eligible": true,
-      "verification_rationale": "Reported by specialized industry media.",
-      "scores": {
-        "composite": 0.7134,
-        "credibility": 0.7,
-        "evidence_strength": 0.65,
         "india_relevance": 0.81,
-        "recency": 0.939,
+        "recency": 0.812,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "indian",
-        "india"
+        "india",
+        "indian"
       ],
-      "ranking_rationale": "Composite: 0.71 | India Rel: 0.81 (indian, india) | Cred: 0.7 | Recency: 0.939",
-      "rank": 4,
-      "explanation": "Anjali Sardana and Pronto entered India’s domestic services.",
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.812",
+      "rank": 2,
+      "explanation": "AI policy must take into account democratic.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "India on right track in",
-      "raw_headline": "India on right track in AI; firms moving from pilots to production: Oracles Kumar",
-      "url": "https://www.livemint.com/technology/india-on-right-track-in-ai-firms-moving-from-pilots-to-production-oracles-kumar-11794038633340.html",
+      "headline": "ASUS Zenbook 14 launched in",
+      "raw_headline": "ASUS Zenbook 14 launched in India with Ceraluminum body, OLED display and up to 33-hour battery",
+      "url": "https://www.livemint.com/technology/gadgets/asus-zenbook-14-launched-in-india-with-ceraluminum-body-oled-display-and-up-to-33-hour-battery-11794210646502.html",
       "source": "Livemint AI & Technology",
       "publisher": "Livemint AI & Technology",
-      "published_utc": "2026-11-07T08:03:52+00:00",
-      "published_ist": "07 Nov 2026, 01:33 PM IST",
-      "published_timestamp": 1794038632.0,
-      "description": "India on right track in AI; firms moving from pilots to production: Oracle's Kumar",
+      "published_utc": "2026-11-09T08:13:01+00:00",
+      "published_ist": "09 Nov 2026, 01:43 PM IST",
+      "published_timestamp": 1794211981.0,
+      "description": "ASUS Zenbook 14 launched in India starting at ₹1,36,990, with Intel, AMD, and Snapdragon options. See variant prices, display, battery claims and EMI offers.",
       "tier": "tier_2_reputable",
       "category": "India Tech & Economy",
       "is_india_focused": true,
       "raw_feed_url": "https://www.livemint.com/rss/technology",
-      "corroborating_sources": [
-        {
-          "source": "Google News: India Artificial Intelligence",
-          "publisher": "Deccan Herald",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRTBxeGJBejhLSlZBSWFlcVdLQ01GMEJpNEpCVkNNVkJGTVhWNEd2NzI5NGR3X3FQZ0hfdEFDTXJ2bDAwWG90Wi1rMnJxRmRUYzlpNkxxZDlXSE5Nd0Q3RTJ2cU5HcDl0MGg0TUUtQ1Qza3AtZHlQc3NhU0loaFA4X1ctdXlOcDVkWmxZQnlva2RwXzNVVlZHcG5WRDhOUjJHb2g5X1hObHVPMTBjdXZ1V0ZWcG9LNnlWUTVLdDdvd0pUSEZtVTBmaDdYeThlclkxOENuTDFyREY5MVBzTldUUkltanBESUZpZE1SNVN3OUlnV3Jp?oc=5",
-          "headline": "India on right track in AI; firms moving from pilots to production: Oracle's Shailender Kumar - Deccan Herald",
-          "tier": "tier_2_reputable"
-        }
-      ],
-      "corroboration_count": 1,
-      "cluster_size": 2,
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
       "verification_status": "Reputable Reporting",
       "credibility_score": 0.85,
       "evidence_strength_score": 0.8,
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
       "scores": {
-        "composite": 0.6959,
+        "composite": 0.7444,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.63,
-        "recency": 0.506,
-        "trend_momentum": 0.65,
+        "recency": 0.996,
+        "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
         "india"
       ],
-      "ranking_rationale": "Composite: 0.7 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.506",
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.996",
+      "rank": 3,
+      "explanation": "ASUS Zenbook 14 launched in.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India's newest face in Cyprus",
+      "raw_headline": "India’s newest face in Cyprus doesn’t need a passport - Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGl1cHg2M3Q3c0hGS1BJd3BUZFMtR3pIYkM3SEFnV2FhdG1DMXhHVlNQY3dOYkdFTmFMdlJDUWVrc3E1OE1seEpjR3c2NWdrWWVFQzUxOUc0ZHJIODhsaGJLMncyUGtVOHlIVjJyX1RnS3lVNkRiU2VwZ2ZrNGFnM3ZWRlBEWjFocGgzbE9iNA?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Cyprus Mail",
+      "published_utc": "2026-11-09T06:44:00+00:00",
+      "published_ist": "09 Nov 2026, 12:14 PM IST",
+      "published_timestamp": 1794206640.0,
+      "description": "India’s newest face in Cyprus doesn’t need a passport Cyprus Mail",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7381,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.954,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.954",
+      "rank": 4,
+      "explanation": "India’s newest face in Cyprus doesn’t need.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Nifty may hit 28,000 by",
+      "raw_headline": "Nifty may hit 28,000 by end of 2027 on strong earnings, slower global AI capex: Report - IANS LIVE",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXIyNXZLTEVjc0ZacjFCWU9mNHpqSHBheVd5SUR1NFZRaDNiWnduSWIzS3JFeEdNVFR4MTM5cG83ZEFOQjRGejlGVk9IMXpHZzQtWVVVbEprOEh6X01kR252XzBiYl85Qmk1VmoxV0M5UWJ1X3VkcWJvakZhNDdoUFVVdU45N1N4UWhZZDBlMGZaMTZiVzN3T0FMbU1lSTJRdkVjV0VzY1ZYV3BPTS1ReXliS29rLXdaRFlR?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "IANS LIVE",
+      "published_utc": "2026-11-09T06:27:00+00:00",
+      "published_ist": "09 Nov 2026, 11:57 AM IST",
+      "published_timestamp": 1794205620.0,
+      "description": "Nifty may hit 28,000 by end of 2027 on strong earnings, slower global AI capex: Report IANS LIVE",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7369,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.946,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.946",
       "rank": 5,
-      "explanation": "India on right track in.",
+      "explanation": "Nifty may hit 28,000 by.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 312,
-    "total_after_lookback": 32,
-    "canonical_events_count": 30,
-    "eligible_events_count": 30,
+    "total_raw_fetched": 856,
+    "total_after_lookback": 599,
+    "canonical_events_count": 512,
+    "eligible_events_count": 512,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "India on right track in AI; firms moving from pilots to production: Oracles Kumar",
-        "source": "Livemint AI & Technology",
+        "canonical_headline": "Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents",
+        "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Deccan Herald"
+          "Yuhua Jiang, Chang Xu, Feifei Gao, Li Zhao"
+        ]
+      },
+      {
+        "canonical_headline": "ABHBench: Evaluating Moral Decision-Making of Foundation Models from an Agentic Perspective",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Mingjia Huo, Yao Fu, Bo Chang, Yaqing Wang, Dawei Zhu, Dylan Zhang, Xinyang Yi, Lichan Hong, Ed H. Chi, Hao Zhang, Jiaxi Tang"
+        ]
+      },
+      {
+        "canonical_headline": "MIRA: Mitigating Pole Geometry Bias in Recurrent Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Albert Qin, Jonathan D. Cohen, Gautam Reddy"
+        ]
+      },
+      {
+        "canonical_headline": "LLM-Enhanced Self-Evolving Reinforcement Learning for Multi-Step E-Commerce Payment Fraud Risk Detection",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Bo Qu, Zhurong Wang, Frank Zahradnik, Ming Ouyang"
+        ]
+      },
+      {
+        "canonical_headline": "Subliminal Learning in Vision-Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "H\\'ector Javier V\\'azquez Mart\\'inez, Charles Yang"
+        ]
+      },
+      {
+        "canonical_headline": "Ordered Policy Optimization",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Changyi Xiao, Mengdi Zhang, Yixin Cao"
+        ]
+      },
+      {
+        "canonical_headline": "Empirical Study of Post-Quantum Cryptography Adoption Status in SSH Infrastructure",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Md Ariful Haque, Sander Vinberg, Ben Edwards, Jo\\~ao Cruz"
+        ]
+      },
+      {
+        "canonical_headline": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Chuangtao Ma, Sriom Chakrabarti, Arijit Khan, B\\'alint Moln\\'ar"
+        ]
+      },
+      {
+        "canonical_headline": "Intentmaking and Sensemaking: Human Interaction with AI-Guided Mathematical Discovery",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Eric Hanchen Jiang, Junyi Zhang, Jinxi Yu, Jiachen Lu, Zhi Zhang, Michael Simon, Justin Baker, Richard Cai, Sneha Agarwal, Yubei Li, Hyunsik Chae, Xinjie He, Kyle Zheng, Vigyan Sahai, Ethan Ji, Alexander K Taylor, Yiwen Kou, Kyle Hess, Xiao Liang, Yingnian Wu, J. D. Zamfirescu-Pereira, Andrea Bertozzi, Kai-Wei Chang, Eunice Jun, Raghu Meka, Nanyun Peng, Amit Sahai, Matthew Sottile, Terence Tao, Wei Wang"
+        ]
+      },
+      {
+        "canonical_headline": "Temporal Pair Consistency for Flow Matching",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shadab Ahamed, Eshed Gal, Md Shahriar Rahim Siddiqui, Simon Ghyselincks, Moshe Eliasof, Eldad Haber"
+        ]
+      },
+      {
+        "canonical_headline": "Nvidia is investigating Jensen Huang's relationship with a Chinese spy",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Anthony Ha",
+          "Siddharth Jindal"
+        ]
+      },
+      {
+        "canonical_headline": "South Korea says Nvidia issues won't affect contracted GPU supplies",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
         ]
       }
     ],
