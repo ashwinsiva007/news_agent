@@ -2,23 +2,251 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-11-09",
-  "generated_at_ist": "09 Nov 2026, 01:50 PM IST",
+  "report_date": "2026-11-10",
+  "generated_at_ist": "10 Nov 2026, 02:08 PM IST",
   "story_count": 5,
-  "briefing_word_count": 64,
+  "briefing_word_count": 59,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "The Invisible Gap: Romanized Indic",
-      "raw_headline": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
-      "url": "https://arxiv.org/abs/2611.09085",
+      "headline": "Sarvam names Google Cloud India",
+      "raw_headline": "Sarvam names Google Cloud India head Sashikumar Sreedharan as president &amp; chief business officer",
+      "url": "https://economictimes.indiatimes.com/tech/technology/sarvam-names-google-cloud-india-head-sashikumar-sreedharan-as-president-chief-business-officer/articleshow/135678677.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-11-09T10:21:51+00:00",
+      "published_ist": "09 Nov 2026, 03:51 PM IST",
+      "published_timestamp": 1794219711.0,
+      "description": "Sashikumar will additionally join Sarvam's board of directors. He will lead the company's business across enterprises and government, while expanding its engagement with digital-native companies, developers and partners.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0I2RmViV04yUkg5Mkd0WDBNc1dsSnJoRkxqQmV4RVpyT0QybFBRTGlDLXZzQ2dncW1BZ2VWZ2w0c3k2SlQ1bFk1dkY2WE9CTVp3QloyTzJWQm5va2VhdUFsaGJpMi1sTWZUMVNtSWYtSGdDMmg2VXZVdUtJMUpQRmJibWVFaWkyeU92Y1FJQk1xSEZXcFR4cjJKVFEtc21KYTVWbk5xYmJmQld2MmZMbFE5WFF5M1d2aF9zb0NiU0YwbGEteUhqVzdKMEF6RGVFRzVjdkZ6TERnejFVV3p4dEZDeUhodw?oc=5",
+          "headline": "Sarvam appoints former Google Cloud India MD Sashikumar as President & CBO - Moneycontrol.com",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "BW Disrupt",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXB2RG1EUUFyczVyLWVZaGlkbEllU0M0SUZKWlk4WnZNRVJDU1EtQ0JOVzBhblVueFpvTXJ5MEdWYnI4U3ZJX0xxdlNUSzlYQWtXX3JEcUNyeS1DYURxem9kMzEya3I5SGhxYm52Q1RoZlZkSTNFMnd1Q0N3WnBYcnktaGs0WHFKVVY0Mi0tS1pPMTZrN1BKdGFzdXBTckloRVBkSDgzMjNMS2t5WEVaT2V3OUw2Tk5FTTZjS0ZJUUlOdEx0TmhR?oc=5",
+          "headline": "Sarvam Appoints Former Google Cloud India MD Sashikumar Sreedharan As President And CBO - BW Disrupt",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Analytics India Magazine",
+          "publisher": "Siddharth Jindal",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-appoints-ex-google-cloud-india-md-sashikumar-sreedharan-as-president-and-cbo",
+          "headline": "Sarvam AI Appoints Ex-Google Cloud India MD Sashikumar Sreedharan as President and CBO",
+          "tier": "tier_3_coverage"
+        },
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Anjali Jain",
+          "url": "https://inc42.com/buzz/sarvam-ropes-in-google-cloud-india-md-sashikumar-sreedharan-as-president-cbo",
+          "headline": "Sarvam Ropes In Google Cloud India MD Sashikumar Sreedharan As President & CBO",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 4,
+      "cluster_size": 5,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 5 independent news organizations.",
+      "scores": {
+        "composite": 0.8363,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.81,
+        "recency": 0.525,
+        "trend_momentum": 1.0,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "sarvam"
+      ],
+      "ranking_rationale": "Composite: 0.84 | India Rel: 0.81 (india, sarvam) | Cred: 1.0 | Recency: 0.525",
+      "rank": 1,
+      "explanation": "Sashikumar will additionally join Sarvam's.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Paras Semiconductors partners BroadPak for",
+      "raw_headline": "Paras Semiconductors partners BroadPak for advanced packaging in India - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOVBGcHVhX1FvUmxtdnJMUDA2Q1dKb0wtbkpZMDhva0EyOWJJQVdYeXZ6eXlMZEhKUmRpakZEQzg5Mmt2SjljWVl2ZGJsWEZTR01kNFpRQ3lubVFVZ25RTlJ3V1F2bS02WVlwTFlQM1gtNEIzX09MRG1ITEYyaXNuQlh3ZDFRYkRibUxFb1YzZkFBYXdHekFOclY2SnFxQi0wcDZBLWhqNHFILWx4eVdwUFcwb0pBQWpIMEFqdGE1cWZRQUFyNURENkZTcHVHWEhxdTJ4dmJSRTV4ckltV3RkaDJvd9IB5wFBVV95cUxNdEVVMkdhdFdLeEFqYXVhOWhOX1lFaW84WHEycDEwd0JRWk1NMkgwaFI1UmxHUnJKdzFNcnRzaDZuRV94OTU1ek5JUVJQakJDbDJWckx0dTRFdWNqRUZCS1gzWG5XUGN4T1VLTmtQMnZkZlFiX3lKOWJidFdjQ1pOamg3d1R6NWxnNnFhM2ozbENJaUdxVGpwT2RibHNHRVF6U0k2T05Xd1psVS13OHl3cENPTl8xNVQ0VUdzclVDMDBsdllPaTRRNkl2a0JHTkR4TWNUWXNncmEyN0xqcXVkUXZXZjVERVk?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "electronics.economictimes.indiatimes.com",
+      "published_utc": "2026-11-09T22:03:05+00:00",
+      "published_ist": "10 Nov 2026, 03:33 AM IST",
+      "published_timestamp": 1794261785.0,
+      "description": "Paras Semiconductors partners BroadPak for advanced packaging in India electronics.economictimes.indiatimes.com",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVEtTME00TDVJTHFESENfSFZjc2Flc2RWNkQ1bGFWNU4tTERLdmFGOFEwUEJLY2tsUzhnVzJqVWlEOTBwbEhWemZpT1hSOHBOdUI2Smd6aU1PSjBnd1BKVXhyNzZfWW53c2gzQlZ1N21OYml5dG5Cbkd0akNPaUt2VTR6bVRLX1UyNGJpOXp5TjdkNjhPUFpDWWs3TkJWZXoxaXJCZVY2X2NMcG11Y0NOSjltWEpuMVlUNG5sa3h0V3lEWlFfSDlEOE5wUVplSEpSRWNiMndmNGVFSzMz?oc=5",
+          "headline": "Nvidia's Huang scandal rattles AI industry built around him - electronics.economictimes.indiatimes.com",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRnlLUWtONTVGX0JodjZ3cGVZa0lxRS1TX0pLS1k1RkhldVVoZWd2VE1YeUpTRjFNc3ZFejVFeHVjS0RNY21NdEJVS0gzUERNQUw5LVFoRjRJNThqYy1yZmFZY1RGaGIxSEdlQ05qeHVvcVNwNm9CS0oxdGhhODFjOUxMYWhkNXFTTlIxRGlzLXlrZHg4d1ZidWxUQ3JsU2Z6Z0JTNHlZOFNIeE5JVkxzNEpENE5pdFVaWWJFNUFvSDFpeGQzV29KcXdMVnJFWHRkalVyMW1TTE1LU2lCMlZSMdIB5gFBVV95cUxOX1RSWWl0b2VDNkF6WUs0emFBcnFpS1pVaEVXRlBUVXljeWJWVlFWeENlaWZPWFJqRk55WGFRVDBzME1xOTRqYjIxZWNNaUc3eHNJdVBUbUJjbDVZZlYyNDh2NUx2MzBkdUtLMklrOEYxajUxbC1yWVhwWE1uZGxJQlZIc3RVUng5S2Jla0xrbVRhRmctU09yX3oyTm91Y04yZ0laMGlTUGpiY3JkWFBWZVRyTVVzVTkwYkYyWU5QblJiNFY4UW5ib2JFdjVSZEUxQXFsUE9oMmZ5RjFPdWR4ZGhqWWNVZw?oc=5",
+          "headline": "Semiconductor companies struggle to measure business value of AI: HTEC - electronics.economictimes.indiatimes.com",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX3VaaDJtMVQ2VXhka0JPOVc2OFRUSHpuWWtxQ1MwOXJyYlZ5WmFlVlNGZ1MzZDhtMWhBNVFVcGE1MW5kaFUxSjJlNkJJWjR5R0ZBSXo5SGpxMThZWjlhOUZiOXVRNmdXMWVfQUtZQUhrVkdra0NZRHdYZV8xSU1LZGF6cnBNYkZJTUx5ZG5VOHRHOVVWSFNHa0VMdEVGYjFKdUtMd1RoUjV1dWtJZzZrMVpuVzRNd29wMjV1Nm94ek9GT2RTR1RUdWJEX29ZYmlIbFFwNzU3T3FMYm1zQ21WS2hsMUV1cWF1RV94OEhB?oc=5",
+          "headline": "Nvidia spy allegations likely to spur laws to tighten China's access to AI chips - electronics.economictimes.indiatimes.com",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 3,
+      "cluster_size": 4,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 4 independent news organizations.",
+      "scores": {
+        "composite": 0.831,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.735,
+        "trend_momentum": 1.0,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.735",
+      "rank": 2,
+      "explanation": "Paras Semiconductors partners BroadPak for advanced packaging in.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Paras Semiconductors Partners with US-based",
+      "raw_headline": "Paras Semiconductors Partners with US-based BroadPak Corporation to Build Advanced Semiconductor Packaging Capabilities in India - IBG News",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLVJEM2ZMclhGLUVTYm1YM1hHSEpaX0N2RDRsTTFfVXBJUGpKeVowSWs1Uy1TOHRVR1FJZVhhR2hRaHVTaXp5OU83cW5JQTRRc0V6VlFrYVpwVmNvZTJVRWpIdmNhUXQzVWJWbnpobHZ2cmZZZWhIZnZSS2hxdm1YSnhlajAtWmh4aG51Y1UyYkU1U0M3a1YwZW1OV0dia3lkMG5EcWsxZ01OVHNVVjM2am1fN3I1bmt4TU5kdXZWeHZLN2RjTEE3SkczQ1d5YnVxVVE2NEszYlZNaUJ3RlRBb3U4QmotR1pxcU1YOUJpbklYdw?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "IBG News",
+      "published_utc": "2026-11-09T15:59:42+00:00",
+      "published_ist": "09 Nov 2026, 09:29 PM IST",
+      "published_timestamp": 1794239982.0,
+      "description": "Paras Semiconductors Partners with US-based BroadPak Corporation to Build Advanced Semiconductor Packaging Capabilities in India IBG News",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Rediff MoneyWiz",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3lnQm9hd1VLcXNYNXhsNy1rUUNlSmozMDZqSGNRejllWDdSZ3RqTmUwSDhYZ2FrNEVPZmZBYWhlSUN0a0lBUldlSHh2YW5RNHpNZDl1aS1rR2VKY1FTak9MckNDWmRCNkVaOTJ3TzJia3ZqTWJEdjNCNVVENmFMYmdWRm1tdnVCVUE3Z19RYzVYcE9ael9qazRNeWEwMmViRFE3TFpLZzEyMl9qMHp4RVppR19HR2dmbnFGeXBndlBKb1Nrc1ZrTGpB0gHKAUFVX3lxTFB3eWdCb2F3VUtxc1g1eGw3LWtRQ2VKajMwNmpIY1F6OWVYN1JndGpOZTBIOFhnYWs0RU9mZkFhaGVJQ3RrSUFSV2VIeHZhblE0ek1kOXVpLWtHZUpjUVNqT0xyQ0NaZEI2RVo5MndPMmJrdmpNYkR2M0I1VUQ2YUxiZ1ZGbW12dUJVQTdnX1FjNVhwT1p6X2prNE15YTAyZWJEUTdMWktnMTIyX2owenhFWmlHX0dHZ2ZucUZ5cGd2UEpvU2tzVmtMakE?oc=5",
+          "headline": "Paras Semiconductors & BroadPak Partner for Advanced Chip Packaging in India - Rediff MoneyWiz",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Goodreturns",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1FuZVU5OXRNWGo4SkNQdFY5YjRQcWxCb2hGNjBSNERjSWs5S1p4LVlrRTk2UDJ6ZGhwU3FOdEtQajc0ZGRDVEJNY1pEQVo2N0lPbFBXOUlIYm94VzI5SDB0eDZsNXUyY2ZPSURwZVp4QU4tUW43Wm14ZHJ2Z1pWOUpvY2Jwc2FJMHFIU0ZTVG14elB4S0VtcFp0YmJ0aUIzMDFJWnpNZ1pwNWtJQTBXYjJlV1I0TzFtcHI3ZXZ5aFhDdw?oc=5",
+          "headline": "Advanced semiconductor packaging in India as Paras Semiconductors partners BroadPak - Goodreturns",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.7983,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.617,
+        "trend_momentum": 0.85,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.8 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.617",
+      "rank": 3,
+      "explanation": "Paras Semiconductors Partners with US-based.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "GIFT Nifty jumps over 1",
+      "raw_headline": "GIFT Nifty jumps over 1 pc on easing oil prices, signals strong start for Indian markets - IANS LIVE",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaU51VlNITzBTOF9mWlpJSUo3NVE3QzloS3d5TkRxaGpOaHJsSkl2N1QyZTRoQmlDNVA1a1kyUnpZVEVJbFRraENfeHFRR1lSRG0zQXM3V1pHWVBsY0lDSXZiNUVVaHczVlJHMGh5TGVQWmNYci1QaUtWaWVYZUFTRnMwYlQ4QWxQbTdCZENWcnZlWFNZTmx6RU1BelJXaHVH?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "IANS LIVE",
+      "published_utc": "2026-11-10T08:22:00+00:00",
+      "published_ist": "10 Nov 2026, 01:52 PM IST",
+      "published_timestamp": 1794298920.0,
+      "description": "GIFT Nifty jumps over 1 pc on easing oil prices, signals strong start for Indian markets IANS LIVE",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7885,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.99,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.99",
+      "rank": 4,
+      "explanation": "GIFT Nifty jumps over 1.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "BharatSynthQA: A Context-Grounded Question Answering",
+      "raw_headline": "BharatSynthQA: A Context-Grounded Question Answering Dataset on Indian Temples and Religious Heritage",
+      "url": "https://arxiv.org/abs/2611.11952",
       "source": "arXiv Computer Science & AI",
-      "publisher": "Madhu Sudhan Rao Beesetty, Surbhi Sharma, Devesh Maheshwari, Lokesh Meesala",
-      "published_utc": "2026-11-09T05:00:00+00:00",
-      "published_ist": "09 Nov 2026, 10:30 AM IST",
-      "published_timestamp": 1794200400.0,
-      "description": "arXiv:2611.09085v1 Announce Type: cross Abstract: Hundreds of millions of Indians communicate with digital systems in romanized Latin characters -- typing \"aap kaise hain\" rather than native script -- yet romanized Indic generation is absent from NLP benchmarks and evaluation frameworks. We demonstrate that automatic metrics (BGE-M3, BERTScore) systematically misrepresent the quality of romanized Hindi, Telugu, and Kannada generation. We evaluate four LLMs (Claude Opus 4.8, GPT-5.5, Gemini 2.5-flash, Qwen3.5-35B) on 142 OpenAssistant query-response pairs. On a 72-response diagnostic subset, na",
+      "publisher": "Riya Naik (BITS Pilani, K K Birla Goa Campus, India), Shivam Sharma (Indian Institute of Technology Madras, India), Swati Agarwal (PandaByte Innovations Pvt Ltd, India)",
+      "published_utc": "2026-11-10T05:00:00+00:00",
+      "published_ist": "10 Nov 2026, 10:30 AM IST",
+      "published_timestamp": 1794286800.0,
+      "description": "arXiv:2611.11952v1 Announce Type: cross Abstract: India's temples and other places of worship are among its richest repositories of cultural heritage, bringing together religious tradition, history, architecture, and art. Due to the widespread curiosity, people increasingly turn to Artificial Intelligence (AI) assistants for information about them. Current models are rarely trained or evaluated on this domain. We present BharatSynthQA, a passage grounded question answering (QA) dataset focused on Indian temples, which also covers other religious sites connected to them. Our pipeline crawls Wik",
       "tier": "tier_1_primary",
       "category": "Research Breakthroughs",
       "is_india_focused": false,
@@ -32,289 +260,282 @@
       "is_eligible": true,
       "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
       "scores": {
-        "composite": 0.7883,
+        "composite": 0.7871,
         "credibility": 1.0,
         "evidence_strength": 1.0,
         "india_relevance": 0.54,
-        "recency": 0.907,
+        "recency": 0.899,
         "trend_momentum": 0.4,
         "user_preference": 0.545,
         "technical_significance": 0.55
       },
       "matched_india_keywords": [
-        "india",
-        "indic",
-        "indian"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (india, indic, indian) | Cred: 1.0 | Recency: 0.907",
-      "rank": 1,
-      "explanation": "arXiv:2611.09085v1 Announce Type: cross Abstract: Hundreds of millions.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "AI policy must take into",
-      "raw_headline": "AI policy must take into account democratic bargain - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0dVX3pZYkxLa1RwTDVkUTg1Q1JjdHFqUm4wQ05NcXZ1c1V0TXpPOGpGUWhTSHhYU0w1S1VwRndLUlIxcjlzV0RXVjZUbWdQNmlETm1JU3haTkp5dDRDTmgwUURPemlyTUZkdXRNekl1VHJwU0pRSmJ0ZDBkb3NPM2lJTjRmT2VuYlhuemIzNy1RVlotUVdXZURiZExKOUd1UW1GTXZpLWdxbU5TclJYUtIBtwFBVV95cUxNblFQTEpRQkVFMHhCT09SV2ZUeHFHZVVtMkJFb0lzZHI3UWlyZE5ZU2lzSjVMMExfak9SX0NfdkpKOGlIOVVhTFo1bDFGSmtCS2ZIcXBmMGU1MjVHcGRndHEtWFh0Nm1MaEV4RzR0N2U4bC1Vc0ltNW5FRkVqTVZxWUhMMjJnVE1sZ3BKTnJGU0ZvWUNPZGtOQ1NPRV9BbXRQUTBGdnpPQV90Zl9LeEpsMnBnRGt1cm8?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "The Indian Express",
-      "published_utc": "2026-11-09T01:08:58+00:00",
-      "published_ist": "09 Nov 2026, 06:38 AM IST",
-      "published_timestamp": 1794186538.0,
-      "description": "AI policy must take into account democratic bargain The Indian Express",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7618,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.812,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
+        "bharat",
         "india",
         "indian"
       ],
-      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.812",
-      "rank": 2,
-      "explanation": "AI policy must take into account democratic.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "ASUS Zenbook 14 launched in",
-      "raw_headline": "ASUS Zenbook 14 launched in India with Ceraluminum body, OLED display and up to 33-hour battery",
-      "url": "https://www.livemint.com/technology/gadgets/asus-zenbook-14-launched-in-india-with-ceraluminum-body-oled-display-and-up-to-33-hour-battery-11794210646502.html",
-      "source": "Livemint AI & Technology",
-      "publisher": "Livemint AI & Technology",
-      "published_utc": "2026-11-09T08:13:01+00:00",
-      "published_ist": "09 Nov 2026, 01:43 PM IST",
-      "published_timestamp": 1794211981.0,
-      "description": "ASUS Zenbook 14 launched in India starting at ₹1,36,990, with Intel, AMD, and Snapdragon options. See variant prices, display, battery claims and EMI offers.",
-      "tier": "tier_2_reputable",
-      "category": "India Tech & Economy",
-      "is_india_focused": true,
-      "raw_feed_url": "https://www.livemint.com/rss/technology",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
-      "scores": {
-        "composite": 0.7444,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.996,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.996",
-      "rank": 3,
-      "explanation": "ASUS Zenbook 14 launched in.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "India's newest face in Cyprus",
-      "raw_headline": "India’s newest face in Cyprus doesn’t need a passport - Cyprus Mail",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGl1cHg2M3Q3c0hGS1BJd3BUZFMtR3pIYkM3SEFnV2FhdG1DMXhHVlNQY3dOYkdFTmFMdlJDUWVrc3E1OE1seEpjR3c2NWdrWWVFQzUxOUc0ZHJIODhsaGJLMncyUGtVOHlIVjJyX1RnS3lVNkRiU2VwZ2ZrNGFnM3ZWRlBEWjFocGgzbE9iNA?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "Cyprus Mail",
-      "published_utc": "2026-11-09T06:44:00+00:00",
-      "published_ist": "09 Nov 2026, 12:14 PM IST",
-      "published_timestamp": 1794206640.0,
-      "description": "India’s newest face in Cyprus doesn’t need a passport Cyprus Mail",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7381,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.954,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.954",
-      "rank": 4,
-      "explanation": "India’s newest face in Cyprus doesn’t need.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Nifty may hit 28,000 by",
-      "raw_headline": "Nifty may hit 28,000 by end of 2027 on strong earnings, slower global AI capex: Report - IANS LIVE",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXIyNXZLTEVjc0ZacjFCWU9mNHpqSHBheVd5SUR1NFZRaDNiWnduSWIzS3JFeEdNVFR4MTM5cG83ZEFOQjRGejlGVk9IMXpHZzQtWVVVbEprOEh6X01kR252XzBiYl85Qmk1VmoxV0M5UWJ1X3VkcWJvakZhNDdoUFVVdU45N1N4UWhZZDBlMGZaMTZiVzN3T0FMbU1lSTJRdkVjV0VzY1ZYV3BPTS1ReXliS29rLXdaRFlR?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "IANS LIVE",
-      "published_utc": "2026-11-09T06:27:00+00:00",
-      "published_ist": "09 Nov 2026, 11:57 AM IST",
-      "published_timestamp": 1794205620.0,
-      "description": "Nifty may hit 28,000 by end of 2027 on strong earnings, slower global AI capex: Report IANS LIVE",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7369,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.946,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.74 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.946",
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (bharat, india, indian) | Cred: 1.0 | Recency: 0.899",
       "rank": 5,
-      "explanation": "Nifty may hit 28,000 by.",
+      "explanation": "arXiv:2611.11952v1 Announce Type: cross Abstract: India's temples.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 856,
-    "total_after_lookback": 599,
-    "canonical_events_count": 512,
-    "eligible_events_count": 512,
+    "total_raw_fetched": 1573,
+    "total_after_lookback": 1378,
+    "canonical_events_count": 1165,
+    "eligible_events_count": 1165,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents",
+        "canonical_headline": "META-IR: Meta-Introspective Reasoning for Adaptive Safety Alignment in LLM",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Yuhua Jiang, Chang Xu, Feifei Gao, Li Zhao"
+          "Tiankai Yang, Yi Nian, Xinyuan Li, Ruiyao Xu, Henry Peng Zou, Kaize Ding, Xiyang Hu, Yan Liu, Yue Zhao"
         ]
       },
       {
-        "canonical_headline": "ABHBench: Evaluating Moral Decision-Making of Foundation Models from an Agentic Perspective",
+        "canonical_headline": "Is Recursive Self-Improvement Safe?",
         "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Mingjia Huo, Yao Fu, Bo Chang, Yaqing Wang, Dawei Zhu, Dylan Zhang, Xinyang Yi, Lichan Hong, Ed H. Chi, Hao Zhang, Jiaxi Tang"
-        ]
-      },
-      {
-        "canonical_headline": "MIRA: Mitigating Pole Geometry Bias in Recurrent Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Albert Qin, Jonathan D. Cohen, Gautam Reddy"
-        ]
-      },
-      {
-        "canonical_headline": "LLM-Enhanced Self-Evolving Reinforcement Learning for Multi-Step E-Commerce Payment Fraud Risk Detection",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Bo Qu, Zhurong Wang, Frank Zahradnik, Ming Ouyang"
-        ]
-      },
-      {
-        "canonical_headline": "Subliminal Learning in Vision-Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "H\\'ector Javier V\\'azquez Mart\\'inez, Charles Yang"
-        ]
-      },
-      {
-        "canonical_headline": "Ordered Policy Optimization",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Changyi Xiao, Mengdi Zhang, Yixin Cao"
-        ]
-      },
-      {
-        "canonical_headline": "Empirical Study of Post-Quantum Cryptography Adoption Status in SSH Infrastructure",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Md Ariful Haque, Sander Vinberg, Ben Edwards, Jo\\~ao Cruz"
-        ]
-      },
-      {
-        "canonical_headline": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Chuangtao Ma, Sriom Chakrabarti, Arijit Khan, B\\'alint Moln\\'ar"
-        ]
-      },
-      {
-        "canonical_headline": "Intentmaking and Sensemaking: Human Interaction with AI-Guided Mathematical Discovery",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Eric Hanchen Jiang, Junyi Zhang, Jinxi Yu, Jiachen Lu, Zhi Zhang, Michael Simon, Justin Baker, Richard Cai, Sneha Agarwal, Yubei Li, Hyunsik Chae, Xinjie He, Kyle Zheng, Vigyan Sahai, Ethan Ji, Alexander K Taylor, Yiwen Kou, Kyle Hess, Xiao Liang, Yingnian Wu, J. D. Zamfirescu-Pereira, Andrea Bertozzi, Kai-Wei Chang, Eunice Jun, Raghu Meka, Nanyun Peng, Amit Sahai, Matthew Sottile, Terence Tao, Wei Wang"
-        ]
-      },
-      {
-        "canonical_headline": "Temporal Pair Consistency for Flow Matching",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Shadab Ahamed, Eshed Gal, Md Shahriar Rahim Siddiqui, Simon Ghyselincks, Moshe Eliasof, Eldad Haber"
-        ]
-      },
-      {
-        "canonical_headline": "Nvidia is investigating Jensen Huang's relationship with a Chinese spy",
-        "source": "The Verge Tech & AI",
         "duplicates_merged_count": 2,
         "corroborating_publishers": [
-          "Anthony Ha",
-          "Siddharth Jindal"
+          "InfraRSI Team, Yuchuan Tian, Haocheng Mei, Ye Yuan, Chao Xu, Boxun Li, Guohao Dai, Kai Han, Allen Chen, Yunhe Wang, Yu Wang",
+          "Zihe Gao, Zhengling Qi, Yifan Cui"
         ]
       },
       {
-        "canonical_headline": "South Korea says Nvidia issues won't affect contracted GPU supplies",
-        "source": "Economic Times Tech & AI",
+        "canonical_headline": "Conformal Fair Decoding for Large Language Model Recommenders",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Luxi Lin, Zhihang Lin, Zhanpeng Zeng, Rongrong Ji",
+          "Ilia Azizi"
+        ]
+      },
+      {
+        "canonical_headline": "DiSARM: Diverse and Surprising Association Rule Mining with Large Language Models",
+        "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
+          "Zhen Liu, Zhiqin Yang, Yonggang Zhang, Jianyi Liu, Jinjun Wang, Jingwen Fu"
+        ]
+      },
+      {
+        "canonical_headline": "In Search of Lost Time: Temporal Competence in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Jeimin Jeon, Bumsub Ham",
+          "Yuhao Liu, Mengyu Wang, Xiao Chen, Lu Liu"
+        ]
+      },
+      {
+        "canonical_headline": "DriveFoundry: Co-Evolving Data and Model for Efficient Closed-Loop Iteration in Autonomous Driving",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yan Shi, Kehua Chen, Jiarui Qi, Yihong Tang, Haicheng Liao, Yinhai Wang"
+        ]
+      },
+      {
+        "canonical_headline": "ECOS: Environment-Calibrated On-Policy Self-Distillation for Language Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Simran Kaur, Narutatsu Ri, Yinghui He, Liam Fowl, Sanjeev Arora"
+        ]
+      },
+      {
+        "canonical_headline": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Xudong Wu, Guangchen Lan, Mingqi Yuan, Jiayu Chen"
+        ]
+      },
+      {
+        "canonical_headline": "Med-DualLoRA: Local Adaptation of Foundation Models for 3D Cardiac MRI",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Chunwei Ma, Russell D Wolfinger"
+        ]
+      },
+      {
+        "canonical_headline": "Personalized Alignment of Language Models with Human Value Profiles",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, Ju Sun"
+        ]
+      },
+      {
+        "canonical_headline": "GMD-Mamba: Lightweight 3D Medical Image Segmentation Using a Grouped Multi-Directional Mamba",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Rahim Ullah, Hasan Abbas, Syed Waqar Nabi"
+        ]
+      },
+      {
+        "canonical_headline": "Transit-Oriented Land Use Planning Using Deep Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Leonard S. Pleiss, James Harrison, Maximilian Schiffer"
+        ]
+      },
+      {
+        "canonical_headline": "Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Amirmojtaba Sabour, Michael S. Albergo, Carles Domingo-Enrich, Nicholas M. Boffi, Sanja Fidler, Karsten Kreis, Eric Vanden-Eijnden"
+        ]
+      },
+      {
+        "canonical_headline": "Large Language Models without QK-Normalization",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Debarshi Kundu, Swaroop Ghosh, Vasant G Honavar",
+          "Robin Shing Moon Chan, Tianyu Liu, Samuel Kiegeland, Clemente Pasti, Jacob Hoover Vigly, Timothy J. O'Donnell, Ryan Cotterell, Tim Vieira"
+        ]
+      },
+      {
+        "canonical_headline": "Direct Trajectory Optimization for Inference-Time Alignment of Text-to-Image Diffusion Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shai Dickman, Mert Cemri, Landon Butler, Kannan Ramchandran"
+        ]
+      },
+      {
+        "canonical_headline": "RELAY: Selective Self-Distillation with Adaptive Hand-off for Rubric-Based Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Anshul Nayak, Shahil Shaik, Jonathan Smereka, Yue Wang"
+        ]
+      },
+      {
+        "canonical_headline": "Saidzoda-Tajik-EmbeddingGemma-300M: Knowing Every Letter Is Not Reading Tajik",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Tohir Saidzoda, Nekruz Maxudov, Bedil Karimov, Abubakr Abdullozoda, Amin Jalilov, Jonibek Kishvarov, Rahmonali Sharipov, Mariyamkhon Shodyeva"
+        ]
+      },
+      {
+        "canonical_headline": "Beyond the Transcript: Measuring and Improving the Use of Acoustic Information in Audio Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ayush Rajesh Jhaveri, Anthony GX-Chen, Ilia Sucholutsky, Eunsol Choi"
+        ]
+      },
+      {
+        "canonical_headline": "Two-Sided Conformal Evidence Sets for Retrieval-Augmented Generation",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Miaohe Niu, Pengxiang Li, Jingbo Zhu, Tong Xiao"
+        ]
+      },
+      {
+        "canonical_headline": "Dhara: Evidence-Oriented Retrieval for Indian Knowledge Systems",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Avinash Holenarasipur Nagendra, Anand Kaniyaar Sriranga Prasad, Kousik Sarathy Sridharan, Mohan Raghavan"
+        ]
+      },
+      {
+        "canonical_headline": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "CXOToday.com"
+        ]
+      },
+      {
+        "canonical_headline": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Untangling Nvidia chief Jensen Huang's Chinese spy connection",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Australia tightens AI oversight rules after OpenAI agent breached government website",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "AP News"
+        ]
+      },
+      {
+        "canonical_headline": "China dismisses spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "The Hindu - Technology",
           "electronics.economictimes.indiatimes.com"
+        ]
+      },
+      {
+        "canonical_headline": "Sarvam names Google Cloud India head Sashikumar Sreedharan as president & chief business officer",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 4,
+        "corroborating_publishers": [
+          "Moneycontrol.com",
+          "BW Disrupt",
+          "Siddharth Jindal",
+          "Anjali Jain"
+        ]
+      },
+      {
+        "canonical_headline": "India may gain as global AI investment cycle slows: Report - Telangana Today",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sarkaritel.com"
+        ]
+      },
+      {
+        "canonical_headline": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar - www.pib.gov.in",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "www.pib.gov.in"
+        ]
+      },
+      {
+        "canonical_headline": "Paras Semiconductors partners BroadPak for advanced packaging in India - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com",
+          "electronics.economictimes.indiatimes.com",
+          "electronics.economictimes.indiatimes.com"
+        ]
+      },
+      {
+        "canonical_headline": "Paras Semiconductors Partners with US-based BroadPak Corporation to Build Advanced Semiconductor Packaging Capabilities in India - IBG News",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Rediff MoneyWiz",
+          "Goodreturns"
         ]
       }
     ],
