@@ -2,210 +2,23 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-11-11",
-  "generated_at_ist": "11 Nov 2026, 01:28 PM IST",
+  "report_date": "2026-11-12",
+  "generated_at_ist": "12 Nov 2026, 02:07 PM IST",
   "story_count": 5,
-  "briefing_word_count": 59,
+  "briefing_word_count": 54,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "Anand Mahindra Sees India's Compelling",
-      "raw_headline": "Anand Mahindra Sees India's Compelling AI Opportunity - Rediff",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjQ4bkFqY3p3ME1mcEZNenRnTkNVdmsyeXc0VGNYTHNsRTFTbVFMamZsM2xJdlNhbHNaZlFlTks4bGt0M19vQ0pWSVY0bzZWb1lkOXQ1NWd3WmRfRENOdFpSQy1LMXFJOVVoMlNGSmpfQ0p6cW1WOUlxVXBiek5WMzdzQV9HMmh0OGloanVtN2p5OWl4UUdIa1hlVVFQZXVmVFhkQU8ydnVTNW9oSUVQMTRKTE1xbFliTzFR0gG7AUFVX3lxTE1SNDhuQWpjencwTWZwRk16dGdOQ1V2azJ5dzRUY1hMc2xFMVNtUUxqZmwzbEl2U2Fsc1pmUWVOSzhsa3QzX29DSlZJVjRvNlZvWWQ5dDU1Z3daZF9EQ050WlJDLUsxcUk5VWgyU0ZKal9DSnpxbVY5SXFVcGJ6TlYzN3NBX0cyaHQ4aWhqdW03ank5aXhRR0hrWGVVUVBldWZUWGRBTzJ2dVM1b2hJRVAxNEpMTXFsWWJPMVE?oc=5",
+      "headline": "From Reliance to Sarvam, Nvidia",
+      "raw_headline": "From Reliance to Sarvam, Nvidia sits at the heart of India's AI plans - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLTJBdjhwa1FqQXYwcm5GWDVqVDBKWmluY3dvWjJPQlBEOFZpWlZhVUdJalJYQlpnYUVob1dGdE1jcW4wZmlrVHRuWGprSGpYVDlxNERFV0tnZHRnRmJGMVcyZmkzcjVxRVlGQ1JSTFBLTEp1Y3ZFSnN1NG5za1Fsa08yQ0FuUGZma2t1Qy1lNHlYMDhRb2w1cWQ4QXBFbmREdWtrMVlQYW9ibF80QzRTZDEtWmEyU3BGVm9zN0M5MUJWaFI4aGgyREJsR0NTWTdobm9hVDdVQ0Nad9IB3wFBVV95cUxNd2tXQU5pR0hWVHR5RUk0ejM3ZWxod0N0WS1XVmNJeFdkQmFlSkUzMzd6Y3dIN3FrTXJFOTg2eWlsamU2clEzTVUwY2ZYYlExU3AtUEpsOGstckJxY1ZCTFlicG1wVGd0M3dycGdIazB6aGdvY2ZfalVoNDZZMmlmOUp3bFRpeV9IcWtuRFQwOXJIQ0ZrR1FId0x0X0FJeVlIZFh1R1dzcXZtdWRkOGhvQjRoeVg5WGk1c2JmNXZFYlgxdlZwUFQ5bkcyLVQzUXdEMGhLN1ZkaVhmSXJ2MFow?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "Rediff",
-      "published_utc": "2026-11-10T13:16:34+00:00",
-      "published_ist": "10 Nov 2026, 06:46 PM IST",
-      "published_timestamp": 1794316594.0,
-      "description": "Anand Mahindra Sees India's Compelling AI Opportunity Rediff",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [
-        {
-          "source": "Livemint AI & Technology",
-          "publisher": "Livemint AI & Technology",
-          "url": "https://www.livemint.com/technology/surely-india-has-a-promising-hand-to-play-anand-mahindra-on-nations-compelling-ai-opportunity-11794316642449.html",
-          "headline": "Surely India has a promising hand to play: Anand Mahindra on nations compelling AI opportunity",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Artificial Intelligence",
-          "publisher": "BW Businessworld",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmZDbkFONm5udms3ZjZIRzBpOFB0RkpDN3hNNkQ1dkYweE9WZlVIQzFnV2lpeGl4VDZVYWFDOFdFZXFXWFZCXzdSdWZEUVhIQTkwWG9zcHpSVmZXWTM1R1FIMTlQZ3FnRmJpSlMxbkRRNUl1ZFR2SkNIeWRlbG5zNDVsVWRUOU9HR2tMc3labUFfNGtWRzk5OXZXX0wwMldsT3JJbmJxck9kdzdoVE1WTkNRTzc?oc=5",
-          "headline": "India Has A 'Compelling AI Opportunity' Beyond Chips, LLMs: Anand Mahindra - BW Businessworld",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRmpOMlR5T2c2bTY2VTRUM2lQeGpfM1JWRmhXMUNVUlV1elYtWXQ0M3ROeEJzYXE2bk5Rc0Q5YUVZbWZQbG5MdDNiZkxMY0JKdUFhVWF5NzE2RUNYXzhqajhvTHp3YU5vS0thNUh5bzBQTWRSdzdFSlBVZkJ3ckFZb1hOemZ4Q3IyTnZCUVNtbUFkd1k5YlJtYkRBY2hZQ0ktazhWRDI1QUZZYzhTN1Q1SS1jQzIyWlBnNWJicndlZGtSY01VWWc?oc=5",
-          "headline": "India Has A 'Compelling AI Opportunity' Beyond Chips, LLMs: Anand Mahindra - TradingView",
-          "tier": "tier_2_reputable"
-        }
-      ],
-      "corroboration_count": 3,
-      "cluster_size": 4,
-      "verification_status": "Corroborated (Multi-Source)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 0.9,
-      "is_eligible": true,
-      "verification_rationale": "Corroborated across 4 independent news organizations.",
-      "scores": {
-        "composite": 0.7998,
-        "credibility": 1.0,
-        "evidence_strength": 0.9,
-        "india_relevance": 0.63,
-        "recency": 0.582,
-        "trend_momentum": 1.0,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.8 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.582",
-      "rank": 1,
-      "explanation": "Anand Mahindra Sees India's Compelling AI Opportunity Rediff..",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Nvidia Spy Row: How Dependent",
-      "raw_headline": "Nvidia Spy Row: How Dependent Is India's AI Mission On Nvidia Chips? - Outlook India",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVno0b1VUc20wQW1PNkZscGFwbDF1MTZCcy1JaGVyVWxMX2pzUTkwOVY1SnVZQlJIdVhPbGMtWHVWOGF0ZVl6VlctVC1EanczOTRvdmtlNmFKbUo4Ym5zSDgyMHZiVURFV1BHMHNodS03djJOTjZ3dTc4NDlEYThSOG1RZDg4bXk2bExXbXI0WVpwbG1SLUJRRW9SSk50SkpXS0x6cG1fUdIBtAFBVV95cUxQNE9DSVNvMzFPR1JxV1FFMjEzem9nZGFqQ1l3RVBKLVJVWUl5UFd4Sl9sbEhjZlRldDNfRjA2b3hFbWpIWFZfbkhpclJHT1pvM2ZFaGVPbG80RlBsb0lMcWxxYW9lT2JENEF5bkszRW5NQXZURHBxSnhfQ0JlVFdpWVlmOExCaEF1Q0l6SmVqMlhEN0wwY29RV0NKN01XMVVfdUJyMW05MnNobXVoNjJNaVFDOHY?oc=5",
-      "source": "Google News: India Semiconductor Chips",
-      "publisher": "Outlook India",
-      "published_utc": "2026-11-11T06:16:29+00:00",
-      "published_ist": "11 Nov 2026, 11:46 AM IST",
-      "published_timestamp": 1794377789.0,
-      "description": "Nvidia Spy Row: How Dependent Is India's AI Mission On Nvidia Chips? Outlook India",
-      "tier": "tier_2_reputable",
-      "category": "Semiconductors & Hardware",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
-      "scores": {
-        "composite": 0.7911,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.952,
-        "trend_momentum": 0.4,
-        "user_preference": 0.665,
-        "technical_significance": 0.55
-      },
-      "matched_india_keywords": [
-        "ai mission",
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (ai mission, india) | Cred: 0.85 | Recency: 0.952",
-      "rank": 2,
-      "explanation": "Nvidia Spy Row: How Dependent.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "The Indic Token Tax in",
-      "raw_headline": "The Indic Token Tax in 2026: Measuring Tokenizer. Disparity and Its Cost for the Languages of India",
-      "url": "https://arxiv.org/abs/2611.13058",
-      "source": "arXiv Computer Science & AI",
-      "publisher": "Johin Johny Arimbur, Ankur Ashit Ghosh, Shervin Sam",
-      "published_utc": "2026-11-11T05:00:00+00:00",
-      "published_ist": "11 Nov 2026, 10:30 AM IST",
-      "published_timestamp": 1794373200.0,
-      "description": "arXiv:2611.13058v1 Announce Type: cross Abstract: Commercial language model APIs bill per token, so a tokenizer that needs more tokens for the same content in one language makes that language more expensive, slower, and able to fit less text in a fixed context window. We measure this disparity for nine public tokenizers, including those of GPT-4, GPT-4o, Qwen2.5, DeepSeek-V3, Mistral-Nemo and four Sarvam models, on all 25 languages of India available in FLORES-200 (2,009 professionally translated sentences aligned with English) and on 13,732 human-translated Hinglish-English social media pairs",
-      "tier": "tier_1_primary",
-      "category": "Research Breakthroughs",
-      "is_india_focused": false,
-      "raw_feed_url": "https://rss.arxiv.org/rss/cs.AI",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Verified (Primary Source / Paper)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 1.0,
-      "is_eligible": true,
-      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
-      "scores": {
-        "composite": 0.7898,
-        "credibility": 1.0,
-        "evidence_strength": 1.0,
-        "india_relevance": 0.54,
-        "recency": 0.917,
-        "trend_momentum": 0.4,
-        "user_preference": 0.545,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "indic",
-        "india",
-        "sarvam"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (indic, india, sarvam) | Cred: 1.0 | Recency: 0.917",
-      "rank": 3,
-      "explanation": "arXiv:2611.13058v1 Announce Type: cross Abstract:.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "You Are What You Read:",
-      "raw_headline": "You Are What You Read: Indian Political News Media Bias Dataset for Hindi Language",
-      "url": "https://arxiv.org/abs/2611.13686",
-      "source": "arXiv Computation and Language",
-      "publisher": "Kushal Trivedi, Mayank Mahor, Dhruv Sanghvi, Roshni Chakraborty",
-      "published_utc": "2026-11-11T05:00:00+00:00",
-      "published_ist": "11 Nov 2026, 10:30 AM IST",
-      "published_timestamp": 1794373200.0,
-      "description": "arXiv:2611.13686v1 Announce Type: new Abstract: Media bias understanding and detection remains an under-researched problem for Indian context, specifically for Indic languages, such as, Hindi, which is widely spoken in India. In this paper, we introduce a comprehensive, multi-annotator, explainable dataset consisting of 448 unique articles from four leading Indian news agencies publishing in Hindi. We focus on Hindi, the most spoken and an official language of India. The study of media bias is particularly relevant in the Indian context due to the country's linguistic diversity and large popul",
-      "tier": "tier_1_primary",
-      "category": "LLMs & NLP",
-      "is_india_focused": false,
-      "raw_feed_url": "https://rss.arxiv.org/rss/cs.CL",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Verified (Primary Source / Paper)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 1.0,
-      "is_eligible": true,
-      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
-      "scores": {
-        "composite": 0.7876,
-        "credibility": 1.0,
-        "evidence_strength": 1.0,
-        "india_relevance": 0.54,
-        "recency": 0.917,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "indian",
-        "indic",
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.54 (indian, indic, india) | Cred: 1.0 | Recency: 0.917",
-      "rank": 4,
-      "explanation": "arXiv:2611.13686v1 Announce Type: new Abstract:.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Develop GSI Training Institute in",
-      "raw_headline": "Develop GSI Training Institute in Hyderbad into CoE: Kishan Reddy - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDVvb3JSMlFnVE81NVl4Vy1oWUkweVJ5dmNjNGJQdTRENE5Db1Z3dTNiMXlldHlGUW9xTmpJRDItWDF6ZExUVUhrRUtVNy1rZVgzaVc3LWFoMjd3M0otd05INE41N0hhcW9oRjY4Umg5Zk1CNXM0ejdnb2Y1LXM5enhyc0NsTjFsN0NpczRWdGNQOEVCNFpreW9TWkhxWnRYWFhIcmh0MThBaVpocEpBTkNfSzlmSEZyYk85R2NadnJpX2Vm0gHSAUFVX3lxTE92Q2I2UzBrekRjYzI0VDhHWlV0RkxwRHJjdXZwY3JwZndBSlhsQWN6YmdGSXl5YVhvcnNKMHllNW11VXJ6WHNmMTFaWVI1YXhnX2JRMTdXbng2YkdDMHM3WlNhbTZQa0JueGEySUtncHBEZS1NcW5mcWJfc2VKY0M5dTFWUUJKWFZqbWVSQ05IcFlGaHZMSVZOdFdPQ0d3WUd4MjI1NG5ILXdKbGhReUpJdmYyYzJUekxlNXNSQlZxWnRtZUY2SktSbEJyMDJZQm1FQQ?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "The New Indian Express",
-      "published_utc": "2026-11-11T03:29:50+00:00",
-      "published_ist": "11 Nov 2026, 08:59 AM IST",
-      "published_timestamp": 1794367790.0,
-      "description": "Develop GSI Training Institute in Hyderbad into CoE: Kishan Reddy The New Indian Express",
+      "publisher": "Business Standard",
+      "published_utc": "2026-11-11T15:23:30+00:00",
+      "published_ist": "11 Nov 2026, 08:53 PM IST",
+      "published_timestamp": 1794410610.0,
+      "description": "From Reliance to Sarvam, Nvidia sits at the heart of India's AI plans Business Standard",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -219,11 +32,53 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7717,
+        "composite": 0.7762,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.608,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "sarvam",
+        "india",
+        "reliance"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.99 (sarvam, india, reliance) | Cred: 0.85 | Recency: 0.608",
+      "rank": 1,
+      "explanation": "From Reliance to Sarvam, Nvidia.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indian billionaire, doctors spar over",
+      "raw_headline": "Indian billionaire, doctors spar over $900 brain blood-flow tracker Temple",
+      "url": "https://www.thehindu.com/sci-tech/technology/indian-billionaire-doctors-spar-over-900-brain-blood-flow-tracker-temple/article71692251.ece",
+      "source": "The Hindu - Technology",
+      "publisher": "The Hindu - Technology",
+      "published_utc": "2026-11-12T04:30:00+00:00",
+      "published_ist": "12 Nov 2026, 10:00 AM IST",
+      "published_timestamp": 1794457800.0,
+      "description": "Promotional materials for the device, developed by Deepinder Goyal, ‌say that its BrainFlow feature shows how well the brain is being supplied with blood in real time",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (The Hindu - Technology).",
+      "scores": {
+        "composite": 0.7732,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.878,
+        "recency": 0.888,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
@@ -232,193 +87,235 @@
         "indian",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.878",
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.888",
+      "rank": 2,
+      "explanation": "Promotional materials for the device, developed by Deepinder.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Stringent rules under IndiaAI compute",
+      "raw_headline": "Stringent rules under IndiaAI compute tender leave five empanelled cloud providers out of race - ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS3NkMHc0UEJHT3Z4YjZvRzUwa2YtaWUtOEVZNC1wZmdmYWsyTGtJMWhMR3I3Sl9ucTZ0VU9wVFFldE5kazdFS3phaDlCZzZLYWlCdnNQRmYwZjQ4eE1HODNhM2NoZS1SeGZlX1djWWNJRUdaZnJZSEJOWERLUHBCWlRUUC12bWtYaURXS1F2c0Zta05CSl8tVENnLXpOd3Y3TUVveEFweGVNMDRVbmd6TzlEckxjWTc1NTN6Ui04eHhQajNUYkVna3F4T1hzVXZ1TTc4WW03LTQwR2ZnVjVEYXhjclVLWGoxbHBSTzdYc3R6VS1MY3hKSjZlTlrSAYICQVVfeXFMUGtBRkNoQkItQmNQMUtyT0paWU1WaTk3OFUtRURIWkoxMzhRNXFkcjYyTTQ2ZnZ3ZFNYaEdoc3FLRDRpNWFnN202OUpUSS13dDFKUGRYUnpfTTBVYm1HZkhZbHI5OTdROEtBMERtVmx2Nks1SjVuMS1lWHgtYVdORlFUb3h5azZUaHZJV3BPZHBMeHM5U05MdG9Zb3hyNTJYU2Z4dzd3cjZhVU4xTVhzWFJfVWQ0ZS1ieE9FSXdrTWhkRmF3QTduZC1pQVRZd0RUQ3R3S2QwR3NRa3Y2WjJSbXc2NHdncVBOOXlQZXJ4bWoyNDYyTWhzVEppSWluVnBncFRn?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "ET Enterprise AI",
+      "published_utc": "2026-11-12T03:51:16+00:00",
+      "published_ist": "12 Nov 2026, 09:21 AM IST",
+      "published_timestamp": 1794455476.0,
+      "description": "Stringent rules under IndiaAI compute tender leave five empanelled cloud providers out of race ET Enterprise AI",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7707,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.871,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indiaai"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (india, indiaai) | Cred: 0.85 | Recency: 0.871",
+      "rank": 3,
+      "explanation": "Stringent rules under IndiaAI compute.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "PLA-linked Chinese university bought Nvidia",
+      "raw_headline": "PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOW94UEhfN2czQnpXMEZWZVB1Y1R1VnN1Ymo2YncwUTVHZk5HMy0wNDhDX0FhVHZYUDk3MEo1LWpuUTRSaFNheFJkZ1NlNWdZRmhrNGlDYjctMGpOTlZEaVhWVWhjT3FCUFkxbU5YWUFpTVNydEVTNUNWZjdvUDl4YkxXLXJmTFJkREZyM0NpUGVMNExWa25QUVVFNXNreWRFN1A5VFkyWVhTZzk0RVZfQXJJZFFHWUxfZzgtMDNMOFFQN3UzTlYxdUdQSlBuLS1sTTBtOG9fZ2tfWkg4eEdLQkhnZ2RTd096QkFGSXBwbzc4OEQ2QVBvdmNR?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "electronics.economictimes.indiatimes.com",
+      "published_utc": "2026-11-12T04:21:21+00:00",
+      "published_ist": "12 Nov 2026, 09:51 AM IST",
+      "published_timestamp": 1794457281.0,
+      "description": "PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show electronics.economictimes.indiatimes.com",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "The Hindu - Technology",
+          "publisher": "The Hindu - Technology",
+          "url": "https://www.thehindu.com/sci-tech/technology/military-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/article71692215.ece",
+          "headline": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7609,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.884,
+        "trend_momentum": 0.65,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.884",
+      "rank": 4,
+      "explanation": "PLA-linked Chinese university bought Nvidia.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Can India build AI without",
+      "raw_headline": "Can India build AI without NVIDIA? The chip dependency challenge explained - WION",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmliYmVjNEdpMFZBWnUycVIzbGJHWGszN2pHN0E5T3doaHdjeEdMNFkyMFNuRDNtUVBKZXZOOW1xSkh6QnplTUl4YjhkMVNJTWJLSFRIeUNxZ0xEeUxDOGk2WGlxdE9icHM2VGE0X2Q4MWhTLWItOWpGWnU0bmMzdFNHcWN6dXR3c25OTVBlc2RTN1JEcnlhWHVEUExaeHZRSUVHTkVSeXZ4RHBPZ3pVc1JmQ2xZVE9P0gG-AUFVX3lxTE1ZRm1aUVIwTFZQRUc4TkhkTTJ2ZUJNQ0tzdEEyZnNFMm1xblJyZ0VHcDNpQmVfaU5xY3BTbWRxNXNUYV9LTlczbjB2c0RxckR0TTI2ZDFpZ3dhQms1T2V5b2RPYkZheE9ZRFJFY3hFX2MxYjJxYkR1d1VlR0ZidkhDZDVXMTFxMWo3empqVkZwZldONllEa1ZCeExGR0gxclEtMkhucTBVMFUycW9YTUcwQ1k5WjlxS0J1VGlxS0E?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "WION",
+      "published_utc": "2026-11-12T05:57:00+00:00",
+      "published_ist": "12 Nov 2026, 11:27 AM IST",
+      "published_timestamp": 1794463020.0,
+      "description": "Can India build AI without NVIDIA? The chip dependency challenge explained WION",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ONXNlUFRCeEwyN21zSkNmcUlwdUpKZUZaV2c4T0ZkUE41NVI4V2d0azUyNDVFNDg2SXFIdTlqcHZmRHNEXzM3M2xOMUxnVTR4ZWNz?oc=5",
+          "headline": "Can India build AI without NVIDIA? The chip dependency challenge explained - شبكة تواصل الإخبارية",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7589,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.926,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.926",
       "rank": 5,
-      "explanation": "Develop GSI Training Institute in.",
+      "explanation": "Can India build AI without NVIDIA?..",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 890,
-    "total_after_lookback": 696,
-    "canonical_events_count": 593,
-    "eligible_events_count": 593,
+    "total_raw_fetched": 331,
+    "total_after_lookback": 110,
+    "canonical_events_count": 97,
+    "eligible_events_count": 97,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "Tracing Psychometric Inference in Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 3,
-        "corroborating_publishers": [
-          "Tomer Solberg",
-          "Chenxiao Yu, Bowen Yi, Farzan Karimi-Malekabadi, Suhaib Abdurahman, Jinyi Ye, Shrikanth Narayanan, Yue Zhao, Morteza Dehghani",
-          "Shu Yang, Shenzhe Zhu, Hao Zhu, Jos\\'e Ram\\'on Enr\\'iquez, Di Wang, Alex Pentland, Michiel A. Bakker, Jiaxin Pei"
-        ]
-      },
-      {
-        "canonical_headline": "Understanding Mixture-of-Experts Language Models Beyond Expert Boundaries",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Junhyuck Kim, Jihun Yun, Haechan Kim, Gyeongman Kim, Joonghyun Bae, Jaewoong Cho"
-        ]
-      },
-      {
-        "canonical_headline": "Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Jos\\'e Roberto Homeli da Silva, Felipe Jorge do Nascimento, Lucas Coutinho Freitas, William Alberto Cruz Casta\\~neda, Marcellus Amadeus",
-          "Melody Zixuan Li, Taylor Webb"
-        ]
-      },
-      {
-        "canonical_headline": "Margin-Guided Token Credit for Reinforcement Learning with Verifiable Rewards",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Zijian Zhang, Rizhen Hu, Jiangweizhi Peng, Shiyang Li, Sujay Bhatt, Sihan Zeng, Mingyi Hong"
-        ]
-      },
-      {
-        "canonical_headline": "Representational Atoms in Neural Networks",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Adrian Wurm"
-        ]
-      },
-      {
-        "canonical_headline": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Nischay Dhankhar, Alisher Amantay, Zhanibek Datbayev, Darkhan Akhmetov, Yash Shah, Nurmukhamed Ubaidullayev, Raman Saparkhan, Dos Baha, Abulhair Saparov"
-        ]
-      },
-      {
-        "canonical_headline": "SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Senhao Liu, Yuheng Zhang, Chunyu Wei, Yueguo Chen, Xinran Zhang",
-          "Miaohe Niu, Xinyu Liu, Runsong Zhao, Pengxiang Li, Jingbo Zhu, Tong Xiao"
-        ]
-      },
-      {
-        "canonical_headline": "SplitLite: Low-Rank Residual Compression for Split Learning",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Junyi Zou, Avrova Donz"
-        ]
-      },
-      {
-        "canonical_headline": "TERM: Target-Free Jailbreak Defense via Entropy-Guided Residual Modulation",
-        "source": "arXiv Computation and Language",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Haoyi Wu, Yunkai Dang, Wanyu Zhang, Lei Wang, Wenbin Li"
-        ]
-      },
-      {
-        "canonical_headline": "Walrus Technical Report",
-        "source": "arXiv Computation and Language",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "MNN Team"
-        ]
-      },
-      {
-        "canonical_headline": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "canonical_headline": "The unfolding Jensen Huang scandal: a timeline",
         "source": "TechCrunch AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Stevie Bonifield"
+          "The Hindu - Technology"
         ]
       },
       {
-        "canonical_headline": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
-        "source": "The Hindu - Technology",
+        "canonical_headline": "Nvidia is reportedly preparing to fire Jensen Huang",
+        "source": "The Verge Tech & AI",
         "duplicates_merged_count": 2,
         "corroborating_publishers": [
-          "Economic Times Tech & AI",
-          "Amanda Silberling"
+          "Amanda Silberling",
+          "The Hindu - Technology"
         ]
       },
       {
-        "canonical_headline": "Anthropic targets valuation of about $1 trillion in IPO",
-        "source": "Economic Times Tech & AI",
+        "canonical_headline": "How backlash and red tape continue to slow data centers post-Blue Wave",
+        "source": "TechCrunch AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Rebecca Bellan, Ram Iyer"
+          "Theresa Loconsolo, Rebecca Bellan, Tim De Chant"
         ]
       },
       {
-        "canonical_headline": "Anand Mahindra Sees India's Compelling AI Opportunity - Rediff",
-        "source": "Google News: India Artificial Intelligence",
-        "duplicates_merged_count": 3,
-        "corroborating_publishers": [
-          "Livemint AI & Technology",
-          "BW Businessworld",
-          "TradingView"
-        ]
-      },
-      {
-        "canonical_headline": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
-        "source": "Economic Times Tech & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "electronics.economictimes.indiatimes.com",
-          "Economic Times Tech & AI"
-        ]
-      },
-      {
-        "canonical_headline": "Anthropic brings Claude to Google Meet to tackle tasks live",
-        "source": "Economic Times Tech & AI",
+        "canonical_headline": "Google's AlphaGenome 2 zooms in on the cellular roots of disease",
+        "source": "The Verge Tech & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "The Indian Express"
+          "Google DeepMind"
         ]
       },
       {
-        "canonical_headline": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
-        "source": "Economic Times Tech & AI",
+        "canonical_headline": "Analysis-Binance hack reveals cryptos uphill battle against hackers",
+        "source": "Livemint AI & Technology",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Mukundan Sivaraj"
+          "The Hindu - Technology"
         ]
       },
       {
-        "canonical_headline": "Froncort.AI Gets $2.3M From Google.org to Expand AI-Based Disease Screening in India",
-        "source": "Analytics India Magazine",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Anne Florentyna"
-        ]
-      },
-      {
-        "canonical_headline": "Qantas airways to cut 850 jobs, move some roles to India as it embraces AI - ET Now",
-        "source": "Google News: India Artificial Intelligence",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Mukundan Sivaraj"
-        ]
-      },
-      {
-        "canonical_headline": "India needs new generation of semiconductor systems engineers: Lam Research - electronics.economictimes.indiatimes.com",
+        "canonical_headline": "PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show - electronics.economictimes.indiatimes.com",
         "source": "Google News: India Semiconductor Chips",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "electronics.economictimes.indiatimes.com"
+          "The Hindu - Technology"
         ]
       },
       {
-        "canonical_headline": "Gemini 4 Carbon is now available - blog.google",
+        "canonical_headline": "Qualcomm India layoffs: Over 1,000 jobs at risk amid global cuts",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "OpenTools"
+        ]
+      },
+      {
+        "canonical_headline": "India ranked an AI Rising Contender by BCG, built on talent rather than compute",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Convergence Now"
+        ]
+      },
+      {
+        "canonical_headline": "Can India build AI without NVIDIA? The chip dependency challenge explained - WION",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "شبكة تواصل الإخبارية"
+        ]
+      },
+      {
+        "canonical_headline": "Beam Global's EV ARC™ Named Connected Infrastructure Solution of the Year in Inaugural GovTech Breakthrough Awards - Quiver Quantitative",
         "source": "Google News: AI Breakthroughs & Models",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "TechGig"
+          "Quantisnow"
         ]
       }
     ],

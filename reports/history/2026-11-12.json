@@ -1,0 +1,325 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-12",
+  "generated_at_ist": "12 Nov 2026, 02:07 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 54,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "From Reliance to Sarvam, Nvidia",
+      "raw_headline": "From Reliance to Sarvam, Nvidia sits at the heart of India's AI plans - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLTJBdjhwa1FqQXYwcm5GWDVqVDBKWmluY3dvWjJPQlBEOFZpWlZhVUdJalJYQlpnYUVob1dGdE1jcW4wZmlrVHRuWGprSGpYVDlxNERFV0tnZHRnRmJGMVcyZmkzcjVxRVlGQ1JSTFBLTEp1Y3ZFSnN1NG5za1Fsa08yQ0FuUGZma2t1Qy1lNHlYMDhRb2w1cWQ4QXBFbmREdWtrMVlQYW9ibF80QzRTZDEtWmEyU3BGVm9zN0M5MUJWaFI4aGgyREJsR0NTWTdobm9hVDdVQ0Nad9IB3wFBVV95cUxNd2tXQU5pR0hWVHR5RUk0ejM3ZWxod0N0WS1XVmNJeFdkQmFlSkUzMzd6Y3dIN3FrTXJFOTg2eWlsamU2clEzTVUwY2ZYYlExU3AtUEpsOGstckJxY1ZCTFlicG1wVGd0M3dycGdIazB6aGdvY2ZfalVoNDZZMmlmOUp3bFRpeV9IcWtuRFQwOXJIQ0ZrR1FId0x0X0FJeVlIZFh1R1dzcXZtdWRkOGhvQjRoeVg5WGk1c2JmNXZFYlgxdlZwUFQ5bkcyLVQzUXdEMGhLN1ZkaVhmSXJ2MFow?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Business Standard",
+      "published_utc": "2026-11-11T15:23:30+00:00",
+      "published_ist": "11 Nov 2026, 08:53 PM IST",
+      "published_timestamp": 1794410610.0,
+      "description": "From Reliance to Sarvam, Nvidia sits at the heart of India's AI plans Business Standard",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7762,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.608,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "sarvam",
+        "india",
+        "reliance"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.99 (sarvam, india, reliance) | Cred: 0.85 | Recency: 0.608",
+      "rank": 1,
+      "explanation": "From Reliance to Sarvam, Nvidia.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indian billionaire, doctors spar over",
+      "raw_headline": "Indian billionaire, doctors spar over $900 brain blood-flow tracker Temple",
+      "url": "https://www.thehindu.com/sci-tech/technology/indian-billionaire-doctors-spar-over-900-brain-blood-flow-tracker-temple/article71692251.ece",
+      "source": "The Hindu - Technology",
+      "publisher": "The Hindu - Technology",
+      "published_utc": "2026-11-12T04:30:00+00:00",
+      "published_ist": "12 Nov 2026, 10:00 AM IST",
+      "published_timestamp": 1794457800.0,
+      "description": "Promotional materials for the device, developed by Deepinder Goyal, ‌say that its BrainFlow feature shows how well the brain is being supplied with blood in real time",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (The Hindu - Technology).",
+      "scores": {
+        "composite": 0.7732,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.888,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.888",
+      "rank": 2,
+      "explanation": "Promotional materials for the device, developed by Deepinder.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Stringent rules under IndiaAI compute",
+      "raw_headline": "Stringent rules under IndiaAI compute tender leave five empanelled cloud providers out of race - ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS3NkMHc0UEJHT3Z4YjZvRzUwa2YtaWUtOEVZNC1wZmdmYWsyTGtJMWhMR3I3Sl9ucTZ0VU9wVFFldE5kazdFS3phaDlCZzZLYWlCdnNQRmYwZjQ4eE1HODNhM2NoZS1SeGZlX1djWWNJRUdaZnJZSEJOWERLUHBCWlRUUC12bWtYaURXS1F2c0Zta05CSl8tVENnLXpOd3Y3TUVveEFweGVNMDRVbmd6TzlEckxjWTc1NTN6Ui04eHhQajNUYkVna3F4T1hzVXZ1TTc4WW03LTQwR2ZnVjVEYXhjclVLWGoxbHBSTzdYc3R6VS1MY3hKSjZlTlrSAYICQVVfeXFMUGtBRkNoQkItQmNQMUtyT0paWU1WaTk3OFUtRURIWkoxMzhRNXFkcjYyTTQ2ZnZ3ZFNYaEdoc3FLRDRpNWFnN202OUpUSS13dDFKUGRYUnpfTTBVYm1HZkhZbHI5OTdROEtBMERtVmx2Nks1SjVuMS1lWHgtYVdORlFUb3h5azZUaHZJV3BPZHBMeHM5U05MdG9Zb3hyNTJYU2Z4dzd3cjZhVU4xTVhzWFJfVWQ0ZS1ieE9FSXdrTWhkRmF3QTduZC1pQVRZd0RUQ3R3S2QwR3NRa3Y2WjJSbXc2NHdncVBOOXlQZXJ4bWoyNDYyTWhzVEppSWluVnBncFRn?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "ET Enterprise AI",
+      "published_utc": "2026-11-12T03:51:16+00:00",
+      "published_ist": "12 Nov 2026, 09:21 AM IST",
+      "published_timestamp": 1794455476.0,
+      "description": "Stringent rules under IndiaAI compute tender leave five empanelled cloud providers out of race ET Enterprise AI",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7707,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.871,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indiaai"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (india, indiaai) | Cred: 0.85 | Recency: 0.871",
+      "rank": 3,
+      "explanation": "Stringent rules under IndiaAI compute.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "PLA-linked Chinese university bought Nvidia",
+      "raw_headline": "PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOW94UEhfN2czQnpXMEZWZVB1Y1R1VnN1Ymo2YncwUTVHZk5HMy0wNDhDX0FhVHZYUDk3MEo1LWpuUTRSaFNheFJkZ1NlNWdZRmhrNGlDYjctMGpOTlZEaVhWVWhjT3FCUFkxbU5YWUFpTVNydEVTNUNWZjdvUDl4YkxXLXJmTFJkREZyM0NpUGVMNExWa25QUVVFNXNreWRFN1A5VFkyWVhTZzk0RVZfQXJJZFFHWUxfZzgtMDNMOFFQN3UzTlYxdUdQSlBuLS1sTTBtOG9fZ2tfWkg4eEdLQkhnZ2RTd096QkFGSXBwbzc4OEQ2QVBvdmNR?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "electronics.economictimes.indiatimes.com",
+      "published_utc": "2026-11-12T04:21:21+00:00",
+      "published_ist": "12 Nov 2026, 09:51 AM IST",
+      "published_timestamp": 1794457281.0,
+      "description": "PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show electronics.economictimes.indiatimes.com",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "The Hindu - Technology",
+          "publisher": "The Hindu - Technology",
+          "url": "https://www.thehindu.com/sci-tech/technology/military-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/article71692215.ece",
+          "headline": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7609,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.884,
+        "trend_momentum": 0.65,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.884",
+      "rank": 4,
+      "explanation": "PLA-linked Chinese university bought Nvidia.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Can India build AI without",
+      "raw_headline": "Can India build AI without NVIDIA? The chip dependency challenge explained - WION",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmliYmVjNEdpMFZBWnUycVIzbGJHWGszN2pHN0E5T3doaHdjeEdMNFkyMFNuRDNtUVBKZXZOOW1xSkh6QnplTUl4YjhkMVNJTWJLSFRIeUNxZ0xEeUxDOGk2WGlxdE9icHM2VGE0X2Q4MWhTLWItOWpGWnU0bmMzdFNHcWN6dXR3c25OTVBlc2RTN1JEcnlhWHVEUExaeHZRSUVHTkVSeXZ4RHBPZ3pVc1JmQ2xZVE9P0gG-AUFVX3lxTE1ZRm1aUVIwTFZQRUc4TkhkTTJ2ZUJNQ0tzdEEyZnNFMm1xblJyZ0VHcDNpQmVfaU5xY3BTbWRxNXNUYV9LTlczbjB2c0RxckR0TTI2ZDFpZ3dhQms1T2V5b2RPYkZheE9ZRFJFY3hFX2MxYjJxYkR1d1VlR0ZidkhDZDVXMTFxMWo3empqVkZwZldONllEa1ZCeExGR0gxclEtMkhucTBVMFUycW9YTUcwQ1k5WjlxS0J1VGlxS0E?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "WION",
+      "published_utc": "2026-11-12T05:57:00+00:00",
+      "published_ist": "12 Nov 2026, 11:27 AM IST",
+      "published_timestamp": 1794463020.0,
+      "description": "Can India build AI without NVIDIA? The chip dependency challenge explained WION",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ONXNlUFRCeEwyN21zSkNmcUlwdUpKZUZaV2c4T0ZkUE41NVI4V2d0azUyNDVFNDg2SXFIdTlqcHZmRHNEXzM3M2xOMUxnVTR4ZWNz?oc=5",
+          "headline": "Can India build AI without NVIDIA? The chip dependency challenge explained - شبكة تواصل الإخبارية",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7589,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.926,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.926",
+      "rank": 5,
+      "explanation": "Can India build AI without NVIDIA?..",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 331,
+    "total_after_lookback": 110,
+    "canonical_events_count": 97,
+    "eligible_events_count": 97,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "The unfolding Jensen Huang scandal: a timeline",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Nvidia is reportedly preparing to fire Jensen Huang",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Amanda Silberling",
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "How backlash and red tape continue to slow data centers post-Blue Wave",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Theresa Loconsolo, Rebecca Bellan, Tim De Chant"
+        ]
+      },
+      {
+        "canonical_headline": "Google's AlphaGenome 2 zooms in on the cellular roots of disease",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Google DeepMind"
+        ]
+      },
+      {
+        "canonical_headline": "Analysis-Binance hack reveals cryptos uphill battle against hackers",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Qualcomm India layoffs: Over 1,000 jobs at risk amid global cuts",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "OpenTools"
+        ]
+      },
+      {
+        "canonical_headline": "India ranked an AI Rising Contender by BCG, built on talent rather than compute",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Convergence Now"
+        ]
+      },
+      {
+        "canonical_headline": "Can India build AI without NVIDIA? The chip dependency challenge explained - WION",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "شبكة تواصل الإخبارية"
+        ]
+      },
+      {
+        "canonical_headline": "Beam Global's EV ARC™ Named Connected Infrastructure Solution of the Year in Inaugural GovTech Breakthrough Awards - Quiver Quantitative",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Quantisnow"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
