@@ -1,0 +1,458 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-13",
+  "generated_at_ist": "13 Nov 2026, 01:55 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 99,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "OpenAI to process AI requests in India to meet data localisation needs - Business Standard",
+      "raw_headline": "OpenAI to process AI requests in India to meet data localisation needs - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWkd2REtMN2Y4MzBuTm5OMF9RX2FPZVR6YmVMUzFBd2JJd2lvTHk4ZXdXVHp5NG43R1RSa3UzSWxCU19lLWM3UGxLdDluRWRSTEdMZWtCeGk0UDZhTlpxYUtMZzhXZWZuSi1Oc1VVbno2WFdmSTlObVpnOVE3NmhwSmhOeWl6RlY0NXR3RzJraWlpLU9qTmIxalRuYWJ6emRPU0lWMTZBUDFpbklpMXpyVmtfOU1xR01WZWVMY0p4R3ZfMi10ejQwalNCSWlsTHQzSldtSGduSmQ1X25qYUtmc3laN1BWTDJqU01sbUxGYk_SAfYBQVVfeXFMT0hLb3ZwT1UweHNWVkVkOUFHdjNhMHF6NHY3M2x6cmFpdEpqMFd6TUE2NS1lOVh6a0MwUkdZRXBIZHNOeENoYjdoakMycDk5VlIxd2ozbzByQ0lIOHpOeWhmcmVKT2ZuYWhuWTByT0NTWGZESmFBaU5Scjl4bmxvRV83UlFncmV0M1ZMWU9DLVdVRktqZU5XcS1sbG9sQndpWUZWM0hXZTVHTU93SHRnajVORUJmaThUbWViRUJ3VFJhd0dXYk1fYWdFWlNxLXZiY01LZG9rRkRtbTJ4Q0VDTzdzdDlfS1p0TlRZZDR0WTBfcExoeUp3?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Business Standard",
+      "published_utc": "2026-11-12T09:29:13+00:00",
+      "published_ist": "12 Nov 2026, 02:59 PM IST",
+      "published_timestamp": 1794475753.0,
+      "description": "OpenAI to process AI requests in India to meet data localisation needs Business Standard",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "The Hindu - Technology",
+          "publisher": "The Hindu - Technology",
+          "url": "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece",
+          "headline": "OpenAI now allows enterprises to process AI requests within India",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "ET CIO",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTjE5NmJndXFyOE54Zmo3WVM1ODNWNzhsdHllVjBPVUVXMEw0ZjZOQmx0YkVjVi1PNm9oT0FwcTJyRkRnRFpUVm1ITmtId3pOaU5TRzBwcldzeFYwZk1HT0ItQlRFRkFyVnNmU3ZqRGNIa2xaRWtXUEU3cHhHWjdrMFFIbUNhaDYwZ1dGVl9sbzdmWEstMEhzSlljS2UzclJYMFFZcVZQSzFpaldTTkFsMWV0X0htMEJZWS1PTmgyVTFQR3pRTDZ6dGZmNXlRMmhiVFVWa3FNZWMwWXFVMWtmY2xMY0d6djFUM2FSWlRQczI2eXRxeUVKWVVIZk8zS0HSAf8BQVVfeXFMT04xOTZiZ3VxcjhOeGZqN1lTNTgzVjc4bHR5ZVYwT1VFVzBMNGY2TkJsdGJFY1YtTzZvaE9BcHEyckZEZ0RaVFZtSE5rSHd6TmlOU0cwcHJXc3hWMGZNR09CLUJURUZBclZzZlN2akRjSGtsWkVrV1BFN3B4R1o3azBRSG1DYWg2MGdXRlZfbG83ZlhLLTBIc0pZY0tlM3JSWDBRWXFWUEsxaWpXU05BbDFldF9IbTBCWVktT05oMlUxUEd6UUw2enRmZjV5UTJoYlRVVmtxTWVjMFlxVTFrZmNsTGNHenYxVDNhUlpUUHMyNnl0cXlFSllVSGZPM0tB?oc=5",
+          "headline": "OpenAI to process AI requests within India for businesses with data localisation needs - ET CIO",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.7748,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.515,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.515",
+      "rank": 1,
+      "explanation": "OpenAI to process AI requests.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Performance Expectancy and Support Drive AI Adoption in Indian Construction - Bioengineer.org",
+      "raw_headline": "Performance Expectancy and Support Drive AI Adoption in Indian Construction - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFViRVRNdXYyeVpHMWJDN1hkM0FsME1pTUZJekJlS1VyMU9zamppMHV5bUY3Q0lpOFNQbXVGa3h4bEY3ZFo1LXlidkhvaHZhZHpXNWotdFFab1NHWkJScXBwNVFESjlVZXhfTmxxbDVmZExrbW16Rk9wNEoyVm91WFVYWHEtTTA2eTloMDJidkFUUkNWMDA0ekNQWng5SDJfeFE?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Bioengineer.org",
+      "published_utc": "2026-11-13T02:27:33+00:00",
+      "published_ist": "13 Nov 2026, 07:57 AM IST",
+      "published_timestamp": 1794536853.0,
+      "description": "Performance Expectancy and Support Drive AI Adoption in Indian Construction Bioengineer.org",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7662,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.841,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.841",
+      "rank": 2,
+      "explanation": "Performance Expectancy and Support Drive AI Adoption.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?",
+      "raw_headline": "Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?",
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-why-did-microsoft-outlook-and-other-products-go-offline-globally/article71696554.ece",
+      "source": "The Hindu - Technology",
+      "publisher": "The Hindu - Technology",
+      "published_utc": "2026-11-13T05:20:21+00:00",
+      "published_ist": "13 Nov 2026, 10:50 AM IST",
+      "published_timestamp": 1794547221.0,
+      "description": "Users across India awakened to find their workplace inboxes inaccessible, while others across the world lost hours of productivity",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
+      "corroborating_sources": [
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Shrishti Bisht",
+          "url": "https://inc42.com/buzz/microsoft-365-outage-disrupts-outlook-teams-globally",
+          "headline": "Microsoft 365 Outage Disrupts Outlook, Teams Globally",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (The Hindu - Technology).",
+      "scores": {
+        "composite": 0.7571,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.914,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.914",
+      "rank": 3,
+      "explanation": "Users across India awakened to find their.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang resigns amid spy scandal",
+      "raw_headline": "Nvidia CEO Jensen Huang resigns amid spy scandal",
+      "url": "https://www.thehindu.com/news/international/nvidia-ceo-jensen-huang-resigns-amid-scandal/article71694271.ece",
+      "source": "The Hindu - Technology",
+      "publisher": "The Hindu - Technology",
+      "published_utc": "2026-11-12T15:56:59+00:00",
+      "published_ist": "12 Nov 2026, 09:26 PM IST",
+      "published_timestamp": 1794499019.0,
+      "description": "Chief financial officer Colette Kress will serve as interim CEO while keeping her finance role, and the board will consider internal and external candidates for a permanent replacement",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
+      "corroborating_sources": [
+        {
+          "source": "The Hindu - Technology",
+          "publisher": "The Hindu - Technology",
+          "url": "https://www.thehindu.com/videos/shows/watch-jensen-huang-resigns-as-nvidia-ceo-amid-affair-with-alleged-chinese-spy-above-the-fold-nov-12-2026/article71695054.ece",
+          "headline": "Watch: Jensen Huang resigns as Nvidia CEO amid affair with alleged Chinese spy | Above the Fold | Nov 12, 2026",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Team Inc42",
+          "url": "https://inc42.com/buzz/jensen-huang-resigns-as-ceo-of-chipmaker-nvidia",
+          "headline": "Jensen Huang Resigns As CEO Of Chipmaker NVIDIA",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.7457,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.45,
+        "recency": 0.621,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.45 (Global impact) | Cred: 1.0 | Recency: 0.621",
+      "rank": 4,
+      "explanation": "Chief financial officer Colette Kress will serve as interim. Expands domestic.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Studies on Sign Language Retrieval in Low-Resource Dictionary Settings",
+      "raw_headline": "Studies on Sign Language Retrieval in Low-Resource Dictionary Settings",
+      "url": "https://arxiv.org/abs/2611.16621",
+      "source": "arXiv Computer Science & AI",
+      "publisher": "Ushnish Sarkar, Vineet Kumar Rakesh, Bhaswar Chattopadhyay, Tapas Samanta",
+      "published_utc": "2026-11-13T05:00:00+00:00",
+      "published_ist": "13 Nov 2026, 10:30 AM IST",
+      "published_timestamp": 1794546000.0,
+      "description": "arXiv:2611.16621v1 Announce Type: new Abstract: Most sign languages have no annotated corpus, only small dictionaries with one or a few example videos per sign. This study examines how well a pose encoder trained on a single sign language serves such languages without any target-language training. An encoder trained with metric learning on American Sign Language (ASL-Citizen) is evaluated frozen on six datasets of Turkish, Russian, Indian, Argentinian, Pakistani and Sri Lankan sign languages, with one or four clips per sign enrolled and, where signer identities are available, the query's signe",
+      "tier": "tier_1_primary",
+      "category": "Research Breakthroughs",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.AI",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.743,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.36,
+        "recency": 0.905,
+        "trend_momentum": 0.4,
+        "user_preference": 0.545,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.74 | India Rel: 0.36 (india, indian) | Cred: 1.0 | Recency: 0.905",
+      "rank": 5,
+      "explanation": "arXiv:2611.16621v1 Announce Type: new Abstract: Most sign languages have. Directly.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 1110,
+    "total_after_lookback": 912,
+    "canonical_events_count": 768,
+    "eligible_events_count": 768,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Benchmarking Multilingual Document Understanding in Vision-Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Dazhao Du, Shiyan Du, Jian Liu, Yongjian Yu, Bohai Gu, Tao Han, Jie Zhang, Hualuo Liu, Eric Liu, Yujia Zhang, Xi Chen, Song Guo"
+        ]
+      },
+      {
+        "canonical_headline": "Hint-Informed Self-Distillation for Reasoning Segmentation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yang Li, Gongle Xue, Yuheng Yuan, Yijia Guo, Shizhe Zhang, Liwen Hu, Lei Ma"
+        ]
+      },
+      {
+        "canonical_headline": "Is the Importance Ratio Necessary for Stable Reinforcement Learning in LLMs?",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yutong Huang, Vikranth Srivatsa, Alex Asch, Yiying Zhang"
+        ]
+      },
+      {
+        "canonical_headline": "DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Huyu Wu, Meng Tang, Xinhan Zheng, Haiyun Jiang",
+          "Zhihan Yang, Wei Guo, Jean-Marie Lemercier, Simon Welker, Mohammad Mahdi Kamani, Yonggan Fu, Sajad Norouzi, Julius Berner, Tomas Geffner, Karsten Kreis, Yongxin Chen, Molei Tao, John Thickstun, Pavlo Molchanov, Ante Juki\\'c, Arash Vahdat, Morteza Mardani"
+        ]
+      },
+      {
+        "canonical_headline": "ZONOS3-Mini Technical Report",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Aoxiong Yin, Auden Li, Chao Huang, Chuanyang Hu, Eitan Wang, Ethan Zou, Fangming Feng, Guangyu Chen, Guinan Li, He Wang, Jiahong Li, Meng Yu, Mingyu Cui, Peng Wang, Rongjie Li, Steve Yves, Teddy Sun, Tian Zheng, Wei Liu, Yang Zhou, Yixuan Zhang, Zhennan Lin, Zhihang Xu, Zhuohao Li, Ziqiang Zhang, Anji Zhang, Bang Wang, Caisheng Ouyang, Chengqi Zhu, Chong Li, Conglian Xie, Dongdong Wang, Edward Wang, Evelynn Liu, Ferman Yang, Feng Lu, Gang Zhang, Jathon Zhang, Jaxl Liu, Jiachen Luo, Jian Li, Jingxi Gui, Kysun Wang, Liang Dong, Longsha Zhou, Na Hu, Qi Chen, Rilin Chen, Rui Yuan, Shanshan Sang, Siyu Yan, Steven Hong, Taihui Wang, Weiwei Li, Xiangyu Zhang, Xiaotong Yang, Xue Hu, Xue Jiang, Yameng Li, Yifu Sun, Yuhuan Zhou, Zhiang Chen, Zhibin Wang"
+        ]
+      },
+      {
+        "canonical_headline": "MusicRWKV: A Multimodal RWKV Framework for Music Representation Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Muhammad Khan, Xiaodong Cui, Brian Kingsbury, George Saon"
+        ]
+      },
+      {
+        "canonical_headline": "Sketching Language Models for Context Attribution",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Dan Lee, Seungwook Han, Akarsh Kumar, Pulkit Agrawal"
+        ]
+      },
+      {
+        "canonical_headline": "MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jiayu Ding, Shuming Ma, Lei Cui, Nanning Zheng, Furu Wei"
+        ]
+      },
+      {
+        "canonical_headline": "CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Naman Saxena, Vaneet Aggarwal"
+        ]
+      },
+      {
+        "canonical_headline": "Janus-MOPD: Tracing the Student Learning Dynamics in Multi-Teacher On-Policy Distillation",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Lin Yao"
+        ]
+      },
+      {
+        "canonical_headline": "Google's latest Search upgrade promises better answers to your most complicated questions",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Stevie Bonifield"
+        ]
+      },
+      {
+        "canonical_headline": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Rebecca Bellan"
+        ]
+      },
+      {
+        "canonical_headline": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Widespread outage hits Microsoft apps",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shrishti Bisht"
+        ]
+      },
+      {
+        "canonical_headline": "Nvidia CEO Jensen Huang resigns amid spy scandal",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "The Hindu - Technology",
+          "Team Inc42"
+        ]
+      },
+      {
+        "canonical_headline": "OpenAI to process AI requests in India to meet data localisation needs - Business Standard",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "The Hindu - Technology",
+          "ET CIO"
+        ]
+      },
+      {
+        "canonical_headline": "Microsoft outage crosses 12 hours: Outlook, Teams, Copilot and other services – what's working and what's down?",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Supreeth Koundinya"
+        ]
+      },
+      {
+        "canonical_headline": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Economic Times Tech & AI"
+        ]
+      },
+      {
+        "canonical_headline": "Exponentia.ai Certified as Best Firm for Data Scientists",
+        "source": "Analytics India Magazine",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "AIM Media House",
+          "Analytics India Magazine"
+        ]
+      },
+      {
+        "canonical_headline": "Ola Electric Q2 Loss Down 13% To ₹362 Cr, Revenue Dips 39%",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Akshit Pushkarna"
+        ]
+      },
+      {
+        "canonical_headline": "Top 10 Best Business Intelligence Consulting Companies In India In 2027 - Inventiva",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Inventiva"
+        ]
+      },
+      {
+        "canonical_headline": "Actionstep Named \"Overall Practice Management Solution Provider of the Year\" in 2026 LegalTech Breakthrough Awards Program - PR Newswire",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "PR Newswire"
+        ]
+      },
+      {
+        "canonical_headline": "UniCourt Honored As \"Overall LegalTech Company of the Year\" in the 2026 LegalTech Breakthrough Awards Program - GlobeNewswire",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "GlobeNewswire"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
