@@ -1,0 +1,287 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-14",
+  "generated_at_ist": "14 Nov 2026, 01:17 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 52,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Softbank further trims India exposure,",
+      "raw_headline": "Softbank further trims India exposure, offloads Meesho shares worth Rs 1,885 crore",
+      "url": "https://economictimes.indiatimes.com/tech/technology/softbank-further-trims-india-exposure-offloads-meesho-shares-worth-rs-1885-crore/articleshow/135821247.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-11-14T03:10:17+00:00",
+      "published_ist": "14 Nov 2026, 08:40 AM IST",
+      "published_timestamp": 1794625817.0,
+      "description": "In the latest transaction, SVF II Meerkat (DE) LLC, an affiliate of SoftBank, offloaded 7.64 crore shares in Bengaluru-based Meesho, according to the block deal data on the National Stock Exchange (NSE). The share sale was executed on Friday at an average price of Rs 246.75 apiece, taking the total deal value to Rs 1,885.17 crore.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Team Inc42",
+          "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr",
+          "headline": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "scores": {
+        "composite": 0.7963,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.875,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "bengaluru"
+      ],
+      "ranking_rationale": "Composite: 0.8 | India Rel: 0.81 (india, bengaluru) | Cred: 0.85 | Recency: 0.875",
+      "rank": 1,
+      "explanation": "In the latest transaction, SVF II Meerkat.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indian tech CEOs discuss investment",
+      "raw_headline": "Indian tech CEOs discuss investment and AI partnerships with NJ Governor - New India Abroad",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFBwNTdjNVB4LWVfYWgtT2JBa2VOeE1mT09LQUtxQkMyRndmWGhZTlU0N3U2ZzNWbUswM0M1Q2lMQXFVVzRSdXZnN3NpRHVMSkhZVnU4LVplbVNxRHVfbVMzUVBVT0YtYkh3QVZDLU92MVJlbHFxT0lXSkI1OEpfZzhtZjU1NUJldzN1MmtKeDcybWJiQmtPckR5OTg4a1BkeU52RlIyVmhQQWthTDV4UmYxaUM3U0tHSHFZSkZZbw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "New India Abroad",
+      "published_utc": "2026-11-14T07:32:26+00:00",
+      "published_ist": "14 Nov 2026, 01:02 PM IST",
+      "published_timestamp": 1794641546.0,
+      "description": "Indian tech CEOs discuss investment and AI partnerships with NJ Governor New India Abroad",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.789,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.993,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.993",
+      "rank": 2,
+      "explanation": "Indian tech CEOs discuss investment.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "How Artificial Intelligence is Changing",
+      "raw_headline": "How Artificial Intelligence is Changing the Way Indians Buy Homes - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzN5UG12WGhfRHdUeUxpLXE2UnQ0eFBuLTJ3QUtHMUZKa19kOW82TUFGeWRrLTNXWDJzQWF1ZjY1WTREek5qUVI3bE4xd1RyMFp0QlZFUk4wX25nbDJYTDZMSWgxU2RDLVA0WW1JdFNHTmRwZW1uV0ZKZWZvbzF4V24wcEFZQU00c0Z4Q194ME1NanFUZzl6a01sNlE2alA2MFpiWGJwWm43bmVPaHp6NzBlVGpLc0tN?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Realty Plus Magazine",
+      "published_utc": "2026-11-14T04:09:06+00:00",
+      "published_ist": "14 Nov 2026, 09:39 AM IST",
+      "published_timestamp": 1794629346.0,
+      "description": "How Artificial Intelligence is Changing the Way Indians Buy Homes Realty Plus Magazine",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.775,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.9,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.9",
+      "rank": 3,
+      "explanation": "How Artificial Intelligence is Changing.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Simplify Alpha™ opens AI engineering",
+      "raw_headline": "Simplify Alpha™ opens AI engineering and innovation center in Hyderabad, joined by Simplify Healthcare® and SimplifyX™",
+      "url": "https://economictimes.indiatimes.com/tech/technology/simplify-alpha-opens-ai-engineering-and-innovation-center-in-hyderabad-joined-by-simplify-healthcare-and-simplifyx/articleshow/135798924.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-11-13T10:30:16+00:00",
+      "published_ist": "13 Nov 2026, 04:00 PM IST",
+      "published_timestamp": 1794565816.0,
+      "description": "Hyderabad joins Pune and Mumbai as the third India location for the Simplify Group™ companies, adding capacity for customer delivery and growth.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "scores": {
+        "composite": 0.7687,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 1.0,
+        "recency": 0.541,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india",
+        "mumbai",
+        "hyderabad",
+        "pune"
+      ],
+      "ranking_rationale": "Composite: 0.77 | India Rel: 1.0 (india, mumbai, hyderabad, pune) | Cred: 0.85 | Recency: 0.541",
+      "rank": 4,
+      "explanation": "Hyderabad joins Pune and Mumbai.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Nvidia episode prods India to",
+      "raw_headline": "Nvidia episode prods India to speed up its semiconductor mission - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJybmZVZHRqOWM0U3JGZ2tEc3lIYkh3ZVQ0cWZtYU5HdWNPc05ldlhkblNUNHdNREpSWHpsWHpyTUt0SWtoWWpTcnNtdndmWVdJRElzd1ZCTmoyZW82enRQMWlpb1NiT3ZzRVBlSENZNVRyYUZyX01zMWZielV3YUFZNTN5V0tZZjZwaGZBQTVadVFzQzRLeWxmZGY1djBHaU5XWkxod0l1ZEY3djlJNFE5RzVxT0I2SjRF0gHIAUFVX3lxTFBBMThPTDhsRFFSbkhkUnVKNXpyVHZQVktuTURfSHNqSGRrX3pkZlp6ZEZzaE9uVENfUWlHbF9hTnE2Y0tTZ29tWGpHbnJZclQ4c0dxNk12STBkU3dOMnBHUjA1bTFLNlFibDZ1eW8zXzM0Sng0ak5DNzJzU3VDaFI5bVNuMWVsa1d0QVJNWk5aWTNTWGhZQXJUVTBvLThPOTNfZXFJaE5HdkNEN0lGb3U2RlAxSVplRU5NWUZGQmFBODgzeU1OSUFx?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "The New Indian Express",
+      "published_utc": "2026-11-13T18:40:31+00:00",
+      "published_ist": "14 Nov 2026, 12:10 AM IST",
+      "published_timestamp": 1794595231.0,
+      "description": "Nvidia episode prods India to speed up its semiconductor mission The New Indian Express",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.751,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.685,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.685",
+      "rank": 5,
+      "explanation": "Nvidia episode prods India to.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 334,
+    "total_after_lookback": 91,
+    "canonical_events_count": 85,
+    "eligible_events_count": 85,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "ChatGPT's new Wallet lets AI agents shop and check out for you",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Stevie Bonifield"
+        ]
+      },
+      {
+        "canonical_headline": "Who is Jensen Huang and how the timeline of spy scandal unfolded",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Amanda Silberling"
+        ]
+      },
+      {
+        "canonical_headline": "Amazon's plan to own the world's product data and fight AI shopping agents",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Stevie Bonifield"
+        ]
+      },
+      {
+        "canonical_headline": "Microsoft outage affects businesses, government agencies and AI platforms: Full list of services impacted",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Softbank further trims India exposure, offloads Meesho shares worth Rs 1,885 crore",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Team Inc42"
+        ]
+      },
+      {
+        "canonical_headline": "Zaggle Q2 Profit Slips 30% YoY To ₹24.5 Cr Despite Revenue Uptick",
+        "source": "Inc42 Indian Startups & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gaurav Bagur"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
