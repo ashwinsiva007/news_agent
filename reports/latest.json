@@ -2,185 +2,79 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-11-15",
-  "generated_at_ist": "15 Nov 2026, 01:36 PM IST",
+  "report_date": "2026-11-16",
+  "generated_at_ist": "16 Nov 2026, 01:45 PM IST",
   "story_count": 5,
-  "briefing_word_count": 97,
+  "briefing_word_count": 50,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "Global Capital Shifts Away From AI, Boosting Indian Equities - Analytics Insight",
-      "raw_headline": "Global Capital Shifts Away From AI, Boosting Indian Equities - Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGl3VGJZMDJObFJoMUpMZ2hVOFBkZ2pQbzBJVEdoemxMWWlVZmtTTFJBeVYwQ081bnU3Qkd1NG5WSzhjRnZlNTBHdzRmRmJLT0FnRTRHQ0FxdFNSWEJhX2xaUDBfUTFBSUZnSHNzTDA0ekFKdFlzRkQ3M3V2WUFJN2dDcnA3d0NZZWkydVJ0OUtReU1lUVNMcnZ5OW94UdIBqwFBVV95cUxPSU50U2JmQmtGQUZFMlplV3JPSEdvTUppdkg3RzAtMy1JcUx4c2pzYWZBblltaUtzLXFnUTdDUnJDdElnX1NBWm1YM2VWWF9OWjh0UWpBSzdRRVczVl9mUm9ISi1teWEtclNyWkdfXzdJbHBtdWpkZXQ5ZXlFbUdoN2RGdnRYZGdXbkhUeDNDcFBFM2FiZVlJZk1nRlpNTG55NS1YTTA4YmZNWms?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "Analytics Insight",
-      "published_utc": "2026-11-15T06:43:33+00:00",
-      "published_ist": "15 Nov 2026, 12:13 PM IST",
-      "published_timestamp": 1794725013.0,
-      "description": "Global Capital Shifts Away From AI, Boosting Indian Equities Analytics Insight",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7842,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.961,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "indian",
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.961",
-      "rank": 1,
-      "explanation": "Global Capital Shifts Away From AI, Boosting.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "AI must make justice accessible: Ram Nath Kovind - The New Indian Express",
-      "raw_headline": "AI must make justice accessible: Ram Nath Kovind - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1JxeXFHZnVuSUU0bG9qUmQxOTg0YjJMdldZak1FMGFvbkRIbkpScGdKTk1qYUdXRzVZeTJITnlocWFUZ0hRblo5LTBVMWZYTTNvcjFtbUJzQXpOaU5mY2FXNlF3NG5zMFd5RzRaeGN5N2FMWDRLOUd5ZWJiYmpOZTJUcllGNjZTbWwyc2h0SUxjSTV0bzJ4YlhIRktCLXdpaTNHZ2RRWkh2dV9aVkRxTUNNTlPSAcIBQVVfeXFMTWNKRUwtLUZRY0tIYU9hOUhIT1FCS2ZJU2lOdlM2S3RyNHhzNFpNbDVoSWtfX1ZvVmdpUHRfNk9pbUpxQU9uSk9wVW5vWEo2V1FzSlFORE5PeEJJdjRaVFZScTh4OHdsd2pYM3Fna3FPUFJrNzZaWFVrNnlLYXFiNzhlZjlMSmNCM2FIejFsVW15S1k5THFwRWZ3dVd3Y2QzX2czR1MtRXVWSTF4bkhkNjFTZlFGS1hLWWFjdk1lVmNNWXc?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "The New Indian Express",
-      "published_utc": "2026-11-15T02:55:07+00:00",
-      "published_ist": "15 Nov 2026, 08:25 AM IST",
-      "published_timestamp": 1794711307.0,
-      "description": "AI must make justice accessible: Ram Nath Kovind The New Indian Express",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7692,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.861,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "indian",
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.861",
-      "rank": 2,
-      "explanation": "AI must make justice accessible: Ram.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "AI retreat fuels India stock comeback in great rotation trade - The Business Times",
-      "raw_headline": "AI retreat fuels India stock comeback in great rotation trade - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemhEMlU1dVRfMDVnNE42SmZwTzBGRWlPT2lpQ21NN3VGdXZUa2pHYkhVemQ0b2FOdDhacUcxYnFDWTZ6MWtWVVYtZUlFcnlIUTM3OE5vbGoxTk1BNW9lU0JFODNQR0tjNzJFQk5qWC00MXVkQ2NOeXdYQ3Zab2U4ZmVjV0FlOUJsOUV4NjlNXzhWbUFobDROY3MwMUNybmNNOE16bV9jdnd5U2xRV3hFbVdMQzM1N1ZjN0VQNHJkYzFGaUc4MlpodTZLc1p4dkFkZlE?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "The Business Times",
-      "published_utc": "2026-11-15T05:09:00+00:00",
-      "published_ist": "15 Nov 2026, 10:39 AM IST",
-      "published_timestamp": 1794719340.0,
-      "description": "AI retreat fuels India stock comeback in great rotation trade The Business Times",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.7327,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.918,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.73 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.918",
-      "rank": 3,
-      "explanation": "AI retreat fuels India stock.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Semicon boom expected to power up 100k jobs in three years",
-      "raw_headline": "Semicon boom expected to power up 100k jobs in three years - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd3pxdTJBNzBERm5UajNXc1doc1NET1lLcFEyd1JZZWstVGJwUjRTTWlmNTJVVVZrUlByOGduRUxKQ3UyTngwdnZwMEtSSFEtS2tPaVo1TVRZVDNyaHpmbEFoMUxkblhiZE1paTRtVTlTaWQ0MEhzd2FLSXVBQlc1S2ViY05FTUFWUUJDNlY2VkFObVVUbTVwampHTkRkbUgxYi1pN2ZvZm9McXV6QlNXd3RNYlV3MmI1SjNLYmVMbTRtbzU5NVV4ZERkMTViTlBsUGV1Q25UM0Fsbkc0bnFRT9IB5gFBVV95cUxNajdCb1JpU0xoRVpVTUZhOEowbEp1R3FGZnFSbGFiLVE4Uzl2Rl9wenRtQ0NwV2syOWFOdnZHMWRmb3dXdGZ2SzRCS2V1ZWs1bW9nV1JOa3ctcGMxM0ZMVEQ5cEJGcmowdjJvUmJlM3ZVeF9DNVN6T1hJb2FoWGpLQ01BQlBUWlRFYnBVWjI4RkNJQlRveGJwQlhKNzcwZjJEZUllMk9ubmJKWUY3MzRvc21XcEw5UWc0SXQ4VHZnMW1JbkRabUVpTmh5VE1HMGMwX2lJbmxDaGtoVXQwcEo5WFJ5ZjNGdw?oc=5",
+      "headline": "Bharat Semi raises $24 million",
+      "raw_headline": "Bharat Semi raises $24 million to develop intelligent sensors for AI - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWhNamplTUo4d3ZxRlNwTi1FeGMzeWlpM0dnZUtNWTFSLU9nR0hBbEY3d3B6cVZ1YXFPNlhXZHdXaWpIYmJGNHNNRkJLT3ZBOXk5NU5iLWpXcndyN0h0VExuNkhDb0dVQzVlRFRieWN4VGFCLS1NUldxVlRVRnZnQ0h4UVlZN2IyRjFUeXlldFpMWmpqYk05UzU0Tm5NWl9XNTVjb29UR0pLdkgtbWpLZUFYeXl2dW5INGJqNXdRcGotMDZHUEVHN3pDOFZpV19ZckVlWWF0S3LSAd4BQVVfeXFMT3p3QUlXbzFSQ29WeGhXeDNvdm0yTThlN0taUUprdnJ3NEFIaG40ZnlMRDM2VXRkcGZDbGdwclZkcXVmNWRtdnZVSnA3Uk15bVBUMG9ldGEwdjc1VzNwM2pZRjZRVkMwbklsVEdISnpYMFp6aTRVM1NkMDdiVHQza3IzOXRIeUV3WmJsbk15SW1hbG9fQzB2Q1dvcWJOeldtYTB5SGlKMGtPQWZral9nYjlZSkU3ano0Y3ZnZzZWZXZpTjg0QjRrUUV4cTF2WXlubmV6eGJZcS04U2Y5Qzdn?oc=5",
       "source": "Google News: India Semiconductor Chips",
-      "publisher": "The Economic Times",
-      "published_utc": "2026-11-15T00:00:00+00:00",
-      "published_ist": "15 Nov 2026, 05:30 AM IST",
-      "published_timestamp": 1794700800.0,
-      "description": "Semicon boom expected to power up 100k jobs in three years The Economic Times",
+      "publisher": "Business Standard",
+      "published_utc": "2026-11-16T00:30:22+00:00",
+      "published_ist": "16 Nov 2026, 06:00 AM IST",
+      "published_timestamp": 1794789022.0,
+      "description": "Bharat Semi raises $24 million to develop intelligent sensors for AI Business Standard",
       "tier": "tier_2_reputable",
       "category": "Semiconductors & Hardware",
       "is_india_focused": true,
       "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Indian Startup News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUY1RlgxS1ZyUkp1aGc3N2Y4ZkRHLVJhN3hIMkJMOWVlczVQU1RmREt3SXF6eHZielJOaDBSb1p5dDI5dzRxUnpyY3Q2ZDN4ZEFhdE4ya1VkVGlOOTVzcGxjRW5aRWFFTGw0RDJsZ090bm9DVFJISmNqcUJnV2h3R1JZTEJhWkZhUUZwY2FZdFEzcWNHSmZLNWlyN2M0NEtCWkNOQkxwb0tWRl95Ymd0dE1lNW5vN1BCVnRxTkFXUFV4d1RpT0JYZWRSZmF1Tk93dmdZ0gHTAUFVX3lxTE9ZRjVGWDFLVnJSSnVoZzc3ZjhmREctUmE3eEgyQkw5ZWVzNVBTVGZES3dJcXp4dmJ6Uk5oMFJvWnl0Mjl3NHFSenJjdDZkM3hkQWF0TjJrVWRUaU45NXNwbGNFblpFYUVMbDREMmxnT3Rub0NUUkhKY2pxQmdXaHdHUllMQmFaRmFRRnBjYVl0UTNxY0dKZks1aXI3YzQ0S0JaQ05CTHBvS1ZGX3liZ3R0TWU1bm83UEJWdHFOQVdQVXh3VGlPQlhlZFJmYXVOT3d2Z1k?oc=5",
+          "headline": "Bharat Semi raises $24 million in funding to build AI sensors for robots, cameras and drones - Indian Startup News",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Inc42 Indian Startups & AI",
+          "publisher": "Anjali Jain",
+          "url": "https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai",
+          "headline": "Bharat Semi Raises $24 Mn To Build Smart Sensors For Physical AI",
+          "tier": "tier_3_coverage"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
       "scores": {
-        "composite": 0.7219,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.791,
-        "trend_momentum": 0.4,
+        "composite": 0.8706,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.81,
+        "recency": 0.799,
+        "trend_momentum": 0.85,
         "user_preference": 0.665,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
+        "bharat",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.72 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.791",
-      "rank": 4,
-      "explanation": "Semicon boom expected to power up 100k jobs.",
+      "ranking_rationale": "Composite: 0.87 | India Rel: 0.81 (bharat, india) | Cred: 1.0 | Recency: 0.799",
+      "rank": 1,
+      "explanation": "Bharat Semi raises $24 million.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Semiconductor and AI Revolution - pib.gov.in",
-      "raw_headline": "Semiconductor and AI Revolution - pib.gov.in",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyTEVxMzFmYU16TklvOVBzb2M1NFl5ME5Iem1FX3hGQjJIdzhqWlBpT3VZSk9QdlJRRGc2TmlfdU43Rmx5WWJTOEdxVENpbXNvR2dTNFlpcUhyMGV3RVEyRzJPdklMczdhemhfOVFDWkk1b0NlWmhoVg?oc=5",
+      "headline": "Indian startup Bharat Semi bags",
+      "raw_headline": "Indian startup Bharat Semi bags Rs 215 crore, will now develop next-gen AI chips for global markets - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdVZ2eTVadkptTnRrenZFZzVYTlhYVDlCUXZETXVRVUVKSVlEQVNNcWRsLW1pVHFta2YwampDeGE0S0ZNOGxOVE01YWZCSi0teFRXcTJ6Z2p6RFlsLWJ5OTlvczVKdzdtbTVSZTFvdVVuVW9MZHNOMXRKWVBWVG1ET2hyNy1wVEFmaUgtblZQRmlRMjV0OS0xTVVBd2phU0FlY0FyLTlEbHFwUnpKQlFETmF0eVoxd1FXZUxWZHEwTGRlWEQ3a2ZYZ2tQUWhWVkJoNDc3VTY1UTA5Vmpfc1JyZndJbmltZjRoa2ZuU091Nnpha1BtaUY1WdIB_gFBVV95cUxPbEdVSVFoRmk1dk5oNXR6UnNXSl9zZGd0QWViQkEzMGdoTjFUTXJhQ2txTThYSEhtSTdDektZWHAwdnJtamg3eFZrUUlCZTZFZm04S3FwZXdyYmlHUlN5QjhTNnJvM294T1RsSndsSmtWMTBNX3pxWERFSnZjVmR4MFF3WmlsZVBLWkRCcEF6TTV4REJlTEtqZjFUTHJOdjRHVTdzRGMxM19JYUVGdl9wNG1GeVVHMVprM3B0TjZIWHMwemRZVm44UUhKOVB5QTd5YUQ5WkhsNnE3SXhDOVdvdS04T3JuSENvTGFhak1jNmJDWV9LZ3ZPSTJKZVpadw?oc=5",
       "source": "Google News: India Semiconductor Chips",
-      "publisher": "pib.gov.in",
-      "published_utc": "2026-11-14T23:39:51+00:00",
-      "published_ist": "15 Nov 2026, 05:09 AM IST",
-      "published_timestamp": 1794699591.0,
-      "description": "Semiconductor and AI Revolution pib.gov.in",
+      "publisher": "India Today",
+      "published_utc": "2026-11-16T07:44:06+00:00",
+      "published_ist": "16 Nov 2026, 01:14 PM IST",
+      "published_timestamp": 1794815046.0,
+      "description": "Indian startup Bharat Semi bags Rs 215 crore, will now develop next-gen AI chips for global markets India Today",
       "tier": "tier_2_reputable",
       "category": "Semiconductors & Hardware",
       "is_india_focused": true,
@@ -194,31 +88,261 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
       "scores": {
-        "composite": 0.7209,
+        "composite": 0.841,
         "credibility": 0.85,
         "evidence_strength": 0.8,
-        "india_relevance": 0.63,
-        "recency": 0.784,
+        "india_relevance": 0.99,
+        "recency": 0.985,
         "trend_momentum": 0.4,
         "user_preference": 0.665,
         "technical_significance": 0.55
       },
       "matched_india_keywords": [
+        "bharat",
+        "indian",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.72 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.784",
+      "ranking_rationale": "Composite: 0.84 | India Rel: 0.99 (bharat, indian, india) | Cred: 0.85 | Recency: 0.985",
+      "rank": 2,
+      "explanation": "Indian startup Bharat Semi bags.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India Joins US-Led Declaration to",
+      "raw_headline": "India Joins US-Led Declaration to Secure AI Supply Chains Amid China Competition - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDk0aFBvQ1pxay1MMk9rN1ktcEhFaEVuV2JOeGhEYl94bXdaU1FyUmNjeFZmRG5oQUdSY01tV1VWdjJ5NFE2Q3RsTzJhbUlKbFgxZnVBX3hHSjE5VVhiZWNqeUU2cDVZaFdnMVNlU0ZWZHEyZTlMLTlGQUU4UldSQ3hCMVNvc0ZzWldQZWlMdmU0eWdBaW5iZmNGNVNIMXlBcjByenM4eUYxRk5abFdIaTVNcnM?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Open Magazine",
+      "published_utc": "2026-11-16T03:06:36+00:00",
+      "published_ist": "16 Nov 2026, 08:36 AM IST",
+      "published_timestamp": 1794798396.0,
+      "description": "India Joins US-Led Declaration to Secure AI Supply Chains Amid China Competition Open Magazine",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Semiconductor Chips",
+          "publisher": "Outlook India",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTDM4Ti1Gb0sxOUhwYUlyT2F6eFd4YU50OEVKOWRnRTE3Yzd5dHY0aktRMV9Ra2x1cFZjWUdob1A2eFZyWThQWTJpSzBlcTM1eTB4TUxFZVg0czViVWhnbEpwdC1Ta1VyRVZQVnIzZUtRUGhuYWdNaDk5U0NTSlg5d2ZQc0tyejdKQlhseGxIbnVGbzcyWVZlYS1MSDZxdVZKQUhzMXMwY2FzdDlwcFdmYnBTbUxURmtPMUhEVkM4M1BZeTVqLWtEVkZWQ3NKUdIB2wFBVV95cUxNSTlCMU9scHNmUkRwdXphbk93dWtNN3d0WWZkNUw4UG1VMzIxZlgzcTdkc1Z6LXQwWkI4Ynk4aFM3ZWFGS01nbEJMWmdjZVppemJvZmhqaTF4ajZXNnA1ZHBmN0dSQXBINklNcXBtYWZ2LVgyS2Vqa1JSOUVQRVhXUjZ3Y0Ntb2k2ZndsZjM4ckxwV1ZCUC14WnAwOEhnNlMyTFBmQXFYX1k2WEtQMEdDSkZfaDloc2N6Z1BXdUs2T21NYnBGeEZVWWphRE0tc3JoQWdZYTRrR2xsRXM?oc=5",
+          "headline": "India Joins US-Led San Francisco Declaration To Secure AI Supply Chains Amid China Rivalry - Outlook India",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa3h6dThyYkNsSDVQb2NzUE5kNDJxWHpKZ3VDSl8tOTdQVXhOam5BODlxS08xRlFzT3hCSV9IMFNHM082VFBqUlBJS0xKMUQ3SHpoUHdBY0JkZkRtQ1NVVm5SOHF0QWN1WDROY1Jjcl9Ic2steU56OFRIa3lwUzZMQkU1RDdLMnVtNWFlaUxqMWQyZEZWbE5jbXlKTmk4dmhmUHdiaHNKQk9zejRhcTZNNjBVaDQtLXp1ZnN5bk50SE5QYXZXSWZhaTd3Y1FhcVc4MTlzV3Z3ONIB1wFBVV95cUxQa3h6dThyYkNsSDVQb2NzUE5kNDJxWHpKZ3VDSl8tOTdQVXhOam5BODlxS08xRlFzT3hCSV9IMFNHM082VFBqUlBJS0xKMUQ3SHpoUHdBY0JkZkRtQ1NVVm5SOHF0QWN1WDROY1Jjcl9Ic2steU56OFRIa3lwUzZMQkU1RDdLMnVtNWFlaUxqMWQyZEZWbE5jbXlKTmk4dmhmUHdiaHNKQk9zejRhcTZNNjBVaDQtLXp1ZnN5bk50SE5QYXZXSWZhaTd3Y1FhcVc4MTlzV3Z3OA?oc=5",
+          "headline": "India, US, Eight Other Nations Sign Declaration To Secure AI Supply Chains - Deccan Chronicle",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8268,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.862,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.862",
+      "rank": 3,
+      "explanation": "India Joins US-Led Declaration to.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "At just 13, Pune boy",
+      "raw_headline": "At just 13, Pune boy develops an AI application for biological cell tracking and earns India Book of Reco - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOTkxCeEV3VzdQbTRfcmI1UzIwUUVEdmNsZlFNYUxyRl84dWVLV2k5c2xKeU1pNURUcUtNMjQ5M192aUVhaDRPRHdiVFYxR3MtTEozdml2TkNkOXFwc1RvN3AtYm96TExaWUJaazZscVd1dmlTb1NiRDUxNWJwazNpU3d1YnZESENtTy01REFaOUc1TW5MRzlwOGFMb2tKTWxCVVFVZ2RNSzJMNFlmS2Y5WGhkM3RTVnIxYk5ma1I1VkdKaS1saFdxeHJNUE1VTHdlN1ZNazNWVlJCMEh5OHR6YmRTaDRyMTB3M1VjMWt3cnIxdlEtak8yWTFqeFBmZEJaR0owcHRnX0hvUGgyS3cwWUVmMGM3dDNSekIxMUs3dGh6UdIBpwJBVV95cUxOcV9hSEpsS1FFLS1pMHdkWFBfODF1WjRpdmxxTG5Tam1RR3Q5dGtITFlsY2FLNmJ2d0ptaTZKVXVSU2pVZjU3anJvYi1yS0N4S1FTSnRMLWpQWUhfaVZLYkJnOEE1U0hhUXc3ODlFQmx2SHJoTkdLMnVHODhIYUotdVNXLUJ5Z0pqOWtYeTVpanNmVGZiekk1ekpNTjlOY21MUXUtazRZVEZLYmJrN0lTQjFtZFFaVHRCRmRRYi1TZkNaT2tMYVdETlJKbHV6MTBySUZ5SnBBWlktVUpkOGdQMGJubjUwLXJQR1p2c2F0a21xSi1wekVvMk1hZHFpbG5DZm5rLWkyci1zNDRpUnZZaDBFT291NDBOLUlHSVdyeC1tdHl6SGcw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The Times of India",
+      "published_utc": "2026-11-16T07:55:00+00:00",
+      "published_ist": "16 Nov 2026, 01:25 PM IST",
+      "published_timestamp": 1794815700.0,
+      "description": "At just 13, Pune boy develops an AI application for biological cell tracking and earns India Book of Reco The Times of India",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7885,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.99,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "pune",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (pune, india) | Cred: 0.85 | Recency: 0.99",
+      "rank": 4,
+      "explanation": "At just 13, Pune boy.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI data centre demand drives",
+      "raw_headline": "AI data centre demand drives chip shortage, raises costs for Indian automakers - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPQWx1ZXJKdkJSNUZBT0hYaGJxa0EwdU4wSDJUOHZPTEVQNmYtdFFyNWdUcjJmUEttSGdNcW9pTGZtWnZtR21mU2kwbE1YMnhGMjl0QkI4bVFQRFRLNkd4ZXVYV3Z0cTlPQnpqaXd6WGdFSFlycTF4d2hzYUk0ZjAwNGNjeUZTb0V3SUJ6ZS1GcElpSWxvSkxEVUxGaURYdGhtVFZHTjZOb0RsMHMtTkZUMGNxUUU5QnlPVzJqZDg3eDJaamdETXpMekhBNkRxd2g2MnFjOXRvQ0FiYlB3R0Z2dXk5VWJLNFBJVEs3Y0JPYmtIQ3ZlRGJqNXNtU21ZbWVDc2dGanEtT0ZFdUtwSW5MaTIzaThmUjBlY2ZGSi11OXBobGV3eWtuQWZiclVRckxK0gH_AUFVX3lxTE9KWThXeWVzR282MHNOVWVjYUxNTGJ6cEx0WW1UMDE5TE40NnNFNERnc0dZMzRSQnI4S2JnQTEyUXBSU2VVS0oxd2tRZy14WV8tdUdZX2RWU2Z1NzhZbzhlWm9MSW9HaVN1WlVXSWUzSkJoa19Pd19FRU9Ncm45MzIybGMtVDk4WV9LaUdQel9jQ295TDVqQ0ZQcTVzalpSOWFZZXpDTXpocjZTREFNOFBvejNnZlZIamsteC1Wa0t5STBGd0RNR3ExYXZHa0luS0JwVEN5QmxaU2xkVWs0R0I4dUtQa0NDR0xiOV9iRElJQ05OM0VDRlhwdExMVGFQWQ?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "ET Datacenters",
+      "published_utc": "2026-11-16T05:23:14+00:00",
+      "published_ist": "16 Nov 2026, 10:53 AM IST",
+      "published_timestamp": 1794806594.0,
+      "description": "AI data centre demand drives chip shortage, raises costs for Indian automakers ET Datacenters",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7863,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.92,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.92",
       "rank": 5,
-      "explanation": "Semiconductor and AI Revolution pib.gov.in. Directly impacts India's India sector.",
+      "explanation": "AI data centre demand drives.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 314,
-    "total_after_lookback": 48,
-    "canonical_events_count": 48,
-    "eligible_events_count": 48,
+    "total_raw_fetched": 708,
+    "total_after_lookback": 472,
+    "canonical_events_count": 404,
+    "eligible_events_count": 404,
     "rejected_events_count": 0,
-    "duplicate_groups": [],
+    "duplicate_groups": [
+      {
+        "canonical_headline": "AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Tony H. Zhang, Connor Mattson, Daniel S. Brown"
+        ]
+      },
+      {
+        "canonical_headline": "FlexCast: Flexible Context Learning for Time Series Foundation Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yang Chen, Feifan Tian, Cong Wang, Cheng Feng, Wenbin Li, Yang Gao"
+        ]
+      },
+      {
+        "canonical_headline": "OmniScore-Bench: Evaluating Vision-Language Models on Musical Score Reading",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Aayush Marasini, Barsat Khadka, Nick Rahimi"
+        ]
+      },
+      {
+        "canonical_headline": "CarryOn: Learning What to Keep in Context for Long-Horizon LLM Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sergio Hern\\'andez-Guti\\'errez, Matteo Merler, Ilze Amanda Auzina, Joschka Str\\\"uber, Ameya Prabhu, Matthias Bethge"
+        ]
+      },
+      {
+        "canonical_headline": "Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gregory Kang Ruey Lau, Hieu Dao, Nicole Kan Hui Lin, Bryan Kian Hsiang Low"
+        ]
+      },
+      {
+        "canonical_headline": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Siqi Guo, Ming Lin, Tianbao Yang"
+        ]
+      },
+      {
+        "canonical_headline": "Apple launches new app to study how people use AI for health",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "AI could reshape banking economics as early adopters see nearly 3x returns: McKinsey",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Times of India"
+        ]
+      },
+      {
+        "canonical_headline": "Bharat Semi raises $24 million to develop intelligent sensors for AI - Business Standard",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Indian Startup News",
+          "Anjali Jain"
+        ]
+      },
+      {
+        "canonical_headline": "India Joins US-Led Declaration to Secure AI Supply Chains Amid China Competition - Open Magazine",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Outlook India",
+          "Deccan Chronicle"
+        ]
+      },
+      {
+        "canonical_headline": "Amid Nvidia crisis, India joins US-led AI supply chain pact to counter China-linked technology risks - The Statesman",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jagran Josh"
+        ]
+      }
+    ],
     "rejected_stories": [],
     "feed_errors": []
   }
