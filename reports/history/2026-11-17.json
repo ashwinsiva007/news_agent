@@ -1,0 +1,451 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-17",
+  "generated_at_ist": "17 Nov 2026, 02:59 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 62,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Karnataka targets 63,200 AI-trained professionals",
+      "raw_headline": "Karnataka targets 63,200 AI-trained professionals with Google, Salesforce and Sarvam AI partnership - Business Upturn",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOelJpSmhTV3MySUdXV3hjd09xLTlOX3g5aFk5ajI4N1kzeF9WbUFxX19VSzFVLTl1a21FaWxmQWlwTllIWnB3VTJvTXlMb2RxWjhib3lUazk5MHpjYmZxOE90VTdjeXFiRUNLaU9ibjVCYXgyMHVHQ002dk5GNHZ1TnFydlBicDhCT01obkh0bjBGR1NZQ2FORFdtQlJRR3VXclVOVnJuMXhGaXcyT3ZLUUduTy03Ukl3V3ppR190OTE1TTBuZm4ySDBEN2ZuUQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Business Upturn",
+      "published_utc": "2026-11-17T08:55:19+00:00",
+      "published_ist": "17 Nov 2026, 02:25 PM IST",
+      "published_timestamp": 1794905719.0,
+      "description": "Karnataka targets 63,200 AI-trained professionals with Google, Salesforce and Sarvam AI partnership Business Upturn",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7873,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.982,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "sarvam"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, sarvam) | Cred: 0.85 | Recency: 0.982",
+      "rank": 1,
+      "explanation": "Karnataka targets 63,200 AI-trained professionals.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "The Indic Token Tax in",
+      "raw_headline": "The Indic Token Tax in 2026: Measuring Tokenizer. Disparity and Its Cost for the Languages of India",
+      "url": "https://arxiv.org/abs/2611.13058",
+      "source": "arXiv Computer Science & AI",
+      "publisher": "Johin Johny Arimbur, Ankur Ashit Ghosh, Shervin Sam",
+      "published_utc": "2026-11-17T05:00:00+00:00",
+      "published_ist": "17 Nov 2026, 10:30 AM IST",
+      "published_timestamp": 1794891600.0,
+      "description": "arXiv:2611.13058v2 Announce Type: replace-cross Abstract: Commercial language model APIs bill per token, so a tokenizer that needs more tokens for the same content in one language makes that language more expensive, slower, and able to fit less text in a fixed context window. We measure this disparity for nine public tokenizers, including those of GPT-4, GPT-4o, Qwen2.5, DeepSeek-V3, Mistral-Nemo and four Sarvam models, on all 25 languages of India available in FLORES-200 (2,009 professionally translated sentences aligned with English) and on 13,732 human-translated Hinglish-English social med",
+      "tier": "tier_1_primary",
+      "category": "Research Breakthroughs",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.AI",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.7838,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.54,
+        "recency": 0.877,
+        "trend_momentum": 0.4,
+        "user_preference": 0.545,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indic",
+        "sarvam"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.54 (india, indic, sarvam) | Cred: 1.0 | Recency: 0.877",
+      "rank": 2,
+      "explanation": "arXiv:2611.13058v2 Announce Type: replace-cross Abstract:.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Air purifier sales surge as",
+      "raw_headline": "Air purifier sales surge as demand, smart features drive market growth",
+      "url": "https://www.thehindu.com/sci-tech/technology/air-purifier-sales-surge-as-demand-smart-features-drive-market-growth/article71710866.ece",
+      "source": "The Hindu - Technology",
+      "publisher": "The Hindu - Technology",
+      "published_utc": "2026-11-17T07:47:42+00:00",
+      "published_ist": "17 Nov 2026, 01:17 PM IST",
+      "published_timestamp": 1794901662.0,
+      "description": "While Delhi-NCR remains the dominant market, cities like Mumbai and regions beyond traditional high-pollution belts are showing sustained upticks",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (The Hindu - Technology).",
+      "scores": {
+        "composite": 0.7827,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.951,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "mumbai",
+        "delhi"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (mumbai, delhi) | Cred: 0.85 | Recency: 0.951",
+      "rank": 3,
+      "explanation": "While Delhi-NCR remains the dominant market, cities like.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Navital Gym: Rule-Graded Agent Environments",
+      "raw_headline": "Navital Gym: Rule-Graded Agent Environments for Indian Workflows",
+      "url": "https://arxiv.org/abs/2611.20924",
+      "source": "arXiv Computation and Language",
+      "publisher": "Daksh Bathla",
+      "published_utc": "2026-11-17T05:00:00+00:00",
+      "published_ist": "17 Nov 2026, 10:30 AM IST",
+      "published_timestamp": 1794891600.0,
+      "description": "arXiv:2611.20924v1 Announce Type: new Abstract: AI agents are being deployed on Indian workflows such as payments, tax, forms, travel and customer support in Hindi and Hinglish. Public agent evaluations rarely cover these workflows, and many score with another language model. We present Navital Gym, a set of six open environments with 321 public tasks in five task families: trip planning, UPI payments and disputes, GST invoicing and returns, form filling (including a multi-document split) and customer support in Hindi, Hinglish and three experimental Indian languages. Every task is graded by n",
+      "tier": "tier_1_primary",
+      "category": "LLMs & NLP",
+      "is_india_focused": false,
+      "raw_feed_url": "https://rss.arxiv.org/rss/cs.CL",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Verified (Primary Source / Paper)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 1.0,
+      "is_eligible": true,
+      "verification_rationale": "Direct primary publication, institutional release, or peer-reviewed archive.",
+      "scores": {
+        "composite": 0.7816,
+        "credibility": 1.0,
+        "evidence_strength": 1.0,
+        "india_relevance": 0.54,
+        "recency": 0.877,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "upi",
+        "indian"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.54 (india, upi, indian) | Cred: 1.0 | Recency: 0.877",
+      "rank": 4,
+      "explanation": "arXiv:2611.20924v1 Announce Type: new Abstract: AI agents are.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Karnataka CM DK Shivakumar inaugurates",
+      "raw_headline": "Karnataka CM DK Shivakumar inaugurates Bengaluru Tech Summit; pitches State as global technology hub - The South First",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcEw0R1JLanVaSHg5V2F6YWlHeE1DZmxyOGYzVE9abGxkUW42czI3dEZIam1XVU9VU1FOZzV3YVRTdDM4MHdySjJrYmZxY1AwRHRSeGVKYnRyVkpmam1ybTRqdnpZSjFZVjBQN2hDLTY2WHRXSDRiOFNjckx6TUtPQ2p4NlNZcjNqRTBrMmFMVndGWURiTjlvc2hXZmRBU3ZtSlFITlpkaVR4ZUFjbEpiOFgzdjdHMzN1ajNPcWJqTkE5b3liUXdjeFdJNFltRHhwX0E?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "The South First",
+      "published_utc": "2026-11-17T07:22:49+00:00",
+      "published_ist": "17 Nov 2026, 12:52 PM IST",
+      "published_timestamp": 1794900169.0,
+      "description": "Karnataka CM DK Shivakumar inaugurates Bengaluru Tech Summit; pitches State as global technology hub The South First",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.781,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.94,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "bengaluru"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, bengaluru) | Cred: 0.85 | Recency: 0.94",
+      "rank": 5,
+      "explanation": "Karnataka CM DK Shivakumar inaugurates.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 1386,
+    "total_after_lookback": 1200,
+    "canonical_events_count": 1018,
+    "eligible_events_count": 1018,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Ask Precisely, Assume Wisely: Interactive Evaluation of Ambiguity Resolution in Large Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sefika Efeoglu, Adrian Paschke"
+        ]
+      },
+      {
+        "canonical_headline": "Large Language Models for AI Infrastructure",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 9,
+        "corroborating_publishers": [
+          "Julien Vibert, Jakob Nikolas Kather",
+          "Ond\\v{r}ej Tich\\'y (Faculty of Arts, Charles University), Anna Marklov\\'a (Faculty of Arts, Charles University), Barbora Bulantov\\'a (Faculty of Arts, Charles University), Magdalena Titlbachov\\'a (Faculty of Arts, Charles University), Ji\\v{r}\\'i Mili\\v{c}ka (Faculty of Arts, Charles University)",
+          "Avik Dutta, Harshit Nigam, Hosein Hasanbeig, Arjun Radhakrishna, Sumit Gulwani",
+          "Marthe Ballon, Brecht F. Verbeken, Vincent Ginis, Andres Algaba",
+          "Zhanzhao Li, Qiyao He, Weiqiang Chen, Kengran Yang, Kai Gong",
+          "Keiji Kimura, Yuma Ichikawa",
+          "Keunhyeung Park, Byeonggeuk Lim, Kahyeon Kim, Sunhee Jo, Hayeong Ryu, Hoejoon Kwon, Jinhee Jang, YoungBin Kim",
+          "Cl\\'ea Chataigner, Afaf Ta\\\"ik, Golnoosh Farnadi",
+          "Daniel Balcells, Andrew Jun Lee, Chirag Rastogi, Paul M. Riechers, Adam Shai, Xavier Poncini"
+        ]
+      },
+      {
+        "canonical_headline": "Agent-Guided Process Verification for Mathematical Self-Correction",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Yang Chen, Qianyi Wang, Ronghui Yang, Zhanhao Li, Yu Cong, Chen Zhang, Hangfan Zhang, Shao Zhang, Shuai Li, Toru Takisaka, Chao Xu, Yi Zhou, Zhihao Tang, Xiao Wang, Bo Zhang, Shuyue Hu",
+          "Rui Zou, Yutao Zhu, Mengqi Wei, Ji-Rong Wen",
+          "Rui Zou, Xin Zhao, Mengqi Wei, Ji-Rong Wen"
+        ]
+      },
+      {
+        "canonical_headline": "HEAMS: Holistic Evaluation of Agent Memory Systems",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Peng Liu, Zhen Tao, Jihao Zhao, Ding Chen, Yansong Zhang, Cuiping Li, Zhiyu Li, Hong Chen"
+        ]
+      },
+      {
+        "canonical_headline": "VAHBench: A Harness Benchmark for Agentic Long-Video Generation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Wenhan Yu, Zhaoxi Zhang, Zhilong Tan, Weikang Li, Lei Sha",
+          "Haofeng Wang, Xuanyi Liu, Pengcheng Wen, Ruiqi Li, Yuhao Zhang, Tiange Zhang, Boren Zheng, Siyu Tao, Danni Yu, Gan Lin, Haocheng Tang, Tianzizhe Guo, Mingyuan Su, Boyuan Chen, Zhongyuan Wang"
+        ]
+      },
+      {
+        "canonical_headline": "From Recursion to Convolution: Parallel Self-Improvement for Multi-Agent Systems",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhe Ren, Guowei Rong, Yimeng Chen, Nanbo Li, Piotr Pi\\k{e}kos, Mateusz Ostaszewski, Dandan Guo, J\\\"urgen Schmidhuber"
+        ]
+      },
+      {
+        "canonical_headline": "Razavi-Bench: Tracking AI Progress in Analog Circuit Reasoning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ruqi Chen, Zilei Wang, Wei Wang"
+        ]
+      },
+      {
+        "canonical_headline": "SWE-OPD: On-Policy Distillation for Agentic Coding",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Zane Fu, Yanzhao Zheng, Ziting Qin, Qianshan Wei, Yi Yu, Gongli Xi, Jihuai Zhu, Baohua Dong, Hangcheng Zhu, Ruohui Huang, Gang Yu",
+          "Zhi Xu, Yinqi Wu, Feng Zhang, Xiaotong Zhang, Hong Yu, Han Liu"
+        ]
+      },
+      {
+        "canonical_headline": "Learning to Reason with Predictive Gains for Generative Recommendation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yuxi Huang, Silin Zhou, Chenhao Wang, Zihan Li, Gangming Guo, Pei Ke, Shen Gao, Shuo Shang"
+        ]
+      },
+      {
+        "canonical_headline": "Minari: Infrastructure for Collaborative Reinforcement Learning Datasets",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Minjae Kwon, Amir Moeini, Shangtong Zhang, Lu Feng"
+        ]
+      },
+      {
+        "canonical_headline": "Algebraic Interaction: A Recipe for Neural Architecture Generation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Seokhoon Jeong, Mijung Kim, Taehwan Kim"
+        ]
+      },
+      {
+        "canonical_headline": "SemMask: Semantic-Prioritized Progressive Masking for Diffusion Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yihao Liang, Ze Wang, Ximeng Sun, Jiang Liu, Jialian Wu, Hao Chen, Xiaodong Yu, Emad Barsoum, Zicheng Liu, Niraj K. Jha"
+        ]
+      },
+      {
+        "canonical_headline": "LoopFill: Pipelined Multi-Token Speculative Decoding for Looped Transformers",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Muhan Xiao, Shijian Li"
+        ]
+      },
+      {
+        "canonical_headline": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhiheng Peng, Wenwei Jin, Yangshi Ge, Siyu Xia, Jiawei Li, Xu Tang"
+        ]
+      },
+      {
+        "canonical_headline": "Concept Influence: Leveraging Interpretability to Improve Performance and Efficiency in Training Data Attribution",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Dilyara Bareeva, Galip \\\"Umit Yolcu, Anna Hedstr\\\"om, Niklas Schmolenski, Thomas Wiegand, Wojciech Samek, Sebastian Lapuschkin"
+        ]
+      },
+      {
+        "canonical_headline": "RISE-RL: Rubric-Informed Selective Exploration for Open-Ended Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Fairoz Nower Khan, Nabuat Zaman Nahim, Peizhong Ju"
+        ]
+      },
+      {
+        "canonical_headline": "Comparative Evaluation of Embedding Representations for Financial News Sentiment Analysis",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Aishwarya Gunjal, Kanchan Khemnar, Pawan Poojary, Pranav Kulkarni, Raviraj Joshi"
+        ]
+      },
+      {
+        "canonical_headline": "Contrastive Identification and Generation in the Limit",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Xiaoyu Li, Andi Han, Jiaojiao Jiang, Junbin Gao"
+        ]
+      },
+      {
+        "canonical_headline": "California state AG sues OpenAI over rogue agent incidents",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Emma Roth"
+        ]
+      },
+      {
+        "canonical_headline": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Singapore seeks 'trusted access' to AI chips after new US curbs - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "People react to US AI chip curbs that threaten data centre boom",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Meta says it tuned Instagram to curb suggestive, violent content in India",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Palak Sharma"
+        ]
+      },
+      {
+        "canonical_headline": "AI adoption, weak demand to keep India's IT services revenue growth subdued in FY27: Report",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "ET CIO"
+        ]
+      },
+      {
+        "canonical_headline": "Pragya Misra Takes On Business Development Role At OpenAI For India, South Asia - BW People",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ridhika Basnet"
+        ]
+      },
+      {
+        "canonical_headline": "AAA Technologies enters semiconductor design domain - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "electronics.economictimes.indiatimes.com"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
