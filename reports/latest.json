@@ -2,23 +2,23 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-11-18",
-  "generated_at_ist": "18 Nov 2026, 02:18 PM IST",
+  "report_date": "2026-11-19",
+  "generated_at_ist": "19 Nov 2026, 02:33 PM IST",
   "story_count": 5,
-  "briefing_word_count": 59,
+  "briefing_word_count": 58,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
       "headline": "IIT Kanpur and Bharat1.ai Launch",
-      "raw_headline": "IIT Kanpur and Bharat1.ai Launch AI Kavach, Indias First AI Cybersecurity Lab for the Financial Sector - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWRudUxSNkl4cm5qT19HcmVWRFlNVHAxSENxRVZkQ2NXd0U4ZXdOakh2azBlQnIxcWFOcV9mZ2w3YllQT0NhXzRmNk83clBJdThVVW5ibFpjVlRnQU5ycXgybnZyVlg0a0Zlc0hEWGtmeE1Ic1ZqSnRzVjN1ZGtDbjluQ3ZLS0tRc1Y3aGdETFVfSWRfRzZkdURId3l6UXpIZlRnY05UTWtTTVlfdzRoOG12XzBYdlJlUDd5bU0yNkw2aGhjckpzcVVnZGZEZENxbDlibHZKaXE3RjVYMHfSAeIBQVVfeXFMTW5YMWppc1BfZm1wYmFQMld0UTRWRmN0UkF0SDZNTGl2N01fblZibS0yYjBxaGQ0VmRkcXMtekhTaEw2ZndMYmFpWVFCbVJGU2dBek1wYXlpUGdDZnRVb2gzYnJkWjNMTnhPaVBfVURUZXY3dVMzNmZHeXJuUTE2LUtCWW9FLXdBTkVCMFkxYUVnb3Uzd3JVbk5iWTVJY2trclhVdTNQTFU0RnJsLTlJejZPYkU1dXRnbFNJVzZuWktxLWpLX1RoemI5RXJfWjFFMmcxeWhpNDBIME5IUnhMTmZWUQ?oc=5",
+      "raw_headline": "IIT Kanpur and Bharat1.ai Launch AI Kavach, India’s First AI Cybersecurity Lab for the Financial Sector - India Education Diary",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUjJKeUw0R0cySjA1SWl4aWpUQ1V5MTRyTFM1TkdtczMzdlRVaUVzdE1IeEVBeTM1MVhqZmxBUGhGM2lqY1ltdTduc0lhRW45RHktRl9CUUVESWQyNjVqMUlYd09sOXRFWU9YcHpTSWQyZ0d4ZmhMUlAwWjdWUnFHT2FKc0lEMldrMDhXY1ZLMUdvTmVlc1BlbV92cnBUdEpYVGQ0bHV3TjhxOFNUSVo5S1VPcmRjNi00SzREOW5TSFpXUFZmODBJdHpjXzBBZw?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "The Tribune",
-      "published_utc": "2026-11-18T08:07:43+00:00",
-      "published_ist": "18 Nov 2026, 01:37 PM IST",
-      "published_timestamp": 1794989263.0,
-      "description": "IIT Kanpur and Bharat1.ai Launch AI Kavach, Indias First AI Cybersecurity Lab for the Financial Sector The Tribune",
+      "publisher": "India Education Diary",
+      "published_utc": "2026-11-19T07:12:51+00:00",
+      "published_ist": "19 Nov 2026, 12:42 PM IST",
+      "published_timestamp": 1795072371.0,
+      "description": "IIT Kanpur and Bharat1.ai Launch AI Kavach, India’s First AI Cybersecurity Lab for the Financial Sector India Education Diary",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -32,35 +32,35 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.832,
+        "composite": 0.8272,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.99,
-        "recency": 0.98,
+        "recency": 0.948,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "india",
         "iit",
-        "bharat"
+        "bharat",
+        "india"
       ],
-      "ranking_rationale": "Composite: 0.83 | India Rel: 0.99 (india, iit, bharat) | Cred: 0.85 | Recency: 0.98",
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.99 (iit, bharat, india) | Cred: 0.85 | Recency: 0.948",
       "rank": 1,
       "explanation": "IIT Kanpur and Bharat1.ai Launch.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Why is Sarvam AI offering",
-      "raw_headline": "Why is Sarvam AI offering Chinese AI models, and what does it mean for India’s AI ambitions? - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnFKbzdzbXQzSzl2TWNMaTJOZFg3VEkzRmE5dHkzR19kRDlyS2VBRjVDRkMwQUw5NkVtRDhYSHd2QWt5ZkpJLTJtQk4yb3U0ajd6R2RrS0NNTEVfREJVLU5YMnBObkxHdmFyUHlUWm96bGpzbnF3NXVIUE9GLTJIcGFMYm1uQVNyb2hUSzM0THd3eUE3amZRNjF2Umg0SXZCeEhWSlNrWFRwUi1GNzV5RXdKLThneEdXcVRzSlJTRFFDX01Z0gHLAUFVX3lxTE0zOFF0QlY1R09nbm9TTTZFQnlTbWJpYXNaQUdtNS1Xb0hZb2p3YUtGTHZnMVE3VDNFQW5SaWZ4RUtXNnlNRDRDX0NVWFFrdzVoSVphR1JoSHBnU2dCbTg3UWhiemlyeWlYZW9xbDlrYlo4MDRnbnZYV3hvdFc4WmxOSTZFNVJhTHlydE0xcHNVQ1pqcWpNdXBTTVRVRER4TXVvRjVvbC04SEU0ZGdXQ21WRy1LS2dndDZ5Y0Z2YlB5RmNQTGVrWl9SS3VJ?oc=5",
+      "headline": "Bengaluru accounts for 36 per",
+      "raw_headline": "Bengaluru accounts for 36 per cent of funding raised by India's AI startups - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGdMMVRaNFFpNEtod0pYR0ZLSjN3b2pqclAwT2NORkhtZTc1Q2RFWW5BSmpmd0IwanM4bW83VjB4VFdESmdDMG56clJkNGxuTEpwREQ0ZmdselVxZDJaQm5LXzM0dGhaY09SY3BtaWR2OEpmZm9pNTlNTk1JWXBRVml2OFk3NWNSOUQtR2IteUdRUS1kNHZTSkpOV3pWXzQ0S0FpSlNRLWlDYVp4RThhRlM0ZFRGajE5NTRRTk9jVFNBekRUSVdwTFZIVWt1azlIeHfSAd8BQVVfeXFMUFhieVh2Qy1XTGFzUHZkYW4yaVFIQWRKUlJDT0E0UkxCenRsY1NMU3BMeGFkbjVPQVRNTnN2ZDZsdXI0ZzBMNGJkU2FhbWFMUlRiSi14X2Qyenhla1lBTjhGcWNUNm50ZWg0RUhTT0JGUTBoZ2MwMGxpaldnTGRYT09MZ2phbTFkQVc4U1dIU1VCbW9lYmZEN3QtVlZ1djlGR2NMN0xrbVdZWEQyZXY2Unc0dVFZLUY0SjRkdFh2ME1CYm9wM2RBRVNtODVnelpVcGx2LVVUMzNLenhmRHZ6TQ?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "The Indian Express",
-      "published_utc": "2026-11-18T07:20:11+00:00",
-      "published_ist": "18 Nov 2026, 12:50 PM IST",
-      "published_timestamp": 1794986411.0,
-      "description": "Why is Sarvam AI offering Chinese AI models, and what does it mean for India’s AI ambitions? The Indian Express",
+      "publisher": "The New Indian Express",
+      "published_utc": "2026-11-19T06:07:00+00:00",
+      "published_ist": "19 Nov 2026, 11:37 AM IST",
+      "published_timestamp": 1795068420.0,
+      "description": "Bengaluru accounts for 36 per cent of funding raised by India's AI startups The New Indian Express",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -74,76 +74,35 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.8287,
+        "composite": 0.8227,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.99,
-        "recency": 0.958,
+        "recency": 0.918,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "india",
-        "sarvam",
-        "indian"
+        "indian",
+        "bengaluru",
+        "india"
       ],
-      "ranking_rationale": "Composite: 0.83 | India Rel: 0.99 (india, sarvam, indian) | Cred: 0.85 | Recency: 0.958",
+      "ranking_rationale": "Composite: 0.82 | India Rel: 0.99 (indian, bengaluru, india) | Cred: 0.85 | Recency: 0.918",
       "rank": 2,
-      "explanation": "Why is Sarvam AI offering.",
+      "explanation": "Bengaluru accounts for 36 per.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Tata Expands India's Semiconductor Push",
-      "raw_headline": "Tata Expands India's Semiconductor Push - TradeFlock",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdG11bzZlZ1BmdFA1N2hvWDh5Qk5OUG5SSmlyWTZhWGZMVlBRVDQxaDhORU9sT2c3VTdCYnMtNjlWaDNyWWhDZ0plQ2RScDBjU1lSWUxFT3VqS19nUng0WHhpTnAteDZLSGgwTUdFV0dNV3lOQmVySTdrazdRdTZhQw?oc=5",
-      "source": "Google News: India Semiconductor Chips",
-      "publisher": "TradeFlock",
-      "published_utc": "2026-11-18T07:14:38+00:00",
-      "published_ist": "18 Nov 2026, 12:44 PM IST",
-      "published_timestamp": 1794986078.0,
-      "description": "Tata Expands India's Semiconductor Push TradeFlock",
-      "tier": "tier_2_reputable",
-      "category": "Semiconductors & Hardware",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
-      "scores": {
-        "composite": 0.7915,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.955,
-        "trend_momentum": 0.4,
-        "user_preference": 0.665,
-        "technical_significance": 0.55
-      },
-      "matched_india_keywords": [
-        "india",
-        "tata"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, tata) | Cred: 0.85 | Recency: 0.955",
-      "rank": 3,
-      "explanation": "Tata Expands India's Semiconductor Push TradeFlock. Directly impacts.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Bengaluru Tech Summit showcases India's",
-      "raw_headline": "Bengaluru Tech Summit showcases India's robotics ambitions as startups eye global market - CNA",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbDVzc2V3MjZMOC00SXU4TWc1RXZEdm9QWkdHUEVXcHFvSjMtYkNHR1RHNEtvazk0ZW5HTFVEcnhnM2JvNXh5WVN6dWhjdHBfTDU3Yzg3M0Z2X0Jtb2RJQVRmZEpNVHlrd3pCOGdjc1hPU2hBaDN5Wk9IYk1MdnBQOG53ZkxSeGJUNzZBSUUzUm8wQkV5emFpOEYxODFDcVVKNGhtY0tDdWRHQk5lMDVrLWU1XzB2MGZBbE9qUUJOb1I0ckpHUUgzVklR?oc=5",
+      "headline": "IIT-Madras researchers propose responsible, resource-efficient",
+      "raw_headline": "IIT-Madras researchers propose responsible, resource-efficient AI strategy for India - DT Next",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDRyandlNU5ZbjhXRVhXZ1VkWUtmRjV2VkUtRGd5cF9uTDhlOE5SaVRnWG5VQ1VwNDJ3N01Cc2Y2cURvckNwMTBLdnlZUmlibVJaaGZfTzZwMjB0aHBhNE5QNng1QVFWUFZpYWRTelRxbnhIZUZDNzg3bmNEMS1rNXZxaTUya1hiZjlQeEtMZUZ4clh2SWd6bTB3WkdoV1FCdGNtdnlYcU1Wd09BWEpoYlJYY3VNOTFiREHSAccBQVVfeXFMTmpkdkZkaE9PWHpjOUNUMl9aNDlVamhrSnQ1Z2xUU1ZxaEhaX3FVYTJTMHEtbWk3T1JJWFV2OG1SeE9rdlVyczlaZEZnanJ2Qks1SDdZZUROaWk4UE4zUThJamdReThsbk5OMVVlRjFPWS1lOHE4T2w1czJOQ2g0WFFtLUNTSDZILVB1a3h3anJxMm4tRy1SMWUySURhNzhYbWhkOEJ0V2FibmxYc1pVWU1sSGg4dkZYQi1qWVZnUUVDWmJSa2R5WQ?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "CNA",
-      "published_utc": "2026-11-18T08:35:19+00:00",
-      "published_ist": "18 Nov 2026, 02:05 PM IST",
-      "published_timestamp": 1794990919.0,
-      "description": "Bengaluru Tech Summit showcases India's robotics ambitions as startups eye global market CNA",
+      "publisher": "DT Next",
+      "published_utc": "2026-11-19T08:51:55+00:00",
+      "published_ist": "19 Nov 2026, 02:21 PM IST",
+      "published_timestamp": 1795078315.0,
+      "description": "IIT-Madras researchers propose responsible, resource-efficient AI strategy for India DT Next",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -157,188 +116,240 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.789,
+        "composite": 0.7891,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.993,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.55
-      },
-      "matched_india_keywords": [
-        "india",
-        "bengaluru"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, bengaluru) | Cred: 0.85 | Recency: 0.993",
-      "rank": 4,
-      "explanation": "Bengaluru Tech Summit showcases India's.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "CyberSec Connect India to Bring",
-      "raw_headline": "CyberSec Connect India to Bring Global Cybersecurity Ecosystem to Bengaluru in April 2027 - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGZxSGg4VFhxRXNuSTRVd1FNbEppdzZSa3V2UkZycUdBdUFVdTE5YnV3OEhLNHJUQXNqNHRrT0tqbVFUakNrQlQ0U0xfMW1uemNzSzBkeGJKSnpodkt1YjluYXFUM1p3R2dMTk9CUElvbXZEQko5Q211UW5RWHZySWkybTZCS252Z3BtNzZ2VVpEUHRYVDlCV2FJWVVRTUw4Y3pLVk1KX0g5aXZNcU9rSG5UZGVwalNWMWpwTTlOaUhYTGQ5MnhuMi11M1dueUVkSDMxNXVfOA?oc=5",
-      "source": "Google News: India Artificial Intelligence",
-      "publisher": "ANI News",
-      "published_utc": "2026-11-18T07:53:00+00:00",
-      "published_ist": "18 Nov 2026, 01:23 PM IST",
-      "published_timestamp": 1794988380.0,
-      "description": "CyberSec Connect India to Bring Global Cybersecurity Ecosystem to Bengaluru in April 2027 ANI News",
-      "tier": "tier_2_reputable",
-      "category": "India AI Developments",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.786,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.973,
+        "recency": 0.994,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "india",
-        "bengaluru"
+        "iit",
+        "india"
       ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, bengaluru) | Cred: 0.85 | Recency: 0.973",
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (iit, india) | Cred: 0.85 | Recency: 0.994",
+      "rank": 3,
+      "explanation": "IIT-Madras researchers propose responsible, resource-efficient AI strategy.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Six Indian startups selected for",
+      "raw_headline": "Six Indian startups selected for Hub71's Immersion Programme in Abu Dhabi - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXdGOGNGTE02bkpqMmd3QlV5RUdaVGZXR3BOcG54Z1NaOEVvQkhuSDNneGRoVmFZRF9jRWJUSXVpdEVNQ1VKZ1BUYldsdFNlczhVN3dRWXNBVkxZbVM1RTZhV005QkJjVkFPYklhRml5UUlFWF9qODRUdTQxSzZXRVZwMHR3R0VYdk5wTDZRcUVBX0dvRnY5dnJiRGUwcUFQQ1JsVg?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "YourStory.com",
+      "published_utc": "2026-11-19T08:15:00+00:00",
+      "published_ist": "19 Nov 2026, 01:45 PM IST",
+      "published_timestamp": 1795076100.0,
+      "description": "Six Indian startups selected for Hub71's Immersion Programme in Abu Dhabi YourStory.com",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7864,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.976,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.976",
+      "rank": 4,
+      "explanation": "Six Indian startups selected for Hub71's.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Sarvam AI's Token Factory Introduce",
+      "raw_headline": "Sarvam AI’s Token Factory Introduce Sparks Debate Over India’s Sovereign AI Ambitions - BW Disrupt",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUTBaVkk3SW52RXpWVnhub1ZtR2ZkeWMta3pQTHItbmwzUGlxTlJneEZVRlBPekoxQkJnaHNBR1c1SU11NUFaSlVWVTJoNWw1MWpBSTVXV2swOWR3bjVIZzhwcUd1YTVqQ2ZXSWFseWVFUmtrSjlTV3ZwMHQxRFNaR1VIbVR0UVM1MDR6VmVUMllkdlFzMWF2Z0o3UGlnM0hzdGJSOGVZQngwZ1Z1N2RoZnJCOTZFdHBkM0pERG8yaEQwY2RC?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "BW Disrupt",
+      "published_utc": "2026-11-19T07:41:22+00:00",
+      "published_ist": "19 Nov 2026, 01:11 PM IST",
+      "published_timestamp": 1795074082.0,
+      "description": "Sarvam AI’s Token Factory Introduce Sparks Debate Over India’s Sovereign AI Ambitions BW Disrupt",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7842,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.961,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "sarvam",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (sarvam, india) | Cred: 0.85 | Recency: 0.961",
       "rank": 5,
-      "explanation": "CyberSec Connect India to Bring.",
+      "explanation": "Sarvam AI’s Token Factory Introduce.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 925,
-    "total_after_lookback": 710,
-    "canonical_events_count": 613,
-    "eligible_events_count": 613,
+    "total_raw_fetched": 853,
+    "total_after_lookback": 639,
+    "canonical_events_count": 565,
+    "eligible_events_count": 565,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "DACE: Diversity-Driven Adversarial Co-Evolution for Robust LLM Safety Alignment",
+        "canonical_headline": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Xurui Li, Kaisong Song"
+          "Zae Myung Kim, Young-Jun Lee, Seungyeon Jwa, Dongyeop Kang"
         ]
       },
       {
-        "canonical_headline": "Think Once, Act Fast: Cost-Effective Recursive Self-Improvement for Decision Model Harness",
+        "canonical_headline": "EVA-RSI: Recursive Self-Improvement of Video Evaluators for Judging Temporal Quality",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Peidong Wang, Ying Chang, Zhiming Ma, Lirong Che, Zihao Liu, Xiaocui Yang, Shi Feng, Daqi Liu, Yuzhe Yang, Xu Cao, Chuang Wang, Jian Su, Daling Wang"
+          "Shiwei Wu, Yuwen Pan, Zhi Li, Yaowen Li, Yan Zhou, Xuemiao Xu, Yu Liu"
         ]
       },
       {
-        "canonical_headline": "Worldviews in Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 5,
-        "corroborating_publishers": [
-          "Manzanarez Gerardo Aleman, Monroy Raul, Garcia Flores Jorge, Calvo Hiram",
-          "Himaghna Bhattacharjee, Yasha Sheynin, Shivam Singhal, Arjun Subramonian, Ankur Samanta, Julian Michael, Smitha Milli, Maximilian Nickel, Claudia Shi",
-          "Ron Bekkerman, Nichole Li, Bahareh Kargar, Mark Somers",
-          "Elif Dorukba\\c{s}{\\i}, \\.Ilker T\\\"urker",
-          "Artem Vazhentsev, Vladislav Smirnov, David Li, Maxim Panov, Timothy Baldwin, Artem Shelmanov"
-        ]
-      },
-      {
-        "canonical_headline": "Testing World Models on Actions They Have Never Seen: Held-Out Plans, Forecast Accuracy and Price Rules in Retail",
+        "canonical_headline": "Beyond the Sink Token: Sink-Guided Key Editing in Vision-Language Models",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Kathik Iyer"
+          "Shuaidi Wang, Zhuocheng Gong, Xuejie Liu, Jianguo Li, Yu Zhang"
         ]
       },
       {
-        "canonical_headline": "Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving",
+        "canonical_headline": "Dual-Manifold Variational Autoencoders",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Run Luo, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, Guiyu Ma, Tianyu Fan, Longze Chen, Hao Sun, Jiaming Li, Jiaming Yang, Xiaohao Liu, Tao Tan, Minzheng Wang, Hangtian Jia, Shuai Yuan, Lvdi Wang, Xiao Liu, Chao Ma, Yuting Zou, Yinhe Zheng, Xiaobo Xia, Dawei Jiang, Shaoqing Ren"
+          "Naiyu Yin, Maosen Tang, Alex Townsend, Yue Yu"
         ]
       },
       {
-        "canonical_headline": "Sage S2.1 Flash Technical Report",
+        "canonical_headline": "A Survey on Collaborative Mechanisms Between Large and Small Language Models",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Mario Prignano, Gabriele Cirillo, Alessio Morosini, Luca Cerovaz, Alessandro Bartolocci, Emanuele Rodol\\`a, Giulio Starace, Francesco Pappone"
+          "Lingzhe Zhang, Tong Jia, Chiming Duan, Minghua He, Leyi Pan, Kening Zheng, Zhaoyang Liu, Bolin Ding, Philip S. Yu, Ying Li"
         ]
       },
       {
-        "canonical_headline": "Nvidia says its open source AI strategy remains intact after Jensen Huang's exit",
+        "canonical_headline": "Reinforcement Learning with Reference-Based Rewards for Language Model Reasoning and Alignment",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jiaying Lin, Seongho Son, Nam Phuong Tran, Long Tran-thanh, Ilija Bogunovic, Debmalya Mandal"
+        ]
+      },
+      {
+        "canonical_headline": "Extracting Training Data from Diffusion Language Models via Infilling",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yunshu Wu, Jiayi Cheng, Longxuan Yu, Partha Thakuria, Rob Brekelmans, Evangelos E. Papalexakis, Greg Ver Steeg"
+        ]
+      },
+      {
+        "canonical_headline": "Late Entry in Looped Language Models",
+        "source": "arXiv Computation and Language",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Ryan Lee, Jacob Biloki, Edward J. Hu, Jonathan May"
+        ]
+      },
+      {
+        "canonical_headline": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit",
         "source": "TechCrunch AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Tim Fernholz"
+          "Julie Bort"
         ]
       },
       {
-        "canonical_headline": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-        "source": "The Verge Tech & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Lucas Ropek",
-          "The Hindu - Technology"
-        ]
-      },
-      {
-        "canonical_headline": "US, South Korea issue urgent cybersecurity advisories over flaws in Java programming language",
-        "source": "Economic Times Tech & AI",
+        "canonical_headline": "Elon Musk says ousting Jensen Huang is like 'kicking Michael Jordan off your team'",
+        "source": "TechCrunch AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "Economic Times Tech & AI"
         ]
       },
       {
-        "canonical_headline": "OpenAI launches GPT-6.2 Astra, Sol with focus on professional work and cost efficiency",
+        "canonical_headline": "Anthropic prices IPO at $83 a share, above projected range",
+        "source": "TechCrunch AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Economic Times Tech & AI"
+        ]
+      },
+      {
+        "canonical_headline": "Samsung downplays neocloud, AI bubble concerns: Report - electronics.economictimes.indiatimes.com",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Surge in software patches likely behind recent tech outages, experts say",
         "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "GTA 6 now available on Blinkit in 11 Indian cities ahead of November 19 launch: Check price and details",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Team Inc42"
+        ]
+      },
+      {
+        "canonical_headline": "'Are we undervalued?' Uday Kotak asks as Anthropic outvalues India's top 10 firms combined - NewsDrum",
+        "source": "Google News: India Artificial Intelligence",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
           "The Times of India"
         ]
       },
       {
-        "canonical_headline": "Claude Outpaces ChatGPT, Gemini In India Adoption - Inc42",
-        "source": "Google News: India Artificial Intelligence",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Gaurav Bagur"
-        ]
-      },
-      {
-        "canonical_headline": "ChatGPT maker OpenAI has elevated Pragya Misra to lead business development for India and South Asia, months after appointing former Uber executive Prabhjeet Singh as India managing director. Misra said she will focus on partnerships, expanding AI ad - Instagram",
-        "source": "Google News: India Artificial Intelligence",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "The 420.in"
-        ]
-      },
-      {
-        "canonical_headline": "From gases to machines, India builds its chip backbone - The Times of India",
+        "canonical_headline": "Nvidia halts AI chip shipments to China, says interim CEO Kress - electronics.economictimes.indiatimes.com",
         "source": "Google News: India Semiconductor Chips",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "شبكة تواصل الإخبارية"
-        ]
-      },
-      {
-        "canonical_headline": "SMX Targets Industrial Breakthroughs With New Artificial Intelligence Platform - USA Today",
-        "source": "Google News: AI Breakthroughs & Models",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "USA Today"
+          "electronics.economictimes.indiatimes.com"
         ]
       }
     ],
