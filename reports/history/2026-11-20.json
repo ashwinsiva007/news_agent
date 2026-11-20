@@ -1,0 +1,328 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-20",
+  "generated_at_ist": "20 Nov 2026, 02:20 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 96,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "IISc, BHASHINI release AI text-to-speech models and speech corpus for Sourashtra language - Education Times",
+      "raw_headline": "IISc, BHASHINI release AI text-to-speech models and speech corpus for Sourashtra language - Education Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY3l4bWZ3QWNPU0duVGx6eDBlVFM1bUsybTBvN0huajc4UmV4VDBDd3RZcEgzLXYxenNrekxXWmZIWk5qclFNbHJoRWZubU1nVk82R3BQUkNUN19uWmQyOFlKTE8wQlcwc0VUTmtzajBkSlM2cmRFWmlJNmNGYVVzZHRURUZXRE9uVUNEd0dud2xiNzRpZ1hxWUx1NURDYnpQU0Y2V0tickpFRXg1VWhlam43SWFrSWl4Q1ZHX3V1ektnZG1ZSm1US01Hd1pmWWxqWkhfVjRzcmlJcy1GS0cxY2lwUkk?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Education Times",
+      "published_utc": "2026-11-20T08:08:00+00:00",
+      "published_ist": "20 Nov 2026, 01:38 PM IST",
+      "published_timestamp": 1795162080.0,
+      "description": "IISc, BHASHINI release AI text-to-speech models and speech corpus for Sourashtra language Education Times",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.832,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.98,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "iisc",
+        "bhashini",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.99 (iisc, bhashini, india) | Cred: 0.85 | Recency: 0.98",
+      "rank": 1,
+      "explanation": "IISc, BHASHINI release AI text-to-speech.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Digital India BHASHINI Division, NIELIT sign MoU to advance multilingual AI and technology education",
+      "raw_headline": "Digital India BHASHINI Division, NIELIT sign MoU to advance multilingual AI and technology education",
+      "url": "https://www.livemint.com/technology/digital-india-bhashini-division-nielit-sign-mou-to-advance-multilingual-ai-and-technology-education-11795091862564.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-11-19T12:37:42+00:00",
+      "published_ist": "19 Nov 2026, 06:07 PM IST",
+      "published_timestamp": 1795091862.0,
+      "description": "The Digital India BHASHINI Division (DIBD) under the Ministry of Electronics and Information Technology (MeitY) and the National Institute of Electronics and Information Technology (NIELIT) have signed an MoU to promote multilingual AI applications, technology education, research and skill development, according to the Ministry of Electronics and IT.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "www.nationpathindia.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY050Y0VCR2txMDJXeUVrYml0cG1mM2tEdEVmUC1lUEF0UFkwUFAwcGJadWg0RmRDN2I5UjhMcWM5WVNObnJBTVpfdWdQNjJpdkNVdFJ1cjlBemhvRUNtOXQtSVQ1MTZkRmR5Q0hLSmluWXFWSm12TjNGVWVWVW9PbEZtSEhWZ1JRVHZDWVRYcnJiaHktaWNIaUFsMHJTbWtNN1VjUVV2dldLZw?oc=5",
+          "headline": "BHASHINI and NIELIT Join Hands to Expand Multilingual AI and Technology Education in India - www.nationpathindia.com",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7937,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.558,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "bhashini",
+        "meity",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.99 (bhashini, meity, india) | Cred: 0.85 | Recency: 0.558",
+      "rank": 2,
+      "explanation": "The Digital India BHASHINI Division.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indian Businesses Embrace AI Tech to Boost Future Demand and Growth - Asianet Newsable",
+      "raw_headline": "Indian Businesses Embrace AI Tech to Boost Future Demand and Growth - Asianet Newsable",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2RtUVZZS2NWbG1XY2NlbzFmd0ZsT3VlMG5NMUw3b2hCQTl5N29aSDEtTWtpMjUyU1JIR19Ubkd1LXRMSEplOTNnT01Kcm8wQ0QxeWdqQVlUSG4zTGpaUnlHazlXWVQyQWxHdEZaYlcwWFpQS3p4UXhjYy0ydHNnNDNxMDVISUFMUGRnYkpNcHBVdWJPYXdYaHh1bFJrQVkzYW5STVEzc0JoUWNoeGNpVGtoT1BLZ2FZS21oNU02ek1YYTlFdVdmU9IBzgFBVV95cUxPWFhselh3TkVzUThUYnluUVNuMG1XWXNjWXZnTk1keGxfWkhpWUpKZDJCSEI2S3U2RHpTME5ZNG1wV084dTk4blVRNzZJLXJKR0hMZkxHZHJHcmNmME9zQkNEM3JGLVdJOGQzY3pZUDNmb2hOdnd5SW9idGJScUFWcmdUaWRUOEhtX2l2OVJ0c1V3a1pScnZNRzVyX0ZJSHhzMmNmMW1oMTduSFZBclZ0YkgxZVBaMElLQXRyeC1mMi1RMFQyWF8xbnVVeXJTdw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Asianet Newsable",
+      "published_utc": "2026-11-20T08:00:03+00:00",
+      "published_ist": "20 Nov 2026, 01:30 PM IST",
+      "published_timestamp": 1795161603.0,
+      "description": "Indian Businesses Embrace AI Tech to Boost Future Demand and Growth Asianet Newsable",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7864,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.976,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.976",
+      "rank": 3,
+      "explanation": "Indian Businesses Embrace AI Tech.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Indian businesses expect technology investments to drive demand, 93% use AI in trade: HSBC",
+      "raw_headline": "Indian businesses expect technology investments to drive demand, 93% use AI in trade: HSBC",
+      "url": "https://www.livemint.com/technology/indian-businesses-expect-technology-investments-to-drive-demand-93-use-ai-in-trade-hsbc-11795160279022.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-11-20T07:37:58+00:00",
+      "published_ist": "20 Nov 2026, 01:07 PM IST",
+      "published_timestamp": 1795160278.0,
+      "description": "Indian businesses are increasingly turning to technology and artificial intelligence (AI) to support growth, with 81 per cent expecting technology investments to boost demand for their products and services, the highest proportion among 26 markets surveyed, according to findings released by HSBC.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7849,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.966,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.966",
+      "rank": 4,
+      "explanation": "Indian businesses are increasingly turning.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Spacetech startup SatSure raises $7 million from sovereign space fund",
+      "raw_headline": "Spacetech startup SatSure raises $7 million from sovereign space fund",
+      "url": "https://economictimes.indiatimes.com/tech/startups/spacetech-startup-satsure-raises-7-million-from-sovereign-space-fund/articleshow/136017100.cms",
+      "source": "Economic Times Tech & AI",
+      "publisher": "Economic Times Tech & AI",
+      "published_utc": "2026-11-20T07:01:31+00:00",
+      "published_ist": "20 Nov 2026, 12:31 PM IST",
+      "published_timestamp": 1795158091.0,
+      "description": "Indian space startup SatSure has raised 600 million rupees ($7 million) from a government-backed space technology fund as part of an ongoing 2 billion rupees funding round, the company said on Friday.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Business",
+      "is_india_focused": true,
+      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "scores": {
+        "composite": 0.7824,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.949,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.949",
+      "rank": 5,
+      "explanation": "Indian space startup SatSure has raised 600 million rupees..",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 926,
+    "total_after_lookback": 712,
+    "canonical_events_count": 620,
+    "eligible_events_count": 620,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Beyond Weight Updates: Evolving Agent Harnesses for Domain Specialization",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Xinzhuang Xiong, Yonghao Wang, Shengyao Sun, Chengxi Li, Evangeline Young"
+        ]
+      },
+      {
+        "canonical_headline": "Self-Replicating Language Models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Manuel Prada-Corral, Yahya Emara, Timothy J. O'Donnell, Ryan Cotterell, Tim Vieira",
+          "Patrik Wolf, Thomas Kleine Buening, Andreas Krause, Celestine Mendler-D\\\"unner"
+        ]
+      },
+      {
+        "canonical_headline": "AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Samuel Xiao, Judy Song, Rory Hu, Ziliang Zong"
+        ]
+      },
+      {
+        "canonical_headline": "Policy Improvement-Guided Replay for Continual Reinforcement Learning",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sebastian Pusch, Matthia Sabatelli, Gido M. van de Ven"
+        ]
+      },
+      {
+        "canonical_headline": "Perceptual Weight Space Programming for Diffusion Super-Resolution",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Avinash Goutham Aluguvelly"
+        ]
+      },
+      {
+        "canonical_headline": "Meta's Muse Charm might cost $300",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Lucas Ropek"
+        ]
+      },
+      {
+        "canonical_headline": "Israel Innovation Authority Chairman calls for strategic mega-projects in AI, semiconductors and quantum for tech sovereignty",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "NewsBytes"
+        ]
+      },
+      {
+        "canonical_headline": "Digital India BHASHINI Division, NIELIT sign MoU to advance multilingual AI and technology education",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "www.nationpathindia.com"
+        ]
+      },
+      {
+        "canonical_headline": "Samsung Electronics names new heads of memory chip, mobile businesses",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Sanjana Gupta"
+        ]
+      },
+      {
+        "canonical_headline": "Advanced Artificial Intelligence: Emerging Risks And Implications For Humanity - IMPRI Impact and Policy Research Institute",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "IMPRI Impact and Policy Research Institute"
+        ]
+      },
+      {
+        "canonical_headline": "Jefferies' Chris Wood bets bigger on India, cuts Taiwan exposure as AI stocks tumble - Moneycontrol.com",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Business Today"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
