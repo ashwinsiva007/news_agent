@@ -1,0 +1,313 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-21",
+  "generated_at_ist": "21 Nov 2026, 02:01 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 50,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "Google gives IIT Kharagpur USD",
+      "raw_headline": "Google gives IIT Kharagpur USD 5 million for AI research and talent development - Careers360",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZjNXdXd2a2F1Y3hkWXV0MUJoYmpaT0hXM2pnSUdCRm1rT0tJb2R0TUNCWUxRbzVtMXVoRWx0N20xeVVXcXFaTDZINUk3SmdYZ09iMDdKeGoyWms2SFlTMHo1SERQU2xXLWI4ZHhJZklkTUgtZk1sWEZkZWVFSnpZNXNxZlB2VWE2Sl81RnAxWUladG1yMHBXd2VWRGJMT3hnZ09TRl96Ull4S0RNWEp2QnpKUkp4LUVHU3kxa1VGS0JxQUx1alhZbVNzR0hEQmhlQURwMFdnOElodlNzUk5FMU5YNER5dmVLT1NueVZwaWVDTHBVQXFvNlhn0gH_AUFVX3lxTE9ITkl6R3BnZ2IwUXhYcWJKWEVsWVFXcTlmWTJuakZucHNDZWpTQVJTclV2YjdiMHYtSXQxajlsd1ZLRENBcjFCaEFady1tWUtFbjFaMW9GeFFfTE5IQV9HbTFrS1dLU0dzZEpBSTNWY2lZMzNtZzFwc1hmT3paUGNnUnl1NU5naHRHNHZNeE5TMzZVb2lLc1VfbUpCZHMyXy0wM0FKSlVwZHQwdW5wQlY5eldfNlFTc25XcjJ1SVJ2NjdBQ0d0SWlyTDM3dDdmTWlMeDdIamlsOWpDTDZ2RmQ4aEtuRDZMUTFzVDlhWTl1RFE4Y1VuOWJhTF9iaURvRQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Careers360",
+      "published_utc": "2026-11-21T07:34:25+00:00",
+      "published_ist": "21 Nov 2026, 01:04 PM IST",
+      "published_timestamp": 1795246465.0,
+      "description": "Google gives IIT Kharagpur USD 5 million for AI research and talent development Careers360",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR1FaWlBzTEk0Q3NiTW44VTNabG9GaWdZNW5zVHlqWGRuNkJqYVFfS3VodjdYenA3YnhSZjFoQmxZbl9Ea1J2ZGtET1NaRXJtdXdGVVFOaFBJNnlqdkg3cElGLUQ5ckZzN3RxTEVVYkRRbksyckpSWmh5SF80N0RkYWFyanNlYWFvWG40MXN0azIyM0VrMjZWb1BOUEZvbk1tTWV2clFFeTdYM3piYnBKQnh1ZW5FTXVCWXNxSExiS1FqTmh5RkxvNW9SMHdDdm4zb2dXRF9fLVZMUzRNTmpaMnVJNk82QXN1aDN5NWdDU3FBRElnd080SEgwX0xzd3JZ0gGGAkFVX3lxTE84REVYRHpSNG5ndzZPLVRyM1N2TVdjMjBwc0NHNXk1UThfMVFsQXJXZXYzMHA2bTRmVS1qcFhJWHlWclFfd2VlQmUwQ01vNDh1SXJEVjIyajQ0NllCSmxFZDR4VlFld1N6UmVNeFJmLThJSlp3NXZobEs0QVpYcU5vNGxMWkkyTHJaZk5ZT2xHSjU5NWMyOVhVTFBEclhVMWpQLWxDUGJmbUEwR3A4bjN2N0dIN3NVeTJub2pIX3hWQVJBQnEtdFhxdEtULVM3cFp0SFlTalA1NDdrLXVpMlhpRDV5NlFKUjVGVk1pS0haT2haRl84bzU3NWZ4akxZU2ZZWjN6NlE?oc=5",
+          "headline": "Google to invest $5 million in IIT Kharagpur to support Artificial Intelligence research",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Education Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWhoMGpZWTlEQlFtZC1xb3hVQ25oZDlfbjlMLWFxVk1mZkswZFB4UmxYQlRxX3EwVnU3U2dBSlRyOEVSc0NFckdka1JpakJaYVRUNVpVWFZNNWhnN3hZYUY3bmF6UlA5SHBldVRYUV9uQ25EdzA0RkFITVd5S3Y5RmVBUFBQMkxpd3ZZUUc5WFE1RU9jaUxBdDRQMTZobDh2LVNhc3hLU1ZlZW4wMVRoOUJ1dTlETVRXSTlNVU15cmx4YmxOekpwdHNEZmE?oc=5",
+          "headline": "Google commits $5 million USD to IIT Kharagpur for advanced AI research - Education Times",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8885,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.81,
+        "recency": 0.973,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "iit",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.89 | India Rel: 0.81 (iit, india) | Cred: 1.0 | Recency: 0.973",
+      "rank": 1,
+      "explanation": "Google gives IIT Kharagpur USD.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Microsoft has partnered with Samhita-Collective",
+      "raw_headline": "Microsoft has partnered with Samhita-Collective Good Foundation (Samhita-CGF), alongside NITI Aayog's Atal Innovation Mission, to help 3,000 Indian micro, small and medium enterprises (MSMEs) across Andhra Pradesh, Delhi-NCR, Karnataka and Mahara - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zZUNrcDdMUXgybXdqSzJOa2tvU2d4ZzJQbDd6YXNOTUxScWRIY0ZWVE1iLVA1VEdsOXZiTnZsbUhvMkJEQ1NCcm50dmZpUkdMY3c?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Instagram",
+      "published_utc": "2026-11-21T07:23:30+00:00",
+      "published_ist": "21 Nov 2026, 12:53 PM IST",
+      "published_timestamp": 1795245810.0,
+      "description": "Microsoft has partnered with Samhita-Collective Good Foundation (Samhita-CGF), alongside NITI Aayog's Atal Innovation Mission, to help 3,000 Indian micro, small and medium enterprises (MSMEs) across Andhra Pradesh, Delhi-NCR, Karnataka and Mahara Instagram",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.8302,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.968,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "delhi",
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.99 (delhi, indian, india) | Cred: 0.85 | Recency: 0.968",
+      "rank": 2,
+      "explanation": "Microsoft has partnered with Samhita-Collective.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI. Autonomous. Agile. Atmanirbhar. The",
+      "raw_headline": "AI. Autonomous. Agile. Atmanirbhar. The future of Indian business is being driven by bold ideas, technological innovation and leaders who are transforming vision into enterprise and ambition into impact. On Architects of Viksit Bharat, join Vishal Makar, Orienta - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONndFTFNIYURRQ2VkRlJfV1VJcGlTZzROS3hBZF9veHhwNnowOVB0Qnh0SHhOSlFSQnJJa3VQbENaSkdramZ6WV9fdGxaTHRKZnI1bW90OVZiZjh2LWRuQWlWVDFqUU5Pd19ya2RpM19WZE5HZFQ5c2I2bmwwc21rTjBUQm82VW1pa2M0UGw3UE5WWUxpYTMwbGY5RkQzNFlIZVE1aXJhaE5NbUZHR2RQV3ZnUHlnSm5XQ3h1dVc3b3ZxOWJtTU1YZ3ZXWEVxX25tZlBHdjRVcWQxQ3M?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Facebook",
+      "published_utc": "2026-11-21T02:17:30+00:00",
+      "published_ist": "21 Nov 2026, 07:47 AM IST",
+      "published_timestamp": 1795227450.0,
+      "description": "AI. Autonomous. Agile. Atmanirbhar. The future of Indian business is being driven by bold ideas, technological innovation and leaders who are transforming vision into enterprise and ambition into impact. On Architects of Viksit Bharat, join Vishal Makar, Orienta Facebook",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.8103,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.99,
+        "recency": 0.835,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "bharat",
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.81 | India Rel: 0.99 (bharat, indian, india) | Cred: 0.85 | Recency: 0.835",
+      "rank": 3,
+      "explanation": "AI. Autonomous. Agile. Atmanirbhar. The.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Google gives IIT Kharagpur $5",
+      "raw_headline": "Google gives IIT Kharagpur $5 million for AI research, Sundar Pichai shares emotional message - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONVNqYjI1a1Q4dTBIVDJsWXA1clNEQ0tLZER3bGhZT0V5aXdBQVk0akNreWhhcmtfNThMb0drM2FIYWZoOG85VncyQVZfcEFZZ1Q1RXlNbC1KWmZXOE5YbnZXQ0twV25mVU5HTzVZdTZfNEZKRDZ6REllRWlyOXRYNFdSTWI3QmZUcm5lb3Fwd3V6Zkh3c2F6SmczTm9RNVE3RnZyZ1ctTzhUMHlrNGY2TTJUU3RDaXllRDZjdEVJSDZtMkdXaXA4dldTcUliWEZxYzM4M3FadnIxNUxDNlNwVHdmX1hldFY1Y2440gHwAUFVX3lxTE9yTktEWDh1VjlkaDYyeDRaUmtwMmdUVGRpOUpCbEw3NTF2d0tEVnQ1VXc0cmxXNzRMQWZZc0lNa0ZxUlhlWC03MlYtX0xZOWZGa09TXzA4ZE80LUJ4dXN5d0dFQnkyZF85LUR2ZGcwTEpnNDh0by1PbTl2T3FTcDVBXy1WUFl1VTVMbUxFTE1XZU5WUXkxTHFtVzVWRWdHbVhLazdBQ2FVQ09ER2xYZUc0Um00SkpST2lkSnJLYzdFOGZpeXBvODkzeXpWeEdWRjBhWUZTMktOdW1mY2xHcEJSMmMyTTFyNTdYaTlNelJZQw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "India Today",
+      "published_utc": "2026-11-21T06:58:30+00:00",
+      "published_ist": "21 Nov 2026, 12:28 PM IST",
+      "published_timestamp": 1795244310.0,
+      "description": "Google gives IIT Kharagpur $5 million for AI research, Sundar Pichai shares emotional message India Today",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7834,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.956,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "iit",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (iit, india) | Cred: 0.85 | Recency: 0.956",
+      "rank": 4,
+      "explanation": "Google gives IIT Kharagpur $5.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI may slow hiring now,",
+      "raw_headline": "AI may slow hiring now, says Infosys co-founder: Jobs could recover in 3–5 years as new opportunities emerge - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzlFaTdiZXVSaGNXbG5TdTdhSnhkRHJRYjdzX3U2M05Td2s0YkRDYzJKOVAzOVpCUmYxaHJWOVJ0dHhwRFRiMGtKU0NMa3J3WW9sUFlPajBVVFE2WmJ3dlA3UkpIY0w4cHI3SXNpVmxuQ3o4QWNOWEswbDdMWkhFbXR6d0RKZFlrRGR4em8zWmhRd184WVFqMTdKTnRLQkFDdnFkZFlJaEtXcjZhaXhYTmpFc28wWWFUMXhV0gHAAUFVX3lxTFBuRWFMVWdnRVVTZjA4ZlQxbjJnMXU2Q0ZJYkdlLVFjQ1NSaDRkTkQwZlVjY3JfVkpCajNoTVN5bDdVYUktVDl6M2tfRDdnUEhYQVAtV3E1TklMbTFfNmZKbWRlc3RzTnBNNHRZRUk3dkRic3Q3SnZJRWZ0dGEzczRKQWcteGY4Ql9ONDQ1cTM2WHppekp4cEJLV3BDUm1DWVpldk81THNILXY5bVNROGJvWWdyT25qNXhlaGlzT3NkMw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Bhaskar English",
+      "published_utc": "2026-11-21T06:03:55+00:00",
+      "published_ist": "21 Nov 2026, 11:33 AM IST",
+      "published_timestamp": 1795241035.0,
+      "description": "AI may slow hiring now, says Infosys co-founder: Jobs could recover in 3–5 years as new opportunities emerge Bhaskar English",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7797,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.931,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "infosys",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (infosys, india) | Cred: 0.85 | Recency: 0.931",
+      "rank": 5,
+      "explanation": "AI may slow hiring now.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 405,
+    "total_after_lookback": 137,
+    "canonical_events_count": 120,
+    "eligible_events_count": 120,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "WSJ",
+          "The Sunday Guardian",
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "'Grand Theft Auto VI' sets record with $3.79 billion in first-day retail sales, Rockstar Games reports",
+        "source": "Economic Times Tech & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Anthropic researcher says Claude solved maths' greatest riddle",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Gulf News"
+        ]
+      },
+      {
+        "canonical_headline": "India's smartphone sale plunged 22% during festive season",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Google gives IIT Kharagpur USD 5 million for AI research and talent development - Careers360",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "The Economic Times",
+          "Education Times"
+        ]
+      },
+      {
+        "canonical_headline": "India Poised for Major Leap in AI and Semiconductor Manufacturing - Lokmat Times",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Assam Tribune"
+        ]
+      },
+      {
+        "canonical_headline": "AI in ads and content makes brands look careless, say 56% of India respondents: Accenture - The Tribune",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Lokmat Times"
+        ]
+      },
+      {
+        "canonical_headline": "Anthropic mathematician claims AI helped solve a 167-year-old math mystery - IBM",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Moneycontrol.com"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}

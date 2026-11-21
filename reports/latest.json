@@ -2,115 +2,79 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-11-20",
-  "generated_at_ist": "20 Nov 2026, 02:20 PM IST",
+  "report_date": "2026-11-21",
+  "generated_at_ist": "21 Nov 2026, 02:01 PM IST",
   "story_count": 5,
-  "briefing_word_count": 96,
+  "briefing_word_count": 50,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "IISc, BHASHINI release AI text-to-speech models and speech corpus for Sourashtra language - Education Times",
-      "raw_headline": "IISc, BHASHINI release AI text-to-speech models and speech corpus for Sourashtra language - Education Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY3l4bWZ3QWNPU0duVGx6eDBlVFM1bUsybTBvN0huajc4UmV4VDBDd3RZcEgzLXYxenNrekxXWmZIWk5qclFNbHJoRWZubU1nVk82R3BQUkNUN19uWmQyOFlKTE8wQlcwc0VUTmtzajBkSlM2cmRFWmlJNmNGYVVzZHRURUZXRE9uVUNEd0dud2xiNzRpZ1hxWUx1NURDYnpQU0Y2V0tickpFRXg1VWhlam43SWFrSWl4Q1ZHX3V1ektnZG1ZSm1US01Hd1pmWWxqWkhfVjRzcmlJcy1GS0cxY2lwUkk?oc=5",
+      "headline": "Google gives IIT Kharagpur USD",
+      "raw_headline": "Google gives IIT Kharagpur USD 5 million for AI research and talent development - Careers360",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZjNXdXd2a2F1Y3hkWXV0MUJoYmpaT0hXM2pnSUdCRm1rT0tJb2R0TUNCWUxRbzVtMXVoRWx0N20xeVVXcXFaTDZINUk3SmdYZ09iMDdKeGoyWms2SFlTMHo1SERQU2xXLWI4ZHhJZklkTUgtZk1sWEZkZWVFSnpZNXNxZlB2VWE2Sl81RnAxWUladG1yMHBXd2VWRGJMT3hnZ09TRl96Ull4S0RNWEp2QnpKUkp4LUVHU3kxa1VGS0JxQUx1alhZbVNzR0hEQmhlQURwMFdnOElodlNzUk5FMU5YNER5dmVLT1NueVZwaWVDTHBVQXFvNlhn0gH_AUFVX3lxTE9ITkl6R3BnZ2IwUXhYcWJKWEVsWVFXcTlmWTJuakZucHNDZWpTQVJTclV2YjdiMHYtSXQxajlsd1ZLRENBcjFCaEFady1tWUtFbjFaMW9GeFFfTE5IQV9HbTFrS1dLU0dzZEpBSTNWY2lZMzNtZzFwc1hmT3paUGNnUnl1NU5naHRHNHZNeE5TMzZVb2lLc1VfbUpCZHMyXy0wM0FKSlVwZHQwdW5wQlY5eldfNlFTc25XcjJ1SVJ2NjdBQ0d0SWlyTDM3dDdmTWlMeDdIamlsOWpDTDZ2RmQ4aEtuRDZMUTFzVDlhWTl1RFE4Y1VuOWJhTF9iaURvRQ?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "Education Times",
-      "published_utc": "2026-11-20T08:08:00+00:00",
-      "published_ist": "20 Nov 2026, 01:38 PM IST",
-      "published_timestamp": 1795162080.0,
-      "description": "IISc, BHASHINI release AI text-to-speech models and speech corpus for Sourashtra language Education Times",
+      "publisher": "Careers360",
+      "published_utc": "2026-11-21T07:34:25+00:00",
+      "published_ist": "21 Nov 2026, 01:04 PM IST",
+      "published_timestamp": 1795246465.0,
+      "description": "Google gives IIT Kharagpur USD 5 million for AI research and talent development Careers360",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
       "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [],
-      "corroboration_count": 0,
-      "cluster_size": 1,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
-      "scores": {
-        "composite": 0.832,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.99,
-        "recency": 0.98,
-        "trend_momentum": 0.4,
-        "user_preference": 0.5,
-        "technical_significance": 0.55
-      },
-      "matched_india_keywords": [
-        "iisc",
-        "bhashini",
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.83 | India Rel: 0.99 (iisc, bhashini, india) | Cred: 0.85 | Recency: 0.98",
-      "rank": 1,
-      "explanation": "IISc, BHASHINI release AI text-to-speech.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Digital India BHASHINI Division, NIELIT sign MoU to advance multilingual AI and technology education",
-      "raw_headline": "Digital India BHASHINI Division, NIELIT sign MoU to advance multilingual AI and technology education",
-      "url": "https://www.livemint.com/technology/digital-india-bhashini-division-nielit-sign-mou-to-advance-multilingual-ai-and-technology-education-11795091862564.html",
-      "source": "Livemint AI & Technology",
-      "publisher": "Livemint AI & Technology",
-      "published_utc": "2026-11-19T12:37:42+00:00",
-      "published_ist": "19 Nov 2026, 06:07 PM IST",
-      "published_timestamp": 1795091862.0,
-      "description": "The Digital India BHASHINI Division (DIBD) under the Ministry of Electronics and Information Technology (MeitY) and the National Institute of Electronics and Information Technology (NIELIT) have signed an MoU to promote multilingual AI applications, technology education, research and skill development, according to the Ministry of Electronics and IT.",
-      "tier": "tier_2_reputable",
-      "category": "India Tech & Economy",
-      "is_india_focused": true,
-      "raw_feed_url": "https://www.livemint.com/rss/technology",
       "corroborating_sources": [
         {
           "source": "Google News: India Artificial Intelligence",
-          "publisher": "www.nationpathindia.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY050Y0VCR2txMDJXeUVrYml0cG1mM2tEdEVmUC1lUEF0UFkwUFAwcGJadWg0RmRDN2I5UjhMcWM5WVNObnJBTVpfdWdQNjJpdkNVdFJ1cjlBemhvRUNtOXQtSVQ1MTZkRmR5Q0hLSmluWXFWSm12TjNGVWVWVW9PbEZtSEhWZ1JRVHZDWVRYcnJiaHktaWNIaUFsMHJTbWtNN1VjUVV2dldLZw?oc=5",
-          "headline": "BHASHINI and NIELIT Join Hands to Expand Multilingual AI and Technology Education in India - www.nationpathindia.com",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR1FaWlBzTEk0Q3NiTW44VTNabG9GaWdZNW5zVHlqWGRuNkJqYVFfS3VodjdYenA3YnhSZjFoQmxZbl9Ea1J2ZGtET1NaRXJtdXdGVVFOaFBJNnlqdkg3cElGLUQ5ckZzN3RxTEVVYkRRbksyckpSWmh5SF80N0RkYWFyanNlYWFvWG40MXN0azIyM0VrMjZWb1BOUEZvbk1tTWV2clFFeTdYM3piYnBKQnh1ZW5FTXVCWXNxSExiS1FqTmh5RkxvNW9SMHdDdm4zb2dXRF9fLVZMUzRNTmpaMnVJNk82QXN1aDN5NWdDU3FBRElnd080SEgwX0xzd3JZ0gGGAkFVX3lxTE84REVYRHpSNG5ndzZPLVRyM1N2TVdjMjBwc0NHNXk1UThfMVFsQXJXZXYzMHA2bTRmVS1qcFhJWHlWclFfd2VlQmUwQ01vNDh1SXJEVjIyajQ0NllCSmxFZDR4VlFld1N6UmVNeFJmLThJSlp3NXZobEs0QVpYcU5vNGxMWkkyTHJaZk5ZT2xHSjU5NWMyOVhVTFBEclhVMWpQLWxDUGJmbUEwR3A4bjN2N0dIN3NVeTJub2pIX3hWQVJBQnEtdFhxdEtULVM3cFp0SFlTalA1NDdrLXVpMlhpRDV5NlFKUjVGVk1pS0haT2haRl84bzU3NWZ4akxZU2ZZWjN6NlE?oc=5",
+          "headline": "Google to invest $5 million in IIT Kharagpur to support Artificial Intelligence research",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Education Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWhoMGpZWTlEQlFtZC1xb3hVQ25oZDlfbjlMLWFxVk1mZkswZFB4UmxYQlRxX3EwVnU3U2dBSlRyOEVSc0NFckdka1JpakJaYVRUNVpVWFZNNWhnN3hZYUY3bmF6UlA5SHBldVRYUV9uQ25EdzA0RkFITVd5S3Y5RmVBUFBQMkxpd3ZZUUc5WFE1RU9jaUxBdDRQMTZobDh2LVNhc3hLU1ZlZW4wMVRoOUJ1dTlETVRXSTlNVU15cmx4YmxOekpwdHNEZmE?oc=5",
+          "headline": "Google commits $5 million USD to IIT Kharagpur for advanced AI research - Education Times",
           "tier": "tier_2_reputable"
         }
       ],
-      "corroboration_count": 1,
-      "cluster_size": 2,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
       "scores": {
-        "composite": 0.7937,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.99,
-        "recency": 0.558,
-        "trend_momentum": 0.65,
+        "composite": 0.8885,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.81,
+        "recency": 0.973,
+        "trend_momentum": 0.85,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "bhashini",
-        "meity",
+        "iit",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.99 (bhashini, meity, india) | Cred: 0.85 | Recency: 0.558",
-      "rank": 2,
-      "explanation": "The Digital India BHASHINI Division.",
+      "ranking_rationale": "Composite: 0.89 | India Rel: 0.81 (iit, india) | Cred: 1.0 | Recency: 0.973",
+      "rank": 1,
+      "explanation": "Google gives IIT Kharagpur USD.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Indian Businesses Embrace AI Tech to Boost Future Demand and Growth - Asianet Newsable",
-      "raw_headline": "Indian Businesses Embrace AI Tech to Boost Future Demand and Growth - Asianet Newsable",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2RtUVZZS2NWbG1XY2NlbzFmd0ZsT3VlMG5NMUw3b2hCQTl5N29aSDEtTWtpMjUyU1JIR19Ubkd1LXRMSEplOTNnT01Kcm8wQ0QxeWdqQVlUSG4zTGpaUnlHazlXWVQyQWxHdEZaYlcwWFpQS3p4UXhjYy0ydHNnNDNxMDVISUFMUGRnYkpNcHBVdWJPYXdYaHh1bFJrQVkzYW5STVEzc0JoUWNoeGNpVGtoT1BLZ2FZS21oNU02ek1YYTlFdVdmU9IBzgFBVV95cUxPWFhselh3TkVzUThUYnluUVNuMG1XWXNjWXZnTk1keGxfWkhpWUpKZDJCSEI2S3U2RHpTME5ZNG1wV084dTk4blVRNzZJLXJKR0hMZkxHZHJHcmNmME9zQkNEM3JGLVdJOGQzY3pZUDNmb2hOdnd5SW9idGJScUFWcmdUaWRUOEhtX2l2OVJ0c1V3a1pScnZNRzVyX0ZJSHhzMmNmMW1oMTduSFZBclZ0YkgxZVBaMElLQXRyeC1mMi1RMFQyWF8xbnVVeXJTdw?oc=5",
+      "headline": "Microsoft has partnered with Samhita-Collective",
+      "raw_headline": "Microsoft has partnered with Samhita-Collective Good Foundation (Samhita-CGF), alongside NITI Aayog's Atal Innovation Mission, to help 3,000 Indian micro, small and medium enterprises (MSMEs) across Andhra Pradesh, Delhi-NCR, Karnataka and Mahara - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zZUNrcDdMUXgybXdqSzJOa2tvU2d4ZzJQbDd6YXNOTUxScWRIY0ZWVE1iLVA1VEdsOXZiTnZsbUhvMkJEQ1NCcm50dmZpUkdMY3c?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "Asianet Newsable",
-      "published_utc": "2026-11-20T08:00:03+00:00",
-      "published_ist": "20 Nov 2026, 01:30 PM IST",
-      "published_timestamp": 1795161603.0,
-      "description": "Indian Businesses Embrace AI Tech to Boost Future Demand and Growth Asianet Newsable",
+      "publisher": "Instagram",
+      "published_utc": "2026-11-21T07:23:30+00:00",
+      "published_ist": "21 Nov 2026, 12:53 PM IST",
+      "published_timestamp": 1795245810.0,
+      "description": "Microsoft has partnered with Samhita-Collective Good Foundation (Samhita-CGF), alongside NITI Aayog's Atal Innovation Mission, to help 3,000 Indian micro, small and medium enterprises (MSMEs) across Andhra Pradesh, Delhi-NCR, Karnataka and Mahara Instagram",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
@@ -124,38 +88,39 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7864,
+        "composite": 0.8302,
         "credibility": 0.85,
         "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.976,
+        "india_relevance": 0.99,
+        "recency": 0.968,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
+        "delhi",
         "indian",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.976",
-      "rank": 3,
-      "explanation": "Indian Businesses Embrace AI Tech.",
+      "ranking_rationale": "Composite: 0.83 | India Rel: 0.99 (delhi, indian, india) | Cred: 0.85 | Recency: 0.968",
+      "rank": 2,
+      "explanation": "Microsoft has partnered with Samhita-Collective.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Indian businesses expect technology investments to drive demand, 93% use AI in trade: HSBC",
-      "raw_headline": "Indian businesses expect technology investments to drive demand, 93% use AI in trade: HSBC",
-      "url": "https://www.livemint.com/technology/indian-businesses-expect-technology-investments-to-drive-demand-93-use-ai-in-trade-hsbc-11795160279022.html",
-      "source": "Livemint AI & Technology",
-      "publisher": "Livemint AI & Technology",
-      "published_utc": "2026-11-20T07:37:58+00:00",
-      "published_ist": "20 Nov 2026, 01:07 PM IST",
-      "published_timestamp": 1795160278.0,
-      "description": "Indian businesses are increasingly turning to technology and artificial intelligence (AI) to support growth, with 81 per cent expecting technology investments to boost demand for their products and services, the highest proportion among 26 markets surveyed, according to findings released by HSBC.",
+      "headline": "AI. Autonomous. Agile. Atmanirbhar. The",
+      "raw_headline": "AI. Autonomous. Agile. Atmanirbhar. The future of Indian business is being driven by bold ideas, technological innovation and leaders who are transforming vision into enterprise and ambition into impact. On Architects of Viksit Bharat, join Vishal Makar, Orienta - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONndFTFNIYURRQ2VkRlJfV1VJcGlTZzROS3hBZF9veHhwNnowOVB0Qnh0SHhOSlFSQnJJa3VQbENaSkdramZ6WV9fdGxaTHRKZnI1bW90OVZiZjh2LWRuQWlWVDFqUU5Pd19ya2RpM19WZE5HZFQ5c2I2bmwwc21rTjBUQm82VW1pa2M0UGw3UE5WWUxpYTMwbGY5RkQzNFlIZVE1aXJhaE5NbUZHR2RQV3ZnUHlnSm5XQ3h1dVc3b3ZxOWJtTU1YZ3ZXWEVxX25tZlBHdjRVcWQxQ3M?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Facebook",
+      "published_utc": "2026-11-21T02:17:30+00:00",
+      "published_ist": "21 Nov 2026, 07:47 AM IST",
+      "published_timestamp": 1795227450.0,
+      "description": "AI. Autonomous. Agile. Atmanirbhar. The future of Indian business is being driven by bold ideas, technological innovation and leaders who are transforming vision into enterprise and ambition into impact. On Architects of Viksit Bharat, join Vishal Makar, Orienta Facebook",
       "tier": "tier_2_reputable",
-      "category": "India Tech & Economy",
+      "category": "India AI Developments",
       "is_india_focused": true,
-      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
       "corroborating_sources": [],
       "corroboration_count": 0,
       "cluster_size": 1,
@@ -163,40 +128,41 @@
       "credibility_score": 0.85,
       "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7849,
+        "composite": 0.8103,
         "credibility": 0.85,
         "evidence_strength": 0.8,
-        "india_relevance": 0.81,
-        "recency": 0.966,
+        "india_relevance": 0.99,
+        "recency": 0.835,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.55
       },
       "matched_india_keywords": [
+        "bharat",
         "indian",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.966",
-      "rank": 4,
-      "explanation": "Indian businesses are increasingly turning.",
+      "ranking_rationale": "Composite: 0.81 | India Rel: 0.99 (bharat, indian, india) | Cred: 0.85 | Recency: 0.835",
+      "rank": 3,
+      "explanation": "AI. Autonomous. Agile. Atmanirbhar. The.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "Spacetech startup SatSure raises $7 million from sovereign space fund",
-      "raw_headline": "Spacetech startup SatSure raises $7 million from sovereign space fund",
-      "url": "https://economictimes.indiatimes.com/tech/startups/spacetech-startup-satsure-raises-7-million-from-sovereign-space-fund/articleshow/136017100.cms",
-      "source": "Economic Times Tech & AI",
-      "publisher": "Economic Times Tech & AI",
-      "published_utc": "2026-11-20T07:01:31+00:00",
-      "published_ist": "20 Nov 2026, 12:31 PM IST",
-      "published_timestamp": 1795158091.0,
-      "description": "Indian space startup SatSure has raised 600 million rupees ($7 million) from a government-backed space technology fund as part of an ongoing 2 billion rupees funding round, the company said on Friday.",
+      "headline": "Google gives IIT Kharagpur $5",
+      "raw_headline": "Google gives IIT Kharagpur $5 million for AI research, Sundar Pichai shares emotional message - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONVNqYjI1a1Q4dTBIVDJsWXA1clNEQ0tLZER3bGhZT0V5aXdBQVk0akNreWhhcmtfNThMb0drM2FIYWZoOG85VncyQVZfcEFZZ1Q1RXlNbC1KWmZXOE5YbnZXQ0twV25mVU5HTzVZdTZfNEZKRDZ6REllRWlyOXRYNFdSTWI3QmZUcm5lb3Fwd3V6Zkh3c2F6SmczTm9RNVE3RnZyZ1ctTzhUMHlrNGY2TTJUU3RDaXllRDZjdEVJSDZtMkdXaXA4dldTcUliWEZxYzM4M3FadnIxNUxDNlNwVHdmX1hldFY1Y2440gHwAUFVX3lxTE9yTktEWDh1VjlkaDYyeDRaUmtwMmdUVGRpOUpCbEw3NTF2d0tEVnQ1VXc0cmxXNzRMQWZZc0lNa0ZxUlhlWC03MlYtX0xZOWZGa09TXzA4ZE80LUJ4dXN5d0dFQnkyZF85LUR2ZGcwTEpnNDh0by1PbTl2T3FTcDVBXy1WUFl1VTVMbUxFTE1XZU5WUXkxTHFtVzVWRWdHbVhLazdBQ2FVQ09ER2xYZUc0Um00SkpST2lkSnJLYzdFOGZpeXBvODkzeXpWeEdWRjBhWUZTMktOdW1mY2xHcEJSMmMyTTFyNTdYaTlNelJZQw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "India Today",
+      "published_utc": "2026-11-21T06:58:30+00:00",
+      "published_ist": "21 Nov 2026, 12:28 PM IST",
+      "published_timestamp": 1795244310.0,
+      "description": "Google gives IIT Kharagpur $5 million for AI research, Sundar Pichai shares emotional message India Today",
       "tier": "tier_2_reputable",
-      "category": "India Tech & Business",
+      "category": "India AI Developments",
       "is_india_focused": true,
-      "raw_feed_url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
       "corroborating_sources": [],
       "corroboration_count": 0,
       "cluster_size": 1,
@@ -204,121 +170,140 @@
       "credibility_score": 0.85,
       "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Economic Times Tech & AI).",
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7824,
+        "composite": 0.7834,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.949,
+        "recency": 0.956,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
-        "indian",
+        "iit",
         "india"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.949",
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (iit, india) | Cred: 0.85 | Recency: 0.956",
+      "rank": 4,
+      "explanation": "Google gives IIT Kharagpur $5.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "AI may slow hiring now,",
+      "raw_headline": "AI may slow hiring now, says Infosys co-founder: Jobs could recover in 3–5 years as new opportunities emerge - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzlFaTdiZXVSaGNXbG5TdTdhSnhkRHJRYjdzX3U2M05Td2s0YkRDYzJKOVAzOVpCUmYxaHJWOVJ0dHhwRFRiMGtKU0NMa3J3WW9sUFlPajBVVFE2WmJ3dlA3UkpIY0w4cHI3SXNpVmxuQ3o4QWNOWEswbDdMWkhFbXR6d0RKZFlrRGR4em8zWmhRd184WVFqMTdKTnRLQkFDdnFkZFlJaEtXcjZhaXhYTmpFc28wWWFUMXhV0gHAAUFVX3lxTFBuRWFMVWdnRVVTZjA4ZlQxbjJnMXU2Q0ZJYkdlLVFjQ1NSaDRkTkQwZlVjY3JfVkpCajNoTVN5bDdVYUktVDl6M2tfRDdnUEhYQVAtV3E1TklMbTFfNmZKbWRlc3RzTnBNNHRZRUk3dkRic3Q3SnZJRWZ0dGEzczRKQWcteGY4Ql9ONDQ1cTM2WHppekp4cEJLV3BDUm1DWVpldk81THNILXY5bVNROGJvWWdyT25qNXhlaGlzT3NkMw?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Bhaskar English",
+      "published_utc": "2026-11-21T06:03:55+00:00",
+      "published_ist": "21 Nov 2026, 11:33 AM IST",
+      "published_timestamp": 1795241035.0,
+      "description": "AI may slow hiring now, says Infosys co-founder: Jobs could recover in 3–5 years as new opportunities emerge Bhaskar English",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7797,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.931,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "infosys",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (infosys, india) | Cred: 0.85 | Recency: 0.931",
       "rank": 5,
-      "explanation": "Indian space startup SatSure has raised 600 million rupees..",
+      "explanation": "AI may slow hiring now.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 926,
-    "total_after_lookback": 712,
-    "canonical_events_count": 620,
-    "eligible_events_count": 620,
+    "total_raw_fetched": 405,
+    "total_after_lookback": 137,
+    "canonical_events_count": 120,
+    "eligible_events_count": 120,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "Beyond Weight Updates: Evolving Agent Harnesses for Domain Specialization",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Xinzhuang Xiong, Yonghao Wang, Shengyao Sun, Chengxi Li, Evangeline Young"
-        ]
-      },
-      {
-        "canonical_headline": "Self-Replicating Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Manuel Prada-Corral, Yahya Emara, Timothy J. O'Donnell, Ryan Cotterell, Tim Vieira",
-          "Patrik Wolf, Thomas Kleine Buening, Andreas Krause, Celestine Mendler-D\\\"unner"
-        ]
-      },
-      {
-        "canonical_headline": "AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Samuel Xiao, Judy Song, Rory Hu, Ziliang Zong"
-        ]
-      },
-      {
-        "canonical_headline": "Policy Improvement-Guided Replay for Continual Reinforcement Learning",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Sebastian Pusch, Matthia Sabatelli, Gido M. van de Ven"
-        ]
-      },
-      {
-        "canonical_headline": "Perceptual Weight Space Programming for Diffusion Super-Resolution",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Avinash Goutham Aluguvelly"
-        ]
-      },
-      {
-        "canonical_headline": "Meta's Muse Charm might cost $300",
+        "canonical_headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
         "source": "The Verge Tech & AI",
-        "duplicates_merged_count": 1,
+        "duplicates_merged_count": 3,
         "corroborating_publishers": [
-          "Lucas Ropek"
+          "WSJ",
+          "The Sunday Guardian",
+          "Livemint AI & Technology"
         ]
       },
       {
-        "canonical_headline": "Israel Innovation Authority Chairman calls for strategic mega-projects in AI, semiconductors and quantum for tech sovereignty",
-        "source": "Livemint AI & Technology",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "NewsBytes"
-        ]
-      },
-      {
-        "canonical_headline": "Digital India BHASHINI Division, NIELIT sign MoU to advance multilingual AI and technology education",
-        "source": "Livemint AI & Technology",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "www.nationpathindia.com"
-        ]
-      },
-      {
-        "canonical_headline": "Samsung Electronics names new heads of memory chip, mobile businesses",
+        "canonical_headline": "'Grand Theft Auto VI' sets record with $3.79 billion in first-day retail sales, Rockstar Games reports",
         "source": "Economic Times Tech & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Sanjana Gupta"
+          "The Hindu - Technology"
         ]
       },
       {
-        "canonical_headline": "Advanced Artificial Intelligence: Emerging Risks And Implications For Humanity - IMPRI Impact and Policy Research Institute",
-        "source": "Google News: India Artificial Intelligence",
+        "canonical_headline": "Anthropic researcher says Claude solved maths' greatest riddle",
+        "source": "The Hindu - Technology",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "IMPRI Impact and Policy Research Institute"
+          "Gulf News"
         ]
       },
       {
-        "canonical_headline": "Jefferies' Chris Wood bets bigger on India, cuts Taiwan exposure as AI stocks tumble - Moneycontrol.com",
+        "canonical_headline": "India's smartphone sale plunged 22% during festive season",
+        "source": "The Hindu - Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Google gives IIT Kharagpur USD 5 million for AI research and talent development - Careers360",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "The Economic Times",
+          "Education Times"
+        ]
+      },
+      {
+        "canonical_headline": "India Poised for Major Leap in AI and Semiconductor Manufacturing - Lokmat Times",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Assam Tribune"
+        ]
+      },
+      {
+        "canonical_headline": "AI in ads and content makes brands look careless, say 56% of India respondents: Accenture - The Tribune",
         "source": "Google News: India Artificial Intelligence",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Business Today"
+          "Lokmat Times"
+        ]
+      },
+      {
+        "canonical_headline": "Anthropic mathematician claims AI helped solve a 167-year-old math mystery - IBM",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Moneycontrol.com"
         ]
       }
     ],
