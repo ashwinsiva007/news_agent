@@ -2,177 +2,64 @@
   "status": "success",
   "project_name": "AI Morning Research Agent",
   "schedule_time": "07:00 AM IST",
-  "report_date": "2026-11-24",
-  "generated_at_ist": "24 Nov 2026, 04:50 PM IST",
+  "report_date": "2026-11-25",
+  "generated_at_ist": "25 Nov 2026, 03:36 PM IST",
   "story_count": 5,
-  "briefing_word_count": 51,
+  "briefing_word_count": 54,
   "word_limit_status": "Passed",
   "lookback_period_hours": 24,
   "stories": [
     {
-      "headline": "From IIT Hyderabad to VIT:",
-      "raw_headline": "From IIT Hyderabad to VIT: How Marvell is building India's chip talent pipeline - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd0tmYTF5ODd3YmxVUk9BaEVsaFlQeG9lQktJMDBMbjVGQjVQWnVnaXdScE1rblVJdE02eVEwd3dEQ2VEQ01SUzhhTVo5Y1VrN1VRM0l1c3pxdng3N0lhOFVhREUzRUdxbFRTaEpEWFdHaWwxMXpXU2hFdkF0QlFOa1IxVDdLd0ZXNHJPS3JnaWlIYURTMHBiQ01Fa201M3Z2VTJjWFd4Y3NsNHc4SkNNaW5xd285OHlqTGNJdXA0LXByN2lJcEpUTm1xOTFSQ0ZaVDN6U0FaNmk4UGhPekpnTnJkZTlCWknSAecBQVVfeXFMTXdLZmExeTg3d2JsVVJPQWhFbGhZUHhvZUJLSTAwTG41RkI1UFp1Z2l3UnBNa25VSXRNNnlRMHd3RENlRENNUlM4YU1aOWNVazdVUTNJdXN6cXZ4NzdJYThVYURFM0VHcWxUU2hKRFhXR2lsMTF6V1NoRXZBdEJRTmtSMVQ3S3dGVzRyT0tyZ2lpSGFEUzBwYkNNRWttNTN2dlUyY1hXeGNzbDR3OEpDTWlucXdvOTh5akxjSXVwNC1wcjdpSXBKVE5tcTkxUkNGWlQzelNBWjZpOFBoT3pKZ05yZGU5QlpJ?oc=5",
-      "source": "Google News: India Semiconductor Chips",
-      "publisher": "India Today",
-      "published_utc": "2026-11-24T02:00:00+00:00",
-      "published_ist": "24 Nov 2026, 07:30 AM IST",
-      "published_timestamp": 1795485600.0,
-      "description": "From IIT Hyderabad to VIT: How Marvell is building India's chip talent pipeline India Today",
-      "tier": "tier_2_reputable",
-      "category": "Semiconductors & Hardware",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [
-        {
-          "source": "Google News: India Semiconductor Chips",
-          "publisher": "FlipItMoney",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmxLT3FCZlZjWGdhUTFyMmdxa3ZMcjJKcURWdDlHQ0dvb2cydnk5WUpGOW1aTWxkQnVScmxqME1hNVlsdUFKZHBtbVo2M1J0RHNjZjRKcm11bWNIRzc0dXgyZVpJTlVkY0wxT1IzUGVZMUljOXh0dnlfM1BfcW84Vks0QVJXWGpmTUhfVnlTTUxaSlNpWTlXRzBuT2t5cEFjNFpjdmZR?oc=5",
-          "headline": "Marvell partners with IIT Hyderabad and VIT to strengthen India's chip talent - FlipItMoney",
-          "tier": "tier_2_reputable"
-        }
-      ],
-      "corroboration_count": 1,
-      "cluster_size": 2,
-      "verification_status": "Reputable Reporting",
-      "credibility_score": 0.85,
-      "evidence_strength_score": 0.8,
-      "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
-      "scores": {
-        "composite": 0.8327,
-        "credibility": 0.85,
-        "evidence_strength": 0.8,
-        "india_relevance": 0.99,
-        "recency": 0.763,
-        "trend_momentum": 0.65,
-        "user_preference": 0.665,
-        "technical_significance": 0.55
-      },
-      "matched_india_keywords": [
-        "hyderabad",
-        "india",
-        "iit"
-      ],
-      "ranking_rationale": "Composite: 0.83 | India Rel: 0.99 (hyderabad, india, iit) | Cred: 0.85 | Recency: 0.763",
-      "rank": 1,
-      "explanation": "From IIT Hyderabad to VIT:.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Nvidia Reinstates Jensen Huang as",
-      "raw_headline": "Nvidia Reinstates Jensen Huang as CEO After US Government Review, Shares Surge - TechloMedia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX3ZKYkoxQ0pwZlRlQXNTNjM1ZjZkckFLbWdJdDBrYlJMMnZzTUdXMkFjcVlSZUpZQjZWczBEQmxmMlQ2ampUcTM5a0c5aDBMQkdNbDBBYlBWWDhXT3VKTHdFajI1NUFhN3pBaE5KekRiWGhOa08waVAzWGg5dFZJd1lQaHY4cnFBeVNKVUw0bU13OW16TjI5VzJnXzZsd1lBZFZCbzRBQWNfczNZaW1FcVZFWTZmdDZlUk9rQdIBvAFBVV95cUxOX3ZKYkoxQ0pwZlRlQXNTNjM1ZjZkckFLbWdJdDBrYlJMMnZzTUdXMkFjcVlSZUpZQjZWczBEQmxmMlQ2ampUcTM5a0c5aDBMQkdNbDBBYlBWWDhXT3VKTHdFajI1NUFhN3pBaE5KekRiWGhOa08waVAzWGg5dFZJd1lQaHY4cnFBeVNKVUw0bU13OW16TjI5VzJnXzZsd1lBZFZCbzRBQWNfczNZaW1FcVZFWTZmdDZlUk9rQQ?oc=5",
-      "source": "Google News: India Semiconductor Chips",
-      "publisher": "TechloMedia",
-      "published_utc": "2026-11-23T15:17:15+00:00",
-      "published_ist": "23 Nov 2026, 08:47 PM IST",
-      "published_timestamp": 1795447035.0,
-      "description": "Nvidia Reinstates Jensen Huang as CEO After US Government Review, Shares Surge TechloMedia",
-      "tier": "tier_2_reputable",
-      "category": "Semiconductors & Hardware",
-      "is_india_focused": true,
-      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [
-        {
-          "source": "The Hindu - Technology",
-          "publisher": "The Hindu - Technology",
-          "url": "https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
-          "headline": "Wall Street roars back as Nvidia reinstates Jensen Huang as CEO",
-          "tier": "tier_2_reputable"
-        },
-        {
-          "source": "The Hindu - Technology",
-          "publisher": "The Hindu - Technology",
-          "url": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
-          "headline": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
-          "tier": "tier_2_reputable"
-        }
-      ],
-      "corroboration_count": 2,
-      "cluster_size": 3,
-      "verification_status": "Corroborated (Multi-Source)",
-      "credibility_score": 1.0,
-      "evidence_strength_score": 0.9,
-      "is_eligible": true,
-      "verification_rationale": "Corroborated across 3 independent news organizations.",
-      "scores": {
-        "composite": 0.7897,
-        "credibility": 1.0,
-        "evidence_strength": 0.9,
-        "india_relevance": 0.63,
-        "recency": 0.56,
-        "trend_momentum": 0.85,
-        "user_preference": 0.665,
-        "technical_significance": 0.4
-      },
-      "matched_india_keywords": [
-        "india"
-      ],
-      "ranking_rationale": "Composite: 0.79 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.56",
-      "rank": 2,
-      "explanation": "Nvidia Reinstates Jensen Huang as.",
-      "summary_method": "Rule-based Extractive"
-    },
-    {
-      "headline": "Jensen Huang returns as Nvidia",
-      "raw_headline": "Jensen Huang returns as Nvidia chief: What happens to interim CEO Colette Kress? - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVhaUXhESDVrSmo2c2h5SjI5S0cwa1dORTAyMHJLaEtobHBVeTZiYlJRd0xYdUpaZHd3dWFaQTQtTndBN1lGM3J4dUItVFNNUk9URDFoNDdhXzhDLXp0d3RtSzUtdVZHUkdnM002d3gwUjZYRFktQnJNT3VTTloxclU1WXpsdHNoTE1uT09ZYnBGUFR6eU5pUVVQUFIyNWVUZ3M2LTVRRDlPMGdWMDN0dDdYZElaSDjSAb4BQVVfeXFMUGtWLUUzRHFBZDE0YWtYLVNIUTBBellmbmZ2aFVGRXZUbzBlekozVUh1ak5lZmZnWkI4ZFBuRlhxZ1h5c3prd0Fxa1lBUklBVHJvYjZHZWZ0Um5ubm5MR1BRRXJ5SV9JWmg2RjlXSVQzYm8zWERSLVhNX2FrLXJxNVJjX09TOWg4eTY0UnZaWWVhQ1FlYmpBc3drT0lQVmI2Q1lsZng3TWF5b1BtR1JSdFhTWXNtWUhhdlNTX1pudw?oc=5",
+      "headline": "Sarvam ties up with code",
+      "raw_headline": "Sarvam ties up with code hosting platform Entire to keep AI reviews in India - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRFVaN1ZtRzFCSVBoM3NIakRZajhkbkt5eFlnaUxVTU5mSkljNk93WXk0RlkyWVo0alY2UE1xQVNNQW1SY2g3eVUwRG5GSHFFOWRmMVZNVkEzbHFLZDEzV0UtVl8xaHVwZldaeHQxSkZnS3MxNnVIUFBaeG5IQmh0QlBFYUhMeDFXa1dpVUpaT3FlUlEycnVCcFM3VGUwaEZDOENxeUt2Z1c4X08wTTZIbURwR1dxazg5NFJHYlV6TThuTnRneWNIWmFOZTdWaERRZGRVVkd3TkpOcWVxUURpZF9BQUFiQQ?oc=5",
       "source": "Google News: India Artificial Intelligence",
-      "publisher": "The Indian Express",
-      "published_utc": "2026-11-24T03:03:33+00:00",
-      "published_ist": "24 Nov 2026, 08:33 AM IST",
-      "published_timestamp": 1795489413.0,
-      "description": "Jensen Huang returns as Nvidia chief: What happens to interim CEO Colette Kress? The Indian Express",
+      "publisher": "Moneycontrol.com",
+      "published_utc": "2026-11-25T04:30:20+00:00",
+      "published_ist": "25 Nov 2026, 10:00 AM IST",
+      "published_timestamp": 1795581020.0,
+      "description": "Sarvam ties up with code hosting platform Entire to keep AI reviews in India Moneycontrol.com",
       "tier": "tier_2_reputable",
       "category": "India AI Developments",
       "is_india_focused": true,
       "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-      "corroborating_sources": [
-        {
-          "source": "The Hindu - Technology",
-          "publisher": "The Hindu - Technology",
-          "url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-reinstated-in-nvidia-other-ceos-who-reclaimed-positions/article71737407.ece",
-          "headline": "Jensen Huang returns as Nvidia CEO: 6 other CEOs who reclaimed their top positions",
-          "tier": "tier_2_reputable"
-        }
-      ],
-      "corroboration_count": 1,
-      "cluster_size": 2,
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
       "verification_status": "Reputable Reporting",
       "credibility_score": 0.85,
       "evidence_strength_score": 0.8,
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
       "scores": {
-        "composite": 0.7831,
+        "composite": 0.7675,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.787,
-        "trend_momentum": 0.65,
+        "recency": 0.85,
+        "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
       },
       "matched_india_keywords": [
         "india",
-        "indian"
+        "sarvam"
       ],
-      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.787",
-      "rank": 3,
-      "explanation": "Jensen Huang returns as Nvidia.",
+      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (india, sarvam) | Cred: 0.85 | Recency: 0.85",
+      "rank": 1,
+      "explanation": "Sarvam ties up with code.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "AI adoption to sustain demand",
-      "raw_headline": "AI adoption to sustain demand for Indian IT services firms; labour-based models face pressure: Report",
-      "url": "https://www.livemint.com/technology/ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report-11795503561451.html",
+      "headline": "AI agents set to reshape",
+      "raw_headline": "AI agents set to reshape Indian workplaces as 93% of leaders plan adoption: KPMG-CII report",
+      "url": "https://www.livemint.com/technology/ai-agents-set-to-reshape-indian-workplaces-as-93-of-leaders-plan-adoption-kpmg-cii-report-11795573803148.html",
       "source": "Livemint AI & Technology",
       "publisher": "Livemint AI & Technology",
-      "published_utc": "2026-11-24T06:59:20+00:00",
-      "published_ist": "24 Nov 2026, 12:29 PM IST",
-      "published_timestamp": 1795503560.0,
-      "description": "India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, even as automation puts pressure on traditional labour-based delivery models, according to a Systematix report.",
+      "published_utc": "2026-11-25T02:30:02+00:00",
+      "published_ist": "25 Nov 2026, 08:00 AM IST",
+      "published_timestamp": 1795573802.0,
+      "description": "Indian businesses are preparing to increasingly deploy artificial intelligence agents across their operations, with 93 per cent of leaders intending to use the technology to expand workforce capabilities and 59 per cent already using AI agents to automate workstreams or business processes, according to a joint report by KPMG in India and the Confederation of Indian Industry (CII).",
       "tier": "tier_2_reputable",
       "category": "India Tech & Economy",
       "is_india_focused": true,
@@ -186,11 +73,11 @@
       "is_eligible": true,
       "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
       "scores": {
-        "composite": 0.7722,
+        "composite": 0.7603,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.81,
-        "recency": 0.881,
+        "recency": 0.802,
         "trend_momentum": 0.4,
         "user_preference": 0.5,
         "technical_significance": 0.4
@@ -199,31 +86,73 @@
         "india",
         "indian"
       ],
-      "ranking_rationale": "Composite: 0.77 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.881",
-      "rank": 4,
-      "explanation": "India's IT services companies could.",
+      "ranking_rationale": "Composite: 0.76 | India Rel: 0.81 (india, indian) | Cred: 0.85 | Recency: 0.802",
+      "rank": 2,
+      "explanation": "Indian businesses are preparing to.",
       "summary_method": "Rule-based Extractive"
     },
     {
-      "headline": "India tops APAC in AI",
-      "raw_headline": "India tops APAC in AI use at work, 96 pc of employees use it regularly: BCG",
-      "url": "https://www.livemint.com/technology/india-tops-apac-in-ai-use-at-work-96-pc-of-employees-use-it-regularly-bcg-11795516863876.html",
-      "source": "Livemint AI & Technology",
-      "publisher": "Livemint AI & Technology",
-      "published_utc": "2026-11-24T10:41:03+00:00",
-      "published_ist": "24 Nov 2026, 04:11 PM IST",
-      "published_timestamp": 1795516863.0,
-      "description": "India tops APAC in AI use at work, 96 pc of employees use it regularly: BCG",
-      "tier": "tier_2_reputable",
-      "category": "India Tech & Economy",
+      "headline": "Aeravti Ventures Launches ₹300 Cr",
+      "raw_headline": "Aeravti Ventures Launches ₹300 Cr Fund II, Marks First Close At Over ₹150 Cr",
+      "url": "https://inc42.com/buzz/aeravti-ventures-launches-%e2%82%b9300-cr-fund-ii-marks-first-close-at-over-%e2%82%b9150-cr",
+      "source": "Inc42 Indian Startups & AI",
+      "publisher": "Anne Florentyna",
+      "published_utc": "2026-11-25T07:00:36+00:00",
+      "published_ist": "25 Nov 2026, 12:30 PM IST",
+      "published_timestamp": 1795590036.0,
+      "description": "Bengaluru-based VC firm Aeravti Ventures has launched its second fund, Aeravti Ventures II, with a target corpus of ₹300 Cr,…",
+      "tier": "tier_3_coverage",
+      "category": "Indian Startups & AI",
       "is_india_focused": true,
-      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "raw_feed_url": "https://inc42.com/feed/",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Industry Coverage",
+      "credibility_score": 0.7,
+      "evidence_strength_score": 0.65,
+      "is_eligible": true,
+      "verification_rationale": "Reported by specialized industry media.",
+      "scores": {
+        "composite": 0.7546,
+        "credibility": 0.7,
+        "evidence_strength": 0.65,
+        "india_relevance": 0.99,
+        "recency": 0.914,
+        "trend_momentum": 0.4,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "indian",
+        "bengaluru"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.99 (india, indian, bengaluru) | Cred: 0.7 | Recency: 0.914",
+      "rank": 3,
+      "explanation": "Bengaluru-based VC firm Aeravti Ventures.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India warns against using tech",
+      "raw_headline": "India warns against using tech for strategic one-upmanship, calls for inclusive AI governance",
+      "url": "https://www.thehindu.com/news/national/india-warns-against-using-tech-for-strategic-one-upmanship-calls-for-inclusive-ai-governance/article71741155.ece",
+      "source": "The Hindu - Technology",
+      "publisher": "The Hindu - Technology",
+      "published_utc": "2026-11-25T06:18:32+00:00",
+      "published_ist": "25 Nov 2026, 11:48 AM IST",
+      "published_timestamp": 1795587512.0,
+      "description": "India’s UN Ambassador asserted that amid the rapid integration of AI into military and intelligence spheres, responsibility for the use of lethal autonomous weapons systems must always rest with humans",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & AI",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
       "corroborating_sources": [
         {
           "source": "Google News: India Artificial Intelligence",
-          "publisher": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTVRWWkwNUpIQVNhQnExRm5XOUhPUWVZUWZoMHRMcmVJOWcyb3lCSk1wV0x4UGhIM0ZRN3hjTlA4Q1ptX09EYWxUeS1XQ2Fzdk9NdEZOVVVvN1l1UDdYVkFTUjlJUWJBTl9ESlZnMWJ6Vjk0SFNXcUItclViaHBoMVR2eEpwR0ZoaFViTEJNMjIyZVRDV1VRTVhYanBMdjVtUjBaaURYM1BjSmkzZWNUZEZnZXVkX0EtWlVSWWdIX19LU04xVF9Eci1vc0JsSGx0aGQ1QkVSUHM2clJKQXNBSml3Um1SNFVGdHJnUnZCTndRaUJR0gHuAUFVX3lxTE42dXJzSnZLYkVvLUZoZDRaUTU5YVUzUC0yMkhvMkx0WEswdHNyWlp0N29OcUxCTEdJVDcxdFAyc2dzaXFXb0w5cE5SRDFUSUlYRGhtR3FJQm5pRV9ZdDdCTFpQbEdYU3NZYUJsdjNrQXdzYzF5NkJYUXBSOTdmT3JRZVdOdllJeFBYZGFXQjdaanhyTkZNSjZ5bGlxS2ZJcW56TUlORzFkYXFoTmVEX0pOcHFld2VvZXJjLW14dERjVFljQkpLVHpObmkzVFo1amtGdXJ0a29waFQxbWI3ZGVEMnQ1RHhLRXZPQTNVNUE?oc=5",
-          "headline": "India tops APAC in AI use at work, 96 % of employees use it regularly: BCG",
+          "publisher": "The 420.in",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZnd3VUNQX3ZUdFppcXdvT0J5U0ZPUkIzZnU2b1JwRjZVSFo3endyaDBVVG5YX2IzN183LV9OV2s3VXQxRjRacHlMajJxTWRoeUxpd0tjblE4ZkJNWlA3VVpxX1h4T1o2LVNPRQ?oc=5",
+          "headline": "India Warns Against Strategic Misuse of Technology, Calls for Inclusive AI Governance at UN - The 420.in",
           "tier": "tier_2_reputable"
         }
       ],
@@ -233,13 +162,61 @@
       "credibility_score": 0.85,
       "evidence_strength_score": 0.8,
       "is_eligible": true,
-      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "verification_rationale": "Published by trusted tech journalism outlet (The Hindu - Technology).",
       "scores": {
-        "composite": 0.767,
+        "composite": 0.7544,
         "credibility": 0.85,
         "evidence_strength": 0.8,
         "india_relevance": 0.63,
-        "recency": 0.98,
+        "recency": 0.896,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.896",
+      "rank": 4,
+      "explanation": "India’s UN Ambassador asserted that amid.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Top 10 Best Customer Support",
+      "raw_headline": "Top 10 Best Customer Support Companies In India In 2027 - Inventiva",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkVOZHNLUGlmSldzbXZLdUhjZzk5YlVLZzVuZ0NtUTM1TWFIcHhPUGZTblBkMXpzRS1KY0FzZzYyTGc1UXZYMDhlTVN4WkM4X2RHWkxYWkZfOVk4TVpsbjFURVNuNExlSjQyendFZjhfZnFkSjZtVFlINTNJcjlKTFpLYkE4aTdkQXNhc3FNWXpQVTR6T1E?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Inventiva",
+      "published_utc": "2026-11-25T05:29:41+00:00",
+      "published_ist": "25 Nov 2026, 10:59 AM IST",
+      "published_timestamp": 1795584581.0,
+      "description": "Top 10 Best Customer Support Companies In India In 2027 Inventiva",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Inventiva",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHE5ZlNXVHFYdk9CZkdNUHhBMVdMYTd6VjNkYUpaSTlKQUExNlFOOU5iaVhJRjJoYVkxLTRuWl9BOEF5bUE4YmEtVmUwcVJiZWZ6blZOS0dTTGJQd1NTR3VPRWk5czZYaHBweEprVEFMR2E3R3VUWTlTQUlQM0ZKdGlyUERFcEZFSEZ6UGpPREs?oc=5",
+          "headline": "Top 10 Best Cybersecurity Startups In India In 2027 - Inventiva",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.7513,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.63,
+        "recency": 0.875,
         "trend_momentum": 0.65,
         "user_preference": 0.5,
         "technical_significance": 0.4
@@ -247,272 +224,98 @@
       "matched_india_keywords": [
         "india"
       ],
-      "ranking_rationale": "Composite: 0.77 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.98",
+      "ranking_rationale": "Composite: 0.75 | India Rel: 0.63 (india) | Cred: 0.85 | Recency: 0.875",
       "rank": 5,
-      "explanation": "India tops APAC in AI.",
+      "explanation": "Top 10 Best Customer Support Companies In.",
       "summary_method": "Rule-based Extractive"
     }
   ],
   "research_metadata": {
-    "total_raw_fetched": 1457,
-    "total_after_lookback": 1227,
-    "canonical_events_count": 1035,
-    "eligible_events_count": 1035,
+    "total_raw_fetched": 974,
+    "total_after_lookback": 755,
+    "canonical_events_count": 648,
+    "eligible_events_count": 648,
     "rejected_events_count": 0,
     "duplicate_groups": [
       {
-        "canonical_headline": "FinEvo: Recursive Self-Improvement for Long-Horizon Financial Modeling",
+        "canonical_headline": "BRAG: Bayesian Retrieval Augmented Generation",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Zhenxuan Fan, Zhuoya Wang, Yuqian Yuan, Wenqiao Zhang, Juncheng Li, Jun Xiao, Siliang Tang, Yueting Zhuang"
+          "Ayush Barik, Fan Lai, Francis Y. Yan"
         ]
       },
       {
-        "canonical_headline": "SMAD: A Semantics-Guided Multi-Agent Framework for Unsupervised Time-Series Anomaly Detection",
+        "canonical_headline": "Contrastive On-Policy Self-Distillation for LLM Unlearning",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Yu Liu, Wenxiao Zhang, Cong Cao, Fangfang Yuan, Hao Peng, Yanbing Liu, Jin B. Hong, Zhiyuan Ma, Bowen Zhou"
+          "Zhiyin Yu, Yuchen Mou, Songtao Huang, Shuaiyu Zhang, Xing Wei, Chunchun Chen, Wei Ye, Xiao Luo, Zhonghai Wu, Xiangchao Yan, Lei Bai, Shiyang Feng, Bo Zhang"
         ]
       },
       {
-        "canonical_headline": "Mitigating Backdoors in Masked Diffusion Language Models",
+        "canonical_headline": "ExpGuard: Guarding Long-Horizon LLM Agents against Corrupted Experience",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yulun Jiang, Maria Brbic, Michael Moor"
+        ]
+      },
+      {
+        "canonical_headline": "Economic World Model",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Jiawen Zhang, Houze Yang, Xu Cao, Yifan Shen, Zhongyi Zhou, Steve Wong, Ismini Lourentzou, Inki Kim, James M. Rehg"
+        ]
+      },
+      {
+        "canonical_headline": "FoveaWAM: Role-Aware 4D World-Action Modeling for Dynamic Manipulation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Hongjia Liu, Dacheng Zhou, Minghao Fu, Chuanjun Guo, Tianze Wang, Qingtao Liu, He Wang, Li Yi"
+        ]
+      },
+      {
+        "canonical_headline": "Do Occupancy World Models Really Follow Actions?",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Zhengshu Zhang, Zhiyuan Li"
+        ]
+      },
+      {
+        "canonical_headline": "M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models",
         "source": "arXiv Computer Science & AI",
         "duplicates_merged_count": 2,
         "corroborating_publishers": [
-          "Preeti, Ankita Kushwaha, Kiran Ravish, Pawan Kumar",
-          "Lize Shao, Michael Cardei, Zichen Xie, Ferdinando Fioretto, Wenxi Wang"
+          "Huaman Sun, Dingcheng Wang, Jason Hartline, Jessica Hullman",
+          "Olivia Macmillan-Scott, Michael Jacobs, Nils Metternich, Mirco Musolesi"
         ]
       },
       {
-        "canonical_headline": "STRIDE: Strategy-to-Tactics Retrieval-Guided Skill Disclosure and Evolution for Agentic Reinforcement Learning",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Arshia Rafieioskouei, Matthew Lucas, Tzu-Han Hsu, Borzoo Bonakdarpour"
-        ]
-      },
-      {
-        "canonical_headline": "OmniDecisionBench: Evaluating and Benchmarking the Multimodal Jev-Style System One Decision Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Jinzhe Li, Qi Wang, Dandan Guo, Li Liu, Yuan Wu, Yi Chang"
-        ]
-      },
-      {
-        "canonical_headline": "Learning from Another Angle: Rotation-Based Test-Time Training for Multimodal Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 3,
-        "corroborating_publishers": [
-          "Yixuan Even Xu, Aleksei Petrenko, Raja Giryes, Jackson Hamburger, Kevin Chen, Fei Fang, J. Zico Kolter, Philipp Kr\\\"ahenb\\\"uhl",
-          "Andrei Marchenko, Viacheslav Bezrukov, Oleg Kashurin, Inessa Fedorova, Dmitry Bocharov, Yuliana Shakhvalieva, Maria Tikhonova, Valerii Ternovskii",
-          "Ting Chen, Geng Li, Guohao Chen, Hanjia Lyu"
-        ]
-      },
-      {
-        "canonical_headline": "CARE-3D: Reinforcement Learning for Evidence Grounded Agentic Reasoning in Situated 3D Scenes",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "ZeLiang Chen, Yunyao Zhang, Xinglang Zhang, Wenbing Li, Junqing Yu, Zikai Song"
-        ]
-      },
-      {
-        "canonical_headline": "Context-Grounded Skill Internalization for Vision-Language Agents",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Le Yang, Haoyang Lyu, Honglei Jin, Wenshuo Chen, Jiawei Liang, Wenqiang Wang, Yutao Yue, Xiaochun Cao"
-        ]
-      },
-      {
-        "canonical_headline": "Learning What to Change: State-Verified Reinforcement Learning for Educational Agents",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Jin Cui, Xinyue Long, Jiepeng Zhou, Boran Zhao, Pengju Ren, Hao Dong"
-        ]
-      },
-      {
-        "canonical_headline": "Automatic Occupational Coding through Retrieval-Augmented Generation",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Mengdan Zhu, Senhao Cheng, Guangji Bai, Yifei Zhang, Liang Zhao"
-        ]
-      },
-      {
-        "canonical_headline": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Chi Yan, Guoyang Zhao, Wentao Yuan, Yixiao Ge, Yanning Zhou, Dan Xu"
-        ]
-      },
-      {
-        "canonical_headline": "Action-Conditioned Transition Irreversibility for Out-of-Distribution Detection in Reinforcement Learning",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "S K Swaminathan, Damiya Gondha, Theyanesh Eswaramoorthy Rajahkrishnan, Aritra Hazra",
-          "S K Swaminathan, Damiya Gondha, Theyanesh Eswaramoorthy Rajahkrishnan, Aritra Hazra"
-        ]
-      },
-      {
-        "canonical_headline": "RES: Accelerating Diffusion Language Models with Rolling Entropy Sampling",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Nikita Y. Parulekar, Anqi Liu"
-        ]
-      },
-      {
-        "canonical_headline": "JEPA-Tuner: From Predictive Fine-Tuning to Asynchronous Execution of Vision-Language-Action Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Yitong Chen, Shiduo Zhang, Jingjing Gong, Xipeng Qiu"
-        ]
-      },
-      {
-        "canonical_headline": "Spatial Ensemble Logic for Biomedical Imaging: Geometric Element Ensembles in Euclidean Space",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Guo-Qiang Zhang"
-        ]
-      },
-      {
-        "canonical_headline": "When 1+1 $\\neq$ 2: Benchmarking Civil-Time Reasoning in Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Michael K. Chen, Xikun Zhang, Yao Li, Dacheng Tao"
-        ]
-      },
-      {
-        "canonical_headline": "Spiking World-Action Models for Robotic Manipulation",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Jiawei Guo, Yu Huang, Dijiang Dong, Yue Liu, Peiran Ren, Wei Shen"
-        ]
-      },
-      {
-        "canonical_headline": "PCC: Pivotal Channel Compensation for Layer Pruning of Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Maohao Ran, Yanting Zhang, Chendong Ma, Jun Song"
-        ]
-      },
-      {
-        "canonical_headline": "HEART: Hierarchical Expert Adaptive Refinement Transformer for ECG Representation Learning",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Xianglong Shi, Nicu Sebe, Bernhard Sch\\\"olkopf, Ziheng Chen"
-        ]
-      },
-      {
-        "canonical_headline": "Test-Time Latent Computation to Improve Visual Perception in Multimodal Large Language Models",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Boyi Li, Yifan Shen, Yuanzhe Liu, Yifan Xu, Jiateng Liu, Xinzhuo Li, Zhengyuan Li, Jingyuan Zhu, Yunhan Zhong, Fangzhou Lan, Jianguo Cao, James M. Rehg, Heng Ji, Ismini Lourentzou, Xu Cao"
-        ]
-      },
-      {
-        "canonical_headline": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Chaitanya Pallerla, Dongyi Wang"
-        ]
-      },
-      {
-        "canonical_headline": "DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Yujie Pang, Zudong Li, Leran Chen, Yongsheng Ma"
-        ]
-      },
-      {
-        "canonical_headline": "Fine-Tuning Large Language Models for Relation Extraction within a Retrieval-Augmented Generation Framework",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "Rajat Keshri, Arun George Zachariah, Michael Boone"
-        ]
-      },
-      {
-        "canonical_headline": "HyperCLOVA X 8B Omni",
-        "source": "arXiv Computer Science & AI",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "NAVER Cloud HyperCLOVA X Team"
-        ]
-      },
-      {
-        "canonical_headline": "Attacker Diversity Reduction in Adaptive LLM Red Teaming",
+        "canonical_headline": "PazaBench: Large-Scale ASR Benchmark for Low-Resource Languages in Africa",
         "source": "arXiv Computation and Language",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Chris Tava"
+          "Peng Kuang, Yuchun Fan, Jiangnan Li, Minghao Wu, Jialong Tang, Hao-Ran Wei, Weixuan Wang, Jianhong Tu, Baosong Yang, Tong Xiao"
         ]
       },
       {
-        "canonical_headline": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "source": "TechCrunch AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Economic Times Tech & AI",
-          "Kileuna Haralu"
-        ]
-      },
-      {
-        "canonical_headline": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-        "source": "TechCrunch AI",
+        "canonical_headline": "The Verge's 2026 holiday gift guide for moms",
+        "source": "The Verge Tech & AI",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "The Hindu - Technology"
+          "Ryan Waniata"
         ]
       },
       {
-        "canonical_headline": "Nvidia reverses course and brings Jensen Huang back as CEO",
-        "source": "TechCrunch AI",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "Richard Lawler",
-          "Anne Florentyna"
-        ]
-      },
-      {
-        "canonical_headline": "Nvidia Reinstates Jensen Huang as CEO After US Government Review, Shares Surge - TechloMedia",
-        "source": "Google News: India Semiconductor Chips",
-        "duplicates_merged_count": 2,
-        "corroborating_publishers": [
-          "The Hindu - Technology",
-          "The Hindu - Technology"
-        ]
-      },
-      {
-        "canonical_headline": "Jensen Huang returns as Nvidia chief: What happens to interim CEO Colette Kress? - The Indian Express",
-        "source": "Google News: India Artificial Intelligence",
-        "duplicates_merged_count": 1,
-        "corroborating_publishers": [
-          "The Hindu - Technology"
-        ]
-      },
-      {
-        "canonical_headline": "Google denies rumours of large-scale layoffs in India",
+        "canonical_headline": "India warns against using tech for strategic one-upmanship, calls for inclusive AI governance",
         "source": "The Hindu - Technology",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Md Zakariya Khan"
+          "The 420.in"
         ]
       },
       {
@@ -520,31 +323,32 @@
         "source": "Livemint AI & Technology",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "The Economic Times"
+          "Business Standard"
         ]
       },
       {
-        "canonical_headline": "Questions linger after Jensen Huang's return to Nvidia",
-        "source": "Economic Times Tech & AI",
+        "canonical_headline": "Top 10 Best Customer Support Companies In India In 2027 - Inventiva",
+        "source": "Google News: India Artificial Intelligence",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "Economic Times Tech & AI"
+          "Inventiva"
         ]
       },
       {
-        "canonical_headline": "How Nvidia's billion-dollar turnaround in China is threatened by Huang's exit",
-        "source": "Economic Times Tech & AI",
-        "duplicates_merged_count": 1,
+        "canonical_headline": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
+        "source": "Google News: AI Breakthroughs & Models",
+        "duplicates_merged_count": 2,
         "corroborating_publishers": [
-          "electronics.economictimes.indiatimes.com"
+          "Digg",
+          "SammyGuru"
         ]
       },
       {
-        "canonical_headline": "From IIT Hyderabad to VIT: How Marvell is building India's chip talent pipeline - India Today",
-        "source": "Google News: India Semiconductor Chips",
+        "canonical_headline": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release - SiliconANGLE",
+        "source": "Google News: AI Breakthroughs & Models",
         "duplicates_merged_count": 1,
         "corroborating_publishers": [
-          "FlipItMoney"
+          "TechGig"
         ]
       }
     ],
