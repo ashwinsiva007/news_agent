@@ -1,0 +1,361 @@
+{
+  "status": "success",
+  "project_name": "AI Morning Research Agent",
+  "schedule_time": "07:00 AM IST",
+  "report_date": "2026-11-26",
+  "generated_at_ist": "26 Nov 2026, 03:18 PM IST",
+  "story_count": 5,
+  "briefing_word_count": 56,
+  "word_limit_status": "Passed",
+  "lookback_period_hours": 24,
+  "stories": [
+    {
+      "headline": "India Launches Powerful Chariot-1 AI",
+      "raw_headline": "India Launches Powerful Chariot-1 AI Models Under IndiaAI Mission: Here’s What’s New - Indian Masterminds",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHNMbzFVSDY1RHFmTTEyLWdIZ1RtN1pEYXlveF9BbmZDMVVVWG5CaEQ0QTdyak0yN1BuNktKc2JBTEp3SVdpVmVnR2ZabXYwM2Uxak5TN1RzSWhaU0s5NDFkV3FHOG85cVA0VWRPREgweUFIQXk1RlVVMlRtalBfQkY4N3BlVHRHNUFOdTlOeVoxSGdNdGZDNQ?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "Indian Masterminds",
+      "published_utc": "2026-11-26T06:46:20+00:00",
+      "published_ist": "26 Nov 2026, 12:16 PM IST",
+      "published_timestamp": 1795675580.0,
+      "description": "India Launches Powerful Chariot-1 AI Models Under IndiaAI Mission: Here’s What’s New Indian Masterminds",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "Telangana Today",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDhRc1lIeUR4TUFnb2tkRUlCSzA2SFZ0ekxrbmpoTDNWeV9MMk95U0xWZVdmZDBiWnJod0pVU2NrVDRWSDE2ZXREY19jcnd3dFFDRWhYN3ZVbmJVTURScnpPUWRDUGRua04yTjlKcWJOd2NYX2RnVnF0bkZ5WWV2aWV2ZVBIX0ppUHc?oc=5",
+          "headline": "Govt launches indigenous Chariot-1 AI models under IndiaAI Mission - Telangana Today",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Artificial Intelligence).",
+      "scores": {
+        "composite": 0.8499,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 1.0,
+        "recency": 0.916,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "ai mission",
+        "indian",
+        "india",
+        "indiaai"
+      ],
+      "ranking_rationale": "Composite: 0.85 | India Rel: 1.0 (ai mission, indian, india, indiaai) | Cred: 0.85 | Recency: 0.916",
+      "rank": 1,
+      "explanation": "India Launches Powerful Chariot-1 AI.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "India launches indigenous Chariot-1 Foundation",
+      "raw_headline": "India launches indigenous Chariot-1 Foundation Models to strengthen sovereign AI capabilities - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcW13UDd1YmxYZ2dwbU1TSi1Mdl9sdDBkZ0pxREhrTEk0SjR6OVBjaUlXTnAwdW5wblFZUWJBeGdyaE1pT0E4TS1IdGJEM2gxUzNOTFpPUmtiOUFEeUZYLUpudzBXWjRWS2s1TFQtV3JOTjZoZzZibzBFb2xadEU5aVY0N3BuOXc1LVVyVkNjY2l3dXRVUTV6dnZmdWFHZ2o5N0t3Z1F0YWRUOGFacGtaeEtScW8zbUlDQXVBNml1V0xfcU5FSWw5SUY5MmszUlVxaWRRR3cxbTlSemZ1?oc=5",
+      "source": "Google News: India Artificial Intelligence",
+      "publisher": "ANI News",
+      "published_utc": "2026-11-26T08:05:00+00:00",
+      "published_ist": "26 Nov 2026, 01:35 PM IST",
+      "published_timestamp": 1795680300.0,
+      "description": "India launches indigenous Chariot-1 Foundation Models to strengthen sovereign AI capabilities ANI News",
+      "tier": "tier_2_reputable",
+      "category": "India AI Developments",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Artificial+Intelligence+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "CXOToday.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSHd3aTlQbDA5TmhVWjNac21CWnA4bS1KQkFLM2UzZ3dtR0NMSGJkZ3EtWjNHMk5EakRFN0R5ZmQxbEhaVEdjQVVxcG5NSTd6eTNteS1YbjJST0hnNEV0MUZ0ajBaZnRFRGpYbHJyNG1sZXZYRjNlWHRacC1iS25iaUJOV3NkM1FzNllpU3JDTjNEbmtzemlTQkJtVjZ1eUtubjNGekFlVVpnWTVCLTFIWEQ0YXMwcnVUT3F6Rmpvc255b3FESm5zQWl3V3pIc3lfM1g2QndMS0hhQmp5TzVUYml3?oc=5",
+          "headline": "India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities - CXOToday.com",
+          "tier": "tier_2_reputable"
+        },
+        {
+          "source": "Google News: India Artificial Intelligence",
+          "publisher": "DD India",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3E2TVFpbmptV1h5S284VXN6VHFpdnBRaEdDemItREg3cjE4TU9yd1FEdXUxR3A1MnZCbUFjY2JkT1pnamZjUGpyMjh4aHg2dGRqRE9ZcnlBR2VTUWRiODJnWWVfMkY0ak1OS1h3S3V5djBDaXlsbHhyRm9CRm53ejg2RGFsRTlteTlYcDBfQV9lY3UzU0NaXzNHRjBqajlLXzh1Q1JvSVBwRVQ2Mzk0ZWtQcGRXSUJ2T3dUX0dSQ0V0OFFNX1BUVw?oc=5",
+          "headline": "IndiaAI Mission-supported Chariot-1 Foundation Models Launched to Boost Indigenous AI Capabilities - DD India",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 2,
+      "cluster_size": 3,
+      "verification_status": "Corroborated (Multi-Source)",
+      "credibility_score": 1.0,
+      "evidence_strength_score": 0.9,
+      "is_eligible": true,
+      "verification_rationale": "Corroborated across 3 independent news organizations.",
+      "scores": {
+        "composite": 0.8402,
+        "credibility": 1.0,
+        "evidence_strength": 0.9,
+        "india_relevance": 0.63,
+        "recency": 0.951,
+        "trend_momentum": 0.85,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.84 | India Rel: 0.63 (india) | Cred: 1.0 | Recency: 0.951",
+      "rank": 2,
+      "explanation": "India launches indigenous Chariot-1 Foundation.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "Apple to open seventh India",
+      "raw_headline": "Apple to open seventh India store in Hyderabad on December 10: What customers can expect",
+      "url": "https://www.livemint.com/technology/tech-news/apple-to-launch-its-seventh-india-store-in-hyderabad-on-december-10-heres-what-customers-can-expect-11795668402529.html",
+      "source": "Livemint AI & Technology",
+      "publisher": "Livemint AI & Technology",
+      "published_utc": "2026-11-26T04:50:22+00:00",
+      "published_ist": "26 Nov 2026, 10:20 AM IST",
+      "published_timestamp": 1795668622.0,
+      "description": "Apple will open its first Hyderabad retail store, Apple Kukatpally, on December 10 at Lake Shore-Y Junction Mall, taking its India store count to seven. Customers will get access to Apple's latest products, expert support and free Today at Apple creative sessions.",
+      "tier": "tier_2_reputable",
+      "category": "India Tech & Economy",
+      "is_india_focused": true,
+      "raw_feed_url": "https://www.livemint.com/rss/technology",
+      "corroborating_sources": [
+        {
+          "source": "The Hindu - Technology",
+          "publisher": "The Hindu - Technology",
+          "url": "https://www.thehindu.com/sci-tech/technology/apple-to-open-first-store-in-hyderabad-on-december-10/article71745814.ece",
+          "headline": "Apple to open first store in Hyderabad on December 10",
+          "tier": "tier_2_reputable"
+        }
+      ],
+      "corroboration_count": 1,
+      "cluster_size": 2,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Livemint AI & Technology).",
+      "scores": {
+        "composite": 0.7949,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.866,
+        "trend_momentum": 0.65,
+        "user_preference": 0.5,
+        "technical_significance": 0.4
+      },
+      "matched_india_keywords": [
+        "india",
+        "hyderabad"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (india, hyderabad) | Cred: 0.85 | Recency: 0.866",
+      "rank": 3,
+      "explanation": "Apple will open its first.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "US AI Chip Export Rules",
+      "raw_headline": "US AI Chip Export Rules Spare India, MeitY Says - CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHQxa1BZZmFSYm1LVWJvZlhxblFiRXVVendfMDRHVmRjT2k4UzM5Mjh0M2IzQXNYS3F1YkJXLVFMbGl6TnJsSGktQlVrOXhGS1Y1clRORE9hYWlVLV9EdEhXaGlJay1TTGZpMjdPLVFrOWtBU3FHQzlsTko0OUw1OWVWcGtQSE1MSWRqVk5nOFNMVzYyTEFhcw?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "CASRAI",
+      "published_utc": "2026-11-26T07:07:49+00:00",
+      "published_ist": "26 Nov 2026, 12:37 PM IST",
+      "published_timestamp": 1795676869.0,
+      "description": "US AI Chip Export Rules Spare India, MeitY Says CASRAI",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.787,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.925,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "meity",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.79 | India Rel: 0.81 (meity, india) | Cred: 0.85 | Recency: 0.925",
+      "rank": 4,
+      "explanation": "US AI Chip Export Rules Spare India, MeitY.",
+      "summary_method": "Rule-based Extractive"
+    },
+    {
+      "headline": "How China accessed Nvidia's AI",
+      "raw_headline": "How China accessed Nvidia’s AI chips despite US restrictions - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmcwN3VFU3Z0cTlrUFI4blE4LVo1R0tVRmxLal91YnBuclEyUDI1c0ZxS3ZCRno2dy1fRWxSNGVCY0JKZkNuUUc2N2J2WlU2TkJoQjkwbHFiMDhuZEw4TDI1R09BMS1BZzlqWk9PN1RKNlU0VWFHQ2VjRS02andBUF9OajB5VkRlYlpJelZYS3cxdW9UQi04cDc4c1JZLVBFZ1VXLVF2QWV6a1M4VWQxZFY2d2NuNUxHdXfSAcABQVVfeXFMTkR1U0RpWWpVU0tGWkkwbGU1NzBzaC14aXJnNFN3VTNLeHZJMF9aaU5NWHhxdERVUnZGZmRhOUQwZ0JlMzVQYURoM0pqUVowdndIZERuQzh6QlJmTGxfVHZLQkhicFRHaWVmMDBhb1dmYndpUlRSNDFHSXF4QkJJaWJZMU1qa0YyaU9jMVNFY3BfUnA3YTkzVVRSSmY3WXA5S3VvVUVCN1JJNXdRejV2dDRnMWE5dktQY1RXSlNrWTJK?oc=5",
+      "source": "Google News: India Semiconductor Chips",
+      "publisher": "The Indian Express",
+      "published_utc": "2026-11-26T05:45:41+00:00",
+      "published_ist": "26 Nov 2026, 11:15 AM IST",
+      "published_timestamp": 1795671941.0,
+      "description": "How China accessed Nvidia’s AI chips despite US restrictions The Indian Express",
+      "tier": "tier_2_reputable",
+      "category": "Semiconductors & Hardware",
+      "is_india_focused": true,
+      "raw_feed_url": "https://news.google.com/rss/search?q=India+Semiconductor+AI+Chip+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "corroborating_sources": [],
+      "corroboration_count": 0,
+      "cluster_size": 1,
+      "verification_status": "Reputable Reporting",
+      "credibility_score": 0.85,
+      "evidence_strength_score": 0.8,
+      "is_eligible": true,
+      "verification_rationale": "Published by trusted tech journalism outlet (Google News: India Semiconductor Chips).",
+      "scores": {
+        "composite": 0.7816,
+        "credibility": 0.85,
+        "evidence_strength": 0.8,
+        "india_relevance": 0.81,
+        "recency": 0.889,
+        "trend_momentum": 0.4,
+        "user_preference": 0.665,
+        "technical_significance": 0.55
+      },
+      "matched_india_keywords": [
+        "indian",
+        "india"
+      ],
+      "ranking_rationale": "Composite: 0.78 | India Rel: 0.81 (indian, india) | Cred: 0.85 | Recency: 0.889",
+      "rank": 5,
+      "explanation": "How China accessed Nvidia’s AI chips.",
+      "summary_method": "Rule-based Extractive"
+    }
+  ],
+  "research_metadata": {
+    "total_raw_fetched": 921,
+    "total_after_lookback": 706,
+    "canonical_events_count": 614,
+    "eligible_events_count": 614,
+    "rejected_events_count": 0,
+    "duplicate_groups": [
+      {
+        "canonical_headline": "Confidence scores for gated automation of large language models",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 3,
+        "corroborating_publishers": [
+          "Yiming Zhang, Koji Tsuda",
+          "Arushi Gupta, Sheng Liu, James Zou",
+          "Joshua Ashkinaze, Laura Kurek, Alina Faisal, Tongyuan Miao, Mariam Joseph, Ceren Budak, Eric Gilbert"
+        ]
+      },
+      {
+        "canonical_headline": "WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Yuan Zhang, Hao Cui, Jingfei Ni, Meiyi Wang, Xin Nie, Chi Liu, Wenjie Xu, Lin Gao, Hao Li, Xianhe Zhang, Jiajia Wu, Diyuan Liu, Jia Pan, Chao Ji"
+        ]
+      },
+      {
+        "canonical_headline": "EATS: Scaling Tool-Use Experience for Medical Reasoning Agents",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Mingyuan Li, Tong Jia, Ziyuan Yang, Wenbo Qi, Haoran Wang, Jie Gui, Baosheng Yu"
+        ]
+      },
+      {
+        "canonical_headline": "EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Binghang Lu, Lang Cao, Changhong Mou, Yige Sun, Cindy Xiangrui Kong, Zheyuan Deng, Tian Yuan, Bing Hu, Runyu Zhang, Na Lu, Guang Lin"
+        ]
+      },
+      {
+        "canonical_headline": "Neighbor Crowding Predicts Feature Stability in Sparse Autoencoders",
+        "source": "arXiv Computer Science & AI",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Karl Li"
+        ]
+      },
+      {
+        "canonical_headline": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
+        "source": "The Verge Tech & AI",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "Livemint AI & Technology",
+          "Yukta Baid"
+        ]
+      },
+      {
+        "canonical_headline": "Apple to open seventh India store in Hyderabad on December 10: What customers can expect",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "The Hindu - Technology"
+        ]
+      },
+      {
+        "canonical_headline": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+        "source": "Livemint AI & Technology",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Livemint AI & Technology"
+        ]
+      },
+      {
+        "canonical_headline": "Anthropic Brings Claude Duet AI Agent to India",
+        "source": "Analytics India Magazine",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Shrishti Bisht"
+        ]
+      },
+      {
+        "canonical_headline": "India launches indigenous Chariot-1 Foundation Models to strengthen sovereign AI capabilities - ANI News",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 2,
+        "corroborating_publishers": [
+          "CXOToday.com",
+          "DD India"
+        ]
+      },
+      {
+        "canonical_headline": "India Launches Powerful Chariot-1 AI Models Under IndiaAI Mission: Here's What's New - Indian Masterminds",
+        "source": "Google News: India Artificial Intelligence",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Telangana Today"
+        ]
+      },
+      {
+        "canonical_headline": "'No significant impact on India': MeitY secretary on US chip export curbs - The Times of India",
+        "source": "Google News: India Semiconductor Chips",
+        "duplicates_merged_count": 1,
+        "corroborating_publishers": [
+          "Business Today"
+        ]
+      }
+    ],
+    "rejected_stories": [],
+    "feed_errors": []
+  }
+}
